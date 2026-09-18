@@ -33,6 +33,7 @@ Each answer is graded against the curve the maintainer of the
   (0.041 dex) of the reference; abstentions, wrong coupling types and unconvertible declarations
   count as misses.
 - Paper: *AxionLimitBench: can AI curate a dark matter constraint repository?* (ML4PS 2026, submitted).
+- Archived on Zenodo: https://doi.org/10.5281/zenodo.22838233
 
 ## Leaderboard
 
