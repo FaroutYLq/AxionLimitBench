@@ -13,9 +13,7 @@ repo = f"{ns}/AxionLimitBench"
 api = HfApi()
 api.create_repo(repo, repo_type="dataset", exist_ok=True)
 api.upload_file(path_or_fileobj=ROOT / "hf/README.md", path_in_repo="README.md", repo_id=repo, repo_type="dataset")
-for top in ("CITATION.cff", "LICENSE", "requirements.txt"):
-    api.upload_file(path_or_fileobj=ROOT / top, path_in_repo=top, repo_id=repo, repo_type="dataset")
-for d in ("data", "docs", "schema", "scorer", "baselines", "results"):
-    api.upload_large_folder(folder_path=ROOT / d, repo_id=repo, repo_type="dataset", path_in_repo=d,
-                            ignore_patterns=["**/work/**", "**/__pycache__/**", "*.pyc", ".DS_Store"])
+api.upload_large_folder(folder_path=ROOT, repo_id=repo, repo_type="dataset",
+                        ignore_patterns=[".git/**", ".gitignore", "hf/**", "README.md", "**/work/**",
+                                         "**/__pycache__/**", "*.pyc", ".DS_Store", "**/.cache/**"])
 print("uploaded to", f"https://huggingface.co/datasets/{repo}")
