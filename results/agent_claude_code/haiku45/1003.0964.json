@@ -1,0 +1,54 @@
+{
+ "paper_title": "Microwave cavity light shining through a wall optimization and experiment",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.788e-05,
+   2.9e-05
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "Povey_2010",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Single-point measurement at hidden sector photon mass 37.78 \u03bceV (3.788\u00d710^-5 eV). Kinetic mixing limit \u03c7 = 2.9\u00d710^-5 derived from Section III.C experimental results: thermal noise floor and microwave leakage analysis with TE011 cavity mode at 9.588 GHz. Paper validates microwave cavity LSW concept for dark photon searches but does not improve on existing bounds. Confidence_level set to 0.95 as standard for upper limits (not explicitly stated in paper).",
+ "num_points": 1,
+ "arxiv_id": "1003.0964",
+ "elapsed_s": 58.239400148391724,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 4,
+  "duration_ms": 54219,
+  "duration_api_ms": 53743,
+  "total_cost_usd": 0.0980815,
+  "usage": {
+   "input_tokens": 28,
+   "output_tokens": 4694,
+   "cache_creation_input_tokens": 34130,
+   "cache_read_input_tokens": 63235
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1003.0964.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T14:42:25-0500"
+ }
+}

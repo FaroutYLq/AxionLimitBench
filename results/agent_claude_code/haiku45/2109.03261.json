@@ -1,0 +1,118 @@
+{
+ "paper_title": "New constraints on light Axion-Like Particles using Chandra Transmission Grating Spectroscopy of the powerful cluster-hosted quasar H1821+643",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-17,
+   5e-13
+  ],
+  [
+   5e-17,
+   5e-13
+  ],
+  [
+   1e-16,
+   5e-13
+  ],
+  [
+   5e-16,
+   5e-13
+  ],
+  [
+   1e-15,
+   5e-13
+  ],
+  [
+   5e-15,
+   5e-13
+  ],
+  [
+   1e-14,
+   5e-13
+  ],
+  [
+   5e-14,
+   5e-13
+  ],
+  [
+   1e-13,
+   5e-13
+  ],
+  [
+   2e-13,
+   5e-13
+  ],
+  [
+   5e-13,
+   6e-13
+  ],
+  [
+   1e-12,
+   1e-12
+  ],
+  [
+   1.5e-12,
+   2e-12
+  ],
+  [
+   2e-12,
+   4e-12
+  ],
+  [
+   3e-12,
+   6e-12
+  ],
+  [
+   4e-12,
+   8e-12
+  ],
+  [
+   5e-12,
+   1e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.997,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "H1821+643_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "99.7% CL exclusion curve extracted from Figure 5 (page 9) showing the boundary of excluded axion-photon couplings as a function of axion mass. The curve is derived from combined Low- and High-Energy Transmission Grating Chandra observations of H1821+643. The paper states: 'we exclude all ALP-photon couplings g_a\u03b3 > 6.3 \u00d7 10^\u221212 GeV^\u22121 for most light ALPs of masses m_a < 10^\u221212 eV' at 99.7% CL (Section 6). Extraction uses color-based identification of curve pixels in the rendered figure with log-log coordinate calibration. Extraction confidence is moderate due to visual calibration uncertainty.",
+ "num_points": 17,
+ "arxiv_id": "2109.03261",
+ "elapsed_s": 378.391263961792,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 41,
+  "duration_ms": 378064,
+  "duration_api_ms": 367657,
+  "total_cost_usd": 0.4927822,
+  "usage": {
+   "input_tokens": 294,
+   "output_tokens": 32747,
+   "cache_creation_input_tokens": 75947,
+   "cache_read_input_tokens": 1768592
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2109.03261.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:07:46-0500"
+ }
+}

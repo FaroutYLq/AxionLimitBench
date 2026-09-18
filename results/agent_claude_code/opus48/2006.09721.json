@@ -1,0 +1,414 @@
+{
+ "paper_title": "Excess Electronic Recoil Events in XENON1T",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1015.265,
+   2.0157e-14
+  ],
+  [
+   3046.225,
+   6.6273e-14
+  ],
+  [
+   4061.781,
+   7.2067e-14
+  ],
+  [
+   5077.372,
+   4.4988e-14
+  ],
+  [
+   6092.991,
+   4.0047e-14
+  ],
+  [
+   7108.63,
+   4.3355e-14
+  ],
+  [
+   9139.961,
+   2.7689e-14
+  ],
+  [
+   11171.351,
+   5.1829e-14
+  ],
+  [
+   13202.785,
+   6.7321e-14
+  ],
+  [
+   15234.264,
+   9.2295e-14
+  ],
+  [
+   17265.778,
+   5.0683e-14
+  ],
+  [
+   19297.323,
+   5.7743e-14
+  ],
+  [
+   22344.698,
+   6.766e-14
+  ],
+  [
+   24376.3,
+   9.7313e-14
+  ],
+  [
+   26407.92,
+   1.5496e-13
+  ],
+  [
+   28439.58,
+   1.3484e-13
+  ],
+  [
+   29455.414,
+   9.6979e-14
+  ],
+  [
+   30471.237,
+   1.1206e-13
+  ],
+  [
+   32502.924,
+   1.9624e-13
+  ],
+  [
+   34534.629,
+   2.3954e-13
+  ],
+  [
+   35550.481,
+   1.0149e-13
+  ],
+  [
+   36566.364,
+   1.0619e-13
+  ],
+  [
+   38598.079,
+   1.3369e-13
+  ],
+  [
+   40629.835,
+   2.7197e-13
+  ],
+  [
+   41645.711,
+   3.2507e-13
+  ],
+  [
+   42661.602,
+   3.0992e-13
+  ],
+  [
+   44693.372,
+   2.0306e-13
+  ],
+  [
+   46725.154,
+   1.4921e-13
+  ],
+  [
+   50788.73,
+   9.8454e-14
+  ],
+  [
+   52820.538,
+   6.7715e-14
+  ],
+  [
+   53836.457,
+   6.6463e-14
+  ],
+  [
+   54852.375,
+   6.994e-14
+  ],
+  [
+   56884.22,
+   7.5314e-14
+  ],
+  [
+   58916.069,
+   8.0059e-14
+  ],
+  [
+   60947.896,
+   1.1131e-13
+  ],
+  [
+   63995.704,
+   2.2948e-13
+  ],
+  [
+   66027.588,
+   1.5089e-13
+  ],
+  [
+   69075.401,
+   1.0623e-13
+  ],
+  [
+   71107.286,
+   9.6539e-14
+  ],
+  [
+   73139.233,
+   9.7195e-14
+  ],
+  [
+   76187.081,
+   1.6212e-13
+  ],
+  [
+   78218.984,
+   1.7695e-13
+  ],
+  [
+   81266.898,
+   1.8053e-13
+  ],
+  [
+   85330.794,
+   1.9187e-13
+  ],
+  [
+   89394.695,
+   2.0629e-13
+  ],
+  [
+   93458.621,
+   2.4937e-13
+  ],
+  [
+   95490.602,
+   2.5506e-13
+  ],
+  [
+   98538.569,
+   2.3254e-13
+  ],
+  [
+   100570.536,
+   1.8762e-13
+  ],
+  [
+   102602.534,
+   1.7872e-13
+  ],
+  [
+   103618.523,
+   1.6381e-13
+  ],
+  [
+   104634.492,
+   1.6879e-13
+  ],
+  [
+   107682.493,
+   1.5362e-13
+  ],
+  [
+   109714.51,
+   1.5888e-13
+  ],
+  [
+   113778.56,
+   2.6199e-13
+  ],
+  [
+   115810.596,
+   2.8839e-13
+  ],
+  [
+   117842.621,
+   2.8484e-13
+  ],
+  [
+   118858.647,
+   2.4101e-13
+  ],
+  [
+   119874.684,
+   2.4947e-13
+  ],
+  [
+   120890.67,
+   2.2032e-13
+  ],
+  [
+   122922.706,
+   2.2434e-13
+  ],
+  [
+   124954.784,
+   2.8337e-13
+  ],
+  [
+   126986.805,
+   3.047e-13
+  ],
+  [
+   128002.795,
+   3.0472e-13
+  ],
+  [
+   129018.814,
+   2.5668e-13
+  ],
+  [
+   131050.908,
+   1.924e-13
+  ],
+  [
+   132066.924,
+   1.7863e-13
+  ],
+  [
+   133082.949,
+   1.8342e-13
+  ],
+  [
+   134098.961,
+   1.8105e-13
+  ],
+  [
+   137147.117,
+   1.8411e-13
+  ],
+  [
+   142227.224,
+   2.1152e-13
+  ],
+  [
+   147307.443,
+   1.967e-13
+  ],
+  [
+   152387.717,
+   2.1308e-13
+  ],
+  [
+   159500.1,
+   2.8538e-13
+  ],
+  [
+   164580.375,
+   9.0747e-13
+  ],
+  [
+   166612.482,
+   9.6153e-13
+  ],
+  [
+   168644.568,
+   9.277e-13
+  ],
+  [
+   170676.77,
+   8.0646e-13
+  ],
+  [
+   174740.945,
+   3.3971e-13
+  ],
+  [
+   176773.051,
+   2.8374e-13
+  ],
+  [
+   179821.302,
+   2.6524e-13
+  ],
+  [
+   181853.413,
+   2.8272e-13
+  ],
+  [
+   182869.521,
+   2.4472e-13
+  ],
+  [
+   183885.67,
+   3.1171e-13
+  ],
+  [
+   189982.119,
+   5.3753e-13
+  ],
+  [
+   195062.45,
+   7.2438e-13
+  ],
+  [
+   199126.839,
+   7.9391e-13
+  ],
+  [
+   201158.966,
+   8.0006e-13
+  ],
+  [
+   204207.275,
+   7.9407e-13
+  ],
+  [
+   207255.482,
+   7.8956e-13
+  ],
+  [
+   208271.494,
+   7.968e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "XENON1T_2020",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Pseudoscalar (ALP) bosonic dark matter absorption limit via the axioelectric effect, digitised from the black observed XENON1T (this work) curve in Fig. 10 (top), g_ae vs m_a. Extracted as vector paths from Plot/alp_limit.pdf in the arXiv e-print (path item 180, width 1.75 black stroke), calibrated on the log-log axis tick labels (x: m_a in keV/c^2, converted to eV by x1000; y: g_ae). 90% C.L. Local sensitivity-loss spikes near 41.5 keV and 164 keV (83mKr and 131mXe backgrounds) are retained. Dark-matter density assumption rho~0.3 GeV/cm^3 (Sec. II C, Eq. 12); reported at the paper native density without rescaling. The paper also reports a vector (dark photon) kinetic-mixing chi limit (Fig. 10 bottom) and solar-axion 3D confidence surface; the ALP g_ae DM limit is chosen as the axion-electron main result. Note the paper observes a low-energy excess but sets these upper limits since no >3 sigma global significance for a peak.",
+ "num_points": 91,
+ "arxiv_id": "2006.09721",
+ "elapsed_s": 232.46090698242188,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 232138,
+  "duration_api_ms": 228819,
+  "total_cost_usd": 1.2312175,
+  "usage": {
+   "input_tokens": 518,
+   "output_tokens": 13617,
+   "cache_creation_input_tokens": 52448,
+   "cache_read_input_tokens": 727445
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2006.09721.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:54:08-0500"
+ }
+}

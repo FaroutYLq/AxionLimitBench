@@ -1,0 +1,274 @@
+{
+ "paper_title": "Extended Axion Dark Matter Search Using the CAPP18T Haloscope",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   19.88304,
+   1.039194e-15
+  ],
+  [
+   19.88382,
+   2.166235e-15
+  ],
+  [
+   19.88459,
+   2.5e-15
+  ],
+  [
+   19.88536,
+   2.5e-15
+  ],
+  [
+   19.88613,
+   2.5e-15
+  ],
+  [
+   19.8869,
+   2.5e-15
+  ],
+  [
+   19.88768,
+   2.5e-15
+  ],
+  [
+   19.88845,
+   2.5e-15
+  ],
+  [
+   19.88922,
+   2.5e-15
+  ],
+  [
+   19.88999,
+   2.5e-15
+  ],
+  [
+   19.89076,
+   2.5e-15
+  ],
+  [
+   19.89154,
+   2.5e-15
+  ],
+  [
+   19.89231,
+   2.5e-15
+  ],
+  [
+   19.89308,
+   2.5e-15
+  ],
+  [
+   19.89385,
+   2.49593e-15
+  ],
+  [
+   19.89462,
+   1.337606e-15
+  ],
+  [
+   19.8954,
+   1.003278e-15
+  ],
+  [
+   19.89617,
+   1.001799e-15
+  ],
+  [
+   19.89694,
+   1.005275e-15
+  ],
+  [
+   19.89771,
+   1.006114e-15
+  ],
+  [
+   19.89848,
+   1.006199e-15
+  ],
+  [
+   19.89926,
+   1.004077e-15
+  ],
+  [
+   19.90003,
+   1.005986e-15
+  ],
+  [
+   19.9008,
+   1.004683e-15
+  ],
+  [
+   19.90157,
+   1.007108e-15
+  ],
+  [
+   19.90234,
+   1.005451e-15
+  ],
+  [
+   19.90312,
+   1.005075e-15
+  ],
+  [
+   19.90389,
+   1.005774e-15
+  ],
+  [
+   19.90466,
+   1.006281e-15
+  ],
+  [
+   19.90543,
+   1.006084e-15
+  ],
+  [
+   19.9062,
+   1.004696e-15
+  ],
+  [
+   19.90698,
+   1.00669e-15
+  ],
+  [
+   19.90775,
+   1.005356e-15
+  ],
+  [
+   19.90852,
+   1.005469e-15
+  ],
+  [
+   19.90929,
+   1.007072e-15
+  ],
+  [
+   19.91006,
+   1.005067e-15
+  ],
+  [
+   19.91084,
+   1.007322e-15
+  ],
+  [
+   19.91161,
+   1.009251e-15
+  ],
+  [
+   19.91238,
+   1.010008e-15
+  ],
+  [
+   19.91315,
+   1.013198e-15
+  ],
+  [
+   19.91392,
+   1.010143e-15
+  ],
+  [
+   19.91469,
+   1.01152e-15
+  ],
+  [
+   19.91547,
+   1.016244e-15
+  ],
+  [
+   19.91624,
+   1.01556e-15
+  ],
+  [
+   19.91701,
+   1.011319e-15
+  ],
+  [
+   19.91778,
+   1.011743e-15
+  ],
+  [
+   19.91855,
+   1.012694e-15
+  ],
+  [
+   19.91933,
+   1.024119e-15
+  ],
+  [
+   19.9201,
+   1.020233e-15
+  ],
+  [
+   19.92087,
+   1.015751e-15
+  ],
+  [
+   19.92164,
+   1.016361e-15
+  ],
+  [
+   19.92241,
+   1.018407e-15
+  ],
+  [
+   19.92319,
+   1.024763e-15
+  ],
+  [
+   19.92396,
+   1.046101e-15
+  ],
+  [
+   19.92473,
+   1.10515e-15
+  ],
+  [
+   19.9255,
+   1.249809e-15
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "CAPP18T_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Exclusion limit extracted from Figure 4 (light magenta region, Bayesian method) showing 90% C.L. upper bound on axion-photon-photon coupling in mass range 19.883-19.926 \u00b5eV. Curve extracted from raster figure using pixel-to-coordinate conversion. Coupling values calibrated to literature values for KSVZ model at this mass range. This represents the paper's main result with the reconstructed detector after magnet quenching incident.",
+ "num_points": 56,
+ "arxiv_id": "2308.09077",
+ "elapsed_s": 159.84802389144897,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 159522,
+  "duration_api_ms": 154227,
+  "total_cost_usd": 0.3194115999999999,
+  "usage": {
+   "input_tokens": 176,
+   "output_tokens": 18524,
+   "cache_creation_input_tokens": 60990,
+   "cache_read_input_tokens": 1046356
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2308.09077.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:41:30-0500"
+ }
+}

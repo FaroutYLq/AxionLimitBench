@@ -1,0 +1,250 @@
+{
+ "paper_title": "First Scan Search for Dark Photon Dark Matter with a Tunable Superconducting Radio-Frequency Cavity",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.367218e-06,
+   3.266e-15
+  ],
+  [
+   5.367332e-06,
+   2.758e-16
+  ],
+  [
+   5.367448e-06,
+   2.941e-16
+  ],
+  [
+   5.367564e-06,
+   2.803e-16
+  ],
+  [
+   5.36768e-06,
+   3.087e-16
+  ],
+  [
+   5.367796e-06,
+   3.013e-16
+  ],
+  [
+   5.367912e-06,
+   3.346e-16
+  ],
+  [
+   5.368027e-06,
+   3.4e-16
+  ],
+  [
+   5.368143e-06,
+   3.214e-16
+  ],
+  [
+   5.368259e-06,
+   2.67e-16
+  ],
+  [
+   5.368375e-06,
+   3.806e-16
+  ],
+  [
+   5.368491e-06,
+   4.654e-16
+  ],
+  [
+   5.368607e-06,
+   3.319e-16
+  ],
+  [
+   5.368723e-06,
+   3.626e-16
+  ],
+  [
+   5.368839e-06,
+   2.736e-16
+  ],
+  [
+   5.368955e-06,
+   3.962e-16
+  ],
+  [
+   5.369071e-06,
+   3.483e-16
+  ],
+  [
+   5.369187e-06,
+   3.655e-16
+  ],
+  [
+   5.369303e-06,
+   3.685e-16
+  ],
+  [
+   5.369419e-06,
+   3.346e-16
+  ],
+  [
+   5.369535e-06,
+   4.26e-16
+  ],
+  [
+   5.369668e-06,
+   3.745e-16
+  ],
+  [
+   5.369784e-06,
+   3.626e-16
+  ],
+  [
+   5.3699e-06,
+   3.685e-16
+  ],
+  [
+   5.370016e-06,
+   4.26e-16
+  ],
+  [
+   5.37013e-06,
+   3.137e-16
+  ],
+  [
+   5.370246e-06,
+   2.78e-16
+  ],
+  [
+   5.370362e-06,
+   3.806e-16
+  ],
+  [
+   5.370478e-06,
+   3.568e-16
+  ],
+  [
+   5.370594e-06,
+   4.026e-16
+  ],
+  [
+   5.37071e-06,
+   3.24e-16
+  ],
+  [
+   5.370826e-06,
+   3.427e-16
+  ],
+  [
+   5.370941e-06,
+   2.424e-16
+  ],
+  [
+   5.371057e-06,
+   2.871e-16
+  ],
+  [
+   5.371173e-06,
+   2.803e-16
+  ],
+  [
+   5.371289e-06,
+   3.685e-16
+  ],
+  [
+   5.371405e-06,
+   2.965e-16
+  ],
+  [
+   5.371521e-06,
+   3.137e-16
+  ],
+  [
+   5.371637e-06,
+   3.292e-16
+  ],
+  [
+   5.371753e-06,
+   3.214e-16
+  ],
+  [
+   5.371869e-06,
+   2.166e-16
+  ],
+  [
+   5.371985e-06,
+   3.626e-16
+  ],
+  [
+   5.372101e-06,
+   3.626e-16
+  ],
+  [
+   5.372217e-06,
+   3.188e-16
+  ],
+  [
+   5.372333e-06,
+   2.78e-16
+  ],
+  [
+   5.372448e-06,
+   2.965e-16
+  ],
+  [
+   5.372564e-06,
+   4.125e-16
+  ],
+  [
+   5.37268e-06,
+   3.162e-16
+  ],
+  [
+   5.372796e-06,
+   2.692e-16
+  ],
+  [
+   5.372912e-06,
+   3.087e-16
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "SHANHE_SRF_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "DPDM haloscope scan with a tunable 1.3 GHz SRF cavity (SHANHE collab). Headline 90% C.L. exclusion on kinetic mixing epsilon, Fig.3 top panel (CSRF_new.png raster). x-axis is m_A'-2*pi*f0^max in neV with f0^max=1.2991643795 GHz => m_max=h*f0^max=5.3729e-6 eV; the ~1.37 MHz scan spans ~5.7 neV, so mass 5.3672e-6..5.3729e-6 eV. Curve = lower jagged edge of red excluded region (upper limit on epsilon). Deepest epsilon~2.15e-16 matches abstract's <2.2e-16. Reported chi=epsilon directly (no chi^2). rho_A'=0.45 GeV/cm^3, not rescaled per convention. Leftmost sharp scan-wall edge column trimmed.",
+ "num_points": 50,
+ "arxiv_id": "2305.09711",
+ "elapsed_s": 161.19279313087463,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 160863,
+  "duration_api_ms": 155483,
+  "total_cost_usd": 0.8929054999999999,
+  "usage": {
+   "input_tokens": 451,
+   "output_tokens": 11170,
+   "cache_creation_input_tokens": 38131,
+   "cache_read_input_tokens": 460181
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2305.09711.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:31:11-0500"
+ }
+}

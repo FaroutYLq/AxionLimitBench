@@ -1,0 +1,170 @@
+{
+ "paper_title": "New ALPS Results on Hidden-Sector Lightweights",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.00010014886851846703,
+   6.523821191100454e-08
+  ],
+  [
+   0.0004148572236908268,
+   6.677811108949686e-08
+  ],
+  [
+   0.0005748034753117647,
+   7.19543061999429e-08
+  ],
+  [
+   0.0007085498634982662,
+   8.27654873963737e-08
+  ],
+  [
+   0.0008212976117895121,
+   1.0258040834336674e-07
+  ],
+  [
+   0.0009345755899710914,
+   1.4899706788894093e-07
+  ],
+  [
+   0.001089975319003554,
+   4.9658444275698e-07
+  ],
+  [
+   0.0011662983076881058,
+   4.4397561765335624e-07
+  ],
+  [
+   0.0012479656362858473,
+   4.828748789183925e-07
+  ],
+  [
+   0.001319020149244178,
+   3.3089857548896014e-07
+  ],
+  [
+   0.0014027243048769862,
+   3.0141618792012887e-07
+  ],
+  [
+   0.0015009468144899063,
+   4.044182964668702e-07
+  ],
+  [
+   0.0015864051330357148,
+   9.023486796960584e-07
+  ],
+  [
+   0.00164606371531444,
+   7.557368001400694e-07
+  ],
+  [
+   0.001707965826919559,
+   8.0299710850557e-07
+  ],
+  [
+   0.0018275621647529277,
+   5.083059469652289e-07
+  ],
+  [
+   0.0019676018811134676,
+   1.2744687420486628e-06
+  ],
+  [
+   0.0020166270391964673,
+   1.0624266482009455e-06
+  ],
+  [
+   0.002066873717825942,
+   1.123610916802871e-06
+  ],
+  [
+   0.0021578366611118157,
+   7.145844735823164e-07
+  ],
+  [
+   0.002280695839714881,
+   1.7020291532770903e-06
+  ],
+  [
+   0.002455457609606038,
+   9.193482466596847e-07
+  ],
+  [
+   0.0025477979057788604,
+   1.9577601379738883e-06
+  ],
+  [
+   0.0027094794938489534,
+   1.123610916802871e-06
+  ],
+  [
+   0.0028461814397410606,
+   1.994642858936498e-06
+  ],
+  [
+   0.002953215353126129,
+   1.3291283894576594e-06
+  ],
+  [
+   0.0030082324050174154,
+   1.868509538742193e-06
+  ],
+  [
+   0.0031795099483960454,
+   1.5431646060439225e-06
+  ],
+  [
+   0.0031991328651457323,
+   1.6705571200510435e-06
+  ],
+  [
+   0.003573797028167317,
+   1.948646515976975e-06
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "ALPS_2010",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ALPS light-shining-through-a-wall (LSW) at DESY (5 T HERA dipole, l=4.3 m each side). Headline pseudoscalar ALP-photon limit g_- from Fig. 4 left (e-print pics/alpminus.pdf), extracted from the vector fill paths as the lower (least-coupling) boundary of the ALPS excluded region, combining the vacuum run (red) and the Ar-gas run (orange) that fills the vacuum resonance gaps at higher mass. Paper Eq.(1) L=-(g_-/4)F Ftilde phi matches the canonical AxionPhoton convention, so g_- = g_agamma directly (no conversion). Axes calibrated from tick strokes; low-mass flat value ~6.5e-8 GeV^-1 cross-checked against Table 1 P_95%=2.25e-25 via P=(gBl/2)^4 giving 6.5e-8 GeV^-1. High-mass oscillatory structure reflects sin^2(M^2 l/4w) resonances. 95% C.L. LSW laboratory limit; no DM density assumed. The scalar counterpart g_+ (Fig.4 right) and hidden-photon (Fig.5)/MCP (Fig.6) limits are also given but AxionPhoton pseudoscalar is the main ALP result.",
+ "num_points": 30,
+ "arxiv_id": "1004.1313",
+ "elapsed_s": 269.8346817493439,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 269503,
+  "duration_api_ms": 265186,
+  "total_cost_usd": 1.231825,
+  "usage": {
+   "input_tokens": 611,
+   "output_tokens": 17856,
+   "cache_creation_input_tokens": 45611,
+   "cache_read_input_tokens": 652520
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1004.1313.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:10:26-0500"
+ }
+}

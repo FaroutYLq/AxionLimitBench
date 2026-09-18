@@ -1,0 +1,230 @@
+{
+ "paper_title": "Searching for an oscillating massive scalar field as a dark matter candidate using atomic hyperfine frequency comparisons",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.916e-25,
+   7.037e-08
+  ],
+  [
+   6.949e-25,
+   4.937e-08
+  ],
+  [
+   9.822e-25,
+   3.489e-08
+  ],
+  [
+   1.388e-24,
+   2.485e-08
+  ],
+  [
+   1.962e-24,
+   1.765e-08
+  ],
+  [
+   2.774e-24,
+   1.256e-08
+  ],
+  [
+   3.921e-24,
+   9.037e-09
+  ],
+  [
+   5.542e-24,
+   6.57e-09
+  ],
+  [
+   7.834e-24,
+   4.936e-09
+  ],
+  [
+   1.107e-23,
+   3.975e-09
+  ],
+  [
+   1.565e-23,
+   3.922e-09
+  ],
+  [
+   2.212e-23,
+   5.295e-09
+  ],
+  [
+   3.127e-23,
+   6.825e-09
+  ],
+  [
+   4.42e-23,
+   1.708e-08
+  ],
+  [
+   6.248e-23,
+   2.117e-08
+  ],
+  [
+   8.831e-23,
+   3.101e-08
+  ],
+  [
+   1.248e-22,
+   3.831e-08
+  ],
+  [
+   1.764e-22,
+   5.489e-08
+  ],
+  [
+   2.494e-22,
+   8.721e-08
+  ],
+  [
+   3.525e-22,
+   9.66e-08
+  ],
+  [
+   4.983e-22,
+   1.416e-07
+  ],
+  [
+   7.044e-22,
+   1.83e-07
+  ],
+  [
+   9.956e-22,
+   3.091e-07
+  ],
+  [
+   1.407e-21,
+   3.886e-07
+  ],
+  [
+   1.989e-21,
+   5.994e-07
+  ],
+  [
+   2.812e-21,
+   7.256e-07
+  ],
+  [
+   3.974e-21,
+   1.072e-06
+  ],
+  [
+   5.618e-21,
+   1.459e-06
+  ],
+  [
+   7.941e-21,
+   2.047e-06
+  ],
+  [
+   1.122e-20,
+   2.283e-06
+  ],
+  [
+   1.586e-20,
+   3.033e-06
+  ],
+  [
+   2.242e-20,
+   3.446e-06
+  ],
+  [
+   3.17e-20,
+   4.385e-06
+  ],
+  [
+   4.48e-20,
+   6.362e-06
+  ],
+  [
+   6.333e-20,
+   9.548e-06
+  ],
+  [
+   8.952e-20,
+   1.207e-05
+  ],
+  [
+   1.265e-19,
+   2.011e-05
+  ],
+  [
+   1.789e-19,
+   3.052e-05
+  ],
+  [
+   2.528e-19,
+   4.133e-05
+  ],
+  [
+   3.573e-19,
+   6.677e-05
+  ],
+  [
+   5.051e-19,
+   9.466e-05
+  ],
+  [
+   7.14e-19,
+   0.0001342
+  ],
+  [
+   1.009e-18,
+   0.000193
+  ],
+  [
+   1.426e-18,
+   0.0002758
+  ],
+  [
+   2.016e-18,
+   0.000384
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "Hees_2016",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "From Fig.3 (Est_d.pdf in e-print), red 95% CL upper-bound curve, extracted as vector path and calibrated from tick strokes (73.19 px/decade in x=log10(m_phi/eV), 28.64 px/decade in y=log10 coupling). Per-mass-bin medians of the noisy observed 95% upper limit. Cross-checks reproduce the papers quoted values: minimum 3.8e-9 at m=1.4e-23 eV, plateau <=5.3e-4 over the whole range, upper mass end 2.4e-18 eV set by omega_max=3.6e-3 rad/s. The plotted curve bounds the linear combination d_e + 0.043(d_mdot - d_g); reported here as the bound on the Damour-Donoghue d_e (the papers phi is dimensionless with alpha(phi)=alpha(1+d_e phi), phi=sqrt(4pi)phi_phys/M_Pl, matching the canonical kappa), which equals this combination when only d_e is nonzero (paper: If only d_e != 0, our limits improve [2] by >1 order of magnitude). DM density assumed rho_DM=0.4 GeV/cm^3 (Eq.8, limit scales as 1/sqrt(rho_DM)); not rescaled.",
+ "num_points": 45,
+ "arxiv_id": "1604.08514",
+ "elapsed_s": 137.11811804771423,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 136808,
+  "duration_api_ms": 134712,
+  "total_cost_usd": 0.746718,
+  "usage": {
+   "input_tokens": 338,
+   "output_tokens": 10133,
+   "cache_creation_input_tokens": 33398,
+   "cache_read_input_tokens": 315446
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1604.08514.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:43:37-0500"
+ }
+}

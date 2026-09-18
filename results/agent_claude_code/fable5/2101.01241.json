@@ -1,0 +1,395 @@
+{
+ "paper_title": "Search for axion-like dark matter using solid-state nuclear magnetic resonance",
+ "coupling_type": "AxionEDM",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.61729469e-07,
+   0.9412
+  ],
+  [
+   1.61734837e-07,
+   0.7657
+  ],
+  [
+   1.61740205e-07,
+   0.6271
+  ],
+  [
+   1.6175094e-07,
+   0.4407
+  ],
+  [
+   1.61761675e-07,
+   0.3159
+  ],
+  [
+   1.61772411e-07,
+   0.2357
+  ],
+  [
+   1.61783146e-07,
+   0.1806
+  ],
+  [
+   1.61793881e-07,
+   0.1421
+  ],
+  [
+   1.61799249e-07,
+   0.1089
+  ],
+  [
+   1.61804617e-07,
+   0.08017
+  ],
+  [
+   1.61809985e-07,
+   0.05942
+  ],
+  [
+   1.61815352e-07,
+   0.04553
+  ],
+  [
+   1.6182072e-07,
+   0.03512
+  ],
+  [
+   1.61826088e-07,
+   0.02709
+  ],
+  [
+   1.61831455e-07,
+   0.02175
+  ],
+  [
+   1.61836823e-07,
+   0.01734
+  ],
+  [
+   1.61842191e-07,
+   0.01392
+  ],
+  [
+   1.61852926e-07,
+   0.009653
+  ],
+  [
+   1.61858294e-07,
+   0.008012
+  ],
+  [
+   1.61869029e-07,
+   0.005899
+  ],
+  [
+   1.61879764e-07,
+   0.00443
+  ],
+  [
+   1.618905e-07,
+   0.00344
+  ],
+  [
+   1.61901235e-07,
+   0.00278
+  ],
+  [
+   1.61911971e-07,
+   0.002277
+  ],
+  [
+   1.61928074e-07,
+   0.001804
+  ],
+  [
+   1.61949544e-07,
+   0.001429
+  ],
+  [
+   1.61976383e-07,
+   0.00117
+  ],
+  [
+   1.62035427e-07,
+   0.0009647
+  ],
+  [
+   1.62185722e-07,
+   0.0009583
+  ],
+  [
+   1.62336018e-07,
+   0.0009456
+  ],
+  [
+   1.62486313e-07,
+   0.000952
+  ],
+  [
+   1.62636608e-07,
+   0.0009908
+  ],
+  [
+   1.62786903e-07,
+   0.000952
+  ],
+  [
+   1.62937198e-07,
+   0.0009456
+  ],
+  [
+   1.63087494e-07,
+   0.0009712
+  ],
+  [
+   1.63237789e-07,
+   0.0009908
+  ],
+  [
+   1.63388084e-07,
+   0.0009583
+  ],
+  [
+   1.63538379e-07,
+   0.0009583
+  ],
+  [
+   1.63688674e-07,
+   0.0009842
+  ],
+  [
+   1.63838969e-07,
+   0.0009647
+  ],
+  [
+   1.63989265e-07,
+   0.0009583
+  ],
+  [
+   1.6413956e-07,
+   0.0009583
+  ],
+  [
+   1.64289855e-07,
+   0.001011
+  ],
+  [
+   1.6444015e-07,
+   0.0009842
+  ],
+  [
+   1.64590445e-07,
+   0.0009583
+  ],
+  [
+   1.64740741e-07,
+   0.0009712
+  ],
+  [
+   1.64891036e-07,
+   0.0009842
+  ],
+  [
+   1.65041331e-07,
+   0.000952
+  ],
+  [
+   1.65191626e-07,
+   0.0009583
+  ],
+  [
+   1.65341921e-07,
+   0.0009842
+  ],
+  [
+   1.65492216e-07,
+   0.0009456
+  ],
+  [
+   1.65642512e-07,
+   0.0009974
+  ],
+  [
+   1.65792807e-07,
+   0.000952
+  ],
+  [
+   1.65943102e-07,
+   0.0009965
+  ],
+  [
+   1.66093397e-07,
+   0.0009583
+  ],
+  [
+   1.66243692e-07,
+   0.0009712
+  ],
+  [
+   1.66393988e-07,
+   0.001155
+  ],
+  [
+   1.66426194e-07,
+   0.001477
+  ],
+  [
+   1.66447664e-07,
+   0.001816
+  ],
+  [
+   1.66463767e-07,
+   0.001382
+  ],
+  [
+   1.66469135e-07,
+   0.002516
+  ],
+  [
+   1.66474503e-07,
+   0.001507
+  ],
+  [
+   1.6647987e-07,
+   0.003031
+  ],
+  [
+   1.66490606e-07,
+   0.003776
+  ],
+  [
+   1.66501341e-07,
+   0.004961
+  ],
+  [
+   1.66506709e-07,
+   0.002354
+  ],
+  [
+   1.66512077e-07,
+   0.006875
+  ],
+  [
+   1.66522812e-07,
+   0.003197
+  ],
+  [
+   1.66533547e-07,
+   0.0142
+  ],
+  [
+   1.66544283e-07,
+   0.02146
+  ],
+  [
+   1.6654965e-07,
+   0.0262
+  ],
+  [
+   1.66555018e-07,
+   0.007299
+  ],
+  [
+   1.66560386e-07,
+   0.04346
+  ],
+  [
+   1.66565753e-07,
+   0.05982
+  ],
+  [
+   1.66571121e-07,
+   0.07806
+  ],
+  [
+   1.66576489e-07,
+   0.1019
+  ],
+  [
+   1.66581856e-07,
+   0.133
+  ],
+  [
+   1.66587224e-07,
+   0.02371
+  ],
+  [
+   1.66592592e-07,
+   0.03115
+  ],
+  [
+   1.6659796e-07,
+   0.04066
+  ],
+  [
+   1.66603327e-07,
+   0.05306
+  ],
+  [
+   1.66608695e-07,
+   0.2604
+  ],
+  [
+   1.6661943e-07,
+   0.3585
+  ],
+  [
+   1.66630166e-07,
+   0.5001
+  ],
+  [
+   1.66635533e-07,
+   0.6106
+  ],
+  [
+   1.66646269e-07,
+   0.8294
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.47,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "CASPEr-electric_2021",
+ "coupling_convention": "g_d [GeV^-2]",
+ "notes": "Curve traced from the blue 95% CL exclusion line in Fig. 3(a) (rasterized panel embedded in Fig3.eps of the e-print), left y-axis: nucleon EDM coupling g_d (GeV^-2) vs mass (neV). Paper's HEDM = g_d a E*.I/I with oscillating EDM d = g_d a0, identical to the canonical g_d (d_n = g_d a), so no conversion. Extracted plateau ~9.6e-4 GeV^-2 agrees with the quoted headline bound |g_d| < 9.5e-4 GeV^-2 over 162-166 neV; steep walls at the scan-band edges (~161.7 and ~166.6 neV) are included. The paper also bounds the gradient coupling |g_aNN| < 2.8e-1 GeV^-1 (right axis of same figure); the EDM coupling is the primary CASPEr-electric result. DM density assumed: rho_DM = 3.6e-42 GeV^4 = 0.47 GeV/cm^3 (not rescaled). Axis calibration from tick pixels (x: 161/163/165/167 neV; y: 1e0..1e-3 decade ticks, 172.8 px/decade).",
+ "num_points": 86,
+ "arxiv_id": "2101.01241",
+ "elapsed_s": 161.48594999313354,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 160955,
+  "duration_api_ms": 155882,
+  "total_cost_usd": 1.5740895,
+  "usage": {
+   "input_tokens": 618,
+   "output_tokens": 12296,
+   "cache_creation_input_tokens": 32554,
+   "cache_read_input_tokens": 484452
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2101.01241.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:19:34-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

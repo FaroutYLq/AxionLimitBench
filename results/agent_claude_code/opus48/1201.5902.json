@@ -1,0 +1,338 @@
+{
+ "paper_title": "WISPy Cold Dark Matter",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.2746e-13,
+   1.0208e-09
+  ],
+  [
+   8.4914e-13,
+   1.0255e-09
+  ],
+  [
+   1.367e-12,
+   1.0335e-09
+  ],
+  [
+   2.2007e-12,
+   1.0483e-09
+  ],
+  [
+   3.5429e-12,
+   1.0785e-09
+  ],
+  [
+   5.7037e-12,
+   1.1317e-09
+  ],
+  [
+   9.1823e-12,
+   1.1926e-09
+  ],
+  [
+   1.4782e-11,
+   1.2206e-09
+  ],
+  [
+   2.3798e-11,
+   1.1908e-09
+  ],
+  [
+   3.8312e-11,
+   1.1082e-09
+  ],
+  [
+   6.1678e-11,
+   9.9018e-10
+  ],
+  [
+   9.9294e-11,
+   8.5379e-10
+  ],
+  [
+   1.5985e-10,
+   7.1214e-10
+  ],
+  [
+   2.5734e-10,
+   5.7358e-10
+  ],
+  [
+   4.1429e-10,
+   4.4291e-10
+  ],
+  [
+   6.6696e-10,
+   3.235e-10
+  ],
+  [
+   1.0737e-09,
+   4.186e-13
+  ],
+  [
+   1.7286e-09,
+   4.3662e-13
+  ],
+  [
+   4.48e-09,
+   5.8623e-13
+  ],
+  [
+   7.2122e-09,
+   7.9367e-13
+  ],
+  [
+   1.8692e-08,
+   1.0869e-12
+  ],
+  [
+   3.0092e-08,
+   1.5022e-12
+  ],
+  [
+   7.799e-08,
+   2.0908e-12
+  ],
+  [
+   1.2555e-07,
+   2.9245e-12
+  ],
+  [
+   2.0213e-07,
+   4.1045e-12
+  ],
+  [
+   5.2386e-07,
+   5.7749e-12
+  ],
+  [
+   8.4335e-07,
+   8.1409e-12
+  ],
+  [
+   2.1857e-06,
+   1.1306e-11
+  ],
+  [
+   3.5188e-06,
+   1.6117e-11
+  ],
+  [
+   9.1196e-06,
+   2.8568e-11
+  ],
+  [
+   1.4682e-05,
+   3.7038e-11
+  ],
+  [
+   2.3636e-05,
+   5.3755e-11
+  ],
+  [
+   3.805e-05,
+   9.1696e-11
+  ],
+  [
+   6.1257e-05,
+   2.2296e-10
+  ],
+  [
+   9.8616e-05,
+   9.7492e-10
+  ],
+  [
+   0.00015876,
+   1.751e-09
+  ],
+  [
+   0.00041146,
+   2.2748e-09
+  ],
+  [
+   0.00066241,
+   2.7041e-09
+  ],
+  [
+   0.0010664,
+   3.196e-09
+  ],
+  [
+   0.0027638,
+   3.9856e-09
+  ],
+  [
+   0.0044494,
+   4.4264e-09
+  ],
+  [
+   0.007163,
+   4.9083e-09
+  ],
+  [
+   0.011532,
+   6.6761e-09
+  ],
+  [
+   0.018564,
+   1.2412e-08
+  ],
+  [
+   0.029887,
+   1.2066e-08
+  ],
+  [
+   0.048114,
+   1.0211e-08
+  ],
+  [
+   0.077458,
+   8.3573e-09
+  ],
+  [
+   0.1247,
+   6.8029e-09
+  ],
+  [
+   0.20075,
+   5.0465e-09
+  ],
+  [
+   0.52028,
+   3.7118e-09
+  ],
+  [
+   0.8376,
+   2.7366e-09
+  ],
+  [
+   1.3484,
+   2.0232e-09
+  ],
+  [
+   3.4948,
+   1.5004e-09
+  ],
+  [
+   5.6261,
+   1.1166e-09
+  ],
+  [
+   14.581,
+   8.3435e-10
+  ],
+  [
+   23.474,
+   6.265e-10
+  ],
+  [
+   60.839,
+   4.7309e-10
+  ],
+  [
+   97.943,
+   3.5968e-10
+  ],
+  [
+   253.84,
+   2.7569e-10
+  ],
+  [
+   408.66,
+   2.1345e-10
+  ],
+  [
+   1059.1,
+   1.6732e-10
+  ],
+  [
+   1705.1,
+   1.3325e-10
+  ],
+  [
+   2744.9,
+   1.0826e-10
+  ],
+  [
+   7114.1,
+   9.0264e-11
+  ],
+  [
+   11453.0,
+   7.784e-11
+  ],
+  [
+   29683.0,
+   7.0146e-11
+  ],
+  [
+   47786.0,
+   1.153e-11
+  ],
+  [
+   123850.0,
+   5.1535e-13
+  ],
+  [
+   199380.0,
+   6.4906e-14
+  ],
+  [
+   320980.0,
+   8.1745e-15
+  ],
+  [
+   516740.0,
+   1.0295e-15
+  ],
+  [
+   831880.0,
+   1.2966e-16
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.5,
+ "suggested_experiment_name": "Arias_2012",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Theory paper (Arias, Cadamuro, Goodsell, Jaeckel, Redondo, Ringwald 2012) on the misalignment mechanism for WISP cold dark matter. It derives its own new cosmological/observational exclusions on hidden-photon (dark-photon) dark matter, which is the main novel result. Reported curve = upper boundary of the pink Allowed HP CDM region in Fig. 5 (m_gamma prime [eV] vs kinetic mixing chi), extracted from the vector figure HP.pdf in the arXiv e-print (fill path with color red drawn semi-transparent, hence pink). Above this curve, the hidden photon cannot constitute all of the cold dark matter. The boundary is a composite: at low mass it is the paper-derived tau2>1 (resonant depletion) bound at chi~1e-9; the sharp drop and rise (m ~ 1e-9 to 1e-2 eV) are the paper-derived CMB-distortions and N_eff bounds, peaking at chi~1.2e-8 near m~1e-2 eV; at high mass (m ~ 1e5-1e6 eV, near 2 m_e) it is the paper-reproduced X-rays bound from gamma prime -> 3 gamma decay. In the intermediate mass range (m ~ 1 - 1e4 eV) the visible boundary tracks the pre-existing astrophysical Solar-Lifetime/HB regions redrawn from other refs, not this paper. Axis calibration from tick/label positions: x 18.457 px/decade (-10 at 89.15 px), y 22.39 px/decade (-16 at 257.6 px). Limit assumes the HP is 100 percent of the cosmological DM (rho_CDM = 1.17 keV/cm^3, Eq. 2.11); it is not a local-halo direct-detection bound, so dm_density_assumed is null. No formal statistical confidence level stated (order-of-magnitude cosmological bounds). The paper also presents an ALP g_agamma plot (Fig. 1) and future experimental sensitivity forecasts, which are not reported here.",
+ "num_points": 72,
+ "arxiv_id": "1201.5902",
+ "elapsed_s": 373.8416349887848,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 373488,
+  "duration_api_ms": 369436,
+  "total_cost_usd": 1.6224105000000002,
+  "usage": {
+   "input_tokens": 588,
+   "output_tokens": 25463,
+   "cache_creation_input_tokens": 58980,
+   "cache_read_input_tokens": 786191
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1201.5902.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:19:22-0500"
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "paper_title": "Neutron Stars with Exceptionally Light QCD Axions",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-09,
+   1e-17
+  ],
+  [
+   1.5e-09,
+   1.5e-17
+  ],
+  [
+   2e-09,
+   2e-17
+  ],
+  [
+   3e-09,
+   3e-17
+  ],
+  [
+   5e-09,
+   5e-17
+  ],
+  [
+   7e-09,
+   7e-17
+  ],
+  [
+   1e-08,
+   1e-16
+  ],
+  [
+   1.5e-08,
+   1.5e-16
+  ],
+  [
+   2e-08,
+   2e-16
+  ],
+  [
+   3e-08,
+   3e-16
+  ],
+  [
+   5e-08,
+   5e-16
+  ],
+  [
+   7e-08,
+   7e-16
+  ],
+  [
+   1e-07,
+   1e-15
+  ],
+  [
+   1.5e-07,
+   1.5e-15
+  ],
+  [
+   2e-07,
+   2e-15
+  ],
+  [
+   3e-07,
+   3e-15
+  ],
+  [
+   5e-07,
+   5e-15
+  ],
+  [
+   1e-06,
+   1e-14
+  ],
+  [
+   2e-06,
+   2e-14
+  ],
+  [
+   3e-06,
+   3e-14
+  ],
+  [
+   5e-06,
+   5e-14
+  ],
+  [
+   1e-05,
+   1e-13
+  ],
+  [
+   2e-05,
+   2e-13
+  ],
+  [
+   5e-05,
+   5e-13
+  ],
+  [
+   0.0001,
+   1e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "NeutronStar_ELAxion_2024",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Constraint from neutron star observations (thermal relaxation, cooling, pulsar glitches) on exceptionally light QCD axions. Reported for Scenario A (K_\u03c3=0, no modification to nuclear interactions) as the most conservative bound. Extracted from Figure 18 lower boundary (most stringent constraint). The constraint excludes parameter space in the (m_a, 1/f_a) plane based on the requirement that neutron star crusts maintain minimum thickness (thermal relaxation constraint is dominant). For m_a \u2273 2\u00d710^-9 eV, \u03b5 < 0.2 is excluded, corresponding to a bound on 1/f_a derived from the axion mass formula m_a = 5.7 \u03bceV \u00d7 (10^12 GeV / f_a).",
+ "num_points": 25,
+ "arxiv_id": "2410.21590",
+ "elapsed_s": 133.9354796409607,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 133516,
+  "duration_api_ms": 128197,
+  "total_cost_usd": 0.26219089999999995,
+  "usage": {
+   "input_tokens": 108,
+   "output_tokens": 10397,
+   "cache_creation_input_tokens": 74664,
+   "cache_read_input_tokens": 607699
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2410.21590.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:33:27-0500"
+ }
+}

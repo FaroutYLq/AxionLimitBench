@@ -1,0 +1,367 @@
+{
+ "paper_title": "Axion-Induced Patchy Screening of the Cosmic Microwave Background",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.686e-13,
+   3.005e-08
+  ],
+  [
+   1.732e-13,
+   1.003e-08
+  ],
+  [
+   1.795e-13,
+   6.023e-09
+  ],
+  [
+   1.86e-13,
+   4.668e-09
+  ],
+  [
+   1.927e-13,
+   3.267e-09
+  ],
+  [
+   1.997e-13,
+   2.287e-09
+  ],
+  [
+   2.069e-13,
+   1.728e-09
+  ],
+  [
+   2.143e-13,
+   1.445e-09
+  ],
+  [
+   2.221e-13,
+   1.272e-09
+  ],
+  [
+   2.301e-13,
+   1.149e-09
+  ],
+  [
+   2.384e-13,
+   1.092e-09
+  ],
+  [
+   2.47e-13,
+   1.038e-09
+  ],
+  [
+   2.56e-13,
+   9.861e-10
+  ],
+  [
+   2.652e-13,
+   9.612e-10
+  ],
+  [
+   2.748e-13,
+   9.37e-10
+  ],
+  [
+   2.847e-13,
+   9.135e-10
+  ],
+  [
+   2.95e-13,
+   9.135e-10
+  ],
+  [
+   3.057e-13,
+   8.905e-10
+  ],
+  [
+   3.167e-13,
+   8.905e-10
+  ],
+  [
+   3.281e-13,
+   8.681e-10
+  ],
+  [
+   3.4e-13,
+   8.681e-10
+  ],
+  [
+   3.523e-13,
+   8.681e-10
+  ],
+  [
+   3.65e-13,
+   8.681e-10
+  ],
+  [
+   3.782e-13,
+   8.462e-10
+  ],
+  [
+   3.919e-13,
+   8.462e-10
+  ],
+  [
+   4.06e-13,
+   8.462e-10
+  ],
+  [
+   4.207e-13,
+   8.462e-10
+  ],
+  [
+   4.359e-13,
+   8.462e-10
+  ],
+  [
+   4.516e-13,
+   8.462e-10
+  ],
+  [
+   4.68e-13,
+   8.462e-10
+  ],
+  [
+   4.849e-13,
+   8.462e-10
+  ],
+  [
+   5.024e-13,
+   8.462e-10
+  ],
+  [
+   5.205e-13,
+   8.462e-10
+  ],
+  [
+   5.393e-13,
+   8.681e-10
+  ],
+  [
+   5.588e-13,
+   8.681e-10
+  ],
+  [
+   5.79e-13,
+   8.905e-10
+  ],
+  [
+   5.999e-13,
+   9.135e-10
+  ],
+  [
+   6.216e-13,
+   9.37e-10
+  ],
+  [
+   6.441e-13,
+   9.37e-10
+  ],
+  [
+   6.673e-13,
+   9.612e-10
+  ],
+  [
+   6.914e-13,
+   9.861e-10
+  ],
+  [
+   7.164e-13,
+   1.012e-09
+  ],
+  [
+   7.423e-13,
+   1.012e-09
+  ],
+  [
+   7.691e-13,
+   1.038e-09
+  ],
+  [
+   7.969e-13,
+   1.064e-09
+  ],
+  [
+   8.257e-13,
+   1.092e-09
+  ],
+  [
+   8.555e-13,
+   1.12e-09
+  ],
+  [
+   8.864e-13,
+   1.179e-09
+  ],
+  [
+   9.185e-13,
+   1.209e-09
+  ],
+  [
+   9.517e-13,
+   1.24e-09
+  ],
+  [
+   9.86e-13,
+   1.305e-09
+  ],
+  [
+   1.022e-12,
+   1.339e-09
+  ],
+  [
+   1.059e-12,
+   1.373e-09
+  ],
+  [
+   1.097e-12,
+   1.409e-09
+  ],
+  [
+   1.136e-12,
+   1.483e-09
+  ],
+  [
+   1.178e-12,
+   1.56e-09
+  ],
+  [
+   1.22e-12,
+   1.642e-09
+  ],
+  [
+   1.264e-12,
+   1.728e-09
+  ],
+  [
+   1.31e-12,
+   1.818e-09
+  ],
+  [
+   1.357e-12,
+   2.013e-09
+  ],
+  [
+   1.406e-12,
+   2.173e-09
+  ],
+  [
+   1.457e-12,
+   2.287e-09
+  ],
+  [
+   1.51e-12,
+   2.406e-09
+  ],
+  [
+   1.564e-12,
+   2.597e-09
+  ],
+  [
+   1.621e-12,
+   2.804e-09
+  ],
+  [
+   1.679e-12,
+   3.105e-09
+  ],
+  [
+   1.74e-12,
+   3.438e-09
+  ],
+  [
+   1.803e-12,
+   4.109e-09
+  ],
+  [
+   1.868e-12,
+   4.55e-09
+  ],
+  [
+   1.935e-12,
+   5.302e-09
+  ],
+  [
+   2.005e-12,
+   6.502e-09
+  ],
+  [
+   2.078e-12,
+   7.385e-09
+  ],
+  [
+   2.153e-12,
+   8.606e-09
+  ],
+  [
+   2.231e-12,
+   1.082e-08
+  ],
+  [
+   2.311e-12,
+   1.627e-08
+  ],
+  [
+   2.395e-12,
+   1.802e-08
+  ],
+  [
+   2.481e-12,
+   2.1e-08
+  ],
+  [
+   2.571e-12,
+   2.71e-08
+  ],
+  [
+   2.588e-12,
+   3.005e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.99,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "FIRAS-PatchyScreening_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Blue shaded region of Fig. 1 (figs/plain.pdf): parameters excluded at 99% CL by requiring CMB spectral distortions from resonant photon-axion conversion inside halos (optical depth of Sec. 2.2, Eq. 2.8) be compatible with COBE/FIRAS, chi^2 test as in Paper I (Pirvu et al.). This is the paper's own derived observational bound; the Planck x unWISE and CMB-S4 curves (Figs. 12-13) are forecasts and are not reported. Boundary recovered from the vector fill path, axes calibrated on tick labels, curve clipped at the plot frame top (~3e-8 GeV^-1). Bound is independent of the local DM density (CMB photons converting to axions).",
+ "num_points": 79,
+ "arxiv_id": "2405.08059",
+ "elapsed_s": 149.77064394950867,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 149454,
+  "duration_api_ms": 146193,
+  "total_cost_usd": 1.2729094999999997,
+  "usage": {
+   "input_tokens": 396,
+   "output_tokens": 11268,
+   "cache_creation_input_tokens": 29570,
+   "cache_read_input_tokens": 277552
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2405.08059.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:54:29-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

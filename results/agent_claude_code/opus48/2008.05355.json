@@ -1,0 +1,342 @@
+{
+ "paper_title": "Measurement of light-by-light scattering and search for axion-like particles with 2.2 nb^-1 of Pb+Pb data with the ATLAS detector",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   6002000000.0,
+   0.0001226
+  ],
+  [
+   7002000000.0,
+   0.0001165
+  ],
+  [
+   8002000000.0,
+   8.506e-05
+  ],
+  [
+   9002000000.0,
+   0.000104
+  ],
+  [
+   10000000000.0,
+   0.0001094
+  ],
+  [
+   11000000000.0,
+   7.31e-05
+  ],
+  [
+   12000000000.0,
+   5.875e-05
+  ],
+  [
+   13000000000.0,
+   5.607e-05
+  ],
+  [
+   14000000000.0,
+   5.33e-05
+  ],
+  [
+   15000000000.0,
+   6.108e-05
+  ],
+  [
+   16000000000.0,
+   7.505e-05
+  ],
+  [
+   17000000000.0,
+   6.225e-05
+  ],
+  [
+   18000000000.0,
+   5.869e-05
+  ],
+  [
+   19000000000.0,
+   5.939e-05
+  ],
+  [
+   20000000000.0,
+   5.667e-05
+  ],
+  [
+   21000000000.0,
+   6.13e-05
+  ],
+  [
+   22000000000.0,
+   6.368e-05
+  ],
+  [
+   23000000000.0,
+   6.678e-05
+  ],
+  [
+   24000000000.0,
+   7.77e-05
+  ],
+  [
+   25000000000.0,
+   7.234e-05
+  ],
+  [
+   26000000000.0,
+   7.566e-05
+  ],
+  [
+   27000000000.0,
+   7.849e-05
+  ],
+  [
+   28000000000.0,
+   7.137e-05
+  ],
+  [
+   29000000000.0,
+   7.366e-05
+  ],
+  [
+   30000000000.0,
+   7.634e-05
+  ],
+  [
+   31000000000.0,
+   6.685e-05
+  ],
+  [
+   32000000000.0,
+   6.909e-05
+  ],
+  [
+   33000000000.0,
+   7.078e-05
+  ],
+  [
+   34010000000.0,
+   7.29e-05
+  ],
+  [
+   35010000000.0,
+   7.545e-05
+  ],
+  [
+   36010000000.0,
+   7.758e-05
+  ],
+  [
+   37010000000.0,
+   8.015e-05
+  ],
+  [
+   38010000000.0,
+   8.174e-05
+  ],
+  [
+   39010000000.0,
+   8.394e-05
+  ],
+  [
+   40010000000.0,
+   8.623e-05
+  ],
+  [
+   41010000000.0,
+   8.814e-05
+  ],
+  [
+   42010000000.0,
+   9.083e-05
+  ],
+  [
+   43010000000.0,
+   9.299e-05
+  ],
+  [
+   44010000000.0,
+   9.595e-05
+  ],
+  [
+   45010000000.0,
+   9.782e-05
+  ],
+  [
+   46010000000.0,
+   0.0001007
+  ],
+  [
+   47010000000.0,
+   0.0001024
+  ],
+  [
+   48010000000.0,
+   0.0001054
+  ],
+  [
+   49010000000.0,
+   0.0001081
+  ],
+  [
+   50010000000.0,
+   0.0001107
+  ],
+  [
+   51010000000.0,
+   0.0001139
+  ],
+  [
+   52010000000.0,
+   0.0001173
+  ],
+  [
+   53010000000.0,
+   0.0001192
+  ],
+  [
+   54010000000.0,
+   0.0001222
+  ],
+  [
+   55010000000.0,
+   0.000125
+  ],
+  [
+   56010000000.0,
+   0.0001279
+  ],
+  [
+   57010000000.0,
+   0.0001317
+  ],
+  [
+   58010000000.0,
+   0.0001346
+  ],
+  [
+   59010000000.0,
+   0.0001375
+  ],
+  [
+   60010000000.0,
+   0.0001419
+  ],
+  [
+   65010000000.0,
+   0.0001597
+  ],
+  [
+   67010000000.0,
+   0.0001682
+  ],
+  [
+   68010000000.0,
+   0.0001718
+  ],
+  [
+   69010000000.0,
+   0.0001763
+  ],
+  [
+   70010000000.0,
+   0.0001701
+  ],
+  [
+   71010000000.0,
+   0.0001745
+  ],
+  [
+   72010000000.0,
+   0.0001792
+  ],
+  [
+   74010000000.0,
+   0.0001869
+  ],
+  [
+   75010000000.0,
+   0.0001918
+  ],
+  [
+   76010000000.0,
+   0.0001966
+  ],
+  [
+   77010000000.0,
+   0.0002006
+  ],
+  [
+   78010000000.0,
+   0.0002058
+  ],
+  [
+   79010000000.0,
+   0.0002108
+  ],
+  [
+   80010000000.0,
+   0.0002156
+  ],
+  [
+   85010000000.0,
+   0.0002427
+  ],
+  [
+   90010000000.0,
+   0.00027
+  ],
+  [
+   95010000000.0,
+   0.0003064
+  ],
+  [
+   100000000000.0,
+   0.0003409
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "ATLAS_PbPb_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ALP search via gamma gamma -> a -> gamma gamma in Pb+Pb UPC (Sec 8.4). Observed 95% CL upper limit on ALP-photon coupling 1/Lambda_a vs m_a, extracted from the solid (observed) black curve of Fig 9 right panel (fig_09b.pdf), whose y-axis is natively in GeV^-1. Convention: L=-(1/4)(1/Lambda_a) a F Ftilde (Ref [12], STARlight), identical to canonical g_agamma=1/Lambda_a, so no conversion needed. Masses converted GeV->eV (x1e9), spanning 6-100 GeV. Extracted min 5.3e-5 / max 3.4e-4 GeV^-1 match paper text 0.06-0.3 TeV^-1. Discontinuity at m=70 GeV from mass-bin-width change (as noted in paper). Log-log calibration from axis tick strokes (mass: fit; coupling: 13-tick least-squares, residual ~1px). Assumes 100% ALP->gamma gamma branching. Not a DM search (density N/A). Dashed expected-limit curve (drawing 65) not reported.",
+ "num_points": 73,
+ "arxiv_id": "2008.05355",
+ "elapsed_s": 269.62138390541077,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 269310,
+  "duration_api_ms": 267078,
+  "total_cost_usd": 1.256673,
+  "usage": {
+   "input_tokens": 509,
+   "output_tokens": 19299,
+   "cache_creation_input_tokens": 49189,
+   "cache_read_input_tokens": 559526
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.05355.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:03:40-0500"
+ }
+}

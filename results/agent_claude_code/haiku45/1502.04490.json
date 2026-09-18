@@ -1,0 +1,246 @@
+{
+ "paper_title": "Results from the Solar Hidden Photon Search (SHIPS)",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.001281557,
+   5.455595e-07
+  ],
+  [
+   0.001433995,
+   4.153565e-07
+  ],
+  [
+   0.001604564,
+   3.259552e-07
+  ],
+  [
+   0.001795423,
+   2.636651e-07
+  ],
+  [
+   0.002008983,
+   2.335721e-07
+  ],
+  [
+   0.002247945,
+   2.335721e-07
+  ],
+  [
+   0.002515332,
+   2.335721e-07
+  ],
+  [
+   0.002814523,
+   1.482698e-07
+  ],
+  [
+   0.003149302,
+   1.43845e-07
+  ],
+  [
+   0.003523902,
+   1.09515e-07
+  ],
+  [
+   0.00394306,
+   9.701572e-08
+  ],
+  [
+   0.004412075,
+   8.337822e-08
+  ],
+  [
+   0.004936878,
+   7.3862e-08
+  ],
+  [
+   0.005524105,
+   6.543189e-08
+  ],
+  [
+   0.006181181,
+   5.796394e-08
+  ],
+  [
+   0.006916414,
+   5.292784e-08
+  ],
+  [
+   0.0077391,
+   4.688702e-08
+  ],
+  [
+   0.008659643,
+   4.153565e-08
+  ],
+  [
+   0.009689682,
+   3.79269e-08
+  ],
+  [
+   0.01084224,
+   3.359818e-08
+  ],
+  [
+   0.01213189,
+   3.067906e-08
+  ],
+  [
+   0.01357495,
+   2.801357e-08
+  ],
+  [
+   0.01518964,
+   2.481629e-08
+  ],
+  [
+   0.01699641,
+   2.198393e-08
+  ],
+  [
+   0.01901808,
+   2.007389e-08
+  ],
+  [
+   0.02128022,
+   1.778279e-08
+  ],
+  [
+   0.02381144,
+   1.575319e-08
+  ],
+  [
+   0.02664374,
+   1.395522e-08
+  ],
+  [
+   0.02981294,
+   1.274275e-08
+  ],
+  [
+   0.0333591,
+   1.128838e-08
+  ],
+  [
+   0.03732706,
+   1.030761e-08
+  ],
+  [
+   0.041767,
+   9.131168e-09
+  ],
+  [
+   0.04673507,
+   8.088998e-09
+  ],
+  [
+   0.05229406,
+   7.165775e-09
+  ],
+  [
+   0.05851429,
+   6.543189e-09
+  ],
+  [
+   0.06547439,
+   5.796394e-09
+  ],
+  [
+   0.07326237,
+   5.134833e-09
+  ],
+  [
+   0.08197671,
+   4.548778e-09
+  ],
+  [
+   0.09172759,
+   3.909356e-09
+  ],
+  [
+   0.1026383,
+   3.463169e-09
+  ],
+  [
+   0.1148468,
+   3.067906e-09
+  ],
+  [
+   0.1285075,
+   2.717756e-09
+  ],
+  [
+   0.1437931,
+   2.335721e-09
+  ],
+  [
+   0.1608969,
+   2.069138e-09
+  ],
+  [
+   0.1800351,
+   1.778279e-09
+  ],
+  [
+   0.2014497,
+   1.528307e-09
+  ],
+  [
+   0.2254116,
+   1.274275e-09
+  ],
+  [
+   0.2522236,
+   1.09515e-09
+  ],
+  [
+   0.2822248,
+   9.701572e-10
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "SHIPS_2013",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "95% C.L. upper limit on kinetic mixing parameter \u03c7 vs hidden photon mass, extracted from Figure 13. The SHIPS experiment searched for transversely polarised hidden photons from the Sun using a helioscope at Hamburg-Bergedorf, March-May 2013. Data span roughly 10^-3 to 0.3 eV in mass.",
+ "num_points": 49,
+ "arxiv_id": "1502.04490",
+ "elapsed_s": 183.39850401878357,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 30,
+  "duration_ms": 182568,
+  "duration_api_ms": 162294,
+  "total_cost_usd": 0.31579140000000006,
+  "usage": {
+   "input_tokens": 222,
+   "output_tokens": 13679,
+   "cache_creation_input_tokens": 62583,
+   "cache_read_input_tokens": 1220084
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1502.04490.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:03:17-0500"
+ }
+}

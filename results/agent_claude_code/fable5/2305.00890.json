@@ -1,0 +1,423 @@
+{
+ "paper_title": "Long-Baseline Quantum Sensor Network as Dark Matter Haloscope",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.2e-15,
+   0.9
+  ],
+  [
+   4.52e-15,
+   0.02
+  ],
+  [
+   4.5511e-15,
+   0.0078347
+  ],
+  [
+   4.9647e-15,
+   0.006189
+  ],
+  [
+   5.3783e-15,
+   0.0052348
+  ],
+  [
+   5.792e-15,
+   0.0045194
+  ],
+  [
+   6.2041e-15,
+   0.0039691
+  ],
+  [
+   6.6206e-15,
+   0.0035579
+  ],
+  [
+   7.0347e-15,
+   0.0032058
+  ],
+  [
+   7.4468e-15,
+   0.0029282
+  ],
+  [
+   7.8618e-15,
+   0.0027254
+  ],
+  [
+   8.6876e-15,
+   0.002329
+  ],
+  [
+   9.1031e-15,
+   0.0021751
+  ],
+  [
+   9.9304e-15,
+   0.0018683
+  ],
+  [
+   1.0758e-14,
+   0.0016464
+  ],
+  [
+   1.117e-14,
+   0.0015535
+  ],
+  [
+   1.1997e-14,
+   0.0014509
+  ],
+  [
+   1.2829e-14,
+   0.0013412
+  ],
+  [
+   1.4071e-14,
+   0.0011718
+  ],
+  [
+   1.4895e-14,
+   0.0010686
+  ],
+  [
+   1.6136e-14,
+   0.00093523
+  ],
+  [
+   1.6962e-14,
+   0.00088396
+  ],
+  [
+   1.8208e-14,
+   0.0008298
+  ],
+  [
+   1.9451e-14,
+   0.00076316
+  ],
+  [
+   2.1105e-14,
+   0.00067022
+  ],
+  [
+   2.2342e-14,
+   0.00060803
+  ],
+  [
+   2.3996e-14,
+   0.00053216
+  ],
+  [
+   2.5661e-14,
+   0.00049616
+  ],
+  [
+   2.7724e-14,
+   0.00044023
+  ],
+  [
+   2.938e-14,
+   0.00040211
+  ],
+  [
+   3.1453e-14,
+   0.00036667
+  ],
+  [
+   3.3927e-14,
+   0.00032813
+  ],
+  [
+   3.6011e-14,
+   0.00031014
+  ],
+  [
+   3.8491e-14,
+   0.00028281
+  ],
+  [
+   4.1385e-14,
+   0.00025308
+  ],
+  [
+   4.4281e-14,
+   0.00023038
+  ],
+  [
+   4.7585e-14,
+   0.00021297
+  ],
+  [
+   5.0916e-14,
+   0.00019788
+  ],
+  [
+   5.4218e-14,
+   0.00018324
+  ],
+  [
+   5.7951e-14,
+   0.00016794
+  ],
+  [
+   6.2074e-14,
+   0.00015393
+  ],
+  [
+   6.5393e-14,
+   0.00014303
+  ],
+  [
+   7.1183e-14,
+   0.00012821
+  ],
+  [
+   7.6166e-14,
+   0.00011852
+  ],
+  [
+   8.1542e-14,
+   0.00010975
+  ],
+  [
+   8.2378e-14,
+   0.00010789
+  ],
+  [
+   9.2708e-14,
+   0.00010008
+  ],
+  [
+   9.9732e-14,
+   8.8189e-05
+  ],
+  [
+   1.0597e-13,
+   8.2082e-05
+  ],
+  [
+   1.1424e-13,
+   7.6791e-05
+  ],
+  [
+   1.2211e-13,
+   7.1108e-05
+  ],
+  [
+   1.308e-13,
+   6.5621e-05
+  ],
+  [
+   1.3988e-13,
+   6.0557e-05
+  ],
+  [
+   1.4903e-13,
+   5.9126e-05
+  ],
+  [
+   1.5981e-13,
+   5.5126e-05
+  ],
+  [
+   1.6763e-13,
+   5.0959e-05
+  ],
+  [
+   1.7182e-13,
+   5.1308e-05
+  ],
+  [
+   1.8336e-13,
+   6.9665e-05
+  ],
+  [
+   2.0947e-13,
+   9.0324e-05
+  ],
+  [
+   2.2438e-13,
+   5.3456e-05
+  ],
+  [
+   2.397e-13,
+   3.6519e-05
+  ],
+  [
+   2.5661e-13,
+   3.4517e-05
+  ],
+  [
+   2.7443e-13,
+   3.1207e-05
+  ],
+  [
+   2.8864e-13,
+   3.0056e-05
+  ],
+  [
+   3.0768e-13,
+   2.7736e-05
+  ],
+  [
+   3.3046e-13,
+   2.6351e-05
+  ],
+  [
+   3.5934e-13,
+   2.5077e-05
+  ],
+  [
+   3.7673e-13,
+   2.2945e-05
+  ],
+  [
+   3.8594e-13,
+   2.4442e-05
+  ],
+  [
+   4.4021e-13,
+   1.9674e-05
+  ],
+  [
+   4.7077e-13,
+   1.8564e-05
+  ],
+  [
+   4.9223e-13,
+   1.7636e-05
+  ],
+  [
+   5.3841e-13,
+   1.622e-05
+  ],
+  [
+   5.7393e-13,
+   1.5278e-05
+  ],
+  [
+   6.1576e-13,
+   1.4342e-05
+  ],
+  [
+   6.5218e-13,
+   1.3191e-05
+  ],
+  [
+   7.0461e-13,
+   1.2361e-05
+  ],
+  [
+   7.5434e-13,
+   1.1138e-05
+  ],
+  [
+   8.0757e-13,
+   1.0384e-05
+  ],
+  [
+   8.6133e-13,
+   9.5503e-06
+  ],
+  [
+   9.241e-13,
+   8.889e-06
+  ],
+  [
+   9.8561e-13,
+   8.2593e-06
+  ],
+  [
+   1.0501e-12,
+   7.8065e-06
+  ],
+  [
+   1.1309e-12,
+   7.48e-06
+  ],
+  [
+   1.2061e-12,
+   7.1795e-06
+  ],
+  [
+   1.2933e-12,
+   6.8558e-06
+  ],
+  [
+   1.3632e-12,
+   6.6596e-06
+  ],
+  [
+   1.4791e-12,
+   6.3052e-06
+  ],
+  [
+   1.5844e-12,
+   5.6618e-06
+  ],
+  [
+   1.6935e-12,
+   5.0753e-06
+  ],
+  [
+   1.7994e-12,
+   4.7644e-06
+  ],
+  [
+   1.8533e-12,
+   4.8631e-06
+  ],
+  [
+   2.0701e-12,
+   4.5729e-06
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "QSNet_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Observed 95% C.L. exclusion on dark-photon kinetic mixing epsilon from Fig. 3b ('This work' blue-shaded region), extracted from the vector fill polygon in the e-print figure file Main-text/figure-3-6.pdf. Axes calibrated from the log-minor-tick vertex structure of the axis paths; calibration verified against the paper's quoted mass range 4.1 feV-2.1 peV (fill spans 4.14e-15 to 2.07e-12 eV) and the quoted epsilon ~ 5e-6 at 2.1 peV. Reported curve is the smooth baseline (lower envelope) of the jagged boundary; narrow upward spikes at noise/candidate frequencies (weaker limit, up to ~0.4 near 1e-13 eV) are not resampled. The exclusion rises to the top of the plotted frame (epsilon ~ 1) below ~4.5e-15 eV, represented by the first point. Paper assumes rho_DM = 0.45 GeV/cm^3 (matches canonical; no rescaling). The 'future projection' black line was ignored.",
+ "num_points": 93,
+ "arxiv_id": "2305.00890",
+ "elapsed_s": 232.53166913986206,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 231882,
+  "duration_api_ms": 225449,
+  "total_cost_usd": 1.8138815,
+  "usage": {
+   "input_tokens": 511,
+   "output_tokens": 17050,
+   "cache_creation_input_tokens": 39790,
+   "cache_read_input_tokens": 400524
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2305.00890.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:18:53-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "paper_title": "Constraining the axion-photon coupling using radio data of the Bullet Cluster",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.4e-05,
+   3.4e-11
+  ],
+  [
+   1.7e-05,
+   3.4e-11
+  ],
+  [
+   1.7e-05,
+   9e-12
+  ],
+  [
+   2e-05,
+   9e-12
+  ],
+  [
+   2e-05,
+   3.8e-12
+  ],
+  [
+   2.3e-05,
+   3.8e-12
+  ],
+  [
+   2.3e-05,
+   4.6e-12
+  ],
+  [
+   2.6e-05,
+   4.6e-12
+  ],
+  [
+   2.6e-05,
+   9.6e-12
+  ],
+  [
+   2.9e-05,
+   9.6e-12
+  ],
+  [
+   2.9e-05,
+   1.3e-11
+  ],
+  [
+   3.2e-05,
+   1.3e-11
+  ]
+ ],
+ "data_source": "table",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "BulletCluster_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline limit is the two-component (cosmic-ray power law + axion decay) 2-sigma upper limit on g_agamma from Table 2, shown as the blue solid line in Fig. 1. The limit is derived per 290 MHz radio sub-band of the Bullet Cluster spectrum (Shimwell et al. 2014), giving six mass bins spanning m_a = 14-32 ueV; emitted as a step function over the bin edges (14,17,20,23,26,29,32 ueV) with Table 2 values, verified against the vector paths of Fig. 1 (step function confirmed, values agree to <5%). The more conservative all-flux-from-decay limit (blue dashed line, 2.3-5.3e-11 GeV^-1) was not chosen since the paper presents the two-component limit as its main result. Limit assumes axions are all of the Bullet Cluster's dark matter (virial mass M = 3.1e15 Msun); it does not depend on the local Milky Way DM density, so no rho_DM rescaling applied. Confidence level: paper quotes limits ruled out at 2 sigma (~95%).",
+ "num_points": 12,
+ "arxiv_id": "2109.11734",
+ "elapsed_s": 74.77559614181519,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 9,
+  "duration_ms": 74022,
+  "duration_api_ms": 72177,
+  "total_cost_usd": 0.8391215000000001,
+  "usage": {
+   "input_tokens": 256,
+   "output_tokens": 5703,
+   "cache_creation_input_tokens": 25540,
+   "cache_read_input_tokens": 180839
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2109.11734.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T10:50:38-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

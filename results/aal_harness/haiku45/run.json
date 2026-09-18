@@ -1,0 +1,9 @@
+{
+ "system": "aal_harness",
+ "model": "claude-haiku-4-5-20251001",
+ "imported_from": "AutoAxionLimits evaluation/eval_runs/final2_haiku_n1 (master 73682236)",
+ "run_dates": "2026-07-03..2026-07-04",
+ "transport_notes": "API Message Batches, N=1 (AAL_READ_SAMPLES=3 vote retired later); benchmark cost arm",
+ "n_snapshots": 346,
+ "harness": "AutoAxionLimits extraction pipeline (text/table/vision/vector channels, convention registry, deterministic gates, corroboration, convention-review flags); snapshots are raw per-paper predictions, unmodified"
+}

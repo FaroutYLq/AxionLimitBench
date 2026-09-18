@@ -1,0 +1,270 @@
+{
+ "paper_title": "New Constraints on Dark Photon Dark Matter with Superconducting Nanowire Detectors in an Optical Haloscope",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.6961,
+   9.893e-12
+  ],
+  [
+   0.6981,
+   7.717e-12
+  ],
+  [
+   0.7001,
+   6.593e-12
+  ],
+  [
+   0.7021,
+   5.49e-12
+  ],
+  [
+   0.7041,
+   4.556e-12
+  ],
+  [
+   0.7061,
+   3.83e-12
+  ],
+  [
+   0.7081,
+   3.279e-12
+  ],
+  [
+   0.7101,
+   2.811e-12
+  ],
+  [
+   0.7122,
+   2.424e-12
+  ],
+  [
+   0.7142,
+   2.06e-12
+  ],
+  [
+   0.7163,
+   1.757e-12
+  ],
+  [
+   0.7184,
+   1.501e-12
+  ],
+  [
+   0.7204,
+   1.287e-12
+  ],
+  [
+   0.7225,
+   1.101e-12
+  ],
+  [
+   0.7247,
+   9.478e-13
+  ],
+  [
+   0.7268,
+   8.35e-13
+  ],
+  [
+   0.7289,
+   7.995e-13
+  ],
+  [
+   0.7311,
+   8.441e-13
+  ],
+  [
+   0.7332,
+   8.961e-13
+  ],
+  [
+   0.7354,
+   9.479e-13
+  ],
+  [
+   0.7376,
+   1.001e-12
+  ],
+  [
+   0.7398,
+   1.057e-12
+  ],
+  [
+   0.742,
+   1.111e-12
+  ],
+  [
+   0.7443,
+   1.164e-12
+  ],
+  [
+   0.7465,
+   1.216e-12
+  ],
+  [
+   0.7488,
+   1.265e-12
+  ],
+  [
+   0.751,
+   1.311e-12
+  ],
+  [
+   0.7533,
+   1.352e-12
+  ],
+  [
+   0.7556,
+   1.393e-12
+  ],
+  [
+   0.7579,
+   1.435e-12
+  ],
+  [
+   0.7602,
+   1.473e-12
+  ],
+  [
+   0.7626,
+   1.508e-12
+  ],
+  [
+   0.7649,
+   1.54e-12
+  ],
+  [
+   0.7673,
+   1.564e-12
+  ],
+  [
+   0.7697,
+   1.599e-12
+  ],
+  [
+   0.7721,
+   1.633e-12
+  ],
+  [
+   0.7745,
+   1.669e-12
+  ],
+  [
+   0.7769,
+   1.703e-12
+  ],
+  [
+   0.7794,
+   1.737e-12
+  ],
+  [
+   0.7818,
+   1.77e-12
+  ],
+  [
+   0.7843,
+   1.806e-12
+  ],
+  [
+   0.7868,
+   1.849e-12
+  ],
+  [
+   0.7893,
+   1.887e-12
+  ],
+  [
+   0.7918,
+   1.936e-12
+  ],
+  [
+   0.7944,
+   1.98e-12
+  ],
+  [
+   0.7969,
+   2.066e-12
+  ],
+  [
+   0.7995,
+   2.204e-12
+  ],
+  [
+   0.8021,
+   2.362e-12
+  ],
+  [
+   0.8047,
+   2.631e-12
+  ],
+  [
+   0.8073,
+   2.969e-12
+  ],
+  [
+   0.8099,
+   3.442e-12
+  ],
+  [
+   0.8126,
+   4.158e-12
+  ],
+  [
+   0.8153,
+   5.195e-12
+  ],
+  [
+   0.818,
+   6.88e-12
+  ],
+  [
+   0.8207,
+   9.947e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "LAMPOST_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "LAMPOST prototype optical haloscope search for dark photon dark matter (kinetic mixing epsilon = chi). Curve is the boundary of the magenta 'Limit from this work' shaded region in Fig. 4 (file kfig3.pdf), the paper's headline 90% CL limit. Extracted as vector data from the stroked outline via get_drawings; axes calibrated on the log-log tick labels (x: mA'/eV, y: epsilon). The region is a narrow bathtub over mass 0.70-0.82 eV with minimum epsilon ~ 8e-13 near 0.73 eV; excluded region lies above the curve. Points where the spike exits the top of the frame (epsilon > ~1e-11) were clipped. Local DM density rho_DM = 0.4 GeV/cm^3 assumed by the paper (not rescaled per task card). The thin purple '90% SDE' curve is a projection for an improved detector, not reported. chi reported directly (paper works with epsilon, not epsilon^2).",
+ "num_points": 55,
+ "arxiv_id": "2110.01582",
+ "elapsed_s": 122.44516515731812,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 122136,
+  "duration_api_ms": 119566,
+  "total_cost_usd": 0.5854564999999998,
+  "usage": {
+   "input_tokens": 398,
+   "output_tokens": 8691,
+   "cache_creation_input_tokens": 29058,
+   "cache_read_input_tokens": 308918
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2110.01582.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:48:06-0500"
+ }
+}

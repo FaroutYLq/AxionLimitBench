@@ -1,0 +1,126 @@
+{
+ "paper_title": "MICROSCOPE mission: first constraints on the violation of the weak equivalence principle by a light scalar dilaton",
+ "coupling_type": "ScalarBaryon",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.973e-16,
+   1e-12
+  ],
+  [
+   6.239173823512212e-16,
+   1.584893192461111e-12
+  ],
+  [
+   1.973e-15,
+   3.1622776601683794e-12
+  ],
+  [
+   6.239173823512212e-15,
+   5.011872336272715e-12
+  ],
+  [
+   1.973e-14,
+   1e-11
+  ],
+  [
+   6.239173823512212e-14,
+   1.5848931924611107e-11
+  ],
+  [
+   1.973e-13,
+   2.5118864315095823e-11
+  ],
+  [
+   6.239173823512213e-13,
+   3.9810717055349695e-11
+  ],
+  [
+   1.973e-12,
+   6.309573444801942e-11
+  ],
+  [
+   6.239173823512213e-12,
+   3.1622776601683795e-10
+  ],
+  [
+   1.973e-11,
+   1e-09
+  ],
+  [
+   6.239173823512212e-11,
+   3.1622776601683795e-09
+  ],
+  [
+   1.973e-10,
+   1e-08
+  ],
+  [
+   6.239173823512211e-10,
+   1e-07
+  ],
+  [
+   1.973e-09,
+   1e-06
+  ],
+  [
+   6.239173823512212e-09,
+   1e-05
+  ],
+  [
+   1.973e-08,
+   3.1622776601683795e-05
+  ],
+  [
+   6.239173823512211e-08,
+   6.309573444801929e-05
+  ],
+  [
+   1.973e-07,
+   0.0001
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.78,
+ "suggested_experiment_name": "MICROSCOPE_2018",
+ "coupling_convention": "coupling (dimensionless)",
+ "notes": "Curve extracted from Figure 1, left panel (q = B baryon coupling via Yukawa interaction). MICROSCOPE measures the E\u00f6tv\u00f6s parameter using platinum and titanium test masses in orbit. Constraint improves previous results by ~1 order of magnitude for m_\u03c6 < few \u00d710^-12 eV (\u03bb > few \u00d710^5 m). Paper reports constraint at 2-\u03c3 confidence level: \u03b7 = (-1 \u00b1 27) \u00d7 10^-15. The coupling \u03b1 parameterizes composition-dependent fifth-force strength relative to gravity in Yukawa potential V(r) = -Gm\u2081m\u2082/r [1 + \u03b1 e^(-r/\u03bb)].",
+ "num_points": 19,
+ "arxiv_id": "1712.00483",
+ "elapsed_s": 174.51761293411255,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 10,
+  "duration_ms": 173362,
+  "duration_api_ms": 159798,
+  "total_cost_usd": 0.2169649,
+  "usage": {
+   "input_tokens": 78,
+   "output_tokens": 14805,
+   "cache_creation_input_tokens": 51658,
+   "cache_read_input_tokens": 395459
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1712.00483.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:32:59-0500"
+ }
+}

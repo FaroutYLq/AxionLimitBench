@@ -1,0 +1,407 @@
+{
+ "paper_title": "Search for oscillations of fundamental constants using molecular spectroscopy",
+ "coupling_type": "ScalarNucleon",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.398e-14,
+   324700.0
+  ],
+  [
+   5.422e-14,
+   379600.0
+  ],
+  [
+   6.684e-14,
+   321800.0
+  ],
+  [
+   8.241e-14,
+   315400.0
+  ],
+  [
+   1.016e-13,
+   368900.0
+  ],
+  [
+   1.253e-13,
+   335100.0
+  ],
+  [
+   1.544e-13,
+   602100.0
+  ],
+  [
+   1.904e-13,
+   440300.0
+  ],
+  [
+   2.347e-13,
+   715600.0
+  ],
+  [
+   2.894e-13,
+   626100.0
+  ],
+  [
+   3.568e-13,
+   367500.0
+  ],
+  [
+   4.398e-13,
+   344400.0
+  ],
+  [
+   5.423e-13,
+   425600.0
+  ],
+  [
+   6.685e-13,
+   544300.0
+  ],
+  [
+   8.242e-13,
+   890800.0
+  ],
+  [
+   1.016e-12,
+   711000.0
+  ],
+  [
+   1.253e-12,
+   800000.0
+  ],
+  [
+   1.544e-12,
+   972200.0
+  ],
+  [
+   1.904e-12,
+   1096000.0
+  ],
+  [
+   2.348e-12,
+   1163000.0
+  ],
+  [
+   2.894e-12,
+   1343000.0
+  ],
+  [
+   3.568e-12,
+   1583000.0
+  ],
+  [
+   4.399e-12,
+   1919000.0
+  ],
+  [
+   5.423e-12,
+   2183000.0
+  ],
+  [
+   6.686e-12,
+   2631000.0
+  ],
+  [
+   8.243e-12,
+   2999000.0
+  ],
+  [
+   1.016e-11,
+   4037000.0
+  ],
+  [
+   1.253e-11,
+   4991000.0
+  ],
+  [
+   1.545e-11,
+   6359000.0
+  ],
+  [
+   1.904e-11,
+   8654000.0
+  ],
+  [
+   2.348e-11,
+   11050000.0
+  ],
+  [
+   2.895e-11,
+   13680000.0
+  ],
+  [
+   3.569e-11,
+   18240000.0
+  ],
+  [
+   4.4e-11,
+   24480000.0
+  ],
+  [
+   5.424e-11,
+   33210000.0
+  ],
+  [
+   6.687e-11,
+   44000000.0
+  ],
+  [
+   8.244e-11,
+   57190000.0
+  ],
+  [
+   1.016e-10,
+   76170000.0
+  ],
+  [
+   1.253e-10,
+   103100000.0
+  ],
+  [
+   1.545e-10,
+   141000000.0
+  ],
+  [
+   1.905e-10,
+   200900000.0
+  ],
+  [
+   2.348e-10,
+   302000000.0
+  ],
+  [
+   2.895e-10,
+   487700000.0
+  ],
+  [
+   3.569e-10,
+   778100000.0
+  ],
+  [
+   4.195e-10,
+   48480000.0
+  ],
+  [
+   4.908e-10,
+   51220000.0
+  ],
+  [
+   5.742e-10,
+   58820000.0
+  ],
+  [
+   6.719e-10,
+   76010000.0
+  ],
+  [
+   7.861e-10,
+   88830000.0
+  ],
+  [
+   9.197e-10,
+   99320000.0
+  ],
+  [
+   1.076e-09,
+   112000000.0
+  ],
+  [
+   1.259e-09,
+   127900000.0
+  ],
+  [
+   1.473e-09,
+   165200000.0
+  ],
+  [
+   1.723e-09,
+   190100000.0
+  ],
+  [
+   2.016e-09,
+   207400000.0
+  ],
+  [
+   2.359e-09,
+   261500000.0
+  ],
+  [
+   2.76e-09,
+   288500000.0
+  ],
+  [
+   3.23e-09,
+   343100000.0
+  ],
+  [
+   3.779e-09,
+   419000000.0
+  ],
+  [
+   4.421e-09,
+   466600000.0
+  ],
+  [
+   5.172e-09,
+   550100000.0
+  ],
+  [
+   6.052e-09,
+   651900000.0
+  ],
+  [
+   7.081e-09,
+   727900000.0
+  ],
+  [
+   8.284e-09,
+   868100000.0
+  ],
+  [
+   9.693e-09,
+   999000000.0
+  ],
+  [
+   1.134e-08,
+   1212000000.0
+  ],
+  [
+   1.327e-08,
+   1377000000.0
+  ],
+  [
+   1.552e-08,
+   1595000000.0
+  ],
+  [
+   1.816e-08,
+   1874000000.0
+  ],
+  [
+   2.125e-08,
+   2158000000.0
+  ],
+  [
+   2.486e-08,
+   2517000000.0
+  ],
+  [
+   2.909e-08,
+   2984000000.0
+  ],
+  [
+   3.404e-08,
+   3472000000.0
+  ],
+  [
+   3.982e-08,
+   4013000000.0
+  ],
+  [
+   4.659e-08,
+   4852000000.0
+  ],
+  [
+   5.451e-08,
+   5683000000.0
+  ],
+  [
+   6.378e-08,
+   7027000000.0
+  ],
+  [
+   7.462e-08,
+   8556000000.0
+  ],
+  [
+   8.731e-08,
+   10550000000.0
+  ],
+  [
+   1.021e-07,
+   13490000000.0
+  ],
+  [
+   1.195e-07,
+   17380000000.0
+  ],
+  [
+   1.398e-07,
+   22710000000.0
+  ],
+  [
+   1.636e-07,
+   30110000000.0
+  ],
+  [
+   1.914e-07,
+   40180000000.0
+  ],
+  [
+   2.24e-07,
+   56660000000.0
+  ],
+  [
+   2.62e-07,
+   79570000000.0
+  ],
+  [
+   3.066e-07,
+   114500000000.0
+  ],
+  [
+   3.587e-07,
+   167200000000.0
+  ],
+  [
+   4.197e-07,
+   253300000000.0
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "I2_2021",
+ "coupling_convention": "coupling (dimensionless)",
+ "notes": "Headline result: Fig. 3 exclusion on the QCD-sector coupling combination Q_N_hat . d = 0.999 d_gs + 0.092 d_mhat + 3e-4 d_deltam + 0.047 d_ms (dominated by the gluon coupling d_gs), defined via L = (phi/M_Pl)[sum_X d_mX m_X XbarX + (d_gs beta/2g_s) G^2] with reduced Planck mass M_Pl = 2.4e18 GeV (Eqs. 1-6); nucleon-mass modulation delta m_N/m_N = 0.910 Q_N_hat.d phi/M_Pl. Curve digitised from the vector PDF of Fig. 3 (dtotal_2.pdf), standard galactic-halo scenario (rho_DM = 0.3 GeV/cm^3, the paper's main scenario; solar-halo and earth-halo curves not reported). Combined envelope of Experiment A (I2 R(56)32-0, 10 Hz - 100 kHz, i.e. 4.4e-14 - 4.2e-10 eV) and Experiment B (I2 R(122)2-10, 100 kHz - 100 MHz, up to 4.2e-7 eV); step at 4.2e-10 eV is the A/B handover. Mass from frequency via m = h f. 95% CL.",
+ "num_points": 89,
+ "arxiv_id": "2111.06883",
+ "elapsed_s": 200.1084921360016,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 199758,
+  "duration_api_ms": 196323,
+  "total_cost_usd": 1.6980784999999998,
+  "usage": {
+   "input_tokens": 402,
+   "output_tokens": 14873,
+   "cache_creation_input_tokens": 41682,
+   "cache_read_input_tokens": 367726
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2111.06883.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:37:07-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

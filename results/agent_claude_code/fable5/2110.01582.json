@@ -1,0 +1,309 @@
+{
+ "paper_title": "New Constraints on Dark Photon Dark Matter with Superconducting Nanowire Detectors in an Optical Haloscope",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.69072,
+   2.309e-11
+  ],
+  [
+   0.69264,
+   1.833e-11
+  ],
+  [
+   0.6946,
+   1.346e-11
+  ],
+  [
+   0.69652,
+   1e-11
+  ],
+  [
+   0.6985,
+   7.801e-12
+  ],
+  [
+   0.70047,
+   6.665e-12
+  ],
+  [
+   0.70246,
+   5.55e-12
+  ],
+  [
+   0.70445,
+   4.607e-12
+  ],
+  [
+   0.70644,
+   3.873e-12
+  ],
+  [
+   0.70849,
+   3.315e-12
+  ],
+  [
+   0.71049,
+   2.843e-12
+  ],
+  [
+   0.71255,
+   2.451e-12
+  ],
+  [
+   0.71461,
+   2.083e-12
+  ],
+  [
+   0.71668,
+   1.777e-12
+  ],
+  [
+   0.71875,
+   1.518e-12
+  ],
+  [
+   0.72083,
+   1.302e-12
+  ],
+  [
+   0.72291,
+   1.114e-12
+  ],
+  [
+   0.72506,
+   9.586e-13
+  ],
+  [
+   0.72715,
+   8.446e-13
+  ],
+  [
+   0.7293,
+   8.086e-13
+  ],
+  [
+   0.73145,
+   8.538e-13
+  ],
+  [
+   0.73361,
+   9.063e-13
+  ],
+  [
+   0.73583,
+   9.588e-13
+  ],
+  [
+   0.73799,
+   1.012e-12
+  ],
+  [
+   0.74018,
+   1.07e-12
+  ],
+  [
+   0.74241,
+   1.124e-12
+  ],
+  [
+   0.74464,
+   1.177e-12
+  ],
+  [
+   0.74688,
+   1.23e-12
+  ],
+  [
+   0.74914,
+   1.28e-12
+  ],
+  [
+   0.75139,
+   1.325e-12
+  ],
+  [
+   0.7537,
+   1.367e-12
+  ],
+  [
+   0.75598,
+   1.408e-12
+  ],
+  [
+   0.7583,
+   1.451e-12
+  ],
+  [
+   0.76063,
+   1.49e-12
+  ],
+  [
+   0.76297,
+   1.525e-12
+  ],
+  [
+   0.76531,
+   1.557e-12
+  ],
+  [
+   0.76772,
+   1.582e-12
+  ],
+  [
+   0.77008,
+   1.617e-12
+  ],
+  [
+   0.77249,
+   1.651e-12
+  ],
+  [
+   0.77491,
+   1.687e-12
+  ],
+  [
+   0.77734,
+   1.722e-12
+  ],
+  [
+   0.77977,
+   1.756e-12
+  ],
+  [
+   0.78221,
+   1.79e-12
+  ],
+  [
+   0.78472,
+   1.826e-12
+  ],
+  [
+   0.78718,
+   1.87e-12
+  ],
+  [
+   0.7897,
+   1.908e-12
+  ],
+  [
+   0.79222,
+   1.958e-12
+  ],
+  [
+   0.79475,
+   2.002e-12
+  ],
+  [
+   0.79734,
+   2.089e-12
+  ],
+  [
+   0.79989,
+   2.228e-12
+  ],
+  [
+   0.80249,
+   2.389e-12
+  ],
+  [
+   0.8051,
+   2.661e-12
+  ],
+  [
+   0.80771,
+   3.002e-12
+  ],
+  [
+   0.81034,
+   3.48e-12
+  ],
+  [
+   0.81298,
+   4.204e-12
+  ],
+  [
+   0.81568,
+   5.252e-12
+  ],
+  [
+   0.81839,
+   6.955e-12
+  ],
+  [
+   0.8211,
+   1.005e-11
+  ],
+  [
+   0.82382,
+   1.689e-11
+  ],
+  [
+   0.82656,
+   3.722e-11
+  ],
+  [
+   0.82929,
+   3.868e-11
+  ],
+  [
+   0.83209,
+   4.06e-11
+  ],
+  [
+   0.8349,
+   4.387e-11
+  ],
+  [
+   0.83773,
+   4.661e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "LAMPOST_2021",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Observed 90% CL limit on dark photon kinetic mixing epsilon from Fig. 4 of the paper ('Limit from this work', magenta region boundary), recovered from the vector paths of the e-print figure file kfig3.pdf; axes calibrated against the labeled tick marks (log-log). This is the nominal headline limit (marginalized/minimized over target measurement uncertainties), not the thin-purple 90%-SDE future-reach curve, which is a projection. Curve endpoints extend slightly above the plotted frame (eps > 1e-11) as stored in the vector path. Paper assumes local DM density 0.4 GeV/cm^3 and randomly varying dark photon polarization.",
+ "num_points": 64,
+ "arxiv_id": "2110.01582",
+ "elapsed_s": 95.22742199897766,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 94695,
+  "duration_api_ms": 92275,
+  "total_cost_usd": 1.2536370000000001,
+  "usage": {
+   "input_tokens": 316,
+   "output_tokens": 7150,
+   "cache_creation_input_tokens": 41550,
+   "cache_read_input_tokens": 311907
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [
+   "result.json found at eprint/result.json"
+  ],
+  "events_file": "2110.01582.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:33:47-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,390 @@
+{
+ "paper_title": "Spectra of axions emitted from main sequence stars",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   388.14,
+   9.9998e-12
+  ],
+  [
+   430.0,
+   1.142e-11
+  ],
+  [
+   479.99,
+   1.3898e-11
+  ],
+  [
+   549.99,
+   1.7497e-11
+  ],
+  [
+   620.0,
+   2.1007e-11
+  ],
+  [
+   700.0,
+   2.4603e-11
+  ],
+  [
+   780.01,
+   2.7358e-11
+  ],
+  [
+   889.98,
+   2.954e-11
+  ],
+  [
+   1000.0,
+   3.0178e-11
+  ],
+  [
+   1070.0,
+   3.0178e-11
+  ],
+  [
+   1150.0,
+   2.9839e-11
+  ],
+  [
+   1160.0,
+   2.9638e-11
+  ],
+  [
+   1230.0,
+   2.9438e-11
+  ],
+  [
+   1320.0,
+   2.9042e-11
+  ],
+  [
+   1350.0,
+   2.8781e-11
+  ],
+  [
+   1410.0,
+   2.8716e-11
+  ],
+  [
+   1520.0,
+   2.8394e-11
+  ],
+  [
+   1570.0,
+   2.8138e-11
+  ],
+  [
+   1630.0,
+   2.8138e-11
+  ],
+  [
+   1740.0,
+   2.7949e-11
+  ],
+  [
+   1830.0,
+   2.7572e-11
+  ],
+  [
+   1870.0,
+   2.7697e-11
+  ],
+  [
+   2000.0,
+   2.751e-11
+  ],
+  [
+   2120.0,
+   2.7201e-11
+  ],
+  [
+   2150.0,
+   2.7325e-11
+  ],
+  [
+   2300.1,
+   2.714e-11
+  ],
+  [
+   2470.0,
+   2.6896e-11
+  ],
+  [
+   2640.0,
+   2.6957e-11
+  ],
+  [
+   2830.0,
+   2.6957e-11
+  ],
+  [
+   2870.0,
+   2.6835e-11
+  ],
+  [
+   3040.0,
+   2.7018e-11
+  ],
+  [
+   3250.1,
+   2.714e-11
+  ],
+  [
+   3330.0,
+   2.7079e-11
+  ],
+  [
+   3490.1,
+   2.7386e-11
+  ],
+  [
+   3740.1,
+   2.776e-11
+  ],
+  [
+   3870.1,
+   2.7822e-11
+  ],
+  [
+   4010.0,
+   2.8138e-11
+  ],
+  [
+   4300.1,
+   2.8651e-11
+  ],
+  [
+   4500.0,
+   2.8911e-11
+  ],
+  [
+   4600.1,
+   2.9173e-11
+  ],
+  [
+   4940.0,
+   2.9704e-11
+  ],
+  [
+   5230.0,
+   2.9974e-11
+  ],
+  [
+   5290.1,
+   3.0178e-11
+  ],
+  [
+   5670.1,
+   3.052e-11
+  ],
+  [
+   6080.1,
+   3.052e-11
+  ],
+  [
+   6520.1,
+   3.059e-11
+  ],
+  [
+   6980.1,
+   3.0178e-11
+  ],
+  [
+   7070.3,
+   2.9974e-11
+  ],
+  [
+   7490.2,
+   2.9504e-11
+  ],
+  [
+   8020.3,
+   2.8522e-11
+  ],
+  [
+   8220.1,
+   2.7949e-11
+  ],
+  [
+   8600.1,
+   2.7201e-11
+  ],
+  [
+   9000.4,
+   2.6296e-11
+  ],
+  [
+   9220.2,
+   2.5767e-11
+  ],
+  [
+   9550.3,
+   2.4965e-11
+  ],
+  [
+   9880.5,
+   2.4353e-11
+  ],
+  [
+   10000.0,
+   2.4134e-11
+  ],
+  [
+   10590.0,
+   2.3173e-11
+  ],
+  [
+   11000.0,
+   2.2707e-11
+  ],
+  [
+   11350.0,
+   2.2452e-11
+  ],
+  [
+   11810.0,
+   2.2401e-11
+  ],
+  [
+   12170.0,
+   2.2656e-11
+  ],
+  [
+   12370.0,
+   2.2861e-11
+  ],
+  [
+   13040.0,
+   2.4134e-11
+  ],
+  [
+   13980.0,
+   2.6775e-11
+  ],
+  [
+   14991.0,
+   2.9704e-11
+  ],
+  [
+   15000.0,
+   3.0109e-11
+  ],
+  [
+   16061.0,
+   3.2074e-11
+  ],
+  [
+   17221.0,
+   3.409e-11
+  ],
+  [
+   17440.0,
+   3.4633e-11
+  ],
+  [
+   18451.0,
+   3.5585e-11
+  ],
+  [
+   19780.0,
+   3.6233e-11
+  ],
+  [
+   20271.0,
+   3.6644e-11
+  ],
+  [
+   21201.0,
+   3.6233e-11
+  ],
+  [
+   22731.0,
+   3.5344e-11
+  ],
+  [
+   23561.0,
+   3.4947e-11
+  ],
+  [
+   24361.0,
+   3.3783e-11
+  ],
+  [
+   26111.0,
+   3.1642e-11
+  ],
+  [
+   27391.0,
+   3.0109e-11
+  ],
+  [
+   27991.0,
+   2.8976e-11
+  ],
+  [
+   30002.0,
+   2.6059e-11
+  ],
+  [
+   31842.0,
+   2.3595e-11
+  ],
+  [
+   37012.0,
+   1.6554e-11
+  ],
+  [
+   43022.0,
+   1.0659e-11
+  ],
+  [
+   43550.0,
+   9.9998e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.82,
+ "suggested_experiment_name": "NuSTAR_CXB_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Exclusion limit derived from chi-squared goodness-of-fit test against NuSTAR cosmic X-ray background (CXB) data (arXiv:2307.11216 Figure 7). The paper computes stellar axion emission spectra and derives limits on the axion-photon coupling by modeling the diffuse stellar axion background (StAB) and its decay to X-rays. The excluded region corresponds to axion parameters where the predicted StAB decay signal would be inconsistent with observed CXB spectrum at 95% confidence level. Axion decay lifetime \u03c4_a is calculated at peak StAB energy (~4.5 keV for m_a \u2264 4.5 keV, ~m_a for m_a > 4.5 keV). Note: This limit overlaps with and is subdominant to existing constraints from globular clusters and relic axion freeze-in (shown in gray in Figure 7), but represents an independent astrophysical constraint from stellar X-ray observations.",
+ "num_points": 85,
+ "arxiv_id": "2307.11216",
+ "elapsed_s": 145.0457968711853,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 144741,
+  "duration_api_ms": 141597,
+  "total_cost_usd": 0.24138739999999997,
+  "usage": {
+   "input_tokens": 190,
+   "output_tokens": 13508,
+   "cache_creation_input_tokens": 45839,
+   "cache_read_input_tokens": 819794
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2307.11216.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:38:50-0500"
+ }
+}

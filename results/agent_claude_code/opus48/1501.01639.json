@@ -1,0 +1,98 @@
+{
+ "paper_title": "New axion and hidden photon constraints from a solar data global fit",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3e-05,
+   6e-08
+  ],
+  [
+   0.0001,
+   1.8e-08
+  ],
+  [
+   0.0003,
+   6e-09
+  ],
+  [
+   0.001,
+   1.8e-09
+  ],
+  [
+   0.003,
+   6e-10
+  ],
+  [
+   0.01,
+   1.8e-10
+  ],
+  [
+   0.03,
+   6e-11
+  ],
+  [
+   0.1,
+   1.8e-11
+  ],
+  [
+   0.3,
+   6e-12
+  ],
+  [
+   1.0,
+   1.8e-12
+  ],
+  [
+   3.0,
+   6e-13
+  ],
+  [
+   8.0,
+   2.25e-13
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.997,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "Vinyoles_2015",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline hidden-photon result: solar global fit (helioseismology + solar neutrinos) gives chi*m < 1.8e-12 eV at 3 sigma (Delta chi^2 = 9), from resonant emission of longitudinal hidden photons; this is the 'Sun-L (global)' region in Fig. 11 whose lower boundary is a flat line at chi*m = 1.8e-12 eV. The compilation variable is chi (not chi*m), so I converted chi = 1.8e-12 eV / m along the flat chi*m line. Mass range 3e-5 to 8 eV is the paper's stated range where this constraint is the outermost/most stringent (Fig. 11 and text); the limit physically holds for m <~ 0.3 keV (longitudinal-mode resonant emission). Points lie on the power law chi = 1.8e-12/m and define a straight diagonal in log-log. confidence_level = 0.997 reflects the paper's 3 sigma (Delta chi^2 = 9) upper limit (schema's 0.90/0.95 not applicable). Not a dark-matter search, so no density rescaling (dm_density_assumed null). The paper also reports an axion-photon limit g_agamma < 4.1e-10 GeV^-1 at 3 sigma (g10 < 4.1), but it is explicitly presented as a validation test case that is NOT competitive with CAST/HB; the hidden-photon limit is the paper's novel main result ('most restrictive upper limit available across a wide range of masses').",
+ "num_points": 12,
+ "arxiv_id": "1501.01639",
+ "elapsed_s": 148.42071390151978,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 148116,
+  "duration_api_ms": 146540,
+  "total_cost_usd": 0.822667,
+  "usage": {
+   "input_tokens": 229,
+   "output_tokens": 10113,
+   "cache_creation_input_tokens": 44535,
+   "cache_read_input_tokens": 246694
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1501.01639.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:31:43-0500"
+ }
+}

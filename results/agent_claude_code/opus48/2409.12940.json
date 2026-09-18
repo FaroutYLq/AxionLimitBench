@@ -1,0 +1,310 @@
+{
+ "paper_title": "Shaping Dark Photon Spectral Distortions",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.34e-14,
+   2.797e-06
+  ],
+  [
+   7.79e-14,
+   1.931e-06
+  ],
+  [
+   1.55e-13,
+   1.079e-06
+  ],
+  [
+   2.97e-13,
+   6.696e-07
+  ],
+  [
+   5.5e-13,
+   4.624e-07
+  ],
+  [
+   1.17e-12,
+   3.189e-07
+  ],
+  [
+   2.02e-12,
+   2.581e-07
+  ],
+  [
+   3.63e-12,
+   2.322e-07
+  ],
+  [
+   5.47e-12,
+   2.202e-07
+  ],
+  [
+   1.099e-11,
+   2.322e-07
+  ],
+  [
+   1.53e-11,
+   2.72e-07
+  ],
+  [
+   2.23e-11,
+   3.547e-07
+  ],
+  [
+   3.095e-11,
+   4.873e-07
+  ],
+  [
+   4.43e-11,
+   2.147e-06
+  ],
+  [
+   8.22e-11,
+   1.931e-06
+  ],
+  [
+   1.28e-10,
+   1.737e-06
+  ],
+  [
+   2.22e-10,
+   1.406e-06
+  ],
+  [
+   3.47e-10,
+   1.079e-06
+  ],
+  [
+   5.06e-10,
+   8.281e-07
+  ],
+  [
+   7.9e-10,
+   5.72e-07
+  ],
+  [
+   1.065e-09,
+   4.221e-07
+  ],
+  [
+   1.427e-09,
+   3.142e-07
+  ],
+  [
+   1.982e-09,
+   2.322e-07
+  ],
+  [
+   2.74e-09,
+   1.702e-07
+  ],
+  [
+   3.773e-09,
+   1.238e-07
+  ],
+  [
+   5.172e-09,
+   8.906e-08
+  ],
+  [
+   7.004e-09,
+   6.326e-08
+  ],
+  [
+   9.285e-09,
+   3.985e-08
+  ],
+  [
+   1.284e-08,
+   3.864e-08
+  ],
+  [
+   1.71e-08,
+   3.577e-08
+  ],
+  [
+   2.553e-08,
+   3.401e-08
+  ],
+  [
+   3.392e-08,
+   3.307e-08
+  ],
+  [
+   4.69e-08,
+   3.227e-08
+  ],
+  [
+   6.485e-08,
+   3.199e-08
+  ],
+  [
+   8.654e-08,
+   2.999e-08
+  ],
+  [
+   1.24e-07,
+   2.941e-08
+  ],
+  [
+   1.588e-07,
+   2.9e-08
+  ],
+  [
+   2.37e-07,
+   2.865e-08
+  ],
+  [
+   3.277e-07,
+   2.835e-08
+  ],
+  [
+   4.53e-07,
+   2.81e-08
+  ],
+  [
+   6.264e-07,
+   2.788e-08
+  ],
+  [
+   8.66e-07,
+   2.77e-08
+  ],
+  [
+   1.197e-06,
+   2.752e-08
+  ],
+  [
+   1.656e-06,
+   2.736e-08
+  ],
+  [
+   2.289e-06,
+   2.718e-08
+  ],
+  [
+   2.977e-06,
+   2.7e-08
+  ],
+  [
+   4.376e-06,
+   2.679e-08
+  ],
+  [
+   6.05e-06,
+   2.633e-08
+  ],
+  [
+   8.365e-06,
+   2.557e-08
+  ],
+  [
+   1.157e-05,
+   2.553e-08
+  ],
+  [
+   1.599e-05,
+   2.564e-08
+  ],
+  [
+   2.211e-05,
+   2.559e-08
+  ],
+  [
+   3.181e-05,
+   2.559e-08
+  ],
+  [
+   4.227e-05,
+   2.564e-08
+  ],
+  [
+   5.844e-05,
+   2.576e-08
+  ],
+  [
+   8.08e-05,
+   2.598e-08
+  ],
+  [
+   0.0001117,
+   2.639e-08
+  ],
+  [
+   0.0001482,
+   2.709e-08
+  ],
+  [
+   0.0002212,
+   2.836e-08
+  ],
+  [
+   0.0002974,
+   3.065e-08
+  ],
+  [
+   0.000411,
+   3.497e-08
+  ],
+  [
+   0.0005796,
+   4.304e-08
+  ],
+  [
+   0.0007973,
+   6.326e-08
+  ],
+  [
+   0.001094,
+   1.171e-07
+  ],
+  [
+   0.001431,
+   3.188e-07
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "COBE-FIRAS_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline result: 95% C.L. COBE-FIRAS constraint on kinetic mixing epsilon (=chi) vs dark photon mass m_Ap from gamma->A prime resonant conversion CMB spectral distortions (Fig.4 = Fig.5 zoom). Traced the fiducial solid+dotted colored FIRAS line (free-streaming=purple, y-era=blue, mu-y transition=green, mu-era=orange, T-era=red) from vector PDF mAp_eps_plt_allbounds.pdf, lower-envelope of the excluded region. Y-axis calibrated from actual tick-mark vector positions (text baselines sit ~6px below ticks, which would bias the compressed full-range figure by ~1.6x; verified against the y-stretched zoomin Fig.5 giving plateau ~2.7e-8). Curve: free-streaming bathtub min ~2.2e-7 at ~5e-12 eV, bump ~2e-6 near 5e-11 eV, plateau eps~2.55-2.8e-8 over 1e-8..1e-4 eV, rising T-era wall at high mass. Not a dark-matter search (assumes negligible A prime abundance), so no density. Highest-mass points (>~5e-4 eV) are the green/red dotted portions where the paper flags the mu-y transition/large-distortion approximation as less robust; XENON1T supersedes there. epsilon reported directly (chi==epsilon).",
+ "num_points": 65,
+ "arxiv_id": "2409.12940",
+ "elapsed_s": 494.1409330368042,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 32,
+  "duration_ms": 493801,
+  "duration_api_ms": 488008,
+  "total_cost_usd": 2.4218919999999993,
+  "usage": {
+   "input_tokens": 880,
+   "output_tokens": 31209,
+   "cache_creation_input_tokens": 80466,
+   "cache_read_input_tokens": 1665214
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2409.12940.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:53:06-0500"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "paper_title": "Production of dark matter axions from collapse of string-wall systems",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-12,
+   3.82e-11
+  ],
+  [
+   1e-10,
+   3.82e-11
+  ],
+  [
+   1e-08,
+   3.82e-11
+  ],
+  [
+   1e-06,
+   3.82e-11
+  ],
+  [
+   1e-05,
+   3.82e-11
+  ],
+  [
+   0.0001,
+   3.82e-11
+  ],
+  [
+   0.000218,
+   3.82e-11
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.55,
+ "suggested_experiment_name": "StringWallDecay_2012",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Cosmological dark-matter-overproduction bound on the axion decay constant from field-theoretic lattice simulations of axion production by string-wall network collapse (post-inflationary PQ breaking, N_DW=1). Eq. (95): Omega_a,tot h^2 = (8.4 +/- 3.0) (Fa/10^12 GeV)^1.19 (g*=70, Lambda=400 MeV); requiring this not exceed Omega_CDM h^2 = 0.11 gives Eq. (96): Fa <~ (2.0-3.8)e10 GeV. Reported here as the central value Fa = 2.6e10 GeV, i.e. a lower-bound/exclusion line at 1/f_a = 3.8e-11 GeV^-1 (region with smaller 1/f_a, larger Fa, excluded), drawn as a flat line up to the QCD axion mass at this Fa, m_a = 5.7 ueV x (1e12 GeV/Fa) = 2.2e-4 eV; the quoted (2.0-3.8)e10 range spans 1/f_a = 2.6e-11 to 5.0e-11 GeV^-1, all within a factor 2 of the central value. Not a statistical confidence limit: the 0.95 entry is nominal, the range reflects the +/-50% scaling-parameter (xi) uncertainty. No local DM density assumed (bound uses the cosmological abundance Omega_CDM h^2 = 0.11). No figure gives this as a curve; values taken from Eqs. (95)-(96) and Conclusion (v3 text, which incorporates the published corrections).",
+ "num_points": 7,
+ "arxiv_id": "1202.5851",
+ "elapsed_s": 124.99816918373108,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 5,
+  "duration_ms": 124466,
+  "duration_api_ms": 123273,
+  "total_cost_usd": 1.2015909999999999,
+  "usage": {
+   "input_tokens": 129,
+   "output_tokens": 9887,
+   "cache_creation_input_tokens": 30570,
+   "cache_read_input_tokens": 94551
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1202.5851.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:45:19-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

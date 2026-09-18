@@ -1,0 +1,411 @@
+{
+ "paper_title": "Axion-Like Particles and Recent Observations of the Cosmic Infrared Background Radiation",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.365e-09,
+   1e-09
+  ],
+  [
+   3.28e-09,
+   8.606e-10
+  ],
+  [
+   2.998e-09,
+   7.271e-10
+  ],
+  [
+   2.758e-09,
+   6.174e-10
+  ],
+  [
+   2.553e-09,
+   5.217e-10
+  ],
+  [
+   2.334e-09,
+   4.429e-10
+  ],
+  [
+   2.147e-09,
+   3.742e-10
+  ],
+  [
+   1.988e-09,
+   3.162e-10
+  ],
+  [
+   1.829e-09,
+   2.685e-10
+  ],
+  [
+   1.683e-09,
+   2.269e-10
+  ],
+  [
+   1.509e-09,
+   1.935e-10
+  ],
+  [
+   1.205e-09,
+   1.691e-10
+  ],
+  [
+   9.878e-10,
+   1.457e-10
+  ],
+  [
+   8.632e-10,
+   1.231e-10
+  ],
+  [
+   8.044e-10,
+   1.04e-10
+  ],
+  [
+   7.69e-10,
+   8.832e-11
+  ],
+  [
+   7.4e-10,
+   7.463e-11
+  ],
+  [
+   7.306e-10,
+   6.336e-11
+  ],
+  [
+   7.212e-10,
+   5.354e-11
+  ],
+  [
+   6.896e-10,
+   4.546e-11
+  ],
+  [
+   6.721e-10,
+   3.841e-11
+  ],
+  [
+   6.721e-10,
+   3.246e-11
+  ],
+  [
+   6.852e-10,
+   2.756e-11
+  ],
+  [
+   7.306e-10,
+   2.328e-11
+  ],
+  [
+   8.306e-10,
+   1.977e-11
+  ],
+  [
+   1.04e-09,
+   1.711e-11
+  ],
+  [
+   1.293e-09,
+   1.6e-11
+  ],
+  [
+   1.619e-09,
+   1.547e-11
+  ],
+  [
+   2.027e-09,
+   1.532e-11
+  ],
+  [
+   2.521e-09,
+   1.524e-11
+  ],
+  [
+   3.156e-09,
+   1.532e-11
+  ],
+  [
+   3.925e-09,
+   1.532e-11
+  ],
+  [
+   4.914e-09,
+   1.539e-11
+  ],
+  [
+   6.112e-09,
+   1.539e-11
+  ],
+  [
+   7.651e-09,
+   1.539e-11
+  ],
+  [
+   9.578e-09,
+   1.539e-11
+  ],
+  [
+   1.191e-08,
+   1.539e-11
+  ],
+  [
+   1.491e-08,
+   1.539e-11
+  ],
+  [
+   1.855e-08,
+   1.539e-11
+  ],
+  [
+   2.322e-08,
+   1.539e-11
+  ],
+  [
+   2.888e-08,
+   1.547e-11
+  ],
+  [
+   3.616e-08,
+   1.577e-11
+  ],
+  [
+   4.526e-08,
+   1.703e-11
+  ],
+  [
+   5.246e-08,
+   1.986e-11
+  ],
+  [
+   5.146e-08,
+   2.351e-11
+  ],
+  [
+   4.585e-08,
+   2.769e-11
+  ],
+  [
+   4.085e-08,
+   3.277e-11
+  ],
+  [
+   3.524e-08,
+   3.86e-11
+  ],
+  [
+   3.221e-08,
+   4.568e-11
+  ],
+  [
+   3.457e-08,
+   5.227e-11
+  ],
+  [
+   4.3e-08,
+   5.484e-11
+  ],
+  [
+   4.327e-08,
+   6.336e-11
+  ],
+  [
+   3.479e-08,
+   6.877e-11
+  ],
+  [
+   2.779e-08,
+   7.25e-11
+  ],
+  [
+   2.234e-08,
+   7.499e-11
+  ],
+  [
+   1.785e-08,
+   7.608e-11
+  ],
+  [
+   1.426e-08,
+   7.682e-11
+  ],
+  [
+   1.146e-08,
+   7.756e-11
+  ],
+  [
+   9.157e-09,
+   7.793e-11
+  ],
+  [
+   7.362e-09,
+   7.869e-11
+  ],
+  [
+   5.881e-09,
+   8.06e-11
+  ],
+  [
+   4.728e-09,
+   8.458e-11
+  ],
+  [
+   3.85e-09,
+   9.493e-11
+  ],
+  [
+   3.611e-09,
+   1.124e-10
+  ],
+  [
+   4.132e-09,
+   1.311e-10
+  ],
+  [
+   5.173e-09,
+   1.436e-10
+  ],
+  [
+   6.434e-09,
+   1.485e-10
+  ],
+  [
+   8.054e-09,
+   1.522e-10
+  ],
+  [
+   1.002e-08,
+   1.544e-10
+  ],
+  [
+   1.254e-08,
+   1.559e-10
+  ],
+  [
+   1.57e-08,
+   1.566e-10
+  ],
+  [
+   1.953e-08,
+   1.566e-10
+  ],
+  [
+   2.444e-08,
+   1.581e-10
+  ],
+  [
+   3.04e-08,
+   1.589e-10
+  ],
+  [
+   3.806e-08,
+   1.604e-10
+  ],
+  [
+   4.734e-08,
+   1.643e-10
+  ],
+  [
+   5.926e-08,
+   1.683e-10
+  ],
+  [
+   7.419e-08,
+   1.733e-10
+  ],
+  [
+   9.228e-08,
+   1.809e-10
+  ],
+  [
+   1.155e-07,
+   1.954e-10
+  ],
+  [
+   1.305e-07,
+   2.258e-10
+  ],
+  [
+   1.428e-07,
+   2.672e-10
+  ],
+  [
+   1.542e-07,
+   3.147e-10
+  ],
+  [
+   1.687e-07,
+   3.725e-10
+  ],
+  [
+   1.834e-07,
+   4.408e-10
+  ],
+  [
+   1.98e-07,
+   5.192e-10
+  ],
+  [
+   2.167e-07,
+   6.144e-10
+  ],
+  [
+   2.355e-07,
+   7.237e-10
+  ],
+  [
+   2.544e-07,
+   8.564e-10
+  ],
+  [
+   2.644e-07,
+   1e-09
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "Kohri_2017",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Fig. 5 of Kohri & Kodama (arXiv:1704.05189): 95% C.L. contour in the (m_a, g_agamma) plane from chi^2 fits combining H2356-309 and 1ES1101-232 TeV gamma-ray spectra. This is a PREFERRED/ALLOWED region (a hint), not an exclusion: inside the contour photon-ALP mixing resolves the tension between CIBER-level cosmic IR background and TeV transparency. Scenario reported: the outer 'CIBER only' (CIBER + Franceschini-Th) contour, i.e. the paper's headline region quoted in the abstract (m_a ~ 7e-10 - 5e-8 eV, g ~ 1.5e-11 GeV^-1 lower edge; contour agrees: g_min=1.52e-11, m_min=6.7e-10). The inner CIBER+IRTS+AKARI contour was not used. Points trace the closed contour boundary as an ordered loop (not monotonic in mass): starting where the left arm exits the frame top (m~3.4e-9 eV, g=1e-9 GeV^-1), down the left side, along the bottom, up the right side and out the frame top at m~2.6e-7 eV; couplings clipped at the plot top g=1e-9 GeV^-1 (region is open above). Extracted from the vector EPS (magagComb.eps) rendered at 288 dpi with axis calibration taken from the vector frame coordinates (log-log axes: 1e-10..1e-6 eV, 1e-12..1e-9 GeV^-1); dashed-stroke gaps bridged by morphological closing, centerline by skeletonization. No dark-matter density assumption (astrophysical transparency argument), so no rescaling.",
+ "num_points": 90,
+ "arxiv_id": "1704.05189",
+ "elapsed_s": 276.55059790611267,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 274047,
+  "duration_api_ms": 219296,
+  "total_cost_usd": 1.8239419999999997,
+  "usage": {
+   "input_tokens": 489,
+   "output_tokens": 14190,
+   "cache_creation_input_tokens": 34190,
+   "cache_read_input_tokens": 425752
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1704.05189.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:18:35-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

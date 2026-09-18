@@ -1,0 +1,194 @@
+{
+ "paper_title": "Search for ultralight dark matter with spectroscopy of radio-frequency atomic transitions",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.023e-17,
+   14.97
+  ],
+  [
+   1.415e-17,
+   10.46
+  ],
+  [
+   1.957e-17,
+   10.62
+  ],
+  [
+   2.705e-17,
+   9.705
+  ],
+  [
+   3.741e-17,
+   10.62
+  ],
+  [
+   5.173e-17,
+   11.27
+  ],
+  [
+   7.152e-17,
+   12.21
+  ],
+  [
+   9.89e-17,
+   14.49
+  ],
+  [
+   1.368e-16,
+   17.65
+  ],
+  [
+   1.891e-16,
+   20.81
+  ],
+  [
+   2.615e-16,
+   26.83
+  ],
+  [
+   3.615e-16,
+   28.59
+  ],
+  [
+   4.999e-16,
+   33.24
+  ],
+  [
+   6.912e-16,
+   40.81
+  ],
+  [
+   9.558e-16,
+   41.34
+  ],
+  [
+   1.322e-15,
+   50.27
+  ],
+  [
+   1.827e-15,
+   52.57
+  ],
+  [
+   2.527e-15,
+   66.78
+  ],
+  [
+   3.494e-15,
+   69.85
+  ],
+  [
+   4.831e-15,
+   105.1
+  ],
+  [
+   6.68e-15,
+   132.0
+  ],
+  [
+   9.237e-15,
+   214.4
+  ],
+  [
+   1.277e-14,
+   187.4
+  ],
+  [
+   1.766e-14,
+   264.3
+  ],
+  [
+   2.442e-14,
+   332.0
+  ],
+  [
+   3.377e-14,
+   340.8
+  ],
+  [
+   4.669e-14,
+   459.6
+  ],
+  [
+   6.456e-14,
+   408.3
+  ],
+  [
+   8.927e-14,
+   679.9
+  ],
+  [
+   1.234e-13,
+   645.1
+  ],
+  [
+   1.707e-13,
+   894.9
+  ],
+  [
+   2.36e-13,
+   1197.0
+  ],
+  [
+   3.263e-13,
+   2134.0
+  ],
+  [
+   4.512e-13,
+   2643.0
+  ],
+  [
+   6.239e-13,
+   5309.0
+  ],
+  [
+   8.627e-13,
+   7872.0
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.5,
+ "suggested_experiment_name": "RbQuartz_2022",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Fig.3a of the paper (Exclusions_3k.pdf, a rasterized figure; extracted by pixel-color tracing of the deep-pink Rb/Quartz curve, calibrated on the labeled decade ticks). ScalarPhoton d_e is the leading scalar coupling (coupling to alpha); the paper reports three scalar couplings d_e,d_me,d_g from Experiment 1 (Rb/quartz frequency comparison) plus a more stringent d_e bound from Experiment 2 (Dy, blue curve) over a narrower range, and a pseudoscalar QCD axion-gluon 1/f_a limit in Fig.4. The Rb/Quartz curve is the paper headline scalar result: its mass span 1e-17-8.3e-13 eV matches the abstract exactly. Limit at 95% C.L.; a factor x4.4 for UBDM stochasticity is already included by the authors. Local UBDM density assumed rho_DM=3e-6 eV^4 = 0.39 GeV/cm^3; scalar-DM limit scales with this density (not rescaled per task card). The stronger Dy d_e curve (down to d_e~1e-3) and the pseudoscalar 1/f_a curve were not chosen as the main result.",
+ "num_points": 36,
+ "arxiv_id": "2212.04413",
+ "elapsed_s": 472.7896502017975,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 34,
+  "duration_ms": 472400,
+  "duration_api_ms": 464894,
+  "total_cost_usd": 2.111036,
+  "usage": {
+   "input_tokens": 934,
+   "output_tokens": 32689,
+   "cache_creation_input_tokens": 61645,
+   "cache_read_input_tokens": 1345382
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2212.04413.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:00:13-0500"
+ }
+}

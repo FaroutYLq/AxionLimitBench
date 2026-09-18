@@ -1,0 +1,202 @@
+{
+ "paper_title": "First results from a hidden photon dark matter search in the meV sector using a plane-parabolic mirror system",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0006671395,
+   1.5985e-08
+  ],
+  [
+   0.0006857368,
+   1.5647e-08
+  ],
+  [
+   0.0006857368,
+   1.1125e-08
+  ],
+  [
+   0.0006942474,
+   1.1125e-08
+  ],
+  [
+   0.0006942474,
+   1.3478e-08
+  ],
+  [
+   0.0007052797,
+   1.3335e-08
+  ],
+  [
+   0.0007052797,
+   1.9366e-08
+  ],
+  [
+   0.000729866,
+   1.8957e-08
+  ],
+  [
+   0.000729866,
+   8.8935e-09
+  ],
+  [
+   0.0007547675,
+   8.7059e-09
+  ],
+  [
+   0.0007547675,
+   5.0548e-09
+  ],
+  [
+   0.0007635934,
+   5.0012e-09
+  ],
+  [
+   0.0007635934,
+   8.0799e-09
+  ],
+  [
+   0.0007717888,
+   8.0799e-09
+  ],
+  [
+   0.0007717888,
+   1.8756e-08
+  ],
+  [
+   0.0007799842,
+   1.8756e-08
+  ],
+  [
+   0.0007799842,
+   2.5551e-08
+  ],
+  [
+   0.0008052009,
+   2.5012e-08
+  ],
+  [
+   0.0008052009,
+   1.4368e-08
+  ],
+  [
+   0.0008215918,
+   1.4216e-08
+  ],
+  [
+   0.0008215918,
+   1.186e-08
+  ],
+  [
+   0.0008389283,
+   1.1734e-08
+  ],
+  [
+   0.0008389283,
+   6.1897e-09
+  ],
+  [
+   0.0008474389,
+   6.1897e-09
+  ],
+  [
+   0.0008474389,
+   1.9783e-08
+  ],
+  [
+   0.0008553191,
+   1.9573e-08
+  ],
+  [
+   0.0008553191,
+   1.8756e-08
+  ],
+  [
+   0.0008638298,
+   1.8756e-08
+  ],
+  [
+   0.0008638298,
+   2.3968e-08
+  ],
+  [
+   0.00087171,
+   2.3968e-08
+  ],
+  [
+   0.00087171,
+   2.5012e-08
+  ],
+  [
+   0.0008959811,
+   2.4484e-08
+  ],
+  [
+   0.0008959811,
+   1.6504e-08
+  ],
+  [
+   0.0009038613,
+   1.6504e-08
+  ],
+  [
+   0.0009038613,
+   1.161e-08
+  ],
+  [
+   0.0009123719,
+   1.161e-08
+  ],
+  [
+   0.0009123719,
+   1.186e-08
+  ],
+  [
+   0.0009177305,
+   1.186e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "DishAntenna_Tokyo_2018",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Hidden-photon (dark photon) dark-matter dish-antenna haloscope in the meV range. Headline result is the thick red \"Virialized\" four-bin analysis limit in Fig.5 (left), extracted from the vector EPS (chiOnly_cut.eps) marker vertices. X-axis calibrated 0.6 meV@454pt -> 1.0 meV@1723pt (linear); Y-axis log 1e-9@370pt -> 1e-5@1235pt (216pt/decade). Stepwise structure reflects sub-region conversion-loss/threshold differences. Mass range 0.667-0.918 meV matches abstract 0.67-0.92 meV; chi ~ 5e-9-2.6e-8, consistent with quoted chi <~ 1e-8. 90% CL. DM density 0.45 GeV/cm3 assumed (paper Eq.1.2 footnote); limit not rescaled per task card. Unvirialized (thin blue) single-bin curve is the alternative scenario, not reported.",
+ "num_points": 38,
+ "arxiv_id": "1806.05120",
+ "elapsed_s": 67.67241764068604,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 67367,
+  "duration_api_ms": 65808,
+  "total_cost_usd": 0.6104975,
+  "usage": {
+   "input_tokens": 216,
+   "output_tokens": 4868,
+   "cache_creation_input_tokens": 38365,
+   "cache_read_input_tokens": 208135
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1806.05120.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:02:50-0500"
+ }
+}

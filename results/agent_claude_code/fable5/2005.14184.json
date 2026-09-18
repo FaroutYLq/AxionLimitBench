@@ -1,0 +1,423 @@
+{
+ "paper_title": "First search for bosonic super-WIMPs with masses up to 1 MeV/c2 with GERDA",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   60003.0,
+   8.583e-13
+  ],
+  [
+   62003.0,
+   9.458e-13
+  ],
+  [
+   66003.0,
+   8.473e-13
+  ],
+  [
+   74003.0,
+   2.12e-12
+  ],
+  [
+   78003.0,
+   1.521e-12
+  ],
+  [
+   81003.0,
+   2.101e-12
+  ],
+  [
+   84003.0,
+   1.825e-12
+  ],
+  [
+   90002.0,
+   2.245e-12
+  ],
+  [
+   93002.0,
+   2.043e-12
+  ],
+  [
+   102000.0,
+   2.809e-12
+  ],
+  [
+   106000.0,
+   1.393e-12
+  ],
+  [
+   115000.0,
+   2.901e-12
+  ],
+  [
+   117000.0,
+   1.759e-12
+  ],
+  [
+   120000.0,
+   4.293e-12
+  ],
+  [
+   125000.0,
+   2.064e-12
+  ],
+  [
+   134000.0,
+   3.588e-12
+  ],
+  [
+   145000.0,
+   2.323e-12
+  ],
+  [
+   156000.0,
+   4.106e-12
+  ],
+  [
+   165000.0,
+   2.873e-12
+  ],
+  [
+   169000.0,
+   3.85e-12
+  ],
+  [
+   173000.0,
+   2.709e-12
+  ],
+  [
+   181000.0,
+   4.262e-12
+  ],
+  [
+   191000.0,
+   3.464e-12
+  ],
+  [
+   194000.0,
+   5.683e-12
+  ],
+  [
+   206000.0,
+   2.133e-12
+  ],
+  [
+   218000.0,
+   4.524e-12
+  ],
+  [
+   233990.0,
+   1.901e-12
+  ],
+  [
+   237990.0,
+   6.92e-12
+  ],
+  [
+   243990.0,
+   2.236e-12
+  ],
+  [
+   249990.0,
+   5.302e-12
+  ],
+  [
+   250990.0,
+   2.658e-12
+  ],
+  [
+   268990.0,
+   4.511e-12
+  ],
+  [
+   274990.0,
+   2.863e-12
+  ],
+  [
+   280990.0,
+   5.233e-12
+  ],
+  [
+   284990.0,
+   2.016e-12
+  ],
+  [
+   294990.0,
+   7.229e-12
+  ],
+  [
+   303990.0,
+   3.035e-12
+  ],
+  [
+   315990.0,
+   4.814e-12
+  ],
+  [
+   330990.0,
+   2.579e-12
+  ],
+  [
+   350990.0,
+   1.011e-11
+  ],
+  [
+   360980.0,
+   2.655e-12
+  ],
+  [
+   369980.0,
+   5.683e-12
+  ],
+  [
+   372980.0,
+   3.338e-12
+  ],
+  [
+   394980.0,
+   5.539e-12
+  ],
+  [
+   404980.0,
+   3.655e-12
+  ],
+  [
+   435980.0,
+   5.365e-12
+  ],
+  [
+   440980.0,
+   3.313e-12
+  ],
+  [
+   463970.0,
+   6.369e-12
+  ],
+  [
+   473970.0,
+   3.436e-12
+  ],
+  [
+   478970.0,
+   8.768e-12
+  ],
+  [
+   485970.0,
+   2.968e-12
+  ],
+  [
+   513970.0,
+   1.308e-11
+  ],
+  [
+   516970.0,
+   3.468e-12
+  ],
+  [
+   519970.0,
+   7.473e-12
+  ],
+  [
+   525970.0,
+   4.323e-12
+  ],
+  [
+   536970.0,
+   6.698e-12
+  ],
+  [
+   553960.0,
+   4.374e-12
+  ],
+  [
+   558960.0,
+   7.787e-12
+  ],
+  [
+   561960.0,
+   4.132e-12
+  ],
+  [
+   568960.0,
+   1.779e-11
+  ],
+  [
+   577960.0,
+   3.715e-12
+  ],
+  [
+   581960.0,
+   9.143e-12
+  ],
+  [
+   585960.0,
+   4.92e-12
+  ],
+  [
+   588960.0,
+   8.189e-12
+  ],
+  [
+   592960.0,
+   4.776e-12
+  ],
+  [
+   606960.0,
+   8.312e-12
+  ],
+  [
+   631950.0,
+   5.191e-12
+  ],
+  [
+   635950.0,
+   8.854e-12
+  ],
+  [
+   647950.0,
+   4.447e-12
+  ],
+  [
+   661950.0,
+   1.049e-11
+  ],
+  [
+   664950.0,
+   4.557e-12
+  ],
+  [
+   674950.0,
+   1.031e-11
+  ],
+  [
+   705950.0,
+   5.15e-12
+  ],
+  [
+   709940.0,
+   1.112e-11
+  ],
+  [
+   736940.0,
+   6.403e-12
+  ],
+  [
+   748940.0,
+   1.156e-11
+  ],
+  [
+   758940.0,
+   5.46e-12
+  ],
+  [
+   762940.0,
+   1.034e-11
+  ],
+  [
+   791930.0,
+   6.197e-12
+  ],
+  [
+   809930.0,
+   1.256e-11
+  ],
+  [
+   813930.0,
+   5.983e-12
+  ],
+  [
+   839930.0,
+   1.339e-11
+  ],
+  [
+   850930.0,
+   6.186e-12
+  ],
+  [
+   855930.0,
+   1.404e-11
+  ],
+  [
+   864920.0,
+   6.513e-12
+  ],
+  [
+   909920.0,
+   1.332e-11
+  ],
+  [
+   919920.0,
+   7.578e-12
+  ],
+  [
+   928920.0,
+   1.452e-11
+  ],
+  [
+   942910.0,
+   8.452e-12
+  ],
+  [
+   948910.0,
+   1.693e-11
+  ],
+  [
+   959910.0,
+   7.618e-12
+  ],
+  [
+   987910.0,
+   3.13e-11
+  ],
+  [
+   999900.0,
+   1.109e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "GERDA_2020",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Observed 90% C.I. Bayesian upper limit on the pseudoscalar (ALP) coupling g_ae from Fig. 3 (top) of the GERDA super-WIMP absorption search, extracted from the vector paths of fig3top.pdf shipped with the arXiv e-print. Mass range 60 keV-1 MeV (60-200 keV: 14.6 kg.yr exposure; 200 keV-1 MeV: 58.9 kg.yr, causing the step near 200 keV). Curve reproduces the quoted g_ae < 3e-12 at 150 keV. Paper assumes super-WIMPs are all of the local DM with density 0.3 GeV/cm3. The paper also sets dark-photon alpha'/alpha limits (Fig. 3 bottom), not reported here; g_ae chosen as the ALP/axion-electron result. Points simplified from 836 vector vertices preserving gamma-line peaks and the 200 keV step.",
+ "num_points": 93,
+ "arxiv_id": "2005.14184",
+ "elapsed_s": 82.67313003540039,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 10,
+  "duration_ms": 82312,
+  "duration_api_ms": 79693,
+  "total_cost_usd": 0.9284184999999999,
+  "usage": {
+   "input_tokens": 254,
+   "output_tokens": 6578,
+   "cache_creation_input_tokens": 27320,
+   "cache_read_input_tokens": 193746
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2005.14184.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:12:33-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

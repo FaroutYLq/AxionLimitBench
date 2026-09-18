@@ -1,0 +1,10 @@
+{
+ "arxiv_id": "2105.13085",
+ "status": "error",
+ "error": "API Error: Connection closed mid-response. The response above may be incomplete.\nsuccess",
+ "meta": {
+  "transport": "cli",
+  "elapsed_s": 471.26006412506104,
+  "attempt": 0
+ }
+}

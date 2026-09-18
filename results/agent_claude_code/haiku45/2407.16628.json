@@ -1,0 +1,150 @@
+{
+ "paper_title": "Constraining dark photon parameters based on the very high energy observations of blazars",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.03265808517832321,
+   1.1936934524242684e-09
+  ],
+  [
+   0.07010057777847366,
+   1.0585201275334445e-05
+  ],
+  [
+   0.10656714796985275,
+   8.35400553897829e-06
+  ],
+  [
+   0.19963806977377843,
+   4.629867031738633e-06
+  ],
+  [
+   0.34537222150312585,
+   8.143363830126384e-06
+  ],
+  [
+   0.5946585588423884,
+   6.9358379256612574e-06
+  ],
+  [
+   0.9510625536476068,
+   2.56591507290309e-06
+  ],
+  [
+   1.7199617087700112,
+   1.4067736499537231e-06
+  ],
+  [
+   2.860274850668618,
+   7.88115369403561e-07
+  ],
+  [
+   4.958581478172117,
+   6.02046324436403e-07
+  ],
+  [
+   8.369338696399476,
+   4.2178668092063126e-07
+  ],
+  [
+   14.35836838788294,
+   2.3599794987780324e-07
+  ],
+  [
+   23.60949288912319,
+   1.3413909063598057e-07
+  ],
+  [
+   40.77755542702947,
+   9.847134527652657e-08
+  ],
+  [
+   70.0875451672803,
+   6.015349176626363e-08
+  ],
+  [
+   115.72090011637098,
+   3.2017355800825036e-08
+  ],
+  [
+   202.81257684881834,
+   2.2311982563609317e-08
+  ],
+  [
+   348.84479780982264,
+   1.2403445546052741e-08
+  ],
+  [
+   575.3269864813752,
+   7.012478345098064e-09
+  ],
+  [
+   988.7301000446978,
+   5.156804304350304e-09
+  ],
+  [
+   1876.4984161913924,
+   2.5089176912034236e-09
+  ],
+  [
+   2921.512666274504,
+   1.6537209749378724e-09
+  ],
+  [
+   4914.718213728572,
+   1.1543186841627446e-09
+  ],
+  [
+   6887.840459061862,
+   6.61555936920926e-10
+  ],
+  [
+   9980.56150195382,
+   6.135470782821875e-10
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "Mrk421_VHE",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Exclusion limit on kinetic mixing (\u03c7) for dark photons from VHE observations of Mrk 421 blazar. Red solid curve from Figure 4. Calibrated using major axis tick positions (10^-3 to 10^4 on x-axis, 10^0 to 10^-12 on y-axis). Mass range approximately 10^-3 to 10^4 eV, kinetic mixing constrained to ~10^-7 at 95% CL in the 0.03-1 eV mass range. Mrk 421 provides tighter constraint than Mrk 501 (black curve in figure).",
+ "num_points": 25,
+ "arxiv_id": "2407.16628",
+ "elapsed_s": 270.64108967781067,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 28,
+  "duration_ms": 270283,
+  "duration_api_ms": 265222,
+  "total_cost_usd": 0.3658055000000001,
+  "usage": {
+   "input_tokens": 208,
+   "output_tokens": 25807,
+   "cache_creation_input_tokens": 63416,
+   "cache_read_input_tokens": 1097305
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2407.16628.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:16:50-0500"
+ }
+}

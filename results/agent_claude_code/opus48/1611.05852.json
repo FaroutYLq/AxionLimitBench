@@ -1,0 +1,234 @@
+{
+ "paper_title": "Stellar cooling bounds on new light particles: plasma mixing effects",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   100000.0,
+   5.573e-08
+  ],
+  [
+   684997.6135,
+   7.231e-09
+  ],
+  [
+   1401425.0867,
+   3.255e-09
+  ],
+  [
+   3526610.9953,
+   9.918e-10
+  ],
+  [
+   9781235.8402,
+   2.025e-10
+  ],
+  [
+   10059591.9347,
+   1.256e-10
+  ],
+  [
+   10493544.7537,
+   1.032e-10
+  ],
+  [
+   11258534.3629,
+   8.77e-11
+  ],
+  [
+   12409119.1733,
+   7.755e-11
+  ],
+  [
+   13808122.5085,
+   7.021e-11
+  ],
+  [
+   15317271.9484,
+   6.48e-11
+  ],
+  [
+   16741835.8113,
+   6.21e-11
+  ],
+  [
+   17787461.5562,
+   6.191e-11
+  ],
+  [
+   18689868.9229,
+   6.342e-11
+  ],
+  [
+   20041371.8453,
+   7.042e-11
+  ],
+  [
+   20971880.4814,
+   8.292e-11
+  ],
+  [
+   21946103.4409,
+   1.144e-10
+  ],
+  [
+   41610420.3332,
+   1.339e-10
+  ],
+  [
+   52927184.7962,
+   1.477e-10
+  ],
+  [
+   66159254.8716,
+   1.671e-10
+  ],
+  [
+   83590191.2695,
+   1.987e-10
+  ],
+  [
+   99923672.2435,
+   2.353e-10
+  ],
+  [
+   142513134.3884,
+   3.694e-10
+  ],
+  [
+   171669924.8514,
+   4.984e-10
+  ],
+  [
+   195725588.5525,
+   6.387e-10
+  ],
+  [
+   257045657.6612,
+   1.224e-09
+  ],
+  [
+   326891860.6531,
+   2.649e-09
+  ],
+  [
+   397641931.6686,
+   6.19e-09
+  ],
+  [
+   313201478.7269,
+   7.259e-09
+  ],
+  [
+   245523577.4986,
+   8.865e-09
+  ],
+  [
+   94409469.9223,
+   2.085e-08
+  ],
+  [
+   23044634.6259,
+   6.059e-08
+  ],
+  [
+   9180588.2958,
+   1.313e-07
+  ],
+  [
+   3526610.9953,
+   3.208e-07
+  ],
+  [
+   2308095.9728,
+   5.167e-07
+  ],
+  [
+   1984815.4477,
+   6.409e-07
+  ],
+  [
+   1671668.6274,
+   8.834e-07
+  ],
+  [
+   1503877.2242,
+   1.209e-06
+  ],
+  [
+   1411257.1307,
+   1.581e-06
+  ],
+  [
+   1344368.0624,
+   2.124e-06
+  ],
+  [
+   1289602.5746,
+   3.238e-06
+  ],
+  [
+   1164376.1324,
+   1.449e-05
+  ],
+  [
+   1134077.0496,
+   1.734e-05
+  ],
+  [
+   1100225.9794,
+   1.888e-05
+  ],
+  [
+   100000.0,
+   0.0002183
+  ],
+  [
+   100000.0,
+   5.573e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "SN1987A_HardyLasenby_2017",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline result: dark photon (kinetic mixing eps=chi) SN1987A cooling bound, Figure 3 (SN.pdf in the arXiv e-print), the solid-black overall excluded region. Extracted as a vector path (fill path 11) and calibrated from the axis tick strokes: x 50.7px=0.1MeV to 436.7px=1000MeV (96.5px/decade), y 245.2px=1e-11 to 6.7px=1e-3 (29.8px/decade). Verified features: upper edge ~2.2e-4 at 0.1MeV with the sharp drop near 1MeV, lower reach dipping to ~6e-11 near 17MeV, right tip ~400MeV at ~7e-9. This is a CLOSED excluded region; points trace the full boundary loop (lower edge left->right, then upper edge right->left, closed) rather than a single-valued curve, clipped at the left axis (0.1MeV=1e5 eV). y-axis already the canonical chi; no conversion. Energy-loss (Raffelt) argument from a single representative SN model; paper stresses these are order-of-magnitude estimates and states no confidence level. Not a DM search, so no density assumed. Paper also derives B-L vector (Fig4), scalar-e/N (Fig5) and Higgs-portal scalar (Fig6) bounds; the dark-photon SN bound is presented as a main headline result.",
+ "num_points": 46,
+ "arxiv_id": "1611.05852",
+ "elapsed_s": 190.6916310787201,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 190372,
+  "duration_api_ms": 187196,
+  "total_cost_usd": 1.2017780000000002,
+  "usage": {
+   "input_tokens": 477,
+   "output_tokens": 13702,
+   "cache_creation_input_tokens": 52930,
+   "cache_read_input_tokens": 655086
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1611.05852.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:48:58-0500"
+ }
+}

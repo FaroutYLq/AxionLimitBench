@@ -1,0 +1,290 @@
+{
+ "paper_title": "A' view of the sunrise: Boosting helioscopes with angular information",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0001111,
+   0.0124
+  ],
+  [
+   0.0001471,
+   0.006162
+  ],
+  [
+   0.0001947,
+   0.002662
+  ],
+  [
+   0.0002578,
+   0.001297
+  ],
+  [
+   0.0003413,
+   0.0009135
+  ],
+  [
+   0.0004519,
+   0.0007775
+  ],
+  [
+   0.0005983,
+   0.0004232
+  ],
+  [
+   0.0007921,
+   0.0001705
+  ],
+  [
+   0.001049,
+   9.43e-05
+  ],
+  [
+   0.001388,
+   7.153e-05
+  ],
+  [
+   0.001838,
+   5.666e-05
+  ],
+  [
+   0.002434,
+   3.278e-05
+  ],
+  [
+   0.003222,
+   1.346e-05
+  ],
+  [
+   0.004266,
+   6.995e-06
+  ],
+  [
+   0.005648,
+   4.998e-06
+  ],
+  [
+   0.007478,
+   3.087e-06
+  ],
+  [
+   0.009901,
+   1.562e-06
+  ],
+  [
+   0.01311,
+   8.006e-07
+  ],
+  [
+   0.01736,
+   5.317e-07
+  ],
+  [
+   0.02298,
+   4.766e-07
+  ],
+  [
+   0.03042,
+   3.326e-07
+  ],
+  [
+   0.04028,
+   1.524e-07
+  ],
+  [
+   0.05333,
+   7.975e-08
+  ],
+  [
+   0.07061,
+   5.46e-08
+  ],
+  [
+   0.09348,
+   3.777e-08
+  ],
+  [
+   0.1238,
+   2.709e-08
+  ],
+  [
+   0.1639,
+   2.268e-08
+  ],
+  [
+   0.2169,
+   1.946e-08
+  ],
+  [
+   0.2872,
+   1.625e-08
+  ],
+  [
+   0.3803,
+   1.751e-08
+  ],
+  [
+   0.5035,
+   2.117e-08
+  ],
+  [
+   0.6666,
+   1.426e-08
+  ],
+  [
+   0.8826,
+   6.128e-09
+  ],
+  [
+   1.168,
+   3.429e-09
+  ],
+  [
+   1.547,
+   2.802e-09
+  ],
+  [
+   2.048,
+   2.775e-09
+  ],
+  [
+   2.712,
+   2.411e-09
+  ],
+  [
+   3.59,
+   1.573e-09
+  ],
+  [
+   4.754,
+   9.797e-10
+  ],
+  [
+   6.294,
+   7.299e-10
+  ],
+  [
+   8.332,
+   7.36e-10
+  ],
+  [
+   11.03,
+   7.535e-10
+  ],
+  [
+   14.61,
+   4.921e-10
+  ],
+  [
+   19.34,
+   2.11e-10
+  ],
+  [
+   25.6,
+   7.877e-11
+  ],
+  [
+   33.9,
+   4.272e-11
+  ],
+  [
+   44.88,
+   3.835e-11
+  ],
+  [
+   59.42,
+   3.248e-11
+  ],
+  [
+   78.67,
+   2.199e-11
+  ],
+  [
+   104.2,
+   1.534e-11
+  ],
+  [
+   137.9,
+   1.137e-11
+  ],
+  [
+   182.6,
+   8.523e-12
+  ],
+  [
+   241.7,
+   7.964e-12
+  ],
+  [
+   320.0,
+   1.062e-11
+  ],
+  [
+   423.7,
+   1.577e-11
+  ],
+  [
+   561.0,
+   2.105e-11
+  ],
+  [
+   742.7,
+   2.35e-11
+  ],
+  [
+   983.3,
+   2.31e-11
+  ],
+  [
+   1302.0,
+   2.309e-11
+  ],
+  [
+   1724.0,
+   2.716e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "Hinode_XRT_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Exclusion limit from Hinode Solar X-Ray Telescope observation of calibration darks combined with radial and spectral information using data-driven background subtraction. Plotted as solid purple line in Figure 5. The 90% confidence level is based on Poisson statistics with criterion R > S + 1.28\u221aS from Eq. 3.4. This represents the main result incorporating angular information to boost constraints over naive counting by >1 order of magnitude (from Eq. 2.2 oscillation probability). Curve extracted from figure using vision-based reading and smoothed interpolation in log-log space.",
+ "num_points": 60,
+ "arxiv_id": "2211.00022",
+ "elapsed_s": 249.5940499305725,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 34,
+  "duration_ms": 249166,
+  "duration_api_ms": 234060,
+  "total_cost_usd": 0.5180184000000001,
+  "usage": {
+   "input_tokens": 238,
+   "output_tokens": 25761,
+   "cache_creation_input_tokens": 79277,
+   "cache_read_input_tokens": 1568414
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2211.00022.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:54:22-0500"
+ }
+}

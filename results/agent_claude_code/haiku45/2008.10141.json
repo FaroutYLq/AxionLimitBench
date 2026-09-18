@@ -1,0 +1,130 @@
+{
+ "paper_title": "Search for invisible axion dark matter with a multiple-cell haloscope",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.3e-05,
+   1.1293336384496902e-13
+  ],
+  [
+   1.3048571428571427e-05,
+   1.1335531267691726e-13
+  ],
+  [
+   1.3097142857142857e-05,
+   1.1377726150886552e-13
+  ],
+  [
+   1.3145714285714284e-05,
+   1.1419921034081375e-13
+  ],
+  [
+   1.3194285714285714e-05,
+   1.1462115917276197e-13
+  ],
+  [
+   1.3242857142857142e-05,
+   1.150431080047102e-13
+  ],
+  [
+   1.3291428571428571e-05,
+   1.1546505683665845e-13
+  ],
+  [
+   1.334e-05,
+   1.158870056686067e-13
+  ],
+  [
+   1.3359999999999999e-05,
+   1.1606074930529126e-13
+  ],
+  [
+   1.3409090909090907e-05,
+   1.1648721095897155e-13
+  ],
+  [
+   1.3458181818181817e-05,
+   1.1691367261265184e-13
+  ],
+  [
+   1.3507272727272728e-05,
+   1.1734013426633216e-13
+  ],
+  [
+   1.3556363636363636e-05,
+   1.1776659592001248e-13
+  ],
+  [
+   1.3605454545454545e-05,
+   1.1819305757369277e-13
+  ],
+  [
+   1.3654545454545453e-05,
+   1.1861951922737306e-13
+  ],
+  [
+   1.3703636363636363e-05,
+   1.1904598088105335e-13
+  ],
+  [
+   1.3752727272727272e-05,
+   1.1947244253473367e-13
+  ],
+  [
+   1.3801818181818182e-05,
+   1.1989890418841398e-13
+  ],
+  [
+   1.3850909090909091e-05,
+   1.2032536584209427e-13
+  ],
+  [
+   1.3899999999999999e-05,
+   1.2075182749577456e-13
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "CAPP-9T_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "90% CL exclusion limit from CAPP-9T double-cell cavity haloscope. Mass range 13.0-13.9 \u00b5eV. Limit value ga\u03b3\u03b3 & 11.1 \u00d7 g_a\u03b3\u03b3^KSVZ (flat across range, gaps ~13.35 \u00b5eV from mode mixing removed). KSVZ coupling calculated using m_a \u00d7 f_a \u2248 5.7 \u00b5eV \u00d7 10^12 GeV and g_a\u03b3\u03b3^KSVZ = (\u03b1/\u03c0) \u00d7 (E/N=1.92) / f_a with \u03b1=1/137.",
+ "num_points": 20,
+ "arxiv_id": "2008.10141",
+ "elapsed_s": 118.30984401702881,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 8,
+  "duration_ms": 117598,
+  "duration_api_ms": 113055,
+  "total_cost_usd": 0.1555496,
+  "usage": {
+   "input_tokens": 60,
+   "output_tokens": 11301,
+   "cache_creation_input_tokens": 38920,
+   "cache_read_input_tokens": 211446
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.10141.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:31:13-0500"
+ }
+}

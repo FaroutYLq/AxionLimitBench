@@ -1,0 +1,295 @@
+{
+ "paper_title": "Constraining the photon coupling of ultra-light dark-matter axion-like particles by polarization variations of parsec-scale jets in active galaxies",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.0734e-23,
+   7.3166e-13
+  ],
+  [
+   5.156e-23,
+   7.1127e-13
+  ],
+  [
+   5.2413e-23,
+   7.773e-13
+  ],
+  [
+   5.3294e-23,
+   7.5465e-13
+  ],
+  [
+   5.4204e-23,
+   7.1781e-13
+  ],
+  [
+   5.5148e-23,
+   7.598e-13
+  ],
+  [
+   5.6123e-23,
+   7.7581e-13
+  ],
+  [
+   5.7135e-23,
+   7.4343e-13
+  ],
+  [
+   5.8181e-23,
+   6.9745e-13
+  ],
+  [
+   5.927e-23,
+   7.4801e-13
+  ],
+  [
+   6.0399e-23,
+   7.9032e-13
+  ],
+  [
+   6.1571e-23,
+   7.5596e-13
+  ],
+  [
+   6.2791e-23,
+   7.3032e-13
+  ],
+  [
+   6.406e-23,
+   7.3434e-13
+  ],
+  [
+   6.5379e-23,
+   6.7752e-13
+  ],
+  [
+   6.6757e-23,
+   7.6322e-13
+  ],
+  [
+   6.8193e-23,
+   7.7267e-13
+  ],
+  [
+   6.9692e-23,
+   8.513e-13
+  ],
+  [
+   7.1257e-23,
+   8.6909e-13
+  ],
+  [
+   7.2895e-23,
+   8.1881e-13
+  ],
+  [
+   7.4609e-23,
+   8.3117e-13
+  ],
+  [
+   7.6406e-23,
+   8.2771e-13
+  ],
+  [
+   7.8296e-23,
+   9.2286e-13
+  ],
+  [
+   8.0276e-23,
+   9.2877e-13
+  ],
+  [
+   8.2361e-23,
+   1.0586e-12
+  ],
+  [
+   8.4559e-23,
+   1.0703e-12
+  ],
+  [
+   8.6875e-23,
+   1.1232e-12
+  ],
+  [
+   8.9322e-23,
+   1.0892e-12
+  ],
+  [
+   9.1911e-23,
+   1.2271e-12
+  ],
+  [
+   9.4656e-23,
+   1.2725e-12
+  ],
+  [
+   9.7565e-23,
+   1.3907e-12
+  ],
+  [
+   1.0066e-22,
+   1.2938e-12
+  ],
+  [
+   1.0397e-22,
+   1.4057e-12
+  ],
+  [
+   1.0749e-22,
+   1.4542e-12
+  ],
+  [
+   1.1126e-22,
+   1.4646e-12
+  ],
+  [
+   1.153e-22,
+   1.3752e-12
+  ],
+  [
+   1.1966e-22,
+   1.5623e-12
+  ],
+  [
+   1.2435e-22,
+   1.6087e-12
+  ],
+  [
+   1.2942e-22,
+   1.5259e-12
+  ],
+  [
+   1.3493e-22,
+   1.3484e-12
+  ],
+  [
+   1.4093e-22,
+   1.1211e-12
+  ],
+  [
+   1.4749e-22,
+   1.0617e-12
+  ],
+  [
+   1.5468e-22,
+   1.0923e-12
+  ],
+  [
+   1.6261e-22,
+   1.0549e-12
+  ],
+  [
+   1.714e-22,
+   1.0783e-12
+  ],
+  [
+   1.812e-22,
+   1.0995e-12
+  ],
+  [
+   1.9218e-22,
+   1.0911e-12
+  ],
+  [
+   2.0458e-22,
+   1.5536e-12
+  ],
+  [
+   2.1869e-22,
+   1.538e-12
+  ],
+  [
+   2.3488e-22,
+   1.6731e-12
+  ],
+  [
+   2.5368e-22,
+   1.8974e-12
+  ],
+  [
+   2.7573e-22,
+   2.1963e-12
+  ],
+  [
+   3.0199e-22,
+   2.3915e-12
+  ],
+  [
+   3.3378e-22,
+   1.8592e-12
+  ],
+  [
+   3.7305e-22,
+   1.3413e-12
+  ],
+  [
+   4.2278e-22,
+   1.7813e-12
+  ],
+  [
+   4.8784e-22,
+   2.0639e-12
+  ],
+  [
+   5.7651e-22,
+   3.0196e-12
+  ],
+  [
+   7.0463e-22,
+   4.4391e-12
+  ],
+  [
+   9.0596e-22,
+   4.9161e-12
+  ],
+  [
+   1.2683e-21,
+   6.0455e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 20.0,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "MOJAVE_2018",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Observed 95% CL upper limit (thick red line) from Figure 6, extracted from the vector figure file alp-limits.pdf in the arXiv e-print; axes calibrated with the tick marks (log-log). Limit from non-observation of periodic EVPA oscillations in MOJAVE VLBA polarization data of 32 parsec-scale AGN jet components. Curve is for kappa = rho_DM/(20 GeV/cm^3) = 1, i.e. assumed DM density 20 GeV/cm^3 at the source locations (not the local solar value); the paper notes the limit scales as kappa^{1/2}. Lagrangian convention L = (g_agamma/4) a F Ftilde matches the canonical definition.",
+ "num_points": 61,
+ "arxiv_id": "1811.10997",
+ "elapsed_s": 99.2307698726654,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 98748,
+  "duration_api_ms": 96771,
+  "total_cost_usd": 0.953516,
+  "usage": {
+   "input_tokens": 334,
+   "output_tokens": 5629,
+   "cache_creation_input_tokens": 26626,
+   "cache_read_input_tokens": 274206
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1811.10997.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T20:57:36-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

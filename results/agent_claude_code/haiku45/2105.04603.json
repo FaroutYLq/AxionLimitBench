@@ -1,0 +1,51 @@
+{
+ "paper_title": "New constraints on axion-like dark matter using a Floquet quantum detector",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.0,
+ "suggested_experiment_name": "NASDUCK_Floquet_2022",
+ "coupling_convention": null,
+ "notes": "This paper (arXiv:2105.04603, Sci. Adv. 8, eabl8919, published Feb 2022) reports new constraints from the NASDUCK Floquet quantum detector on ALP-neutron and ALP-proton interactions. However, the main results constrain quadratic-type couplings (Eq. 2-3: g_DM = \u03b5_N g\u00b2_NNN-Quad and pseudoscalar DM quadratic coupling), not the canonical linear pseudoscalar coupling defined for AxionNeutron (L = (g_an/2m_n)\u2202_\u03bc a n\u0304 \u03b3^\u03bc \u03b3_5 n). The mass range is 4\u00d710^-15 to 4\u00d710^-11 eV. Model-dependent proton coupling bounds are also presented (Fig. S6-S7). Since the paper constrains non-canonical quadratic interactions rather than the canonical linear couplings listed in the compilation, this is not reportable as a new limit on the canonical coupling types, though it represents genuine new experimental constraints on alternative ALP coupling models. Precise tabulated bounds are available in the NASDUCK repository: https://github.com/ItayBM/NASDUCKFloquet",
+ "num_points": 0,
+ "arxiv_id": "2105.04603",
+ "elapsed_s": 153.11424589157104,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 152652,
+  "duration_api_ms": 147834,
+  "total_cost_usd": 0.3341675,
+  "usage": {
+   "input_tokens": 146,
+   "output_tokens": 10094,
+   "cache_creation_input_tokens": 90278,
+   "cache_read_input_tokens": 1029955
+  },
+  "leak_suspect": true,
+  "leak_patterns": [
+   "github.com"
+  ],
+  "schema_problems": [],
+  "events_file": "2105.04603.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T12:59:03-0500"
+ }
+}

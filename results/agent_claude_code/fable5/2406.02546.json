@@ -1,0 +1,291 @@
+{
+ "paper_title": "Dark photon limits from patchy dark screening of the cosmic microwave background",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.4965e-13,
+   1.6986e-06
+  ],
+  [
+   1.5907e-13,
+   7.0006e-07
+  ],
+  [
+   1.6909e-13,
+   2.6324e-07
+  ],
+  [
+   1.7974e-13,
+   1.1186e-07
+  ],
+  [
+   1.9106e-13,
+   7.3664e-08
+  ],
+  [
+   2.0309e-13,
+   6.5854e-08
+  ],
+  [
+   2.1588e-13,
+   5.8276e-08
+  ],
+  [
+   2.2948e-13,
+   5.2631e-08
+  ],
+  [
+   2.4393e-13,
+   4.6574e-08
+  ],
+  [
+   2.5929e-13,
+   4.5172e-08
+  ],
+  [
+   2.7562e-13,
+   4.3368e-08
+  ],
+  [
+   2.9298e-13,
+   4.2493e-08
+  ],
+  [
+   3.1144e-13,
+   4.1214e-08
+  ],
+  [
+   3.3105e-13,
+   3.9973e-08
+  ],
+  [
+   3.519e-13,
+   3.9973e-08
+  ],
+  [
+   3.7406e-13,
+   3.9568e-08
+  ],
+  [
+   3.9762e-13,
+   3.9568e-08
+  ],
+  [
+   4.2266e-13,
+   3.9167e-08
+  ],
+  [
+   4.4928e-13,
+   3.9167e-08
+  ],
+  [
+   4.7758e-13,
+   3.9568e-08
+  ],
+  [
+   5.139e-13,
+   3.9973e-08
+  ],
+  [
+   5.4626e-13,
+   4.0796e-08
+  ],
+  [
+   5.8067e-13,
+   4.1214e-08
+  ],
+  [
+   6.1724e-13,
+   4.1636e-08
+  ],
+  [
+   6.5611e-13,
+   4.2493e-08
+  ],
+  [
+   6.9743e-13,
+   4.3368e-08
+  ],
+  [
+   7.4136e-13,
+   4.4261e-08
+  ],
+  [
+   7.8805e-13,
+   4.5172e-08
+  ],
+  [
+   8.3768e-13,
+   4.6102e-08
+  ],
+  [
+   8.9043e-13,
+   4.8019e-08
+  ],
+  [
+   9.4651e-13,
+   4.951e-08
+  ],
+  [
+   1.0061e-12,
+   5.1046e-08
+  ],
+  [
+   1.0695e-12,
+   5.317e-08
+  ],
+  [
+   1.1368e-12,
+   5.482e-08
+  ],
+  [
+   1.2084e-12,
+   5.7685e-08
+  ],
+  [
+   1.2846e-12,
+   6.07e-08
+  ],
+  [
+   1.3655e-12,
+   6.3872e-08
+  ],
+  [
+   1.4515e-12,
+   6.721e-08
+  ],
+  [
+   1.5429e-12,
+   7.2178e-08
+  ],
+  [
+   1.64e-12,
+   7.911e-08
+  ],
+  [
+   1.7648e-12,
+   8.8492e-08
+  ],
+  [
+   1.8759e-12,
+   9.699e-08
+  ],
+  [
+   1.994e-12,
+   1.063e-07
+  ],
+  [
+   2.1196e-12,
+   1.1651e-07
+  ],
+  [
+   2.2531e-12,
+   1.277e-07
+  ],
+  [
+   2.395e-12,
+   1.414e-07
+  ],
+  [
+   2.5459e-12,
+   1.6643e-07
+  ],
+  [
+   2.7062e-12,
+   1.9391e-07
+  ],
+  [
+   2.8766e-12,
+   2.2825e-07
+  ],
+  [
+   3.0578e-12,
+   2.8852e-07
+  ],
+  [
+   3.2504e-12,
+   3.7603e-07
+  ],
+  [
+   3.4551e-12,
+   4.8019e-07
+  ],
+  [
+   3.6727e-12,
+   6.1949e-07
+  ],
+  [
+   3.904e-12,
+   7.992e-07
+  ],
+  [
+   4.1499e-12,
+   1.0523e-06
+  ],
+  [
+   4.4113e-12,
+   1.5817e-06
+  ],
+  [
+   4.6891e-12,
+   2.3533e-06
+  ],
+  [
+   4.9844e-12,
+   3.6844e-06
+  ],
+  [
+   5.2983e-12,
+   5.5381e-06
+  ],
+  [
+   5.7012e-12,
+   9.407e-06
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "Planck_unWISE_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "95% CL upper limit on dark photon kinetic mixing epsilon from Fig. 3 (e-print file constraints_newrange_ellmin2_withbias_nodrop.png), digitized programmatically from the raster figure (red 'Joint' curve, the combined unWISE Blue + Green x Planck NILC dark-screening cross-correlation, which the paper presents as its main result; radio-bias-subtracted data). Axis calibration from major tick/gridline pixel positions. Curve traced from m_A' = 1.5e-13 eV (start of the paper's mass scan) to ~5.7e-12 eV where the curve exits the top of the plot (epsilon = 1e-5); the scan formally extends to 9.7e-12 eV but the limit is weaker than 1e-5 there. Minimum epsilon ~ 3.9e-8 near 4e-13 eV, consistent with the quoted epsilon < 4e-8. No dark-matter density assumption: signal is conversion of CMB photons in large-scale structure, independent of DP relic abundance.",
+ "num_points": 60,
+ "arxiv_id": "2406.02546",
+ "elapsed_s": 250.32103776931763,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 249972,
+  "duration_api_ms": 241521,
+  "total_cost_usd": 1.68029,
+  "usage": {
+   "input_tokens": 468,
+   "output_tokens": 14456,
+   "cache_creation_input_tokens": 37631,
+   "cache_read_input_tokens": 424050
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2406.02546.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:01:05-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

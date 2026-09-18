@@ -1,0 +1,411 @@
+{
+ "paper_title": "Search for axion-like dark matter through nuclear spin precession in electric and magnetic fields",
+ "coupling_type": "AxionEDM",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.25661e-25,
+   3.56275e-24
+  ],
+  [
+   6.24683e-25,
+   3.75152e-24
+  ],
+  [
+   7.42359e-25,
+   3.69824e-24
+  ],
+  [
+   9.211e-25,
+   3.76357e-24
+  ],
+  [
+   1.09461e-24,
+   3.6045e-24
+  ],
+  [
+   1.35817e-24,
+   3.6245e-24
+  ],
+  [
+   1.61402e-24,
+   3.68259e-24
+  ],
+  [
+   2.00263e-24,
+   3.60052e-24
+  ],
+  [
+   2.37988e-24,
+   3.60152e-24
+  ],
+  [
+   2.95289e-24,
+   3.83835e-24
+  ],
+  [
+   3.50915e-24,
+   3.84897e-24
+  ],
+  [
+   4.35406e-24,
+   3.76193e-24
+  ],
+  [
+   5.17427e-24,
+   4.00218e-24
+  ],
+  [
+   6.4201e-24,
+   4.33413e-24
+  ],
+  [
+   7.6295e-24,
+   4.67295e-24
+  ],
+  [
+   9.46648e-24,
+   5.00511e-24
+  ],
+  [
+   1.12498e-23,
+   5.62122e-24
+  ],
+  [
+   1.39584e-23,
+   6.87329e-24
+  ],
+  [
+   1.65878e-23,
+   8.07295e-24
+  ],
+  [
+   2.05818e-23,
+   9.87112e-24
+  ],
+  [
+   2.44589e-23,
+   1.1594e-23
+  ],
+  [
+   3.0348e-23,
+   1.41765e-23
+  ],
+  [
+   3.60648e-23,
+   1.66508e-23
+  ],
+  [
+   4.47483e-23,
+   2.03849e-23
+  ],
+  [
+   5.31779e-23,
+   2.42339e-23
+  ],
+  [
+   6.59817e-23,
+   3.00826e-23
+  ],
+  [
+   7.84112e-23,
+   3.57627e-23
+  ],
+  [
+   9.72906e-23,
+   4.43939e-23
+  ],
+  [
+   1.15618e-22,
+   5.27762e-23
+  ],
+  [
+   1.43456e-22,
+   6.61777e-23
+  ],
+  [
+   1.70479e-22,
+   8.06335e-23
+  ],
+  [
+   2.02594e-22,
+   9.8247e-23
+  ],
+  [
+   2.51373e-22,
+   1.25381e-22
+  ],
+  [
+   2.98726e-22,
+   1.48213e-22
+  ],
+  [
+   3.70652e-22,
+   1.77708e-22
+  ],
+  [
+   4.40474e-22,
+   2.05261e-22
+  ],
+  [
+   5.46529e-22,
+   2.47754e-22
+  ],
+  [
+   6.49482e-22,
+   2.93042e-22
+  ],
+  [
+   8.05861e-22,
+   3.61467e-22
+  ],
+  [
+   9.57666e-22,
+   4.27543e-22
+  ],
+  [
+   1.18825e-21,
+   5.27373e-22
+  ],
+  [
+   1.41209e-21,
+   6.23776e-22
+  ],
+  [
+   1.75208e-21,
+   8.4438e-22
+  ],
+  [
+   2.08213e-21,
+   1.13523e-21
+  ],
+  [
+   2.58346e-21,
+   1.4148e-21
+  ],
+  [
+   3.07012e-21,
+   1.63976e-21
+  ],
+  [
+   3.80932e-21,
+   1.93067e-21
+  ],
+  [
+   4.52691e-21,
+   2.24512e-21
+  ],
+  [
+   5.61688e-21,
+   2.71115e-21
+  ],
+  [
+   6.67497e-21,
+   3.35877e-21
+  ],
+  [
+   8.28213e-21,
+   4.4782e-21
+  ],
+  [
+   9.84229e-21,
+   5.46774e-21
+  ],
+  [
+   1.22121e-20,
+   6.925e-21
+  ],
+  [
+   1.45125e-20,
+   8.33641e-21
+  ],
+  [
+   1.80068e-20,
+   9.14693e-21
+  ],
+  [
+   2.13988e-20,
+   9.7626e-21
+  ],
+  [
+   2.65511e-20,
+   1.08885e-20
+  ],
+  [
+   3.15527e-20,
+   1.26053e-20
+  ],
+  [
+   3.91498e-20,
+   1.54629e-20
+  ],
+  [
+   4.65248e-20,
+   1.82434e-20
+  ],
+  [
+   5.5289e-20,
+   2.15237e-20
+  ],
+  [
+   6.86011e-20,
+   2.61516e-20
+  ],
+  [
+   8.1524e-20,
+   3.05992e-20
+  ],
+  [
+   1.01153e-19,
+   3.93427e-20
+  ],
+  [
+   1.20208e-19,
+   4.81449e-20
+  ],
+  [
+   1.49151e-19,
+   5.89909e-20
+  ],
+  [
+   1.77247e-19,
+   6.65782e-20
+  ],
+  [
+   2.19924e-19,
+   7.68495e-20
+  ],
+  [
+   2.61352e-19,
+   8.61963e-20
+  ],
+  [
+   3.24279e-19,
+   1.01669e-19
+  ],
+  [
+   3.85366e-19,
+   1.19857e-19
+  ],
+  [
+   4.78152e-19,
+   1.49287e-19
+  ],
+  [
+   5.68225e-19,
+   1.79177e-19
+  ],
+  [
+   7.05039e-19,
+   2.25091e-19
+  ],
+  [
+   8.37852e-19,
+   2.70158e-19
+  ],
+  [
+   1.03959e-18,
+   3.39384e-19
+  ],
+  [
+   1.23542e-18,
+   4.07335e-19
+  ],
+  [
+   1.53288e-18,
+   5.11712e-19
+  ],
+  [
+   1.82164e-18,
+   6.11971e-19
+  ],
+  [
+   2.26024e-18,
+   7.5025e-19
+  ],
+  [
+   2.68602e-18,
+   8.83051e-19
+  ],
+  [
+   3.33274e-18,
+   1.08424e-18
+  ],
+  [
+   3.96055e-18,
+   1.33372e-18
+  ],
+  [
+   4.91415e-18,
+   1.73348e-18
+  ],
+  [
+   5.83986e-18,
+   2.16779e-18
+  ],
+  [
+   7.24595e-18,
+   2.86676e-18
+  ],
+  [
+   8.61092e-18,
+   3.74124e-18
+  ],
+  [
+   1.06842e-17,
+   5.77311e-18
+  ],
+  [
+   1.26969e-17,
+   9.17658e-18
+  ],
+  [
+   1.57539e-17,
+   1.68347e-17
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "nEDM_2017",
+ "coupling_convention": "g_d [GeV^-2]",
+ "notes": "Headline result: 95% C.L. limit on the axion-gluon coupling C_G/f_a from a search for an oscillating neutron EDM (Fig. 4 top). Curve is the envelope (minimum) of the thick red (long time-base, ILL 1998-2002) and thick blue (short time-base, PSI 2015-2016) curves, extracted from the vector PDF psi_ill_axion_limits_v7.pdf in the e-print; axis calibration verified against the quoted peak sensitivity f_a/C_G ~ 1e21 GeV for m_a < 1e-23 eV. Converted to the canonical oscillating-EDM coupling via Eq. (2): d_n = 2.4e-16 (C_G/f_a) a_0 cos(m_a t) e.cm, i.e. g_d = 2.4e-16 e.cm x (C_G/f_a) with 1 e.cm = 1.5346e13 GeV^-1 (Heaviside-Lorentz, e = sqrt(4 pi alpha)), so g_d [GeV^-2] = 3.683e-3 x (C_G/f_a) [GeV^-1]. Paper assumes axions saturate rho_DM_local ~ 0.4 GeV/cm^3; limit scales as sqrt(rho_a). The high-mass end (1.6e-17 eV, ~3 mHz, the PSI cycle rate) is where the blue curve rises vertically out of the plot; last point is the curve value just before that rise. The paper also sets an axion-wind limit on the axion-nucleon coupling C_N/f_a (Fig. 4 bottom), not reported here since the oscillating-EDM/gluon limit is presented as the main result.",
+ "num_points": 90,
+ "arxiv_id": "1708.06367",
+ "elapsed_s": 190.33780217170715,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 190080,
+  "duration_api_ms": 187498,
+  "total_cost_usd": 1.771971,
+  "usage": {
+   "input_tokens": 376,
+   "output_tokens": 14476,
+   "cache_creation_input_tokens": 45882,
+   "cache_read_input_tokens": 409191
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1708.06367.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T20:57:08-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

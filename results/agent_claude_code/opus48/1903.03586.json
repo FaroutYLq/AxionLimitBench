@@ -1,0 +1,178 @@
+{
+ "paper_title": "Photoproduction of axion-like particles",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.1096,
+   0.003096
+  ],
+  [
+   0.1106,
+   0.002829
+  ],
+  [
+   0.1116,
+   0.002024
+  ],
+  [
+   0.1126,
+   0.001274
+  ],
+  [
+   0.1136,
+   0.00103
+  ],
+  [
+   0.1146,
+   0.0009359
+  ],
+  [
+   0.1156,
+   0.0009039
+  ],
+  [
+   0.1166,
+   0.001004
+  ],
+  [
+   0.1176,
+   0.00114
+  ],
+  [
+   0.1186,
+   0.001343
+  ],
+  [
+   0.1195,
+   0.001515
+  ],
+  [
+   0.1205,
+   0.001823
+  ],
+  [
+   0.1215,
+   0.001926
+  ],
+  [
+   0.1225,
+   0.001776
+  ],
+  [
+   0.1235,
+   0.001876
+  ],
+  [
+   0.1245,
+   0.001906
+  ],
+  [
+   0.1443,
+   0.001049
+  ],
+  [
+   0.1453,
+   0.001089
+  ],
+  [
+   0.1463,
+   0.001169
+  ],
+  [
+   0.1473,
+   0.001382
+  ],
+  [
+   0.1483,
+   0.001624
+  ],
+  [
+   0.1493,
+   0.001736
+  ],
+  [
+   0.1503,
+   0.001767
+  ],
+  [
+   0.1513,
+   0.001764
+  ],
+  [
+   0.1523,
+   0.001778
+  ],
+  [
+   0.1533,
+   0.001624
+  ],
+  [
+   0.1543,
+   0.001314
+  ],
+  [
+   0.1552,
+   0.001105
+  ],
+  [
+   0.1562,
+   0.0009131
+  ],
+  [
+   0.1572,
+   0.0008324
+  ],
+  [
+   0.1582,
+   0.0007531
+  ],
+  [
+   0.1592,
+   0.0007475
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "PrimEx_2019",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "New world-leading ALP-photon limit set in this paper (dark blue shaded regions in Fig. 2 / prim_lims.pdf), obtained from a bump hunt on the published m_gamma-gamma diphoton spectrum of a single angular bin of carbon-target PrimEx data (Ref. [30], Larin et al. 2011). Curve is the ALP-photon coupling c_gamma/Lambda [GeV^-1]; from Eq. (1) L includes (c_gamma/4Lambda) a F Ftilde, so with c_gamma=1 this equals the canonical g_agamma = c_gamma/Lambda directly (no conversion needed). Boundary (lower edge = upper limit) of the two shaded lobes flanking the m_pi0 peak extracted by pymupdf get_drawings on the blue-filled path, log-log axis calibration from tick labels (x: 10^-2 GeV at px 67.65, 133.2 px/decade; y: 10^-2 at px 16.8, 66 px/decade); calibration cross-checked on all decade ticks. 95% CL bounded-likelihood upper limits (supp.tex). Excluded region is above the reported curve. The two lobes correspond to the mass windows on either side of the m_pi0 band where the bump hunt sets a limit ('world-leading at a few masses'). Paper also sets an ALP-gluon coupling limit (c_g/Lambda, Fig. 3) from GlueX data; the photon coupling shown here is the result that maps to the canonical AxionPhoton plane. The blue and red solid/dashed curves in Fig. 2 are projections (PrimEx full-sample, GlueX) and are NOT reported here. Not a dark-matter search, so no density dependence.",
+ "num_points": 32,
+ "arxiv_id": "1903.03586",
+ "elapsed_s": 231.83015704154968,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 231469,
+  "duration_api_ms": 228825,
+  "total_cost_usd": 1.0918139999999998,
+  "usage": {
+   "input_tokens": 583,
+   "output_tokens": 16249,
+   "cache_creation_input_tokens": 41129,
+   "cache_read_input_tokens": 542768
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1903.03586.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:18:25-0500"
+ }
+}

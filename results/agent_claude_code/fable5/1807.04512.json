@@ -1,0 +1,251 @@
+{
+ "paper_title": "Violation of the equivalence principle from light scalar dark matter",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-25,
+   9.858999138437882e-05
+  ],
+  [
+   1e-24,
+   9.858999138437882e-05
+  ],
+  [
+   1e-23,
+   9.858999138437882e-05
+  ],
+  [
+   1e-22,
+   9.858999138437882e-05
+  ],
+  [
+   1e-21,
+   9.858999138437882e-05
+  ],
+  [
+   1e-20,
+   9.858999138437882e-05
+  ],
+  [
+   1e-19,
+   9.858999138437882e-05
+  ],
+  [
+   1e-18,
+   9.858999138437882e-05
+  ],
+  [
+   1e-17,
+   9.858999138437882e-05
+  ],
+  [
+   1e-16,
+   9.858999138437882e-05
+  ],
+  [
+   1e-15,
+   9.858999138437882e-05
+  ],
+  [
+   1.2589254117941663e-15,
+   9.858999138437882e-05
+  ],
+  [
+   1.584893192461111e-15,
+   9.866086372891067e-05
+  ],
+  [
+   1.9952623149688747e-15,
+   9.866086372891067e-05
+  ],
+  [
+   2.511886431509572e-15,
+   9.873178702069537e-05
+  ],
+  [
+   3.1622776601683664e-15,
+   9.880303228825437e-05
+  ],
+  [
+   3.981071705534953e-15,
+   9.892722473532585e-05
+  ],
+  [
+   5.011872336272694e-15,
+   9.914099435919511e-05
+  ],
+  [
+   6.309573444801891e-15,
+   9.949745815451015e-05
+  ],
+  [
+   7.943282347242757e-15,
+   9.991062496224824e-05
+  ],
+  [
+   9.999999999999918e-15,
+   0.00010061274356445445
+  ],
+  [
+   1.2589254117941559e-14,
+   0.00010168369625395245
+  ],
+  [
+   1.584893192461098e-14,
+   0.00010319473018389162
+  ],
+  [
+   1.9952623149688585e-14,
+   0.00010546586548393728
+  ],
+  [
+   2.5118864315095513e-14,
+   0.00010854017531286277
+  ],
+  [
+   3.1622776601683404e-14,
+   0.00011298389063423811
+  ],
+  [
+   3.98107170553492e-14,
+   0.000119172828228907
+  ],
+  [
+   5.011872336272653e-14,
+   0.00012758368859354713
+  ],
+  [
+   6.30957344480184e-14,
+   0.0001389676132070419
+  ],
+  [
+   7.943282347242692e-14,
+   0.00015431655882141497
+  ],
+  [
+   9.999999999999836e-14,
+   0.0001744618279439928
+  ],
+  [
+   1.2589254117941456e-13,
+   0.00020107432570004062
+  ],
+  [
+   1.584893192461085e-13,
+   0.00023591449754430693
+  ],
+  [
+   1.995262314968842e-13,
+   0.00028265091060188866
+  ],
+  [
+   2.511886431509531e-13,
+   0.000345886221275358
+  ],
+  [
+   3.1622776601683146e-13,
+   0.0004346833608339347
+  ],
+  [
+   3.981071705534888e-13,
+   0.0005637791923910332
+  ],
+  [
+   5.011872336272612e-13,
+   0.0007601528936400113
+  ],
+  [
+   6.309573444801788e-13,
+   0.0010757618668657048
+  ],
+  [
+   7.943282347242627e-13,
+   0.0016168307348904038
+  ],
+  [
+   9.999999999999755e-13,
+   0.002626494832486331
+  ],
+  [
+   1.2589254117941352e-12,
+   0.004691055846570544
+  ],
+  [
+   1.584893192461072e-12,
+   0.009458678139836354
+  ],
+  [
+   1.9952623149688258e-12,
+   0.022177739592982533
+  ],
+  [
+   2.5118864315095104e-12,
+   0.06306815134474575
+  ],
+  [
+   3.162277660168289e-12,
+   0.22765651354543284
+  ],
+  [
+   3.981071705534856e-12,
+   1.1155702266560135
+  ],
+  [
+   5.011872336272571e-12,
+   7.972562845122413
+  ],
+  [
+   6.309573444801737e-12,
+   92.5442014958322
+  ],
+  [
+   6.35258521504143e-12,
+   99.96403526909856
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "MICROSCOPE_2018",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Solid purple 'MICROSCOPE Ti/Pt' curve from the top panel of Fig. 3 (constraints_lin.pdf in the e-print), the 95% C.L. upper limit on the linear Damour-Donoghue photon coupling |d_e^(1)| derived by this paper from the MICROSCOPE eta(Pt-Ti;Earth)=(-0.1+/-1.3)e-14 measurement (Table II). Vector paths extracted from the figure PDF; axes calibrated with tick positions (x: log10 m_phi [eV] from -25 to -1, y: log10 |d_e| from +2 to -9), cross-checked against the secondary log10 f_phi [Hz] axis. Curve is flat at d_e~9.9e-5 at low mass and rises steeply above ~1e-14 eV, exiting the plotted frame at d_e=100 near m=6.4e-12 eV (last point). This UFF/fifth-force bound does not assume the scalar is dark matter (paper states UFF constraints are independent of the DM hypothesis), hence dm_density_assumed=null and no density rescaling. Other curves in Fig. 3 (SYRTE Rb/Cs, Dy, Eot-Wash Be/Ti and Cu/Pb) restate previously published limits; the dashed 'MICROSCOPE - osc.' line is a sensitivity estimate, not a constraint. The paper also derives new quadratic-coupling d^(2) limits (Fig. 4), which are outside the canonical linear d_e plane.",
+ "num_points": 50,
+ "arxiv_id": "1807.04512",
+ "elapsed_s": 152.10277605056763,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 151716,
+  "duration_api_ms": 149168,
+  "total_cost_usd": 1.381959,
+  "usage": {
+   "input_tokens": 314,
+   "output_tokens": 10270,
+   "cache_creation_input_tokens": 39636,
+   "cache_read_input_tokens": 310349
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1807.04512.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:28:07-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

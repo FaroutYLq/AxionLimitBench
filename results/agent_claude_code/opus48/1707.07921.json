@@ -1,0 +1,138 @@
+{
+ "paper_title": "Limits on Axion Couplings from the first 80-day data of PandaX-II Experiment",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   999.5825,
+   1.126e-13
+  ],
+  [
+   1381.5607,
+   6.66e-14
+  ],
+  [
+   1873.9597,
+   5.21e-14
+  ],
+  [
+   2515.4553,
+   7.898e-14
+  ],
+  [
+   3093.0583,
+   1.391e-13
+  ],
+  [
+   3362.4777,
+   1.552e-13
+  ],
+  [
+   3632.5397,
+   2.066e-13
+  ],
+  [
+   4457.333,
+   2.733e-13
+  ],
+  [
+   4855.7148,
+   1.479e-13
+  ],
+  [
+   5256.6725,
+   1.827e-13
+  ],
+  [
+   5596.4728,
+   7.844e-14
+  ],
+  [
+   5995.677,
+   6.481e-14
+  ],
+  [
+   6627.7146,
+   8.991e-14
+  ],
+  [
+   9432.1366,
+   1.754e-13
+  ],
+  [
+   10318.1477,
+   1.754e-13
+  ],
+  [
+   11719.6728,
+   2.227e-13
+  ],
+  [
+   13283.8038,
+   2.467e-13
+  ],
+  [
+   15025.2821,
+   2.501e-13
+  ],
+  [
+   16402.4041,
+   2.152e-13
+  ],
+  [
+   18825.8749,
+   2.32e-13
+  ],
+  [
+   22434.9403,
+   2.752e-13
+  ],
+  [
+   25007.9228,
+   3.896e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.78,
+ "suggested_experiment_name": "PandaX-II_2017",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Galactic ALP dark-matter (MWDM absorption) limit, Fig 4 red curve (observed 90% CL), extracted from vector PDF Fig4GA_PandaXII.pdf. x-axis axion mass 1-25 keV/c2 (converted keV->eV), y-axis g_Ae dimensionless. Axes calibrated from tick strokes: x 1keV@90.8px,10keV@366.5px; y 10^-14@417.5px, 84.4px/decade. Paper quotes galactic ALP limit g_Ae < 4.3e-13 (90% CL) for 1<m_A<25 keV/c2 (strongest constraint); curve min ~5.2e-14 near 1.9 keV. Assumes local DM density rho=0.3 GeV/cm3 (ref [36]); not rescaled per task card. The paper also reports a separate solar-axion limit (Fig 3, ~flat g_Ae~4.35e-12, 1e-5 to 1 keV/c2) and a 57Fe line (6e-14 at 10 keV); the galactic-ALP DM curve is reported here as the mass-dependent headline curve in the g_ae plane.",
+ "num_points": 22,
+ "arxiv_id": "1707.07921",
+ "elapsed_s": 106.24020314216614,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 105945,
+  "duration_api_ms": 103724,
+  "total_cost_usd": 0.587117,
+  "usage": {
+   "input_tokens": 267,
+   "output_tokens": 7791,
+   "cache_creation_input_tokens": 28896,
+   "cache_read_input_tokens": 204094
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1707.07921.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:53:35-0500"
+ }
+}

@@ -1,0 +1,371 @@
+{
+ "paper_title": "Stellar cooling bounds on new light particles: plasma mixing effects",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   105043.0,
+   4.95481e-08
+  ],
+  [
+   119220.0,
+   4.33105e-08
+  ],
+  [
+   135314.0,
+   3.78592e-08
+  ],
+  [
+   153600.0,
+   3.3098e-08
+  ],
+  [
+   174372.0,
+   2.89378e-08
+  ],
+  [
+   197975.0,
+   2.53031e-08
+  ],
+  [
+   224785.0,
+   2.21262e-08
+  ],
+  [
+   255240.0,
+   1.93491e-08
+  ],
+  [
+   289812.0,
+   1.69201e-08
+  ],
+  [
+   329063.0,
+   1.47958e-08
+  ],
+  [
+   373584.0,
+   1.29368e-08
+  ],
+  [
+   424118.0,
+   1.13111e-08
+  ],
+  [
+   481350.0,
+   9.88696e-09
+  ],
+  [
+   546247.0,
+   8.64131e-09
+  ],
+  [
+   619594.0,
+   7.54917e-09
+  ],
+  [
+   702676.0,
+   6.59407e-09
+  ],
+  [
+   796396.0,
+   5.75644e-09
+  ],
+  [
+   902067.0,
+   5.02243e-09
+  ],
+  [
+   1020780.0,
+   4.37818e-09
+  ],
+  [
+   1154130.0,
+   3.81369e-09
+  ],
+  [
+   1303190.0,
+   3.31814e-09
+  ],
+  [
+   1470010.0,
+   2.88445e-09
+  ],
+  [
+   1655660.0,
+   2.50418e-09
+  ],
+  [
+   1861790.0,
+   2.17119e-09
+  ],
+  [
+   2090300.0,
+   1.88006e-09
+  ],
+  [
+   2343230.0,
+   1.626e-09
+  ],
+  [
+   2620410.0,
+   1.40361e-09
+  ],
+  [
+   2925570.0,
+   1.21017e-09
+  ],
+  [
+   3256190.0,
+   1.04102e-09
+  ],
+  [
+   3620090.0,
+   8.94824e-10
+  ],
+  [
+   4011460.0,
+   7.67416e-10
+  ],
+  [
+   4445150.0,
+   6.58149e-10
+  ],
+  [
+   4911090.0,
+   5.63345e-10
+  ],
+  [
+   5423830.0,
+   4.82078e-10
+  ],
+  [
+   5991350.0,
+   4.1259e-10
+  ],
+  [
+   6619150.0,
+   3.53149e-10
+  ],
+  [
+   7314680.0,
+   3.02323e-10
+  ],
+  [
+   8098190.0,
+   2.59123e-10
+  ],
+  [
+   8962280.0,
+   2.22042e-10
+  ],
+  [
+   9782930.0,
+   1.89431e-10
+  ],
+  [
+   9872170.0,
+   1.57512e-10
+  ],
+  [
+   9961900.0,
+   1.30971e-10
+  ],
+  [
+   10196800.0,
+   1.09068e-10
+  ],
+  [
+   10709500.0,
+   9.12942e-11
+  ],
+  [
+   11718000.0,
+   7.77546e-11
+  ],
+  [
+   13318600.0,
+   6.80825e-11
+  ],
+  [
+   15386300.0,
+   6.06849e-11
+  ],
+  [
+   18291200.0,
+   5.87554e-11
+  ],
+  [
+   20263600.0,
+   6.8147e-11
+  ],
+  [
+   21136300.0,
+   8.15515e-11
+  ],
+  [
+   21646800.0,
+   9.7941e-11
+  ],
+  [
+   23934400.0,
+   1.09314e-10
+  ],
+  [
+   28675000.0,
+   1.13584e-10
+  ],
+  [
+   34315200.0,
+   1.18611e-10
+  ],
+  [
+   40954200.0,
+   1.2509e-10
+  ],
+  [
+   48672000.0,
+   1.3357e-10
+  ],
+  [
+   57497000.0,
+   1.44639e-10
+  ],
+  [
+   67414000.0,
+   1.58849e-10
+  ],
+  [
+   78318200.0,
+   1.76936e-10
+  ],
+  [
+   90101600.0,
+   1.99547e-10
+  ],
+  [
+   102575000.0,
+   2.27583e-10
+  ],
+  [
+   115571000.0,
+   2.62058e-10
+  ],
+  [
+   129467000.0,
+   3.03157e-10
+  ],
+  [
+   144058000.0,
+   3.52471e-10
+  ],
+  [
+   159189000.0,
+   4.1173e-10
+  ],
+  [
+   174784000.0,
+   4.82856e-10
+  ],
+  [
+   190563000.0,
+   5.68489e-10
+  ],
+  [
+   206559000.0,
+   6.71284e-10
+  ],
+  [
+   222645000.0,
+   7.94745e-10
+  ],
+  [
+   238642000.0,
+   9.43159e-10
+  ],
+  [
+   254763000.0,
+   1.12105e-09
+  ],
+  [
+   270761000.0,
+   1.33466e-09
+  ],
+  [
+   286808000.0,
+   1.59076e-09
+  ],
+  [
+   302682000.0,
+   1.89824e-09
+  ],
+  [
+   318708000.0,
+   2.26668e-09
+  ],
+  [
+   334450000.0,
+   2.70921e-09
+  ],
+  [
+   350396000.0,
+   3.23954e-09
+  ],
+  [
+   366186000.0,
+   3.87615e-09
+  ],
+  [
+   381927000.0,
+   4.64005e-09
+  ],
+  [
+   397642000.0,
+   5.55676e-09
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "SN1987A_HardyLasenby_2017",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Lower boundary (energy-loss floor) of the solid black SN1987A excluded region in Figure 3, extracted from the vector paths of SN.pdf in the arXiv e-print with axes calibrated on tick labels (m in MeV converted to eV, epsilon = kinetic mixing). This is the paper's new supernova cooling bound on dark photons including plasma mixing effects (Raffelt criterion eps_new < 1e19 erg/g/s for their representative SN model of ref [21]); the paper stresses these are order-of-magnitude estimates, not a statistical CL, so confidence_level=0.95 is nominal. The excluded region also has an upper boundary (ceiling from trapping/absorption and e+e- decays, region above eps~1e-7..1e-5 not excluded), which meets the floor at m~4e8 eV where the region closes; only the floor is reported here. The floor dips to eps~5.8e-11 at m~17 MeV due to resonant transverse emission near the SN core plasma frequency (~20 MeV). No dark-matter density assumed (cooling bound). Other bounds in the paper (B-L vector solar bound Fig 4, scalar-electron/nucleon Fig 5, Higgs-portal Fig 6) were not chosen; the SN dark photon constraint is the paper's most prominent new exclusion.",
+ "num_points": 80,
+ "arxiv_id": "1611.05852",
+ "elapsed_s": 234.44312191009521,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 233970,
+  "duration_api_ms": 219502,
+  "total_cost_usd": 2.122461,
+  "usage": {
+   "input_tokens": 334,
+   "output_tokens": 16766,
+   "cache_creation_input_tokens": 44079,
+   "cache_read_input_tokens": 399241
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1611.05852.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:13:59-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

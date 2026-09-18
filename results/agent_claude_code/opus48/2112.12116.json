@@ -1,0 +1,186 @@
+{
+ "paper_title": "Emission of Single and Few Electrons in XENON1T and Limits on Light Dark Matter",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0099978,
+   2.496e-10
+  ],
+  [
+   0.013649,
+   1.828e-10
+  ],
+  [
+   0.018632,
+   1.339e-10
+  ],
+  [
+   0.025436,
+   9.81e-11
+  ],
+  [
+   0.034725,
+   7.186e-11
+  ],
+  [
+   0.047404,
+   5.264e-11
+  ],
+  [
+   0.064715,
+   3.856e-11
+  ],
+  [
+   0.088346,
+   2.824e-11
+  ],
+  [
+   0.12061,
+   2.069e-11
+  ],
+  [
+   0.16465,
+   1.516e-11
+  ],
+  [
+   0.22477,
+   1.11e-11
+  ],
+  [
+   0.30684,
+   8.13e-12
+  ],
+  [
+   0.41889,
+   5.954e-12
+  ],
+  [
+   0.57185,
+   4.36e-12
+  ],
+  [
+   0.78067,
+   3.193e-12
+  ],
+  [
+   1.0657,
+   2.338e-12
+  ],
+  [
+   1.4549,
+   1.712e-12
+  ],
+  [
+   1.9862,
+   1.254e-12
+  ],
+  [
+   2.7114,
+   8.952e-13
+  ],
+  [
+   3.7015,
+   5.975e-13
+  ],
+  [
+   5.0532,
+   3.542e-13
+  ],
+  [
+   6.8984,
+   1.96e-13
+  ],
+  [
+   9.4174,
+   1.069e-13
+  ],
+  [
+   12.856,
+   7.829e-14
+  ],
+  [
+   17.551,
+   4.085e-14
+  ],
+  [
+   23.96,
+   2.627e-14
+  ],
+  [
+   32.709,
+   2.546e-14
+  ],
+  [
+   44.653,
+   2.371e-14
+  ],
+  [
+   60.958,
+   2.134e-14
+  ],
+  [
+   83.217,
+   1.925e-14
+  ],
+  [
+   113.6,
+   2.183e-14
+  ],
+  [
+   155.09,
+   2.991e-14
+  ],
+  [
+   211.72,
+   3.331e-14
+  ],
+  [
+   289.03,
+   1.276e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "XENON1T_SE_2021",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Solar dark photon limit, the paper's distinctive 'first direct limits from experimental results on solar dark photons' (Sec VI). Curve traced from fig_solar_dp_limits_errata.pdf (Fig 16 in the current arXiv v3, the erratum-corrected version used in the paper): dark navy 'XENON1T SE (This Work)' path, \u03b5 (kinetic mixing) vs m_A'. X-axis m_A' [keV/c^2] converted to eV (x1000); axes calibrated on major tick positions. 90% CL. Solar (flux-based) source, so limit is independent of local DM halo density -> dm_density_assumed null. The paper reports several other limits also in the canonical planes: relic dark-photon DM absorption (Fig 15 top, also DarkPhoton chi, but mostly non-competitive with XENON10, new space only in a narrow low-mass band) and ALP axioelectric g_ae (Fig 15 bottom, AxionElectron); plus DM-electron scattering cross-section and EFT dipole/anapole operators (not in the canonical table). Chose the solar dark photon as it is the paper's highlighted novel DarkPhoton result and a clean single curve. Curve spans ~0.01-290 eV; power-law chi ~ 1/m at low mass, bathtub minimum chi~1.9e-14 near 90 eV.",
+ "num_points": 34,
+ "arxiv_id": "2112.12116",
+ "elapsed_s": 245.83375883102417,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 245320,
+  "duration_api_ms": 242194,
+  "total_cost_usd": 1.24469,
+  "usage": {
+   "input_tokens": 457,
+   "output_tokens": 17142,
+   "cache_creation_input_tokens": 69210,
+   "cache_read_input_tokens": 699390
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2112.12116.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:07:43-0500"
+ }
+}

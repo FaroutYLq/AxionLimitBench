@@ -1,0 +1,391 @@
+{
+ "paper_title": "Ultralight vector dark matter search using data from the KAGRA O3GK run",
+ "coupling_type": "VectorBL",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   6.2915e-14,
+   4.4873e-20
+  ],
+  [
+   6.6111e-14,
+   4.6026e-20
+  ],
+  [
+   6.947e-14,
+   5.932e-20
+  ],
+  [
+   7.2999e-14,
+   3.6168e-20
+  ],
+  [
+   7.6708e-14,
+   2.5356e-20
+  ],
+  [
+   8.0604e-14,
+   2.2052e-20
+  ],
+  [
+   8.4699e-14,
+   2.2909e-20
+  ],
+  [
+   8.9297e-14,
+   6.0844e-20
+  ],
+  [
+   9.3833e-14,
+   2.0697e-20
+  ],
+  [
+   9.86e-14,
+   3.2293e-20
+  ],
+  [
+   1.0361e-13,
+   2.6674e-20
+  ],
+  [
+   1.0887e-13,
+   4.187e-20
+  ],
+  [
+   1.144e-13,
+   2.0961e-20
+  ],
+  [
+   1.2022e-13,
+   3.7874e-20
+  ],
+  [
+   1.2632e-13,
+   6.1621e-20
+  ],
+  [
+   1.3274e-13,
+   2.4428e-20
+  ],
+  [
+   1.3948e-13,
+   3.7097e-20
+  ],
+  [
+   1.4657e-13,
+   1.918e-20
+  ],
+  [
+   1.5402e-13,
+   3.9527e-20
+  ],
+  [
+   1.6184e-13,
+   2.9436e-20
+  ],
+  [
+   1.7006e-13,
+   4.5446e-20
+  ],
+  [
+   1.787e-13,
+   3.4378e-20
+  ],
+  [
+   1.8778e-13,
+   9.7291e-20
+  ],
+  [
+   1.9732e-13,
+   4.545e-20
+  ],
+  [
+   2.0734e-13,
+   6.2408e-20
+  ],
+  [
+   2.1788e-13,
+   2.4961e-20
+  ],
+  [
+   2.2894e-13,
+   2.736e-20
+  ],
+  [
+   2.4058e-13,
+   2.8133e-20
+  ],
+  [
+   2.528e-13,
+   2.3496e-20
+  ],
+  [
+   2.6564e-13,
+   2.2763e-20
+  ],
+  [
+   2.8006e-13,
+   1.8818e-20
+  ],
+  [
+   2.9429e-13,
+   2.2333e-20
+  ],
+  [
+   3.0924e-13,
+   2.7818e-20
+  ],
+  [
+   3.2495e-13,
+   3.5712e-20
+  ],
+  [
+   3.4145e-13,
+   4.1462e-20
+  ],
+  [
+   3.588e-13,
+   6.4011e-20
+  ],
+  [
+   3.7703e-13,
+   6.2428e-20
+  ],
+  [
+   3.9618e-13,
+   2.3796e-20
+  ],
+  [
+   4.1631e-13,
+   1.9687e-20
+  ],
+  [
+   4.3746e-13,
+   4.6614e-20
+  ],
+  [
+   4.5968e-13,
+   4.6911e-20
+  ],
+  [
+   4.8303e-13,
+   1.9673e-20
+  ],
+  [
+   5.0757e-13,
+   3.0002e-20
+  ],
+  [
+   5.3336e-13,
+   2.8784e-20
+  ],
+  [
+   5.6045e-13,
+   3.5096e-20
+  ],
+  [
+   5.8893e-13,
+   1.918e-20
+  ],
+  [
+   6.1884e-13,
+   2.204e-20
+  ],
+  [
+   6.5028e-13,
+   2.8784e-20
+  ],
+  [
+   6.8332e-13,
+   3.5073e-20
+  ],
+  [
+   7.1803e-13,
+   3.3517e-20
+  ],
+  [
+   7.5451e-13,
+   2.7886e-20
+  ],
+  [
+   7.9284e-13,
+   2.6006e-20
+  ],
+  [
+   8.3312e-13,
+   2.8242e-20
+  ],
+  [
+   8.7544e-13,
+   4.5446e-20
+  ],
+  [
+   9.1992e-13,
+   3.1663e-20
+  ],
+  [
+   9.6985e-13,
+   2.7034e-20
+  ],
+  [
+   1.0191e-12,
+   3.0669e-20
+  ],
+  [
+   1.0709e-12,
+   3.1995e-20
+  ],
+  [
+   1.1253e-12,
+   2.9524e-20
+  ],
+  [
+   1.1825e-12,
+   4.4397e-20
+  ],
+  [
+   1.2425e-12,
+   4.7812e-20
+  ],
+  [
+   1.3057e-12,
+   6.1232e-20
+  ],
+  [
+   1.372e-12,
+   9.6065e-20
+  ],
+  [
+   1.4417e-12,
+   8.6259e-20
+  ],
+  [
+   1.5149e-12,
+   8.9024e-20
+  ],
+  [
+   1.5919e-12,
+   4.5744e-20
+  ],
+  [
+   1.6728e-12,
+   3.9527e-20
+  ],
+  [
+   1.7577e-12,
+   3.9527e-20
+  ],
+  [
+   1.847e-12,
+   4.2653e-20
+  ],
+  [
+   1.9409e-12,
+   4.4028e-20
+  ],
+  [
+   2.0395e-12,
+   5.0301e-20
+  ],
+  [
+   2.1431e-12,
+   9.3083e-20
+  ],
+  [
+   2.2519e-12,
+   8.7902e-20
+  ],
+  [
+   2.3663e-12,
+   5.0301e-20
+  ],
+  [
+   2.4866e-12,
+   6.4829e-20
+  ],
+  [
+   2.6129e-12,
+   6.65e-20
+  ],
+  [
+   2.7456e-12,
+   7.5489e-20
+  ],
+  [
+   2.8851e-12,
+   7.9418e-20
+  ],
+  [
+   3.0417e-12,
+   9.8534e-20
+  ],
+  [
+   3.1962e-12,
+   1.2539e-19
+  ],
+  [
+   3.3586e-12,
+   1.4694e-19
+  ],
+  [
+   3.5292e-12,
+   1.5361e-19
+  ],
+  [
+   3.7085e-12,
+   1.5957e-19
+  ],
+  [
+   3.8969e-12,
+   1.8581e-19
+  ],
+  [
+   4.0949e-12,
+   1.9692e-19
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "KAGRA_2024",
+ "coupling_convention": "g_BL (dimensionless)",
+ "notes": "95% CL upper limit on the U(1)_B-L gauge coupling from Fig. 5 (figs/upperlimits_final.png in the e-print), pixel-extracted from the raster figure. The paper quotes epsilon_B-L, the gauge coupling normalized by the electromagnetic coupling e (Eq. 1: L contains -eps_D e J^mu_D A_mu); converted to the canonical gauge coupling via g_B-L = e * eps_B-L with e = sqrt(4*pi*alpha) = 0.3028. Fig. 5 shows two channels, MICH (blue) and PRCL (orange); reported is the pointwise minimum (best) of the two, with the very spiky trace reduced to per-log-bin medians (85 bins over the analyzed band 15-1015 Hz; noise-line spikes reach ~1e-15 in eps but the binned median tracks the limit floor). Mass from m_A = h*f. Axis calibration verified: recovered curve span 15.0-1013 Hz matches the stated 15-1015 Hz analysis range. Assumes standard halo model with rho_DM ~ 0.4 GeV/cm^3.",
+ "num_points": 85,
+ "arxiv_id": "2403.03004",
+ "elapsed_s": 226.84220123291016,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 226158,
+  "duration_api_ms": 221520,
+  "total_cost_usd": 1.8529170000000001,
+  "usage": {
+   "input_tokens": 526,
+   "output_tokens": 14132,
+   "cache_creation_input_tokens": 43121,
+   "cache_read_input_tokens": 545262
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2403.03004.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T22:25:38-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "paper_title": "Getting the most on supernova axions",
+ "coupling_type": "AxionProton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0001,
+   6e-10
+  ],
+  [
+   0.0005,
+   6e-10
+  ],
+  [
+   0.001,
+   6e-10
+  ],
+  [
+   0.005,
+   6e-10
+  ],
+  [
+   0.01,
+   6e-10
+  ],
+  [
+   0.05,
+   6.5e-10
+  ],
+  [
+   0.1,
+   6.5e-10
+  ],
+  [
+   0.5,
+   7e-10
+  ],
+  [
+   1.0,
+   7e-10
+  ],
+  [
+   5.0,
+   7e-10
+  ],
+  [
+   10.0,
+   7e-10
+  ],
+  [
+   50.0,
+   7e-10
+  ],
+  [
+   100.0,
+   7e-10
+  ],
+  [
+   500.0,
+   1e-09
+  ],
+  [
+   1000.0,
+   1.5e-09
+  ],
+  [
+   5000.0,
+   3e-09
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "SN1987A_Cooling",
+ "coupling_convention": "g_ap (dimensionless)",
+ "notes": "Lower boundary of cooling exclusion region from Figure 3. Paper explicitly states main result: exclude gap \u2273 6\u00d710^-10 for m_a \u2272 1 MeV (page 8). Detailed bounds: excludes 6\u00d710^-10 \u2272 g_ap \u2272 2.5\u00d710^-6 for m_a \u2272 10 MeV; 7\u00d710^-10 \u2272 g_ap \u2272 3.5\u00d710^-7 for m_a ~ 100 MeV. Paper assumes g_an = g_ap (KSVZ benchmark model). Bounds derived from SN 1987A cooling argument and Kamiokande-II non-observation of events.",
+ "num_points": 16,
+ "arxiv_id": "2306.01048",
+ "elapsed_s": 221.33478784561157,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 24,
+  "duration_ms": 220948,
+  "duration_api_ms": 216320,
+  "total_cost_usd": 0.2538118000000001,
+  "usage": {
+   "input_tokens": 176,
+   "output_tokens": 18970,
+   "cache_creation_input_tokens": 44630,
+   "cache_read_input_tokens": 695258
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2306.01048.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:32:43-0500"
+ }
+}

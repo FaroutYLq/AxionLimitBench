@@ -1,0 +1,290 @@
+{
+ "paper_title": "Axion Dark Matter Search around 6.7 mueV",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   6.617211e-06,
+   9.201e-15
+  ],
+  [
+   6.620659e-06,
+   9.329e-15
+  ],
+  [
+   6.624107e-06,
+   9.329e-15
+  ],
+  [
+   6.627525e-06,
+   9.174e-15
+  ],
+  [
+   6.630942e-06,
+   9.229e-15
+  ],
+  [
+   6.63439e-06,
+   9.229e-15
+  ],
+  [
+   6.637808e-06,
+   9.329e-15
+  ],
+  [
+   6.641225e-06,
+   9.329e-15
+  ],
+  [
+   6.644674e-06,
+   9.329e-15
+  ],
+  [
+   6.648091e-06,
+   9.777e-15
+  ],
+  [
+   6.651509e-06,
+   9.722e-15
+  ],
+  [
+   6.654957e-06,
+   9.978e-15
+  ],
+  [
+   6.658374e-06,
+   1.04e-14
+  ],
+  [
+   6.661792e-06,
+   1.054e-14
+  ],
+  [
+   6.66524e-06,
+   1.045e-14
+  ],
+  [
+   6.668658e-06,
+   1.044e-14
+  ],
+  [
+   6.672075e-06,
+   9.832e-15
+  ],
+  [
+   6.675523e-06,
+   1.012e-14
+  ],
+  [
+   6.678941e-06,
+   1.04e-14
+  ],
+  [
+   6.682358e-06,
+   1.037e-14
+  ],
+  [
+   6.685807e-06,
+   1.044e-14
+  ],
+  [
+   6.689255e-06,
+   1.004e-14
+  ],
+  [
+   6.692672e-06,
+   9.576e-15
+  ],
+  [
+   6.69609e-06,
+   9.43e-15
+  ],
+  [
+   6.699538e-06,
+   9.603e-15
+  ],
+  [
+   6.702956e-06,
+   1.004e-14
+  ],
+  [
+   6.706373e-06,
+   1.009e-14
+  ],
+  [
+   6.709821e-06,
+   1.024e-14
+  ],
+  [
+   6.713239e-06,
+   1.024e-14
+  ],
+  [
+   6.716656e-06,
+   1.04e-14
+  ],
+  [
+   6.720105e-06,
+   1.045e-14
+  ],
+  [
+   6.723522e-06,
+   1.049e-14
+  ],
+  [
+   6.72694e-06,
+   1.083e-14
+  ],
+  [
+   6.730388e-06,
+   1.073e-14
+  ],
+  [
+   6.733805e-06,
+   1.073e-14
+  ],
+  [
+   6.737223e-06,
+   1.014e-14
+  ],
+  [
+   6.740671e-06,
+   9.832e-15
+  ],
+  [
+   6.744089e-06,
+   9.53e-15
+  ],
+  [
+   6.747506e-06,
+   9.576e-15
+  ],
+  [
+   6.750954e-06,
+   1e-14
+  ],
+  [
+   6.754403e-06,
+   9.329e-15
+  ],
+  [
+   6.75782e-06,
+   9.229e-15
+  ],
+  [
+   6.761238e-06,
+   9.359e-15
+  ],
+  [
+   6.764686e-06,
+   9.366e-15
+  ],
+  [
+   6.768103e-06,
+   9.101e-15
+  ],
+  [
+   6.771521e-06,
+   9.457e-15
+  ],
+  [
+   6.774969e-06,
+   9.284e-15
+  ],
+  [
+   6.778387e-06,
+   9.128e-15
+  ],
+  [
+   6.781804e-06,
+   8.904e-15
+  ],
+  [
+   6.785252e-06,
+   8.904e-15
+  ],
+  [
+   6.78867e-06,
+   8.918e-15
+  ],
+  [
+   6.792087e-06,
+   8.745e-15
+  ],
+  [
+   6.795536e-06,
+   8.717e-15
+  ],
+  [
+   6.798953e-06,
+   8.644e-15
+  ],
+  [
+   6.802371e-06,
+   8.772e-15
+  ],
+  [
+   6.805819e-06,
+   8.765e-15
+  ],
+  [
+   6.809236e-06,
+   8.416e-15
+  ],
+  [
+   6.812654e-06,
+   8.26e-15
+  ],
+  [
+   6.816102e-06,
+   8.205e-15
+  ],
+  [
+   6.81952e-06,
+   8.215e-15
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "CAPP-8TB_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "CAPP-8TB haloscope, Fig.3 red solid line (excluded region boundary at 90% CL). y-axis units 2.5e-15 GeV^-1; curve traced from rasterized vector EPS (CAPP-8TB-limits-pub.eps) with linear axis calibration (x: col598=6.60 mueV, 162px/0.01mueV; y: row790=10, row1474=5 in units of 2.5e-15). Mass 6.615-6.821 mueV (abstract: 6.62-6.82). Assumed local DM density rho_a=0.45 GeV/cm^3 (paper). g_agamma converted directly: value_in_units x 2.5e-15 GeV^-1. Curve sits at ~3.2-4.4 units (8.1e-15 to 1.09e-14 GeV^-1), near the top of the KSVZ model band.",
+ "num_points": 60,
+ "arxiv_id": "2001.05102",
+ "elapsed_s": 368.8476390838623,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 24,
+  "duration_ms": 368510,
+  "duration_api_ms": 361365,
+  "total_cost_usd": 1.7286534999999998,
+  "usage": {
+   "input_tokens": 680,
+   "output_tokens": 22742,
+   "cache_creation_input_tokens": 66539,
+   "cache_read_input_tokens": 982627
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2001.05102.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:42:25-0500"
+ }
+}

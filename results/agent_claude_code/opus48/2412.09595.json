@@ -1,0 +1,326 @@
+{
+ "paper_title": "Probing a diffuse flux of axion-like particles from galactic supernovae with neutrino water Cherenkov detectors",
+ "coupling_type": "AxionProton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1096973.3,
+   2.488e-05
+  ],
+  [
+   1261252.7,
+   2.49e-05
+  ],
+  [
+   1450134.0,
+   2.492e-05
+  ],
+  [
+   1667301.7,
+   2.494e-05
+  ],
+  [
+   1916991.9,
+   2.497e-05
+  ],
+  [
+   2204074.6,
+   2.5e-05
+  ],
+  [
+   2534150.3,
+   2.504e-05
+  ],
+  [
+   2913657.0,
+   2.508e-05
+  ],
+  [
+   3349997.6,
+   2.513e-05
+  ],
+  [
+   3851683.2,
+   2.519e-05
+  ],
+  [
+   4428499.8,
+   2.525e-05
+  ],
+  [
+   5091698.7,
+   2.533e-05
+  ],
+  [
+   5854216.2,
+   2.543e-05
+  ],
+  [
+   6730926.1,
+   2.567e-05
+  ],
+  [
+   7738929.5,
+   2.594e-05
+  ],
+  [
+   8897888.5,
+   2.627e-05
+  ],
+  [
+   10230407.8,
+   2.667e-05
+  ],
+  [
+   11762483.1,
+   2.733e-05
+  ],
+  [
+   13423457.8,
+   2.817e-05
+  ],
+  [
+   14842574.1,
+   2.883e-05
+  ],
+  [
+   17065353.7,
+   3.003e-05
+  ],
+  [
+   19621002.9,
+   3.193e-05
+  ],
+  [
+   21534031.9,
+   3.358e-05
+  ],
+  [
+   24758904.1,
+   3.737e-05
+  ],
+  [
+   27172863.7,
+   4.194e-05
+  ],
+  [
+   29822181.0,
+   4.598e-05
+  ],
+  [
+   32729815.0,
+   4.718e-05
+  ],
+  [
+   37631334.2,
+   4.777e-05
+  ],
+  [
+   43266890.3,
+   5.243e-05
+  ],
+  [
+   47665294.4,
+   9.387e-05
+  ],
+  [
+   54596618.0,
+   0.0001166
+  ],
+  [
+   59919714.2,
+   0.000155
+  ],
+  [
+   62772844.3,
+   0.0002
+  ],
+  [
+   54596618.0,
+   0.0002253
+  ],
+  [
+   49746410.5,
+   0.0002346
+  ],
+  [
+   45808099.0,
+   0.0002346
+  ],
+  [
+   41300338.2,
+   0.0002346
+  ],
+  [
+   35920927.5,
+   0.0002346
+  ],
+  [
+   31242190.5,
+   0.0002346
+  ],
+  [
+   27172863.7,
+   0.0002346
+  ],
+  [
+   23633570.8,
+   0.0002346
+  ],
+  [
+   20555274.3,
+   0.0002346
+  ],
+  [
+   17877929.1,
+   0.0002346
+  ],
+  [
+   16289705.0,
+   0.0002343
+  ],
+  [
+   14842574.1,
+   0.0002346
+  ],
+  [
+   13509767.1,
+   0.0002346
+  ],
+  [
+   11762483.1,
+   0.0002192
+  ],
+  [
+   10642149.5,
+   0.0001877
+  ],
+  [
+   9321567.6,
+   0.0001873
+  ],
+  [
+   8107424.0,
+   0.0001877
+  ],
+  [
+   7051423.9,
+   0.0001877
+  ],
+  [
+   6132968.8,
+   0.0001877
+  ],
+  [
+   5334143.4,
+   0.0001877
+  ],
+  [
+   4639365.9,
+   0.0001877
+  ],
+  [
+   4035083.8,
+   0.0001877
+  ],
+  [
+   3509510.7,
+   0.0001877
+  ],
+  [
+   3052393.4,
+   0.0001877
+  ],
+  [
+   2654816.1,
+   0.0001877
+  ],
+  [
+   2309023.6,
+   0.0001877
+  ],
+  [
+   2008270.9,
+   0.0001877
+  ],
+  [
+   1746691.6,
+   0.0001877
+  ],
+  [
+   1519183.3,
+   0.0001877
+  ],
+  [
+   1321308.1,
+   0.0001877
+  ],
+  [
+   1149206.4,
+   0.0001877
+  ],
+  [
+   999521.1,
+   0.0001877
+  ],
+  [
+   999521.1,
+   4.694e-05
+  ],
+  [
+   999521.1,
+   3.286e-05
+  ],
+  [
+   1047114.1,
+   2.488e-05
+  ],
+  [
+   1096973.3,
+   2.488e-05
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "DiffuseSN-SK_2024",
+ "coupling_convention": "g_ap (dimensionless)",
+ "notes": "Headline SK exclusion from Fig.4 (e-print boundsSK_g_vs_ma_8.pdf), the solid-outlined magenta 'Diffuse SN ALP flux (this work)' closed region in the (g_ap, m_a) plane, combining the first four SK phases (dominated by SK-IV). Points trace the full closed contour of the SK region (drawing index 5, solid stroke), NOT the dashed HK projection (drawing 4, out of scope). x converted MeV->eV; y calibrated on log-axis major ticks (10^-7..10^-4). Paper's Lagrangian Eq.1 is L = g_a (d_mu a / 2 m_N)[C_ap p-bar gamma^mu gamma5 p + ...] with g_ap = g_a C_ap, i.e. exactly the canonical L=(g_aN/2m_N)d_mu a N-bar gamma^mu gamma5 N normalisation (2m_N already included); no factor conversion needed. Benchmark model C_ap=-0.47, C_an=0 (g_an=0), KSVZ-inspired. Excluded band spans g_ap ~ 2.5e-5 (lower reach, flat) to ~2.3e-4 (upper 'ceiling' from ALP trapping/reabsorption) over m_a ~ 1-63 MeV (abstract states 1-70 MeV, ~2e-5 to ~2e-4). Not a dark-matter search (diffuse galactic SN flux), so dm_density_assumed=null. 95% C.L. (Z=1.96, profiled log-likelihood ratio, Appendix B).",
+ "num_points": 69,
+ "arxiv_id": "2412.09595",
+ "elapsed_s": 259.82824087142944,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 27,
+  "duration_ms": 259463,
+  "duration_api_ms": 256362,
+  "total_cost_usd": 1.856706,
+  "usage": {
+   "input_tokens": 734,
+   "output_tokens": 18018,
+   "cache_creation_input_tokens": 73568,
+   "cache_read_input_tokens": 1333812
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2412.09595.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T03:06:26-0500"
+ }
+}

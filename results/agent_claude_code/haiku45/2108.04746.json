@@ -1,0 +1,49 @@
+{
+ "paper_title": "Constraints on scalar field dark matter from colocated Michelson interferometers",
+ "coupling_type": null,
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.0,
+ "suggested_experiment_name": "Holometer_2022",
+ "coupling_convention": "Custom (\u039b_e and \u039b_\u03b3 energy scales [GeV])",
+ "notes": "Paper constrains scalar field dark matter via energy scale parameters \u039b_e (electron coupling) and \u039b_\u03b3 (photon coupling) in the Lagrangian L_int^lin = (\u03c6/\u039b_\u03b3)F_\u03bc\u03bdF^\u03bc\u03bd/4 - (\u03c6/\u039b_e)m_e \u03c8\u0304_e \u03c8_e. These do not map to AxionLimitBench canonical couplings (g_ae, d_e, etc.). Mass range covered: 1.6\u00d710^-12 to 1.0\u00d710^-7 eV. New constraints in previously unconstrained range 2.4-4.3\u00d710^-11 eV and improved limits in 8.2\u00d710^-9 to 6.2\u00d710^-8 eV by up to 3 orders of magnitude. Used cross-correlated Fermilab Holometer twin 40-m interferometers. Report is_new_limit=true but coupling convention is non-standard, so data points cannot be reliably extracted to canonical AxionLimitBench variables.",
+ "num_points": 0,
+ "arxiv_id": "2108.04746",
+ "elapsed_s": 324.51517701148987,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 323812,
+  "duration_api_ms": 301331,
+  "total_cost_usd": 0.3771946,
+  "usage": {
+   "input_tokens": 198,
+   "output_tokens": 27277,
+   "cache_creation_input_tokens": 63460,
+   "cache_read_input_tokens": 1136916
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2108.04746.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:03:08-0500"
+ }
+}

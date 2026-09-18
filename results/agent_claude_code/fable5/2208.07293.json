@@ -1,0 +1,411 @@
+{
+ "paper_title": "First Search for Axion-Like Particles in a Storage Ring Using a Polarized Deuteron Beam",
+ "coupling_type": "AxionEDM",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.963055e-10,
+   1.6971e-07
+  ],
+  [
+   4.963692e-10,
+   1.6318e-07
+  ],
+  [
+   4.964367e-10,
+   1.6605e-07
+  ],
+  [
+   4.965144e-10,
+   1.4237e-07
+  ],
+  [
+   4.965683e-10,
+   1.4509e-07
+  ],
+  [
+   4.966427e-10,
+   1.6764e-07
+  ],
+  [
+   4.967078e-10,
+   1.6968e-07
+  ],
+  [
+   4.967715e-10,
+   1.6037e-07
+  ],
+  [
+   4.968453e-10,
+   1.7814e-07
+  ],
+  [
+   4.969068e-10,
+   1.7895e-07
+  ],
+  [
+   4.969762e-10,
+   1.8506e-07
+  ],
+  [
+   4.970449e-10,
+   1.5203e-07
+  ],
+  [
+   4.97107e-10,
+   1.502e-07
+  ],
+  [
+   4.971795e-10,
+   1.6327e-07
+  ],
+  [
+   4.972438e-10,
+   2.0271e-07
+  ],
+  [
+   4.973037e-10,
+   1.7313e-07
+  ],
+  [
+   4.973713e-10,
+   1.4898e-07
+  ],
+  [
+   4.974463e-10,
+   1.2765e-07
+  ],
+  [
+   4.975108e-10,
+   1.3359e-07
+  ],
+  [
+   4.975716e-10,
+   1.2327e-07
+  ],
+  [
+   4.976471e-10,
+   1.1043e-07
+  ],
+  [
+   4.977161e-10,
+   1.1157e-07
+  ],
+  [
+   4.977826e-10,
+   1.2339e-07
+  ],
+  [
+   4.978451e-10,
+   1.3018e-07
+  ],
+  [
+   4.979092e-10,
+   1.2662e-07
+  ],
+  [
+   4.979826e-10,
+   1.3686e-07
+  ],
+  [
+   4.980435e-10,
+   1.352e-07
+  ],
+  [
+   4.981113e-10,
+   1.265e-07
+  ],
+  [
+   4.981837e-10,
+   1.8336e-07
+  ],
+  [
+   4.982507e-10,
+   1.9217e-07
+  ],
+  [
+   4.98316e-10,
+   1.7248e-07
+  ],
+  [
+   4.983821e-10,
+   1.6289e-07
+  ],
+  [
+   4.984458e-10,
+   1.7041e-07
+  ],
+  [
+   4.985204e-10,
+   2.1038e-07
+  ],
+  [
+   4.985886e-10,
+   1.7902e-07
+  ],
+  [
+   4.98645e-10,
+   1.6626e-07
+  ],
+  [
+   4.987235e-10,
+   1.4555e-07
+  ],
+  [
+   4.987813e-10,
+   1.5513e-07
+  ],
+  [
+   4.988547e-10,
+   1.8024e-07
+  ],
+  [
+   4.989192e-10,
+   1.6216e-07
+  ],
+  [
+   4.989868e-10,
+   1.5984e-07
+  ],
+  [
+   4.990549e-10,
+   1.8448e-07
+  ],
+  [
+   4.991255e-10,
+   1.7963e-07
+  ],
+  [
+   4.991969e-10,
+   1.805e-07
+  ],
+  [
+   4.992577e-10,
+   1.9513e-07
+  ],
+  [
+   4.993236e-10,
+   1.7021e-07
+  ],
+  [
+   4.993944e-10,
+   1.7744e-07
+  ],
+  [
+   4.994589e-10,
+   2.0132e-07
+  ],
+  [
+   4.995275e-10,
+   1.5409e-07
+  ],
+  [
+   4.995927e-10,
+   1.3061e-07
+  ],
+  [
+   4.996532e-10,
+   1.3495e-07
+  ],
+  [
+   4.997289e-10,
+   1.1112e-07
+  ],
+  [
+   4.998014e-10,
+   1.6113e-07
+  ],
+  [
+   4.998639e-10,
+   1.7192e-07
+  ],
+  [
+   4.999298e-10,
+   1.6378e-07
+  ],
+  [
+   4.999953e-10,
+   1.8249e-07
+  ],
+  [
+   5.000642e-10,
+   2.3436e-07
+  ],
+  [
+   5.001294e-10,
+   2.0192e-07
+  ],
+  [
+   5.002012e-10,
+   2.024e-07
+  ],
+  [
+   5.002575e-10,
+   2.2121e-07
+  ],
+  [
+   5.003331e-10,
+   1.8787e-07
+  ],
+  [
+   5.004022e-10,
+   1.8474e-07
+  ],
+  [
+   5.004625e-10,
+   2.1176e-07
+  ],
+  [
+   5.005335e-10,
+   1.9394e-07
+  ],
+  [
+   5.006022e-10,
+   1.931e-07
+  ],
+  [
+   5.006666e-10,
+   1.6513e-07
+  ],
+  [
+   5.007365e-10,
+   1.8938e-07
+  ],
+  [
+   5.007931e-10,
+   1.6983e-07
+  ],
+  [
+   5.008665e-10,
+   1.9275e-07
+  ],
+  [
+   5.009421e-10,
+   1.9055e-07
+  ],
+  [
+   5.010118e-10,
+   1.8906e-07
+  ],
+  [
+   5.010712e-10,
+   1.7211e-07
+  ],
+  [
+   5.011392e-10,
+   1.9256e-07
+  ],
+  [
+   5.012036e-10,
+   1.7879e-07
+  ],
+  [
+   5.01271e-10,
+   1.6949e-07
+  ],
+  [
+   5.013385e-10,
+   1.7059e-07
+  ],
+  [
+   5.014057e-10,
+   1.8262e-07
+  ],
+  [
+   5.014748e-10,
+   1.6447e-07
+  ],
+  [
+   5.015455e-10,
+   1.6924e-07
+  ],
+  [
+   5.016099e-10,
+   1.6322e-07
+  ],
+  [
+   5.016695e-10,
+   1.7765e-07
+  ],
+  [
+   5.017427e-10,
+   1.7209e-07
+  ],
+  [
+   5.018073e-10,
+   2.1912e-07
+  ],
+  [
+   5.018801e-10,
+   1.9858e-07
+  ],
+  [
+   5.019384e-10,
+   2.0072e-07
+  ],
+  [
+   5.0201e-10,
+   1.8481e-07
+  ],
+  [
+   5.020801e-10,
+   2.2033e-07
+  ],
+  [
+   5.021439e-10,
+   1.9396e-07
+  ],
+  [
+   5.022067e-10,
+   1.8195e-07
+  ],
+  [
+   5.022777e-10,
+   1.7602e-07
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.55,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "JEDI_2023",
+ "coupling_convention": "g_d [GeV^-2]",
+ "notes": "JEDI/COSY storage-ring scan, spin-precession resonance 120.0-121.4 kHz (ma = 0.4963-0.5023 neV). Headline 90% CL limit: oscillating deuteron EDM |d_d^AC| < 6.4e-23 e cm (Eq. 37, average over scan), equivalent to |g_adgamma| < 1.7e-7 GeV^-2 (Eq. 38). Curve extracted from vector paths of Fig. 17 (figures/sensitivity_plot_atten.pdf in e-print): both ramp-rate curves (green dp=0.112 MeV/c for 120.0-120.25 kHz, blue dp=0.138 MeV/c for 120.25-121.46 kHz) combined, bin-averaged to 90 points, and converted per point via Eq. 38: g = (d/e hbar c) sqrt(4 pi alpha)/a0 with a0 = sqrt(2 rho (hbar c)^3)/ma, rho_LDM = 0.55 GeV/cm^3 (conversion verified: 6.4e-23 e cm -> 1.69e-7 GeV^-2, matching the paper). Reported coupling is the deuteron EDM operator coupling g_adgamma, the deuteron analog of the canonical nucleon g_d (d = g a); the paper plots it in the |g_aNgamma| [GeV^-2] plane (Fig. 19). The axion-wind (Cd/fa < 1.5e-5 GeV^-1) and gluon-coupling (Cd_G/fa < 0.46e-4 GeV^-1) bounds from the same data are secondary results not reported here.",
+ "num_points": 90,
+ "arxiv_id": "2208.07293",
+ "elapsed_s": 257.65043592453003,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 257062,
+  "duration_api_ms": 253189,
+  "total_cost_usd": 1.9973345000000005,
+  "usage": {
+   "input_tokens": 484,
+   "output_tokens": 17083,
+   "cache_creation_input_tokens": 47533,
+   "cache_read_input_tokens": 480132
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2208.07293.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:56:02-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

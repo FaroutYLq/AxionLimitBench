@@ -1,0 +1,49 @@
+{
+ "paper_title": "A Model-Independent Radio Telescope Dark Matter Search in the L and S Bands",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "Keller_2021_BL_GBT",
+ "coupling_convention": null,
+ "notes": "Model-independent radio (GBT Breakthrough Listen) search for dark-matter decay/annihilation to a quasimonochromatic radio line over 1020-2700 MHz (L and S bands). The paper's headline results (Fig. 8, 9) are limits on the dark-matter DECAY RATE lambda [s^-1] (~1e-32 s^-1) and ANNIHILATION cross-section <sigma v> [cm^3 s^-1] (~1e-30 cm^3 s^-1) as functions of line frequency / DM mass. These are deliberately model-independent and are NOT expressed as, nor converted to, any particle-physics coupling. The two-photon final state is treated only 'for simplicity' and the paper never derives a g_agamma bound (it explicitly notes these would be far weaker than stellar bounds). No coupling in the AxionLimitBench canonical table (g_agamma, g_ae, etc.) is bounded, so is_new_limit=false. The measurement is a real exclusion, not a projection, but it lies outside the tracked coupling planes (a decay-rate / cross-section limit, not a coupling).",
+ "num_points": 0,
+ "arxiv_id": "2112.03439",
+ "elapsed_s": 32.02311992645264,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 6,
+  "duration_ms": 31514,
+  "duration_api_ms": 30608,
+  "total_cost_usd": 0.2595575,
+  "usage": {
+   "input_tokens": 151,
+   "output_tokens": 2049,
+   "cache_creation_input_tokens": 23155,
+   "cache_read_input_tokens": 63430
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2112.03439.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:00:27-0500"
+ }
+}

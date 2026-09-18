@@ -1,0 +1,114 @@
+{
+ "paper_title": "Strong constraints on decay and annihilation of dark matter from heating of gas-rich dwarf galaxies",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   32.80794,
+   5.212913e-13
+  ],
+  [
+   36.04832,
+   1.690406e-13
+  ],
+  [
+   39.60874,
+   1.134824e-13
+  ],
+  [
+   53.1646,
+   5.20389e-14
+  ],
+  [
+   56.38828,
+   4.690092e-14
+  ],
+  [
+   59.80743,
+   4.690092e-14
+  ],
+  [
+   89.24953,
+   2.428019e-14
+  ],
+  [
+   276.3623,
+   4.601553e-15
+  ],
+  [
+   353.881,
+   3.368715e-15
+  ],
+  [
+   503.7963,
+   2.55313e-15
+  ],
+  [
+   725.7148,
+   2.301051e-15
+  ],
+  [
+   1370.509,
+   2.301051e-15
+  ],
+  [
+   1488.246,
+   2.382183e-15
+  ],
+  [
+   1997.589,
+   2.382183e-15
+  ],
+  [
+   2093.916,
+   2.466176e-15
+  ],
+  [
+   3353.433,
+   2.55313e-15
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "LeoT_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Extracted from Figure 4 (left panel) showing ALP-photon coupling constraints from Leo T dwarf galaxy gas heating. The limit curve (black solid line labeled 'Leo T gas temp.') represents upper bounds on g_a\u03b3\u03b3 as a function of axion mass m_a. Coordinates extracted via pymupdf vector path analysis with axis calibration: x_axis uses 5-point log-linear fit for mass ticks (10, 50, 100, 500, 1000 eV); y-axis uses 7-point calibration for exponent ticks (10^-15 through 10^-9 GeV^-1). Curve simplified using Ramer-Douglas-Peucker algorithm (epsilon=0.01 in log-log space) from 398 initial pixels to 16 data points. The very first 4 extracted points (with anomalous high coupling values) were discarded as noise/legend artifacts before simplification. Mass range: 32.8 eV to 3353 eV.",
+ "num_points": 16,
+ "arxiv_id": "2111.08025",
+ "elapsed_s": 346.8095018863678,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 43,
+  "duration_ms": 346426,
+  "duration_api_ms": 337895,
+  "total_cost_usd": 0.5271539999999999,
+  "usage": {
+   "input_tokens": 308,
+   "output_tokens": 29055,
+   "cache_creation_input_tokens": 82944,
+   "cache_read_input_tokens": 2156830
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2111.08025.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:17:59-0500"
+ }
+}

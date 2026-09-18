@@ -1,0 +1,49 @@
+{
+ "paper_title": "The Cosmological Evolution of Light Dark Photon Dark Matter",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.0,
+ "suggested_experiment_name": null,
+ "coupling_convention": null,
+ "notes": "Paper derives theoretical constraints on dark photon dark matter from CMB, dark ages, and other cosmological observations (coupling: kinetic mixing \u03c7). However, these are theoretical limits derived from cosmological data, not direct measurements or experimental exclusions of dark photons. Figure 3 shows multiple overlapping constraint curves from different physical processes (FIRAS, dark matter depletion, dark ages, \u03bc/y-type distortions, He reionization). Paper explicitly states it provides an ancillary data file outlining the strongest constraint for each dark photon mass - this is the authoritative source. Unable to reliably extract individual curve coordinates from the complex Figure 3 without access to that ancillary file or additional calibration points in the paper text. Visual inspection suggests constraints span m_A' ~ 10^-22 to 10^-2 eV and \u03c7 ~ 10^-14 to 10^-8, with tightest constraints at \u03c7 ~ 10^-10 in the m ~ 10^-14 to 10^-10 eV range.",
+ "num_points": 0,
+ "arxiv_id": "1911.05086",
+ "elapsed_s": 272.0547499656677,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 33,
+  "duration_ms": 271124,
+  "duration_api_ms": 253078,
+  "total_cost_usd": 0.4036716000000001,
+  "usage": {
+   "input_tokens": 242,
+   "output_tokens": 25939,
+   "cache_creation_input_tokens": 67487,
+   "cache_read_input_tokens": 1387606
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1911.05086.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:03:31-0500"
+ }
+}

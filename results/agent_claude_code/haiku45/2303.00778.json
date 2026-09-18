@@ -1,0 +1,49 @@
+{
+ "paper_title": "Stellar limits on scalars from electron-nucleus bremsstrahlung",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.0,
+ "suggested_experiment_name": null,
+ "coupling_convention": null,
+ "notes": "Paper derives observational bounds on baryophilic and leptophilic scalars from white-dwarf cooling (\u03b1_B \u2272 3.4\u00d710^-26, \u03b1_c \u2272 1.2\u00d710^-32 at 95% CL), but results are presented as single numerical values rather than as curves in the canonical coupling-mass planes. Figure 3 shows constraints on sin \u03b8 (Higgs portal mixing angle) vs scalar mass, but sin \u03b8 is not a canonical coupling type in AxionLimitBench. Paper is theoretical/observational rather than from direct experimental measurement.",
+ "num_points": 0,
+ "arxiv_id": "2303.00778",
+ "elapsed_s": 59.53224301338196,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 59209,
+  "duration_api_ms": 57590,
+  "total_cost_usd": 0.1784563,
+  "usage": {
+   "input_tokens": 84,
+   "output_tokens": 4297,
+   "cache_creation_input_tokens": 62192,
+   "cache_read_input_tokens": 325033
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2303.00778.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:14:29-0500"
+ }
+}

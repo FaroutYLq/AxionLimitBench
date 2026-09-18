@@ -1,0 +1,107 @@
+{
+ "paper_title": "Anisotropic cosmic optical background bound for decaying dark matter in light of the LORRI anomaly",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.0,
+   3.48e-11
+  ],
+  [
+   6.0,
+   2.38e-11
+  ],
+  [
+   8.0,
+   1.81e-11
+  ],
+  [
+   10.0,
+   1.7e-11
+  ],
+  [
+   12.0,
+   1.7e-11
+  ],
+  [
+   14.0,
+   1.72e-11
+  ],
+  [
+   16.0,
+   1.74e-11
+  ],
+  [
+   18.0,
+   1.8e-11
+  ],
+  [
+   20.0,
+   1.87e-11
+  ],
+  [
+   22.0,
+   1.95e-11
+  ],
+  [
+   24.0,
+   2.06e-11
+  ],
+  [
+   26.0,
+   2.16e-11
+  ],
+  [
+   28.0,
+   2.26e-11
+  ],
+  [
+   30.0,
+   2.35e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "COBAnisotropy_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Limit from Fig. 3 (ALP2-crop.pdf in the e-print), the 95% CL exclusion on the ALP-photon coupling g_chi-gamma-gamma for ALP dark matter (R=1, q_gamma=2) derived from the HST cosmic optical background anisotropy. The figure shows two 'this work' regions (HST 0.606 um and HST 0.85 um); the 0.606 um bound is the stronger of the two at all masses 5-30 eV, so the reported envelope coincides with the HST 0.606 um curve. Boundary coordinates recovered from the vector paths of the filled exclusion regions; axes calibrated from tick labels (x linear 5-30 eV, y log 1e-12 to 5e-10 GeV^-1). The paper defines Gamma = g^2 m^3 / (64 pi) (Eq. decayrate), i.e. the standard L = -(g/4) a F Ftilde convention, so no conversion was needed. Cosmological (mean cosmic DM density) bound, not a local-halo search, so no rho_DM rescaling applied. Cross-check: the curve corresponds to Gamma ~ 2e-24 s^-1 at 10 eV, consistent with the abstract's quoted 1e-24 to 1e-23 s^-1 exclusion over 5-20 eV.",
+ "num_points": 14,
+ "arxiv_id": "2205.01079",
+ "elapsed_s": 116.22017002105713,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 115692,
+  "duration_api_ms": 113603,
+  "total_cost_usd": 1.1248304999999998,
+  "usage": {
+   "input_tokens": 393,
+   "output_tokens": 8853,
+   "cache_creation_input_tokens": 26855,
+   "cache_read_input_tokens": 342563
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2205.01079.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:18:43-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

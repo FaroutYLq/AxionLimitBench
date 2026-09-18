@@ -1,0 +1,379 @@
+{
+ "paper_title": "Constraints on axion-like polarization oscillations in the cosmic microwave background with POLARBEAR",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   9.57313e-22,
+   2.92186e-11
+  ],
+  [
+   9.76125e-22,
+   2.28251e-11
+  ],
+  [
+   1.01486e-21,
+   2.35695e-11
+  ],
+  [
+   1.05514e-21,
+   3.00345e-11
+  ],
+  [
+   1.09701e-21,
+   2.68532e-11
+  ],
+  [
+   1.14055e-21,
+   5.26084e-11
+  ],
+  [
+   1.18581e-21,
+   3.62637e-11
+  ],
+  [
+   1.23287e-21,
+   2.50102e-11
+  ],
+  [
+   1.2818e-21,
+   3.08689e-11
+  ],
+  [
+   1.33267e-21,
+   2.63567e-11
+  ],
+  [
+   1.38556e-21,
+   3.23924e-11
+  ],
+  [
+   1.44055e-21,
+   7.69076e-11
+  ],
+  [
+   1.49772e-21,
+   3.76626e-11
+  ],
+  [
+   1.55716e-21,
+   3.39627e-11
+  ],
+  [
+   1.61896e-21,
+   3.84769e-11
+  ],
+  [
+   1.68321e-21,
+   3.65001e-11
+  ],
+  [
+   1.75001e-21,
+   4.60253e-11
+  ],
+  [
+   1.81946e-21,
+   5.62467e-11
+  ],
+  [
+   1.89166e-21,
+   5.08988e-11
+  ],
+  [
+   1.96674e-21,
+   4.39202e-11
+  ],
+  [
+   2.04479e-21,
+   4.7359e-11
+  ],
+  [
+   2.12594e-21,
+   4.80101e-11
+  ],
+  [
+   2.21031e-21,
+   4.89907e-11
+  ],
+  [
+   2.29803e-21,
+   6.43088e-11
+  ],
+  [
+   2.38923e-21,
+   6.03253e-11
+  ],
+  [
+   2.48405e-21,
+   6.30868e-11
+  ],
+  [
+   2.58263e-21,
+   9.78188e-11
+  ],
+  [
+   2.68513e-21,
+   6.05639e-11
+  ],
+  [
+   2.79169e-21,
+   8.56819e-11
+  ],
+  [
+   2.90248e-21,
+   8.55274e-11
+  ],
+  [
+   3.01767e-21,
+   6.56887e-11
+  ],
+  [
+   3.13743e-21,
+   8.3505e-11
+  ],
+  [
+   3.26194e-21,
+   7.23575e-11
+  ],
+  [
+   3.39139e-21,
+   7.93632e-11
+  ],
+  [
+   3.52599e-21,
+   8.4772e-11
+  ],
+  [
+   3.66592e-21,
+   9.10416e-11
+  ],
+  [
+   3.8114e-21,
+   8.21625e-11
+  ],
+  [
+   3.96266e-21,
+   1.149e-10
+  ],
+  [
+   4.11993e-21,
+   8.68384e-11
+  ],
+  [
+   4.28343e-21,
+   1.15157e-10
+  ],
+  [
+   4.45343e-21,
+   1.12098e-10
+  ],
+  [
+   4.63017e-21,
+   1.03146e-10
+  ],
+  [
+   4.81392e-21,
+   1.08168e-10
+  ],
+  [
+   5.00496e-21,
+   1.16543e-10
+  ],
+  [
+   5.20359e-21,
+   2.05737e-10
+  ],
+  [
+   5.4101e-21,
+   1.16846e-10
+  ],
+  [
+   5.62481e-21,
+   1.29575e-10
+  ],
+  [
+   5.84804e-21,
+   1.29795e-10
+  ],
+  [
+   6.08012e-21,
+   1.63014e-10
+  ],
+  [
+   6.32142e-21,
+   1.84464e-10
+  ],
+  [
+   6.57229e-21,
+   1.44609e-10
+  ],
+  [
+   6.83312e-21,
+   1.41455e-10
+  ],
+  [
+   7.1043e-21,
+   1.52351e-10
+  ],
+  [
+   7.38625e-21,
+   1.90157e-10
+  ],
+  [
+   7.67938e-21,
+   1.68042e-10
+  ],
+  [
+   7.98414e-21,
+   1.95959e-10
+  ],
+  [
+   8.30101e-21,
+   2.45688e-10
+  ],
+  [
+   8.63044e-21,
+   2.19784e-10
+  ],
+  [
+   8.97295e-21,
+   2.11431e-10
+  ],
+  [
+   9.32905e-21,
+   2.58426e-10
+  ],
+  [
+   9.69929e-21,
+   2.4722e-10
+  ],
+  [
+   1.00842e-20,
+   2.52372e-10
+  ],
+  [
+   1.04844e-20,
+   2.60395e-10
+  ],
+  [
+   1.09005e-20,
+   3.17966e-10
+  ],
+  [
+   1.13331e-20,
+   3.04026e-10
+  ],
+  [
+   1.17829e-20,
+   2.75483e-10
+  ],
+  [
+   1.22505e-20,
+   2.6298e-10
+  ],
+  [
+   1.27367e-20,
+   2.84277e-10
+  ],
+  [
+   1.32421e-20,
+   3.02323e-10
+  ],
+  [
+   1.37677e-20,
+   3.11041e-10
+  ],
+  [
+   1.43141e-20,
+   3.43699e-10
+  ],
+  [
+   1.48821e-20,
+   3.56952e-10
+  ],
+  [
+   1.54727e-20,
+   3.67294e-10
+  ],
+  [
+   1.60868e-20,
+   3.67995e-10
+  ],
+  [
+   1.67252e-20,
+   4.0362e-10
+  ],
+  [
+   1.7389e-20,
+   4.2766e-10
+  ],
+  [
+   1.80791e-20,
+   4.1503e-10
+  ],
+  [
+   1.87966e-20,
+   4.35653e-10
+  ],
+  [
+   1.95425e-20,
+   4.81754e-10
+  ],
+  [
+   2.03181e-20,
+   4.7936e-10
+  ],
+  [
+   2.11245e-20,
+   4.99417e-10
+  ],
+  [
+   2.15395e-20,
+   5.4182e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "POLARBEAR_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Stochastic 95% CL upper limit on g_phi_gamma from Fig. 5 (solid red, 'POLARBEAR (this work)'), assuming the axion is all of the dark matter with rho0=0.3 GeV/cm^3 and a Rayleigh-distributed local field amplitude (Sec. VI, Eqs. 24-28). Curve extracted from the vector paths of coupling_constraints.pdf in the e-print; axes calibrated from major tick marks and verified against the median line, which reproduces Eq. 28 [g < 2.4e-11 GeV^-1 (m/1e-21 eV)] to ~1%. The plotted exact bound oscillates rapidly with frequency (515 frequencies, 0.67x-3.1x the median); reported points are per-log-bin medians of that curve (80 bins), which track the paper's quoted median limit. Mass range 9.6e-22 to 2.2e-20 eV (Eq. 30). The stochastic-field limit is the paper's headline result; the deterministic median (Eq. 25, 1.1e-11 GeV^-1 x m/1e-21 eV, dashed) is 2.2x stronger and not reported.",
+ "num_points": 82,
+ "arxiv_id": "2303.08410",
+ "elapsed_s": 230.65133833885193,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 230334,
+  "duration_api_ms": 227266,
+  "total_cost_usd": 1.6492450000000003,
+  "usage": {
+   "input_tokens": 481,
+   "output_tokens": 14764,
+   "cache_creation_input_tokens": 35186,
+   "cache_read_input_tokens": 402375
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2303.08410.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T22:09:23-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

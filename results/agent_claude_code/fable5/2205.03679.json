@@ -1,0 +1,411 @@
+{
+ "paper_title": "Search for Dark Photon Dark Matter in the Mass Range 74-110 \u03bceV/c^2 with a Cryogenic Millimeter-Wave Receiver",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   7.444e-05,
+   8.792e-11
+  ],
+  [
+   7.5005e-05,
+   8.716e-11
+  ],
+  [
+   7.53959e-05,
+   8.945e-11
+  ],
+  [
+   7.57868e-05,
+   8.869e-11
+  ],
+  [
+   7.61777e-05,
+   8.945e-11
+  ],
+  [
+   7.65687e-05,
+   9.251e-11
+  ],
+  [
+   7.69596e-05,
+   9.48e-11
+  ],
+  [
+   7.73505e-05,
+   9.251e-11
+  ],
+  [
+   7.77414e-05,
+   9.939e-11
+  ],
+  [
+   7.81323e-05,
+   9.939e-11
+  ],
+  [
+   7.85233e-05,
+   9.404e-11
+  ],
+  [
+   7.89142e-05,
+   9.174e-11
+  ],
+  [
+   7.93051e-05,
+   9.48e-11
+  ],
+  [
+   7.9696e-05,
+   9.174e-11
+  ],
+  [
+   8.00869e-05,
+   9.327e-11
+  ],
+  [
+   8.04779e-05,
+   9.021e-11
+  ],
+  [
+   8.08688e-05,
+   9.557e-11
+  ],
+  [
+   8.12597e-05,
+   9.557e-11
+  ],
+  [
+   8.16506e-05,
+   9.327e-11
+  ],
+  [
+   8.20415e-05,
+   9.939e-11
+  ],
+  [
+   8.24324e-05,
+   1.024e-10
+  ],
+  [
+   8.28234e-05,
+   1.009e-10
+  ],
+  [
+   8.32143e-05,
+   1.017e-10
+  ],
+  [
+   8.36052e-05,
+   1.009e-10
+  ],
+  [
+   8.39961e-05,
+   9.786e-11
+  ],
+  [
+   8.4387e-05,
+   9.786e-11
+  ],
+  [
+   8.4778e-05,
+   9.327e-11
+  ],
+  [
+   8.51689e-05,
+   1.009e-10
+  ],
+  [
+   8.55598e-05,
+   1.032e-10
+  ],
+  [
+   8.59507e-05,
+   9.786e-11
+  ],
+  [
+   8.63416e-05,
+   1.002e-10
+  ],
+  [
+   8.67326e-05,
+   1.009e-10
+  ],
+  [
+   8.71235e-05,
+   9.939e-11
+  ],
+  [
+   8.75144e-05,
+   1.024e-10
+  ],
+  [
+   8.79053e-05,
+   1.063e-10
+  ],
+  [
+   8.82962e-05,
+   1.101e-10
+  ],
+  [
+   8.86872e-05,
+   1.093e-10
+  ],
+  [
+   8.90781e-05,
+   1.086e-10
+  ],
+  [
+   8.9469e-05,
+   1.131e-10
+  ],
+  [
+   8.98599e-05,
+   1.131e-10
+  ],
+  [
+   9.02508e-05,
+   1.101e-10
+  ],
+  [
+   9.06417e-05,
+   1.101e-10
+  ],
+  [
+   9.10327e-05,
+   1.162e-10
+  ],
+  [
+   9.14236e-05,
+   1.131e-10
+  ],
+  [
+   9.18145e-05,
+   1.147e-10
+  ],
+  [
+   9.22054e-05,
+   1.147e-10
+  ],
+  [
+   9.25963e-05,
+   1.162e-10
+  ],
+  [
+   9.29873e-05,
+   1.139e-10
+  ],
+  [
+   9.33782e-05,
+   1.131e-10
+  ],
+  [
+   9.37691e-05,
+   1.131e-10
+  ],
+  [
+   9.416e-05,
+   1.185e-10
+  ],
+  [
+   9.45509e-05,
+   1.193e-10
+  ],
+  [
+   9.49419e-05,
+   1.2e-10
+  ],
+  [
+   9.53328e-05,
+   1.208e-10
+  ],
+  [
+   9.57237e-05,
+   1.185e-10
+  ],
+  [
+   9.61146e-05,
+   1.17e-10
+  ],
+  [
+   9.65055e-05,
+   1.185e-10
+  ],
+  [
+   9.68965e-05,
+   1.33e-10
+  ],
+  [
+   9.72874e-05,
+   1.254e-10
+  ],
+  [
+   9.76783e-05,
+   1.246e-10
+  ],
+  [
+   9.80692e-05,
+   1.292e-10
+  ],
+  [
+   9.84601e-05,
+   1.292e-10
+  ],
+  [
+   9.88511e-05,
+   1.239e-10
+  ],
+  [
+   9.9242e-05,
+   1.292e-10
+  ],
+  [
+   9.96329e-05,
+   1.315e-10
+  ],
+  [
+   0.0001000238,
+   1.307e-10
+  ],
+  [
+   0.0001004147,
+   1.277e-10
+  ],
+  [
+   0.0001008056,
+   1.284e-10
+  ],
+  [
+   0.0001011966,
+   1.3e-10
+  ],
+  [
+   0.0001015875,
+   1.307e-10
+  ],
+  [
+   0.0001019784,
+   1.254e-10
+  ],
+  [
+   0.0001023693,
+   1.323e-10
+  ],
+  [
+   0.0001027602,
+   1.323e-10
+  ],
+  [
+   0.0001031512,
+   1.277e-10
+  ],
+  [
+   0.0001035421,
+   1.338e-10
+  ],
+  [
+   0.000103933,
+   1.445e-10
+  ],
+  [
+   0.0001043239,
+   1.3e-10
+  ],
+  [
+   0.0001047148,
+   1.254e-10
+  ],
+  [
+   0.0001051058,
+   1.361e-10
+  ],
+  [
+   0.0001054967,
+   1.323e-10
+  ],
+  [
+   0.0001058876,
+   1.407e-10
+  ],
+  [
+   0.0001062785,
+   1.399e-10
+  ],
+  [
+   0.0001066694,
+   1.43e-10
+  ],
+  [
+   0.0001070604,
+   1.407e-10
+  ],
+  [
+   0.0001074513,
+   1.399e-10
+  ],
+  [
+   0.0001078422,
+   1.384e-10
+  ],
+  [
+   0.0001082331,
+   1.414e-10
+  ],
+  [
+   0.000108624,
+   1.361e-10
+  ],
+  [
+   0.000109015,
+   1.407e-10
+  ],
+  [
+   0.0001096,
+   1.453e-10
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.39,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "DOSUE-RR_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "DOSUE-RR cryogenic mm-wave dark photon search, 18-26.5 GHz (74-110 ueV). Curve digitised from the zoomed bottom panel of Fig. 5 (raster PNG limit_zoom_red_newrebin2.png from the e-print): linear axes calibrated from tick marks (x: 80/90/100/110 ueV; y: 0-10 x1e-10). The published limit is a rapidly oscillating spiky curve spanning ~(0.3-2.0)e-10; reported points are the per-column median of the dark-red band, downsampled to 90 mass bins, so they trace the typical limit level rather than individual spike extrema. Paper assumes rho=0.39 GeV/cm^3, random dark-photon polarisation alpha=sqrt(2/3) (Eq. 1), 95% CL upper limits via max(0,P)+1.71sigma (Eq. 8).",
+ "num_points": 90,
+ "arxiv_id": "2205.03679",
+ "elapsed_s": 153.9774730205536,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 153588,
+  "duration_api_ms": 149563,
+  "total_cost_usd": 1.4941735000000003,
+  "usage": {
+   "input_tokens": 474,
+   "output_tokens": 11823,
+   "cache_creation_input_tokens": 34219,
+   "cache_read_input_tokens": 406496
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2205.03679.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:48:45-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

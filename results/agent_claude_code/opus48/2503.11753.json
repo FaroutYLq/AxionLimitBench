@@ -1,0 +1,230 @@
+{
+ "paper_title": "First constraints on QCD axion dark matter using James Webb Space Telescope observations",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.1006,
+   4.74e-12
+  ],
+  [
+   0.1155,
+   3.8e-12
+  ],
+  [
+   0.1189,
+   3.21e-12
+  ],
+  [
+   0.1385,
+   3.19e-12
+  ],
+  [
+   0.1501,
+   1.81e-12
+  ],
+  [
+   0.1598,
+   1.47e-12
+  ],
+  [
+   0.1679,
+   1.47e-12
+  ],
+  [
+   0.1813,
+   1.38e-12
+  ],
+  [
+   0.2006,
+   1.5e-12
+  ],
+  [
+   0.2223,
+   1.22e-12
+  ],
+  [
+   0.2366,
+   1.05e-12
+  ],
+  [
+   0.2468,
+   1.05e-12
+  ],
+  [
+   0.2858,
+   9.86e-13
+  ],
+  [
+   0.3138,
+   1.34e-12
+  ],
+  [
+   0.3261,
+   1.12e-12
+  ],
+  [
+   0.3535,
+   1.12e-12
+  ],
+  [
+   0.3797,
+   1.12e-12
+  ],
+  [
+   0.4374,
+   1.15e-12
+  ],
+  [
+   0.4471,
+   1.13e-12
+  ],
+  [
+   0.4933,
+   1.04e-12
+  ],
+  [
+   0.5303,
+   8.51e-13
+  ],
+  [
+   0.5821,
+   6.48e-13
+  ],
+  [
+   0.6113,
+   7.92e-13
+  ],
+  [
+   0.7013,
+   8.11e-13
+  ],
+  [
+   0.7246,
+   5.05e-13
+  ],
+  [
+   0.8352,
+   4.72e-13
+  ],
+  [
+   0.8609,
+   5.22e-13
+  ],
+  [
+   0.9741,
+   3.8e-13
+  ],
+  [
+   1.0667,
+   2.98e-13
+  ],
+  [
+   1.0792,
+   2.56e-13
+  ],
+  [
+   1.244,
+   2.44e-13
+  ],
+  [
+   1.3751,
+   2.21e-13
+  ],
+  [
+   1.4306,
+   2.82e-13
+  ],
+  [
+   1.5414,
+   3.74e-13
+  ],
+  [
+   1.6491,
+   3.86e-13
+  ],
+  [
+   1.8442,
+   2.55e-13
+  ],
+  [
+   1.9367,
+   2.79e-13
+  ],
+  [
+   2.2015,
+   1.72e-13
+  ],
+  [
+   2.2692,
+   3.41e-13
+  ],
+  [
+   2.6035,
+   1.7e-13
+  ],
+  [
+   2.6587,
+   2.08e-13
+  ],
+  [
+   3.0081,
+   2.39e-13
+  ],
+  [
+   3.3955,
+   2.35e-13
+  ],
+  [
+   3.4273,
+   2.13e-13
+  ],
+  [
+   3.8687,
+   3.1e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "JWST_2025",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "AxionPhoton g_agamma 95% CL limit (Delta chi^2 <= 3.84) on QCD axion/ALP dark matter decaying to two photons, from JWST blank-sky observations (MIRI 0.1-0.5 eV red region + NIRSpec 0.5-4 eV blue region). Headline curve is the lower boundary (deepest excluded coupling) of the combined MIRI+NIRSpec excluded region in Fig. 2, extracted by vector analysis of Plots/limits_miri+nirspec_v5.pdf (drawings 2=red MIRI fill, 3=blue NIRSpec fill). Log-log axes calibrated from tick marks: x 0.1-4 eV (487.6 px/decade), y 1e-13..1e-9 GeV^-1 (83.2 px/decade). Curve is highly spiky (per-wavelength spectral limits); reported points are the lower envelope binned in log-mass. Limit is a decay signal depending on the D-factor (NFW column density, rs=24 kpc, rho_s=0.18 GeV/cm^3) rather than a single local density, so dm_density_assumed is null; assumes axions are 100% of DM. No ancillary data file in e-print.",
+ "num_points": 45,
+ "arxiv_id": "2503.11753",
+ "elapsed_s": 114.43104314804077,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 114132,
+  "duration_api_ms": 112156,
+  "total_cost_usd": 0.8883770000000001,
+  "usage": {
+   "input_tokens": 410,
+   "output_tokens": 8662,
+   "cache_creation_input_tokens": 42394,
+   "cache_read_input_tokens": 491674
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2503.11753.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T03:07:28-0500"
+ }
+}

@@ -1,0 +1,451 @@
+{
+ "paper_title": "The PVLAS experiment: measuring vacuum magnetic birefringence and dichroism with a birefringent Fabry-Perot cavity",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0001,
+   1.18639e-06
+  ],
+  [
+   0.000104762,
+   1.13246e-06
+  ],
+  [
+   0.00010975,
+   1.08098e-06
+  ],
+  [
+   0.000114976,
+   1.03183e-06
+  ],
+  [
+   0.00012045,
+   9.84927e-07
+  ],
+  [
+   0.000126186,
+   9.40163e-07
+  ],
+  [
+   0.000132194,
+   8.97433e-07
+  ],
+  [
+   0.000138489,
+   8.56643e-07
+  ],
+  [
+   0.000145083,
+   8.17708e-07
+  ],
+  [
+   0.000151991,
+   7.80557e-07
+  ],
+  [
+   0.000159228,
+   7.45095e-07
+  ],
+  [
+   0.00016681,
+   7.11237e-07
+  ],
+  [
+   0.000174753,
+   6.78918e-07
+  ],
+  [
+   0.000183074,
+   6.48066e-07
+  ],
+  [
+   0.000191791,
+   6.18617e-07
+  ],
+  [
+   0.000200923,
+   5.90515e-07
+  ],
+  [
+   0.00021049,
+   5.63691e-07
+  ],
+  [
+   0.000220513,
+   5.38091e-07
+  ],
+  [
+   0.000231013,
+   5.13656e-07
+  ],
+  [
+   0.000242013,
+   4.90333e-07
+  ],
+  [
+   0.000253536,
+   4.68069e-07
+  ],
+  [
+   0.000265609,
+   4.46826e-07
+  ],
+  [
+   0.000278256,
+   4.26549e-07
+  ],
+  [
+   0.000291505,
+   4.07203e-07
+  ],
+  [
+   0.000305386,
+   3.88737e-07
+  ],
+  [
+   0.000319927,
+   3.7113e-07
+  ],
+  [
+   0.00033516,
+   3.54323e-07
+  ],
+  [
+   0.000351119,
+   3.38286e-07
+  ],
+  [
+   0.000367838,
+   3.22978e-07
+  ],
+  [
+   0.000385353,
+   3.08396e-07
+  ],
+  [
+   0.000403702,
+   2.94478e-07
+  ],
+  [
+   0.000422924,
+   2.81227e-07
+  ],
+  [
+   0.000443062,
+   2.68584e-07
+  ],
+  [
+   0.000464159,
+   2.56544e-07
+  ],
+  [
+   0.00048626,
+   2.45059e-07
+  ],
+  [
+   0.000509414,
+   2.34148e-07
+  ],
+  [
+   0.00053367,
+   2.23742e-07
+  ],
+  [
+   0.000559081,
+   2.13863e-07
+  ],
+  [
+   0.000585702,
+   2.04454e-07
+  ],
+  [
+   0.000613591,
+   1.95559e-07
+  ],
+  [
+   0.000642807,
+   1.87091e-07
+  ],
+  [
+   0.000673415,
+   1.79101e-07
+  ],
+  [
+   0.00070548,
+   1.71529e-07
+  ],
+  [
+   0.000739072,
+   1.64399e-07
+  ],
+  [
+   0.000774264,
+   1.57684e-07
+  ],
+  [
+   0.000811131,
+   1.51431e-07
+  ],
+  [
+   0.000849753,
+   1.45571e-07
+  ],
+  [
+   0.000890215,
+   1.40142e-07
+  ],
+  [
+   0.000932603,
+   1.35156e-07
+  ],
+  [
+   0.00097701,
+   1.30513e-07
+  ],
+  [
+   0.00102353,
+   1.26445e-07
+  ],
+  [
+   0.00107227,
+   1.22871e-07
+  ],
+  [
+   0.00112332,
+   1.1984e-07
+  ],
+  [
+   0.00117681,
+   1.17403e-07
+  ],
+  [
+   0.00123285,
+   1.15631e-07
+  ],
+  [
+   0.00129155,
+   1.14629e-07
+  ],
+  [
+   0.00135305,
+   1.14513e-07
+  ],
+  [
+   0.00141747,
+   1.15466e-07
+  ],
+  [
+   0.00148497,
+   1.17719e-07
+  ],
+  [
+   0.00155568,
+   1.21592e-07
+  ],
+  [
+   0.00162975,
+   1.27448e-07
+  ],
+  [
+   0.00170735,
+   1.35756e-07
+  ],
+  [
+   0.00178865,
+   1.46882e-07
+  ],
+  [
+   0.00187382,
+   1.60744e-07
+  ],
+  [
+   0.00196304,
+   1.75979e-07
+  ],
+  [
+   0.00205651,
+   1.89292e-07
+  ],
+  [
+   0.00215443,
+   1.96778e-07
+  ],
+  [
+   0.00225702,
+   1.98287e-07
+  ],
+  [
+   0.00236449,
+   1.98693e-07
+  ],
+  [
+   0.00247708,
+   2.04106e-07
+  ],
+  [
+   0.00259502,
+   2.18338e-07
+  ],
+  [
+   0.00271859,
+   2.38953e-07
+  ],
+  [
+   0.00284804,
+   2.53759e-07
+  ],
+  [
+   0.00298365,
+   2.55907e-07
+  ],
+  [
+   0.00312572,
+   2.61649e-07
+  ],
+  [
+   0.00327455,
+   2.83397e-07
+  ],
+  [
+   0.00343047,
+   3.017e-07
+  ],
+  [
+   0.00359381,
+   3.03964e-07
+  ],
+  [
+   0.00376494,
+   3.24459e-07
+  ],
+  [
+   0.00394421,
+   3.43164e-07
+  ],
+  [
+   0.00413201,
+   3.50639e-07
+  ],
+  [
+   0.00432876,
+   3.7804e-07
+  ],
+  [
+   0.00453488,
+   3.85577e-07
+  ],
+  [
+   0.00475081,
+   4.12367e-07
+  ],
+  [
+   0.00497702,
+   4.28617e-07
+  ],
+  [
+   0.00521401,
+   4.44561e-07
+  ],
+  [
+   0.00546228,
+   4.71835e-07
+  ],
+  [
+   0.00572237,
+   4.94844e-07
+  ],
+  [
+   0.00599484,
+   5.17836e-07
+  ],
+  [
+   0.00628029,
+   5.42047e-07
+  ],
+  [
+   0.00657933,
+   5.68859e-07
+  ],
+  [
+   0.00689261,
+   5.94618e-07
+  ],
+  [
+   0.00722081,
+   6.20909e-07
+  ],
+  [
+   0.00756463,
+   6.54073e-07
+  ],
+  [
+   0.00792483,
+   6.82732e-07
+  ],
+  [
+   0.00830218,
+   7.17488e-07
+  ],
+  [
+   0.00869749,
+   7.50895e-07
+  ],
+  [
+   0.00911163,
+   7.84594e-07
+  ],
+  [
+   0.00954548,
+   8.1925e-07
+  ],
+  [
+   0.01,
+   8.6316e-07
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "PVLAS_2015",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Curve extracted from the vector paths of Figure 14 (ALPs.eps in the arXiv e-print, Mathematica EPS): red solid 'Ellipticity PVLAS 2015' curve, the 95% c.l. model-independent laboratory exclusion from the vacuum-magnetic-birefringence (ellipticity) runs #2 and #3 (Table III). Axis calibration from the log-decade gridlines (x: 1e-4/1e-3/1e-2 eV at 83.41/184.445/285.48 pt; y: 1e-5 at 12.96 pt, 52.622 pt per decade), verified against tick labels. The paper defines L = g_a phi E.B, identical to the canonical -(g_agamma/4) a F Fdual, so g is already g_agamma in GeV^-1. The paper also shows a 'Rotation PVLAS 2015' (dichroism) curve which is slightly stronger below ~1 meV (flat at ~7.3e-8 GeV^-1 down to 1e-4 eV); the ellipticity curve reported here is the experiment's headline birefringence result and dominates for m >= 1 meV. Laboratory limit: no dark-matter density assumption, no rescaling applied.",
+ "num_points": 100,
+ "arxiv_id": "1510.08052",
+ "elapsed_s": 288.5832109451294,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 288260,
+  "duration_api_ms": 285181,
+  "total_cost_usd": 2.360776,
+  "usage": {
+   "input_tokens": 495,
+   "output_tokens": 18707,
+   "cache_creation_input_tokens": 45181,
+   "cache_read_input_tokens": 516856
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1510.08052.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:05:36-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

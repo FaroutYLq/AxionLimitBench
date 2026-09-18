@@ -1,0 +1,262 @@
+{
+ "paper_title": "Searching for dark matter with a 1000 km baseline interferometer",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.0166e-22,
+   4.4443e-05
+  ],
+  [
+   1.4952e-22,
+   4.3327e-05
+  ],
+  [
+   2.199e-22,
+   4.3149e-05
+  ],
+  [
+   3.2342e-22,
+   4.3017e-05
+  ],
+  [
+   4.7567e-22,
+   4.3235e-05
+  ],
+  [
+   6.9959e-22,
+   4.2194e-05
+  ],
+  [
+   1.0289e-21,
+   3.6738e-05
+  ],
+  [
+   1.5133e-21,
+   3.5238e-05
+  ],
+  [
+   2.2256e-21,
+   2.9729e-05
+  ],
+  [
+   3.2733e-21,
+   2.5287e-05
+  ],
+  [
+   4.8142e-21,
+   2.1159e-05
+  ],
+  [
+   7.0805e-21,
+   1.7051e-05
+  ],
+  [
+   1.0414e-20,
+   1.4052e-05
+  ],
+  [
+   1.5316e-20,
+   1.1687e-05
+  ],
+  [
+   2.2525e-20,
+   1.075e-05
+  ],
+  [
+   3.3129e-20,
+   1.0565e-05
+  ],
+  [
+   4.8724e-20,
+   1.0566e-05
+  ],
+  [
+   7.1661e-20,
+   5.8208e-06
+  ],
+  [
+   1.0539e-19,
+   2.5242e-06
+  ],
+  [
+   1.5501e-19,
+   1.7482e-06
+  ],
+  [
+   2.2798e-19,
+   1.4975e-06
+  ],
+  [
+   3.3529e-19,
+   1.2168e-06
+  ],
+  [
+   4.9313e-19,
+   9.4373e-07
+  ],
+  [
+   7.2527e-19,
+   1.3045e-07
+  ],
+  [
+   1.0667e-18,
+   2.503e-07
+  ],
+  [
+   1.5688e-18,
+   9.5354e-08
+  ],
+  [
+   2.3073e-18,
+   8.3489e-08
+  ],
+  [
+   3.3935e-18,
+   8.2189e-08
+  ],
+  [
+   4.9909e-18,
+   4.8006e-08
+  ],
+  [
+   7.3404e-18,
+   3.2677e-08
+  ],
+  [
+   1.0796e-17,
+   2.0918e-08
+  ],
+  [
+   1.5878e-17,
+   1.5445e-08
+  ],
+  [
+   2.3352e-17,
+   1.3714e-08
+  ],
+  [
+   3.4345e-17,
+   9.709e-09
+  ],
+  [
+   5.0513e-17,
+   8.4397e-09
+  ],
+  [
+   7.4291e-17,
+   6.4809e-09
+  ],
+  [
+   1.0926e-16,
+   5.0384e-09
+  ],
+  [
+   1.607e-16,
+   3.6705e-09
+  ],
+  [
+   2.3634e-16,
+   2.6455e-09
+  ],
+  [
+   3.476e-16,
+   1.9565e-09
+  ],
+  [
+   5.1123e-16,
+   1.9052e-09
+  ],
+  [
+   7.5189e-16,
+   1.4221e-09
+  ],
+  [
+   1.1058e-15,
+   1.4911e-09
+  ],
+  [
+   1.6264e-15,
+   1.4798e-09
+  ],
+  [
+   2.392e-15,
+   1.438e-09
+  ],
+  [
+   3.518e-15,
+   1.3725e-09
+  ],
+  [
+   5.1741e-15,
+   1.2894e-09
+  ],
+  [
+   7.6098e-15,
+   1.4176e-09
+  ],
+  [
+   1.1192e-14,
+   1.9253e-09
+  ],
+  [
+   1.6461e-14,
+   2.5191e-09
+  ],
+  [
+   2.4209e-14,
+   3.3953e-09
+  ],
+  [
+   3.5606e-14,
+   6.1724e-09
+  ],
+  [
+   5.2367e-14,
+   7.6443e-09
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "Mainz-Krakow_Comagnetometer_2024",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Headline result is the ALP-neutron coupling (Fig.4, purple This work mean-limit curve; extracted from vector figure AxionNeutron.pdf, stroke drawing idx319 = lower boundary of the excluded region, i.e. the smoothed mean limit). Paper native coupling is g_aNN in GeV^-1 defined by H_N=g_aNN grad(a).sigma_N (Eq.1). Converted to canonical dimensionless g_an via the 2m_N rule: g_an=2 m_n g_aNN with m_n=0.9396 GeV (factor 1.879). Min g_aNN~6.85e-10 GeV^-1 (=> g_an~1.29e-9) near m~5e-15 eV, consistent with abstract (below 1e-9 GeV^-1). When constraining neutron, other couplings set to zero (per paper). Density-dependent haloscope-type limit; paper assumes rho_DM=0.4 GeV/cm^3 (Eq.2). 95% CL (Eq.13). Mass axis from tick-label centered calibration; curve covers ~1e-22 to 5e-14 eV.",
+ "num_points": 53,
+ "arxiv_id": "2408.02668",
+ "elapsed_s": 323.33758902549744,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 29,
+  "duration_ms": 323018,
+  "duration_api_ms": 318834,
+  "total_cost_usd": 1.7182189999999997,
+  "usage": {
+   "input_tokens": 832,
+   "output_tokens": 22737,
+   "cache_creation_input_tokens": 58157,
+   "cache_read_input_tokens": 1128128
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2408.02668.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:37:17-0500"
+ }
+}

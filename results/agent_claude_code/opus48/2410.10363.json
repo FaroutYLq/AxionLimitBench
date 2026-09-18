@@ -1,0 +1,190 @@
+{
+ "paper_title": "Shining Light on the Dark Sector: Search for Axion-like Particles and Other New Physics in Photonic Final States with FASER",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   59940551.933847,
+   1.767e-05
+  ],
+  [
+   65137887.9278,
+   1.602e-05
+  ],
+  [
+   70892975.763131,
+   1.491e-05
+  ],
+  [
+   77039976.462404,
+   1.366e-05
+  ],
+  [
+   83846642.221423,
+   1.271e-05
+  ],
+  [
+   91116831.726359,
+   1.189e-05
+  ],
+  [
+   99017406.110609,
+   1.072e-05
+  ],
+  [
+   107765830.223237,
+   9.925e-06
+  ],
+  [
+   117110008.918081,
+   9.093e-06
+  ],
+  [
+   127264404.314271,
+   8.46e-06
+  ],
+  [
+   138508518.123296,
+   7.912e-06
+  ],
+  [
+   150518339.245827,
+   7.211e-06
+  ],
+  [
+   163816993.696338,
+   6.71e-06
+  ],
+  [
+   178021266.601579,
+   6.243e-06
+  ],
+  [
+   193457166.117797,
+   5.869e-06
+  ],
+  [
+   210549568.386293,
+   5.377e-06
+  ],
+  [
+   228805937.655183,
+   5.107e-06
+  ],
+  [
+   248645283.424269,
+   4.751e-06
+  ],
+  [
+   270613687.550813,
+   4.513e-06
+  ],
+  [
+   294078107.10298,
+   4.421e-06
+  ],
+  [
+   320060609.616747,
+   4.286e-06
+  ],
+  [
+   347812481.645612,
+   5.107e-06
+  ],
+  [
+   346238507.199436,
+   5.488e-06
+  ],
+  [
+   308189087.989418,
+   9.33e-06
+  ],
+  [
+   274321058.983309,
+   1.318e-05
+  ],
+  [
+   244544352.941996,
+   1.813e-05
+  ],
+  [
+   217670477.254989,
+   2.483e-05
+  ],
+  [
+   193749870.313517,
+   3.347e-05
+  ],
+  [
+   172457986.58552,
+   4.466e-05
+  ],
+  [
+   153738203.313809,
+   5.899e-05
+  ],
+  [
+   136843348.394877,
+   7.791e-05
+  ],
+  [
+   121805131.036286,
+   0.0001034
+  ],
+  [
+   108419518.528255,
+   0.0001359
+  ],
+  [
+   96650913.725104,
+   0.0001785
+  ],
+  [
+   86029590.397714,
+   0.0002322
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.4,
+ "suggested_experiment_name": "FASER_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "FASER first search for a light long-lived particle decaying to two photons (2022-2023 pp data, 57.7/fb, 13.6 TeV). Headline result is the ALP-W model (ALP coupling to SU(2)_L gauge bosons), Lagrangian L=-(1/4) g_aWW a W W-tilde, world-leading for m_a up to 300 MeV and g_aWW ~1e-4 GeV^-1. The task table has no g_aWW plane, so the headline ALP-W observed 90% CL exclusion (Fig.10 / Fig.17a, blue closed contour) is converted to the canonical photon coupling using the paper own a->gamma-gamma vertex g_aWW*sin^2(theta_W) (Fig.1b): g_agamma = g_aWW * sin^2(theta_W), sin^2(theta_W)=0.231. Points are the full closed excluded contour (banana/nose): lower branch traced left->right (m~60->348 MeV) then upper branch right->left back to m~86 MeV where g_aWW hits the 1e-3 axis top. Extracted by vision from raster figs/alpw_final_BW.png; x-axis 200 MeV @1523 px/decade, y-axis 1e-3@px53 447 px/decade. Native g_aWW range ~1.9e-5 (nose tip m~348 MeV) to 1e-3 (m~86 MeV); e.g. lower-edge best g_aWW~1.85e-5 at m~300-320 MeV, consistent with abstract (300 MeV excluded at 2e-5 GeV^-1). Not a DM search (collider LLP), so density-independent. The paper also gives a native ALP-photon g_agamma limit (Fig.11 left/17b, m up to ~90 MeV, g down to ~1e-4, entirely within existing NA64/E137 limits) - NOT reported here since ALP-W is the headline; if the compilation instead uses that curve, this report would differ. Confidence reduced by ambiguity in whether the maintainer stored native g_aWW vs converted g_agamma.",
+ "num_points": 35,
+ "arxiv_id": "2410.10363",
+ "elapsed_s": 464.8329429626465,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 464502,
+  "duration_api_ms": 459258,
+  "total_cost_usd": 2.1273940000000007,
+  "usage": {
+   "input_tokens": 644,
+   "output_tokens": 30969,
+   "cache_creation_input_tokens": 74760,
+   "cache_read_input_tokens": 1204698
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2410.10363.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:55:08-0500"
+ }
+}

@@ -1,0 +1,407 @@
+{
+ "paper_title": "Constraints on the Coupling between Axionlike Dark Matter and Photons Using an Antiproton Superconducting Tuned Detection Circuit in a Cryogenic Penning Trap",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.790572e-09,
+   1.042e-11
+  ],
+  [
+   2.790589e-09,
+   1.1369e-11
+  ],
+  [
+   2.7906e-09,
+   1.8351e-11
+  ],
+  [
+   2.790611e-09,
+   1.0196e-11
+  ],
+  [
+   2.790622e-09,
+   9.6905e-12
+  ],
+  [
+   2.790632e-09,
+   1.1204e-11
+  ],
+  [
+   2.790642e-09,
+   1.1204e-11
+  ],
+  [
+   2.790652e-09,
+   1.0727e-11
+  ],
+  [
+   2.790662e-09,
+   1.042e-11
+  ],
+  [
+   2.790673e-09,
+   1.1204e-11
+  ],
+  [
+   2.790683e-09,
+   1.1368e-11
+  ],
+  [
+   2.790693e-09,
+   9.9758e-12
+  ],
+  [
+   2.790703e-09,
+   9.4132e-12
+  ],
+  [
+   2.790713e-09,
+   9.144e-12
+  ],
+  [
+   2.790723e-09,
+   8.0244e-12
+  ],
+  [
+   2.790733e-09,
+   8.504e-12
+  ],
+  [
+   2.790743e-09,
+   7.6825e-12
+  ],
+  [
+   2.790753e-09,
+   8.504e-12
+  ],
+  [
+   2.790763e-09,
+   8.7544e-12
+  ],
+  [
+   2.790773e-09,
+   8.1417e-12
+  ],
+  [
+   2.790783e-09,
+   8.6283e-12
+  ],
+  [
+   2.790793e-09,
+   9.2776e-12
+  ],
+  [
+   2.790803e-09,
+   8.6283e-12
+  ],
+  [
+   2.790813e-09,
+   9.4132e-12
+  ],
+  [
+   2.790823e-09,
+   9.4132e-12
+  ],
+  [
+   2.790833e-09,
+   9.2776e-12
+  ],
+  [
+   2.790843e-09,
+   8.8824e-12
+  ],
+  [
+   2.790854e-09,
+   8.504e-12
+  ],
+  [
+   2.790864e-09,
+   1.0883e-11
+  ],
+  [
+   2.790874e-09,
+   9.5508e-12
+  ],
+  [
+   2.790884e-09,
+   1.2047e-11
+  ],
+  [
+   2.790894e-09,
+   1.1204e-11
+  ],
+  [
+   2.790904e-09,
+   9.8321e-12
+  ],
+  [
+   2.790914e-09,
+   1.1368e-11
+  ],
+  [
+   2.790924e-09,
+   9.4132e-12
+  ],
+  [
+   2.790934e-09,
+   1.0572e-11
+  ],
+  [
+   2.790944e-09,
+   9.8321e-12
+  ],
+  [
+   2.790954e-09,
+   1.2047e-11
+  ],
+  [
+   2.790964e-09,
+   1.0572e-11
+  ],
+  [
+   2.790974e-09,
+   1.1874e-11
+  ],
+  [
+   2.790984e-09,
+   1.1702e-11
+  ],
+  [
+   2.790994e-09,
+   1.1204e-11
+  ],
+  [
+   2.791004e-09,
+   1.1042e-11
+  ],
+  [
+   2.791014e-09,
+   1.1204e-11
+  ],
+  [
+   2.791024e-09,
+   1.0883e-11
+  ],
+  [
+   2.791034e-09,
+   9.5508e-12
+  ],
+  [
+   2.791045e-09,
+   8.7544e-12
+  ],
+  [
+   2.791055e-09,
+   8.8824e-12
+  ],
+  [
+   2.791065e-09,
+   7.9088e-12
+  ],
+  [
+   2.791075e-09,
+   6.3617e-12
+  ],
+  [
+   2.791085e-09,
+   7.2493e-12
+  ],
+  [
+   2.791095e-09,
+   7.1448e-12
+  ],
+  [
+   2.791105e-09,
+   9.0122e-12
+  ],
+  [
+   2.791115e-09,
+   1.1042e-11
+  ],
+  [
+   2.791125e-09,
+   1.2047e-11
+  ],
+  [
+   2.791135e-09,
+   9.9758e-12
+  ],
+  [
+   2.791145e-09,
+   9.2776e-12
+  ],
+  [
+   2.791155e-09,
+   8.7544e-12
+  ],
+  [
+   2.791165e-09,
+   8.1417e-12
+  ],
+  [
+   2.791175e-09,
+   9.6905e-12
+  ],
+  [
+   2.791185e-09,
+   8.504e-12
+  ],
+  [
+   2.791195e-09,
+   8.6283e-12
+  ],
+  [
+   2.791205e-09,
+   8.8824e-12
+  ],
+  [
+   2.791215e-09,
+   8.1417e-12
+  ],
+  [
+   2.791225e-09,
+   7.1448e-12
+  ],
+  [
+   2.791236e-09,
+   6.8404e-12
+  ],
+  [
+   2.791246e-09,
+   6.8404e-12
+  ],
+  [
+   2.791256e-09,
+   7.1448e-12
+  ],
+  [
+   2.791266e-09,
+   7.3552e-12
+  ],
+  [
+   2.791276e-09,
+   7.5718e-12
+  ],
+  [
+   2.791286e-09,
+   7.6825e-12
+  ],
+  [
+   2.791296e-09,
+   7.5718e-12
+  ],
+  [
+   2.791306e-09,
+   7.1448e-12
+  ],
+  [
+   2.791316e-09,
+   8.1417e-12
+  ],
+  [
+   2.791326e-09,
+   8.6283e-12
+  ],
+  [
+   2.791336e-09,
+   1.042e-11
+  ],
+  [
+   2.791346e-09,
+   1.1204e-11
+  ],
+  [
+   2.791356e-09,
+   1.1368e-11
+  ],
+  [
+   2.791366e-09,
+   1.1204e-11
+  ],
+  [
+   2.791376e-09,
+   1.1702e-11
+  ],
+  [
+   2.791386e-09,
+   1.1534e-11
+  ],
+  [
+   2.791396e-09,
+   1.1368e-11
+  ],
+  [
+   2.791406e-09,
+   8.7544e-12
+  ],
+  [
+   2.791417e-09,
+   9.2776e-12
+  ],
+  [
+   2.791427e-09,
+   9.8321e-12
+  ],
+  [
+   2.791437e-09,
+   7.6825e-12
+  ],
+  [
+   2.791447e-09,
+   1.6339e-11
+  ],
+  [
+   2.791457e-09,
+   1.2767e-11
+  ],
+  [
+   2.791467e-09,
+   1.2954e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "BASE_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% CL power-constrained observed limit on g_agamma from Fig. 3(a) (dark blue BASE exclusion region), extracted by color-classifying the raster figure embedded in the PDF and tracing the lower boundary of the BASE region. Axis calibration from tick marks (x: 2.7906-2.7914 neV linear; y: 1e-12 to 1e-9 log). Curve median-binned from ~630 pixel columns to 89 points; band spans 2.79057-2.79148 neV where spectra were taken, limit ~7e-12 to 2.3e-11 GeV^-1, consistent with the abstract's g_agamma < 1e-11 GeV^-1. Paper assumes ALPs comprise all local dark matter with rho_a = 0.4 GeV/cm^3 (Eq. 8). Standard halo model lineshape assumed.",
+ "num_points": 89,
+ "arxiv_id": "2101.11290",
+ "elapsed_s": 268.8248839378357,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 268425,
+  "duration_api_ms": 262025,
+  "total_cost_usd": 2.4302314999999997,
+  "usage": {
+   "input_tokens": 738,
+   "output_tokens": 20013,
+   "cache_creation_input_tokens": 46604,
+   "cache_read_input_tokens": 777919
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2101.11290.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:23:40-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

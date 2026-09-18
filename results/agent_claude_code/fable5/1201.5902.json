@@ -1,0 +1,443 @@
+{
+ "paper_title": "WISPy Cold Dark Matter",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.157e-13,
+   1.209e-09
+  ],
+  [
+   6.309e-13,
+   1.212e-09
+  ],
+  [
+   1e-12,
+   1.218e-09
+  ],
+  [
+   1.585e-12,
+   1.227e-09
+  ],
+  [
+   2.512e-12,
+   1.245e-09
+  ],
+  [
+   3.981e-12,
+   1.281e-09
+  ],
+  [
+   6.31e-12,
+   1.344e-09
+  ],
+  [
+   1e-11,
+   1.416e-09
+  ],
+  [
+   1.585e-11,
+   1.45e-09
+  ],
+  [
+   2.512e-11,
+   1.414e-09
+  ],
+  [
+   3.981e-11,
+   1.316e-09
+  ],
+  [
+   6.309e-11,
+   1.176e-09
+  ],
+  [
+   1e-10,
+   1.014e-09
+  ],
+  [
+   1.585e-10,
+   8.457e-10
+  ],
+  [
+   2.512e-10,
+   6.811e-10
+  ],
+  [
+   3.981e-10,
+   5.259e-10
+  ],
+  [
+   6.31e-10,
+   3.841e-10
+  ],
+  [
+   1e-09,
+   4.963e-13
+  ],
+  [
+   1.995e-09,
+   5.177e-13
+  ],
+  [
+   3.981e-09,
+   6.952e-13
+  ],
+  [
+   7.944e-09,
+   9.412e-13
+  ],
+  [
+   1.585e-08,
+   1.289e-12
+  ],
+  [
+   3.162e-08,
+   1.782e-12
+  ],
+  [
+   6.31e-08,
+   2.48e-12
+  ],
+  [
+   1.259e-07,
+   3.469e-12
+  ],
+  [
+   2.512e-07,
+   4.869e-12
+  ],
+  [
+   5.012e-07,
+   6.851e-12
+  ],
+  [
+   1e-06,
+   9.659e-12
+  ],
+  [
+   1.995e-06,
+   1.342e-11
+  ],
+  [
+   3.982e-06,
+   1.912e-11
+  ],
+  [
+   7.944e-06,
+   2.753e-11
+  ],
+  [
+   1e-05,
+   3.13e-11
+  ],
+  [
+   1.072e-05,
+   3.257e-11
+  ],
+  [
+   1.23e-05,
+   3.532e-11
+  ],
+  [
+   1.413e-05,
+   3.843e-11
+  ],
+  [
+   1.622e-05,
+   4.198e-11
+  ],
+  [
+   1.862e-05,
+   4.609e-11
+  ],
+  [
+   2.138e-05,
+   5.093e-11
+  ],
+  [
+   2.455e-05,
+   5.672e-11
+  ],
+  [
+   2.819e-05,
+   6.38e-11
+  ],
+  [
+   3.236e-05,
+   7.267e-11
+  ],
+  [
+   3.716e-05,
+   8.41e-11
+  ],
+  [
+   4.266e-05,
+   9.928e-11
+  ],
+  [
+   4.898e-05,
+   1.202e-10
+  ],
+  [
+   5.624e-05,
+   1.5e-10
+  ],
+  [
+   6.457e-05,
+   1.946e-10
+  ],
+  [
+   7.414e-05,
+   2.647e-10
+  ],
+  [
+   8.512e-05,
+   3.806e-10
+  ],
+  [
+   9.773e-05,
+   5.798e-10
+  ],
+  [
+   0.0001122,
+   9.201e-10
+  ],
+  [
+   0.0001288,
+   1.438e-09
+  ],
+  [
+   0.0001479,
+   2.08e-09
+  ],
+  [
+   0.0003352,
+   2.702e-09
+  ],
+  [
+   0.0006688,
+   3.212e-09
+  ],
+  [
+   0.001335,
+   3.796e-09
+  ],
+  [
+   0.002663,
+   4.466e-09
+  ],
+  [
+   0.003431,
+   4.735e-09
+  ],
+  [
+   0.004319,
+   4.991e-09
+  ],
+  [
+   0.005437,
+   5.258e-09
+  ],
+  [
+   0.006845,
+   5.538e-09
+  ],
+  [
+   0.008617,
+   5.831e-09
+  ],
+  [
+   0.01085,
+   6.137e-09
+  ],
+  [
+   0.01366,
+   7.931e-09
+  ],
+  [
+   0.01719,
+   1.323e-08
+  ],
+  [
+   0.02164,
+   1.475e-08
+  ],
+  [
+   0.02725,
+   1.434e-08
+  ],
+  [
+   0.0343,
+   1.33e-08
+  ],
+  [
+   0.04318,
+   1.213e-08
+  ],
+  [
+   0.05437,
+   1.099e-08
+  ],
+  [
+   0.06845,
+   9.929e-09
+  ],
+  [
+   0.08617,
+   8.961e-09
+  ],
+  [
+   0.1085,
+   8.082e-09
+  ],
+  [
+   0.1366,
+   7.291e-09
+  ],
+  [
+   0.2115,
+   5.995e-09
+  ],
+  [
+   0.4221,
+   4.409e-09
+  ],
+  [
+   0.8421,
+   3.251e-09
+  ],
+  [
+   1.68,
+   2.403e-09
+  ],
+  [
+   3.353,
+   1.782e-09
+  ],
+  [
+   6.689,
+   1.326e-09
+  ],
+  [
+   13.35,
+   9.908e-10
+  ],
+  [
+   26.63,
+   7.44e-10
+  ],
+  [
+   53.13,
+   5.618e-10
+  ],
+  [
+   106.0,
+   4.271e-10
+  ],
+  [
+   211.5,
+   3.273e-10
+  ],
+  [
+   422.0,
+   2.534e-10
+  ],
+  [
+   842.1,
+   1.986e-10
+  ],
+  [
+   1680.0,
+   1.582e-10
+  ],
+  [
+   3353.0,
+   1.285e-10
+  ],
+  [
+   6690.0,
+   1.071e-10
+  ],
+  [
+   13350.0,
+   9.239e-11
+  ],
+  [
+   26630.0,
+   8.326e-11
+  ],
+  [
+   53140.0,
+   1.368e-11
+  ],
+  [
+   106000.0,
+   6.111e-13
+  ],
+  [
+   168000.0,
+   7.693e-14
+  ],
+  [
+   266300.0,
+   9.685e-15
+  ],
+  [
+   422100.0,
+   1.219e-15
+  ],
+  [
+   669000.0,
+   1.535e-16
+  ],
+  [
+   735800.0,
+   1e-16
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "Arias_2012",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Curve is the upper boundary of the 'Allowed HP CDM' region in Fig. 5 (vector file HP.pdf from the e-print), i.e. the paper's own cosmological exclusion of hidden-photon cold dark matter, combining the four constraints derived in Secs. 4.1-4.2 that bound the allowed region from above: tau_2>1 (condensate survival), CMB distortions (FIRAS), N_nu^eff, and X-rays from gamma'->3gamma decay. Coordinates recovered from the PDF path of the semi-transparent pink fill; axes calibrated with the figure's major tick marks (log10 m_gamma' [eV] vs log10 chi). Boundary clipped at the plot frame (left edge log10 m=-12.38, bottom log10 chi=-16). The near-vertical step near 1e-9 eV (chi dropping from ~4e-10 to ~5e-13) is the dashed transition between the tau_2>1 and CMB-distortion regimes as drawn. Bound is cosmological (assumes gamma' is all of the DM relic) and does not depend on the local halo density, so no rho_DM rescaling applied. The paper quotes no statistical confidence level for these theory-derived bounds; 0.95 is nominal.",
+ "num_points": 98,
+ "arxiv_id": "1201.5902",
+ "elapsed_s": 322.2748169898987,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 319647,
+  "duration_api_ms": 243228,
+  "total_cost_usd": 1.9560299999999997,
+  "usage": {
+   "input_tokens": 499,
+   "output_tokens": 15598,
+   "cache_creation_input_tokens": 36938,
+   "cache_read_input_tokens": 432380
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1201.5902.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:47:14-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

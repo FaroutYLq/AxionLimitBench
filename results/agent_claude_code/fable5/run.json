@@ -1,0 +1,22 @@
+{
+ "system": "agent_claude_code",
+ "driver_version": "0.1.4",
+ "model": "claude-fable-5",
+ "effort": "default",
+ "task_card_sha256": "503a9033a0f9b64515fead0f9179cebeee02a6ccf2168878954aafa6e1a3ceeb",
+ "workers": 3,
+ "timeout_s": 1800,
+ "max_budget_usd": 10.0,
+ "transport_start": "cli",
+ "n_ids": 110,
+ "started_at": "2026-09-16T20:48:02-0500",
+ "claude_version": "2.1.195 (Claude Code)",
+ "finished_at": "2026-09-16T22:43:11-0500",
+ "transport_end": "cli",
+ "switched_at": null,
+ "total_cost_usd_reported": 182.43465700000002,
+ "task_card_sha256_at_run": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+ "task_card_note": "The card text at run time was identical to docs/TASK.md except for a version label in its first line ('task card (v0.1.1)'); sha256 of that text is task_card_sha256_at_run.",
+ "task_card": "docs/TASK.md",
+ "notes": "This run's 329 snapshots come from two passes of the same driver on the same model: 110 papers (rerun_ids.txt) were run under docs/TASK.md; the other 219 were produced by an earlier pass whose card differed only in a dark-matter-density instruction and the absence of the axion-nucleon 2m_N rule, neither of which applies to those papers. Transcripts of both passes are included."
+}

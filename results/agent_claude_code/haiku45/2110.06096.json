@@ -1,0 +1,246 @@
+{
+ "paper_title": "Search for \"Invisible\" Axion Dark Matter in the 3.3\u20134.2 \u00b5eV Mass Range",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.2999999999999997e-06,
+   5.32e-16
+  ],
+  [
+   3.318e-06,
+   5.32e-16
+  ],
+  [
+   3.337e-06,
+   5.32e-16
+  ],
+  [
+   3.3549999999999996e-06,
+   5.32e-16
+  ],
+  [
+   3.374e-06,
+   5.32e-16
+  ],
+  [
+   3.392e-06,
+   5.32e-16
+  ],
+  [
+   3.411e-06,
+   5.32e-16
+  ],
+  [
+   3.4289999999999997e-06,
+   5.32e-16
+  ],
+  [
+   3.448e-06,
+   5.23e-16
+  ],
+  [
+   3.466e-06,
+   5.23e-16
+  ],
+  [
+   3.4849999999999997e-06,
+   5.01e-16
+  ],
+  [
+   3.5029999999999997e-06,
+   1.16e-15
+  ],
+  [
+   3.5219999999999995e-06,
+   1.16e-15
+  ],
+  [
+   3.54e-06,
+   1.17e-15
+  ],
+  [
+   3.5579999999999996e-06,
+   1.17e-15
+  ],
+  [
+   3.577e-06,
+   1.17e-15
+  ],
+  [
+   3.595e-06,
+   1.17e-15
+  ],
+  [
+   3.6139999999999996e-06,
+   1.18e-15
+  ],
+  [
+   3.632e-06,
+   1.5e-15
+  ],
+  [
+   3.6509999999999994e-06,
+   1.19e-15
+  ],
+  [
+   3.669e-06,
+   1.52e-15
+  ],
+  [
+   3.688e-06,
+   1.19e-15
+  ],
+  [
+   3.7059999999999998e-06,
+   1.22e-15
+  ],
+  [
+   3.725e-06,
+   1.19e-15
+  ],
+  [
+   3.7429999999999996e-06,
+   1.01e-15
+  ],
+  [
+   3.7619999999999997e-06,
+   9.86e-16
+  ],
+  [
+   3.78e-06,
+   1.01e-15
+  ],
+  [
+   3.798e-06,
+   1.02e-15
+  ],
+  [
+   3.817e-06,
+   1.05e-15
+  ],
+  [
+   3.835e-06,
+   1.02e-15
+  ],
+  [
+   3.854e-06,
+   3.52e-16
+  ],
+  [
+   3.8719999999999995e-06,
+   3.52e-16
+  ],
+  [
+   3.891e-06,
+   9.86e-16
+  ],
+  [
+   3.908999999999999e-06,
+   9.86e-16
+  ],
+  [
+   3.9279999999999995e-06,
+   3.31e-16
+  ],
+  [
+   3.946e-06,
+   3.17e-16
+  ],
+  [
+   3.964999999999999e-06,
+   3.17e-16
+  ],
+  [
+   3.983e-06,
+   1.09e-15
+  ],
+  [
+   4.002e-06,
+   1.27e-15
+  ],
+  [
+   4.02e-06,
+   1.31e-15
+  ],
+  [
+   4.038e-06,
+   1.31e-15
+  ],
+  [
+   4.057e-06,
+   1.3e-15
+  ],
+  [
+   4.075e-06,
+   1.29e-15
+  ],
+  [
+   4.094e-06,
+   1.3e-15
+  ],
+  [
+   4.112e-06,
+   1.26e-15
+  ],
+  [
+   4.131e-06,
+   1.42e-15
+  ],
+  [
+   4.149e-06,
+   1.27e-15
+  ],
+  [
+   4.168e-06,
+   1.42e-15
+  ],
+  [
+   4.185999999999999e-06,
+   1.47e-15
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "ADMX_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "90% C.L. upper limits extracted from Figure 4. Curve represents the boundary of the excluded region for KSVZ axion-photon coupling. Data digitized from published figure; confidence reduced due to noise in curve extraction from raster image. Dark matter density assumed: 0.45 GeV/cm\u00b3. Two velocity distributions tested (Maxwellian and N-body); both give similar limits shown here.",
+ "num_points": 49,
+ "arxiv_id": "2110.06096",
+ "elapsed_s": 487.0587692260742,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 59,
+  "duration_ms": 486667,
+  "duration_api_ms": 461244,
+  "total_cost_usd": 0.7109952,
+  "usage": {
+   "input_tokens": 492,
+   "output_tokens": 34857,
+   "cache_creation_input_tokens": 91825,
+   "cache_read_input_tokens": 3525682
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2110.06096.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:15:53-0500"
+ }
+}

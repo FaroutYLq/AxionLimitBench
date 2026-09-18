@@ -1,0 +1,232 @@
+{
+ "paper_title": "Constraining Axion-Like Particles with HAWC Observations of TeV Blazars",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.002e-11,
+   2.964e-11
+  ],
+  [
+   1.264e-11,
+   2.945e-11
+  ],
+  [
+   1.792e-11,
+   2.944e-11
+  ],
+  [
+   2.54e-11,
+   2.923e-11
+  ],
+  [
+   3.6e-11,
+   2.977e-11
+  ],
+  [
+   5.103e-11,
+   2.976e-11
+  ],
+  [
+   7.233e-11,
+   2.984e-11
+  ],
+  [
+   1.025e-10,
+   2.96e-11
+  ],
+  [
+   1.178e-10,
+   2.982e-11
+  ],
+  [
+   1.755e-10,
+   2.876e-11
+  ],
+  [
+   2.07e-10,
+   2.982e-11
+  ],
+  [
+   2.599e-10,
+   2.944e-11
+  ],
+  [
+   3.28e-10,
+   2.921e-11
+  ],
+  [
+   4.649e-10,
+   2.935e-11
+  ],
+  [
+   6.59e-10,
+   2.937e-11
+  ],
+  [
+   9.342e-10,
+   2.977e-11
+  ],
+  [
+   1.324e-09,
+   2.922e-11
+  ],
+  [
+   1.756e-09,
+   2.982e-11
+  ],
+  [
+   2.368e-09,
+   2.998e-11
+  ],
+  [
+   2.989e-09,
+   2.911e-11
+  ],
+  [
+   4.236e-09,
+   2.947e-11
+  ],
+  [
+   6.005e-09,
+   2.954e-11
+  ],
+  [
+   8.512e-09,
+   2.993e-11
+  ],
+  [
+   1.039e-08,
+   2.769e-11
+  ],
+  [
+   1.355e-08,
+   2.685e-11
+  ],
+  [
+   1.618e-08,
+   2.556e-11
+  ],
+  [
+   1.999e-08,
+   2.45e-11
+  ],
+  [
+   2.319e-08,
+   2.876e-11
+  ],
+  [
+   2.723e-08,
+   3.21e-11
+  ],
+  [
+   2.988e-08,
+   2.982e-11
+  ],
+  [
+   3.436e-08,
+   2.744e-11
+  ],
+  [
+   4.126e-08,
+   2.876e-11
+  ],
+  [
+   5.471e-08,
+   2.986e-11
+  ],
+  [
+   6.904e-08,
+   2.902e-11
+  ],
+  [
+   7.941e-08,
+   3.089e-11
+  ],
+  [
+   9.155e-08,
+   3.195e-11
+  ],
+  [
+   1.235e-07,
+   3.302e-11
+  ],
+  [
+   1.558e-07,
+   3.635e-11
+  ],
+  [
+   1.897e-07,
+   3.408e-11
+  ],
+  [
+   2.209e-07,
+   3.127e-11
+  ],
+  [
+   2.372e-07,
+   3.515e-11
+  ],
+  [
+   2.46e-07,
+   3.941e-11
+  ],
+  [
+   3.131e-07,
+   5.726e-11
+  ],
+  [
+   3.517e-07,
+   7.345e-11
+  ],
+  [
+   4.049e-07,
+   1.012e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9973,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "HAWC_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline combined joint-likelihood limit from Fig. 3 (total_contourplot.pdf) of the e-print: region where ALP hypothesis is disfavoured at >3 sigma vs no-ALP, from a stack of 4-5 blazars (1ES0229, VER J0521, 1ES1218+304, plus joint fit). Boundary traced as vector path (black stroke) and calibrated from axis tick labels: x=m_ALP in neV (converted to eV, 1 neV=1e-9 eV), y=g_agamma in units 10^-11 GeV^-1, both log. Curve is flat near ~2.9e-11 GeV^-1 up to ~10 neV, dips to a minimum ~2.4e-11 near 17-20 neV, then rises steeply beyond ~250 neV, consistent with the abstract statement g_agamma > ~3e-11 GeV^-1 excluded for masses up to ~200-300 neV. confidence_level=0.9973 corresponds to the paper stated >3 sigma exclusion. Not a DM search (blazar gamma-ray transparency via ALP-photon mixing), so no DM density assumption. Same curve is labelled HAWC in Fig. 4.",
+ "num_points": 45,
+ "arxiv_id": "2203.04332",
+ "elapsed_s": 122.34741020202637,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 121819,
+  "duration_api_ms": 118692,
+  "total_cost_usd": 0.7125125000000001,
+  "usage": {
+   "input_tokens": 433,
+   "output_tokens": 8174,
+   "cache_creation_input_tokens": 39580,
+   "cache_read_input_tokens": 453360
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [
+   "result.json found at ep/result.json"
+  ],
+  "events_file": "2203.04332.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:11:27-0500"
+ }
+}

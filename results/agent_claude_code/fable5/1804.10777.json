@@ -1,0 +1,171 @@
+{
+ "paper_title": "Constraints on hidden photons produced in nuclear reactors",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.1178,
+   0.881
+  ],
+  [
+   0.1355,
+   0.6668
+  ],
+  [
+   0.1629,
+   0.4592
+  ],
+  [
+   0.1959,
+   0.3162
+  ],
+  [
+   0.2366,
+   0.2188
+  ],
+  [
+   0.2844,
+   0.151
+  ],
+  [
+   0.3436,
+   0.104
+  ],
+  [
+   0.413,
+   0.07161
+  ],
+  [
+   0.4966,
+   0.04932
+  ],
+  [
+   0.5998,
+   0.03396
+  ],
+  [
+   0.7211,
+   0.02339
+  ],
+  [
+   0.871,
+   0.01618
+  ],
+  [
+   1.047,
+   0.01114
+  ],
+  [
+   1.262,
+   0.007674
+  ],
+  [
+   1.521,
+   0.005297
+  ],
+  [
+   1.828,
+   0.003648
+  ],
+  [
+   2.208,
+   0.002512
+  ],
+  [
+   2.655,
+   0.00173
+  ],
+  [
+   3.199,
+   0.001191
+  ],
+  [
+   3.855,
+   0.0008241
+  ],
+  [
+   4.634,
+   0.0005675
+  ],
+  [
+   5.598,
+   0.0003908
+  ],
+  [
+   6.73,
+   0.0002692
+  ],
+  [
+   8.11,
+   0.0001854
+  ],
+  [
+   9.772,
+   0.0001279
+  ],
+  [
+   11.75,
+   8.81e-05
+  ],
+  [
+   14.19,
+   6.067e-05
+  ],
+  [
+   17.06,
+   4.198e-05
+  ],
+  [
+   20.56,
+   3.055e-05
+  ],
+  [
+   1000000.0,
+   3.055e-05
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "TEXONO_2018",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Black solid 'TEXONO' curve of Fig. 1: 95% CL upper limit on kinetic mixing eps from Danilov-Demidov-Gorbunov reanalysis of TEXONO nu-e scattering data (414+-100.6 events, <=1174.1 hidden-photon events at 95% CL after accounting for anti-Compton selection and photon-hidden-photon oscillations). Curve extracted from vector paths of e-print fig_lim.pdf, calibrated against axis tick labels. Slope is exactly -2 in log10(eps) vs log10(mX) below the kink at mX~20.6 eV (eps proportional to mX^-2, from eps^2 mX^4 production x detection probabilities), flat at eps=3.05e-5 from ~20.6 eV to 1 MeV. Limit hits eps~1 at mX~0.12 eV (paper: insensitive below ~0.1 eV). Reactor-produced hidden photons, no dark-matter density assumption.",
+ "num_points": 30,
+ "arxiv_id": "1804.10777",
+ "elapsed_s": 107.32357692718506,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 107013,
+  "duration_api_ms": 104929,
+  "total_cost_usd": 1.0890914999999999,
+  "usage": {
+   "input_tokens": 321,
+   "output_tokens": 7358,
+   "cache_creation_input_tokens": 31117,
+   "cache_read_input_tokens": 269499
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1804.10777.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:25:35-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

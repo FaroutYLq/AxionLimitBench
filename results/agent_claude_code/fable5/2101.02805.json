@@ -1,0 +1,451 @@
+{
+ "paper_title": "Search for Dark Photon Dark Matter: Dark E-Field Radio Pilot Experiment",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.11953e-07,
+   8.157e-13
+  ],
+  [
+   2.22292e-07,
+   7.969e-13
+  ],
+  [
+   2.32631e-07,
+   7.704e-13
+  ],
+  [
+   2.4297e-07,
+   7.697e-13
+  ],
+  [
+   2.5331e-07,
+   7.444e-13
+  ],
+  [
+   2.63649e-07,
+   5.434e-13
+  ],
+  [
+   2.73988e-07,
+   4.383e-13
+  ],
+  [
+   2.84327e-07,
+   8.105e-13
+  ],
+  [
+   2.94666e-07,
+   1.907e-12
+  ],
+  [
+   3.05005e-07,
+   4.654e-12
+  ],
+  [
+   3.15345e-07,
+   9.903e-13
+  ],
+  [
+   3.25684e-07,
+   1.169e-12
+  ],
+  [
+   3.36023e-07,
+   7.853e-13
+  ],
+  [
+   3.46362e-07,
+   6.683e-13
+  ],
+  [
+   3.56701e-07,
+   5.328e-13
+  ],
+  [
+   3.67041e-07,
+   5.816e-13
+  ],
+  [
+   3.7738e-07,
+   6.534e-13
+  ],
+  [
+   3.87719e-07,
+   1.018e-12
+  ],
+  [
+   3.98058e-07,
+   2.568e-12
+  ],
+  [
+   4.08397e-07,
+   9.925e-13
+  ],
+  [
+   4.18736e-07,
+   1.065e-12
+  ],
+  [
+   4.29076e-07,
+   1.032e-12
+  ],
+  [
+   4.39415e-07,
+   9.284e-13
+  ],
+  [
+   4.49754e-07,
+   8.825e-13
+  ],
+  [
+   4.60093e-07,
+   1.076e-12
+  ],
+  [
+   4.70432e-07,
+   1.145e-12
+  ],
+  [
+   4.80771e-07,
+   1.401e-12
+  ],
+  [
+   4.91111e-07,
+   2.184e-12
+  ],
+  [
+   5.0145e-07,
+   6.273e-12
+  ],
+  [
+   5.11789e-07,
+   7.839e-13
+  ],
+  [
+   5.22128e-07,
+   2.023e-12
+  ],
+  [
+   5.32467e-07,
+   5.61e-13
+  ],
+  [
+   5.42806e-07,
+   3.134e-12
+  ],
+  [
+   5.53146e-07,
+   9.494e-13
+  ],
+  [
+   5.63485e-07,
+   4.608e-12
+  ],
+  [
+   5.73824e-07,
+   2.329e-12
+  ],
+  [
+   5.84163e-07,
+   1.218e-12
+  ],
+  [
+   5.94502e-07,
+   7.472e-13
+  ],
+  [
+   6.04841e-07,
+   6.875e-13
+  ],
+  [
+   6.15181e-07,
+   7.596e-13
+  ],
+  [
+   6.2552e-07,
+   1.375e-12
+  ],
+  [
+   6.35859e-07,
+   1.54e-12
+  ],
+  [
+   6.46198e-07,
+   1.376e-12
+  ],
+  [
+   6.56537e-07,
+   1.955e-12
+  ],
+  [
+   6.66876e-07,
+   2.474e-12
+  ],
+  [
+   6.77216e-07,
+   4.007e-13
+  ],
+  [
+   6.87555e-07,
+   3.278e-13
+  ],
+  [
+   6.97894e-07,
+   2.783e-12
+  ],
+  [
+   7.08233e-07,
+   2.392e-12
+  ],
+  [
+   7.18572e-07,
+   1.067e-12
+  ],
+  [
+   7.28911e-07,
+   9.456e-13
+  ],
+  [
+   7.39251e-07,
+   1.122e-12
+  ],
+  [
+   7.4959e-07,
+   1.145e-12
+  ],
+  [
+   7.59929e-07,
+   9.672e-13
+  ],
+  [
+   7.70268e-07,
+   1.402e-12
+  ],
+  [
+   7.80607e-07,
+   2.767e-12
+  ],
+  [
+   7.90946e-07,
+   1.479e-12
+  ],
+  [
+   8.01286e-07,
+   1.423e-12
+  ],
+  [
+   8.11625e-07,
+   1.397e-12
+  ],
+  [
+   8.21964e-07,
+   1.26e-12
+  ],
+  [
+   8.32303e-07,
+   1.388e-12
+  ],
+  [
+   8.42642e-07,
+   1.207e-12
+  ],
+  [
+   8.52981e-07,
+   2.071e-12
+  ],
+  [
+   8.63321e-07,
+   2.579e-12
+  ],
+  [
+   8.7366e-07,
+   5.251e-12
+  ],
+  [
+   8.83999e-07,
+   4.44e-12
+  ],
+  [
+   8.94338e-07,
+   6.8e-13
+  ],
+  [
+   9.04677e-07,
+   1.814e-12
+  ],
+  [
+   9.15016e-07,
+   2.989e-12
+  ],
+  [
+   9.25356e-07,
+   2.986e-12
+  ],
+  [
+   9.35695e-07,
+   1.632e-12
+  ],
+  [
+   9.46034e-07,
+   1.608e-12
+  ],
+  [
+   9.56373e-07,
+   2.036e-12
+  ],
+  [
+   9.66712e-07,
+   6.55e-12
+  ],
+  [
+   9.77051e-07,
+   3.58e-12
+  ],
+  [
+   9.87391e-07,
+   9.607e-13
+  ],
+  [
+   9.9773e-07,
+   9.282e-12
+  ],
+  [
+   1.00807e-06,
+   5.09e-12
+  ],
+  [
+   1.01841e-06,
+   1.74e-12
+  ],
+  [
+   1.02875e-06,
+   1.198e-12
+  ],
+  [
+   1.03909e-06,
+   2.9e-12
+  ],
+  [
+   1.04943e-06,
+   1.98e-12
+  ],
+  [
+   1.05976e-06,
+   1.389e-12
+  ],
+  [
+   1.0701e-06,
+   1.225e-12
+  ],
+  [
+   1.08044e-06,
+   1.039e-12
+  ],
+  [
+   1.09078e-06,
+   1.414e-12
+  ],
+  [
+   1.10112e-06,
+   9.628e-13
+  ],
+  [
+   1.11146e-06,
+   7.445e-13
+  ],
+  [
+   1.1218e-06,
+   2.269e-12
+  ],
+  [
+   1.13214e-06,
+   8.347e-12
+  ],
+  [
+   1.14248e-06,
+   1.985e-12
+  ],
+  [
+   1.15282e-06,
+   9.183e-13
+  ],
+  [
+   1.16316e-06,
+   2.249e-12
+  ],
+  [
+   1.1735e-06,
+   2.756e-12
+  ],
+  [
+   1.18383e-06,
+   7.806e-13
+  ],
+  [
+   1.19417e-06,
+   1.704e-11
+  ],
+  [
+   1.20451e-06,
+   2.333e-11
+  ],
+  [
+   1.21485e-06,
+   9.509e-12
+  ],
+  [
+   1.22519e-06,
+   1.587e-12
+  ],
+  [
+   1.23553e-06,
+   9.388e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.38,
+ "confidence_level": 0.9999997,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "DarkEfield_2021",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Measured 5-sigma exclusion on kinetic mixing epsilon from the pilot run (3.8 h real-time data, 50-300 MHz), i.e. the 'Pilot (blue)' curve of Fig. 12 (e-print file LimitPlotZoom_11-1-21.pdf), extracted from the vector PDF using the figure's own frequency (MHz) and log10(epsilon) axes. The Phase-I/II curves in the same figure are projections and were not used; the orange spot checks are consistent with the blue curve. Frequency converted to mass via m = h f. Curve is noisy with narrow upward spikes at RFI/room-mode frequencies; points given are medians of the digitised curve in 100 uniform 2.5-MHz frequency bins, so narrow spikes (weaker limit over <2.5 MHz windows) are smoothed over. Paper assumes local DM density 380 TeV/m^3 = 0.38 GeV/cm^3 (Sec. II). Limit stated at 5 sigma (confidence_level given as the corresponding ~0.9999997; not a 90/95% CL).",
+ "num_points": 100,
+ "arxiv_id": "2101.02805",
+ "elapsed_s": 93.47077417373657,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 92772,
+  "duration_api_ms": 90167,
+  "total_cost_usd": 1.0207155,
+  "usage": {
+   "input_tokens": 380,
+   "output_tokens": 6810,
+   "cache_creation_input_tokens": 27290,
+   "cache_read_input_tokens": 273558
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2101.02805.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:20:20-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,279 @@
+{
+ "paper_title": "Production rates of dark photons and Z' in the Sun and stellar cooling bounds",
+ "coupling_type": "VectorBL",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   9.985e-05,
+   4.15e-10
+  ],
+  [
+   0.0001696,
+   4.15e-10
+  ],
+  [
+   0.000288,
+   4.15e-10
+  ],
+  [
+   0.000489,
+   4.15e-10
+  ],
+  [
+   0.0008305,
+   4.149e-10
+  ],
+  [
+   0.00141,
+   4.149e-10
+  ],
+  [
+   0.002395,
+   4.143e-10
+  ],
+  [
+   0.004068,
+   4.098e-10
+  ],
+  [
+   0.006908,
+   3.773e-10
+  ],
+  [
+   0.01173,
+   2.509e-10
+  ],
+  [
+   0.01992,
+   1.066e-10
+  ],
+  [
+   0.03383,
+   3.971e-11
+  ],
+  [
+   0.05746,
+   1.567e-11
+  ],
+  [
+   0.09758,
+   6.91e-12
+  ],
+  [
+   0.1657,
+   3.343e-12
+  ],
+  [
+   0.2814,
+   1.712e-12
+  ],
+  [
+   0.4779,
+   9.02e-13
+  ],
+  [
+   0.8116,
+   4.818e-13
+  ],
+  [
+   1.378,
+   2.615e-13
+  ],
+  [
+   2.341,
+   1.484e-13
+  ],
+  [
+   3.975,
+   9.163e-14
+  ],
+  [
+   4.259,
+   8.667e-14
+  ],
+  [
+   5.468,
+   7.146e-14
+  ],
+  [
+   7.02,
+   5.488e-14
+  ],
+  [
+   9.013,
+   4.107e-14
+  ],
+  [
+   11.57,
+   2.313e-14
+  ],
+  [
+   14.85,
+   1.659e-14
+  ],
+  [
+   19.07,
+   1.127e-14
+  ],
+  [
+   24.48,
+   8.431e-15
+  ],
+  [
+   31.43,
+   5.855e-15
+  ],
+  [
+   40.35,
+   4.549e-15
+  ],
+  [
+   51.8,
+   3.311e-15
+  ],
+  [
+   66.5,
+   2.438e-15
+  ],
+  [
+   85.38,
+   1.808e-15
+  ],
+  [
+   109.6,
+   1.331e-15
+  ],
+  [
+   140.7,
+   9.639e-16
+  ],
+  [
+   180.7,
+   7.11e-16
+  ],
+  [
+   231.9,
+   5.91e-16
+  ],
+  [
+   297.8,
+   6.999e-16
+  ],
+  [
+   382.3,
+   1.542e-14
+  ],
+  [
+   490.7,
+   2.139e-14
+  ],
+  [
+   630.0,
+   2.624e-14
+  ],
+  [
+   793.1,
+   3.102e-14
+  ],
+  [
+   1095.0,
+   3.957e-14
+  ],
+  [
+   1511.0,
+   5.238e-14
+  ],
+  [
+   2086.0,
+   7.33e-14
+  ],
+  [
+   2880.0,
+   1.099e-13
+  ],
+  [
+   3975.0,
+   1.788e-13
+  ],
+  [
+   5487.0,
+   3.217e-13
+  ],
+  [
+   7574.0,
+   6.724e-13
+  ],
+  [
+   10460.0,
+   1.791e-12
+  ],
+  [
+   14430.0,
+   6.961e-12
+  ],
+  [
+   19920.0,
+   4.698e-11
+  ],
+  [
+   27500.0,
+   6.909e-10
+  ],
+  [
+   37960.0,
+   3.002e-08
+  ],
+  [
+   52400.0,
+   5.832e-06
+  ],
+  [
+   54410.0,
+   1.373e-05
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "SolarCooling_2023",
+ "coupling_convention": "g_BL (dimensionless)",
+ "notes": "Solar cooling bound on the B-L gauge boson (blue 'solar' curve, top-right panel of Fig. 4), extracted from the vector paths of the e-print figure fig/bounds.pdf with axis calibration from tick-mark coordinates. The paper's main quantitative result: for m_Z' <~ 10 keV the solar energy-loss criterion dE/dt < 10% L_sun requires g_B-L < 4.1e-10; the extracted flat low-mass level reproduces this. The figure also shows HB and RG cooling bands and the paper's other models (dark photon, Lmu-Ltau, Le-Lmu(tau)); the B-L solar curve is reported as it is the headline robust bound quoted in the conclusions. The bound is an energy-loss (10% solar luminosity) criterion, not a statistical confidence level, so confidence_level is nominal. No dark-matter density assumption (stellar cooling).",
+ "num_points": 57,
+ "arxiv_id": "2304.12907",
+ "elapsed_s": 148.09091591835022,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 147534,
+  "duration_api_ms": 144620,
+  "total_cost_usd": 1.271189,
+  "usage": {
+   "input_tokens": 309,
+   "output_tokens": 9701,
+   "cache_creation_input_tokens": 36119,
+   "cache_read_input_tokens": 273144
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2304.12907.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:15:46-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

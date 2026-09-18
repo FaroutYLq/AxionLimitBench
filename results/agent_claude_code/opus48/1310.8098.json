@@ -1,0 +1,298 @@
+{
+ "paper_title": "First results of the CERN Resonant WISP Search (CROWS)",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   7.251e-09,
+   9.7723e-08
+  ],
+  [
+   1.0122e-08,
+   9.7723e-08
+  ],
+  [
+   1.4129e-08,
+   9.7723e-08
+  ],
+  [
+   1.9722e-08,
+   9.7722e-08
+  ],
+  [
+   2.7529e-08,
+   9.7722e-08
+  ],
+  [
+   3.8427e-08,
+   9.772e-08
+  ],
+  [
+   5.3639e-08,
+   9.7718e-08
+  ],
+  [
+   7.4873e-08,
+   9.7714e-08
+  ],
+  [
+   1.04513e-07,
+   9.7705e-08
+  ],
+  [
+   1.45886e-07,
+   9.7687e-08
+  ],
+  [
+   2.03638e-07,
+   9.7653e-08
+  ],
+  [
+   2.84252e-07,
+   9.7587e-08
+  ],
+  [
+   3.96778e-07,
+   9.7459e-08
+  ],
+  [
+   5.5385e-07,
+   9.7209e-08
+  ],
+  [
+   7.731e-07,
+   9.6724e-08
+  ],
+  [
+   1.079146e-06,
+   9.5789e-08
+  ],
+  [
+   1.506346e-06,
+   9.3999e-08
+  ],
+  [
+   2.102658e-06,
+   9.0639e-08
+  ],
+  [
+   2.935035e-06,
+   8.4543e-08
+  ],
+  [
+   4.096915e-06,
+   7.4167e-08
+  ],
+  [
+   5.718756e-06,
+   5.8386e-08
+  ],
+  [
+   5.851822e-06,
+   5.7107e-08
+  ],
+  [
+   5.987972e-06,
+   5.5808e-08
+  ],
+  [
+   6.127302e-06,
+   5.4489e-08
+  ],
+  [
+   6.269874e-06,
+   5.3153e-08
+  ],
+  [
+   6.415751e-06,
+   5.1799e-08
+  ],
+  [
+   6.565034e-06,
+   5.043e-08
+  ],
+  [
+   6.717791e-06,
+   4.9048e-08
+  ],
+  [
+   6.874103e-06,
+   4.7653e-08
+  ],
+  [
+   7.034038e-06,
+   4.6249e-08
+  ],
+  [
+   7.197708e-06,
+   4.4835e-08
+  ],
+  [
+   7.365186e-06,
+   7.3989e-08
+  ],
+  [
+   7.536561e-06,
+   9.0094e-08
+  ],
+  [
+   7.711909e-06,
+   1.0455e-07
+  ],
+  [
+   7.891352e-06,
+   1.1843e-07
+  ],
+  [
+   8.074955e-06,
+   1.3213e-07
+  ],
+  [
+   8.262845e-06,
+   1.4589e-07
+  ],
+  [
+   8.455107e-06,
+   1.5984e-07
+  ],
+  [
+   8.651827e-06,
+   1.7408e-07
+  ],
+  [
+   8.85314e-06,
+   1.8868e-07
+  ],
+  [
+   9.059137e-06,
+   2.0372e-07
+  ],
+  [
+   1.0732281e-05,
+   3.3283e-07
+  ],
+  [
+   1.2714441e-05,
+   5.085e-07
+  ],
+  [
+   1.506266e-05,
+   7.5556e-07
+  ],
+  [
+   1.7844603e-05,
+   1.1111e-06
+  ],
+  [
+   2.1140347e-05,
+   1.6338e-06
+  ],
+  [
+   2.5044786e-05,
+   2.4206e-06
+  ],
+  [
+   2.9670342e-05,
+   3.6371e-06
+  ],
+  [
+   3.5150131e-05,
+   5.5783e-06
+  ],
+  [
+   4.1642056e-05,
+   8.7943e-06
+  ],
+  [
+   4.9332984e-05,
+   1.4365e-05
+  ],
+  [
+   5.8444359e-05,
+   2.4535e-05
+  ],
+  [
+   6.9238527e-05,
+   4.4303e-05
+  ],
+  [
+   8.202613e-05,
+   8.5698e-05
+  ],
+  [
+   9.7175647e-05,
+   0.00018043
+  ],
+  [
+   0.000115123148,
+   0.00042146
+  ],
+  [
+   0.000136385399,
+   0.0011175
+  ],
+  [
+   0.000161574603,
+   0.0034558
+  ],
+  [
+   0.000191416035,
+   0.012862
+  ],
+  [
+   0.000226768493,
+   0.059748
+  ],
+  [
+   0.000250959562,
+   0.1693
+  ],
+  [
+   0.000272446226,
+   0.4248
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "CROWS_2013",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Microwave light-shining-through-wall (LSW) experiment. Main result = ALP-photon coupling exclusion from Fig.13 (ALP_excl_plot.pdf vector figure, CROWS 06/2013 blue region). Boundary traced from the blue fill path; x/y log calibration reproduces both quoted numbers: wideband g=9.9e-8 GeV^-1 (flat, mass-independent below resonance) and most-sensitive g=4.5e-8 GeV^-1 at the resonance mass m_a=hf_sys=7.2e-6 eV (f_sys=1.73999 GHz). x-axis anchored so the resonance dip lands at 7.196e-6 eV. Curve is flat ~9.8e-8 at low mass, dips to 4.5e-8 at resonance, then rises steeply above resonance due to exponential suppression of the form factor (k prime imaginary for m>hf_sys). Paper also sets a hidden-photon limit chi=4.1e-9 at 10.8 ueV (Fig.14, DarkPhoton) - not reported here as the abstract/Fig.13 present the ALP result first. Not a DM search: density-independent.",
+ "num_points": 62,
+ "arxiv_id": "1310.8098",
+ "elapsed_s": 229.46730399131775,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 229126,
+  "duration_api_ms": 226534,
+  "total_cost_usd": 1.0351229999999998,
+  "usage": {
+   "input_tokens": 323,
+   "output_tokens": 15650,
+   "cache_creation_input_tokens": 47647,
+   "cache_read_input_tokens": 331576
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1310.8098.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:26:29-0500"
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "paper_title": "Bounds on Axions-Like Particles Shining in the Ultra-Violet",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   14.0,
+   3.754868049879022e-13
+  ],
+  [
+   14.1,
+   2.5165324657331475e-13
+  ],
+  [
+   14.2,
+   2.5813359992687256e-13
+  ],
+  [
+   14.4,
+   2.6475853791553794e-13
+  ],
+  [
+   14.5,
+   2.715686965345794e-13
+  ],
+  [
+   14.6,
+   2.78587013516403e-13
+  ],
+  [
+   14.7,
+   2.8584321971407513e-13
+  ],
+  [
+   14.9,
+   2.9339247116578854e-13
+  ],
+  [
+   15.0,
+   3.0128949974249165e-13
+  ],
+  [
+   15.1,
+   3.0961461375748716e-13
+  ],
+  [
+   15.2,
+   3.1844380693721183e-13
+  ],
+  [
+   15.4,
+   3.278499730721292e-13
+  ],
+  [
+   15.5,
+   3.3795243893253675e-13
+  ],
+  [
+   15.6,
+   3.489216455466577e-13
+  ],
+  [
+   15.7,
+   3.6096594218516695e-13
+  ],
+  [
+   15.9,
+   3.7430409082999314e-13
+  ],
+  [
+   16.0,
+   3.8929870949388574e-13
+  ],
+  [
+   16.1,
+   4.062799595502993e-13
+  ],
+  [
+   16.3,
+   4.2576399509183183e-13
+  ],
+  [
+   16.4,
+   4.4833196703993494e-13
+  ],
+  [
+   16.5,
+   4.748915865249467e-13
+  ],
+  [
+   16.6,
+   5.069500935992001e-13
+  ],
+  [
+   16.8,
+   5.459635523410933e-13
+  ],
+  [
+   16.9,
+   5.941441743281635e-13
+  ],
+  [
+   17.0,
+   6.539090025591317e-13
+  ],
+  [
+   17.2,
+   7.277682865143498e-13
+  ],
+  [
+   17.3,
+   8.218516134332732e-13
+  ],
+  [
+   17.4,
+   9.401354339067652e-13
+  ],
+  [
+   17.6,
+   1.0989743817197455e-12
+  ],
+  [
+   20.3,
+   1.032516092248269e-12
+  ],
+  [
+   20.4,
+   4.649645667766314e-13
+  ],
+  [
+   20.5,
+   2.095252399766069e-13
+  ],
+  [
+   20.6,
+   1.6723913254477718e-13
+  ],
+  [
+   20.7,
+   2.1247066299515972e-13
+  ],
+  [
+   20.8,
+   3.9940602007606315e-13
+  ],
+  [
+   20.9,
+   7.75896992564896e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "Todarello-HST_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Combined 95% C.L. upper limit from right panel of Figure 3, extracted from vector PDF coordinates. Filtered to g_a\u03b3 \u2264 1.3\u00d710^-12 GeV^-1 to exclude uncertainty band artifacts.",
+ "num_points": 36,
+ "arxiv_id": "2412.02543",
+ "elapsed_s": 490.61658215522766,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 36,
+  "duration_ms": 490316,
+  "duration_api_ms": 484761,
+  "total_cost_usd": 0.5865183999999999,
+  "usage": {
+   "input_tokens": 272,
+   "output_tokens": 42306,
+   "cache_creation_input_tokens": 93400,
+   "cache_read_input_tokens": 1879164
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2412.02543.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:43:30-0500"
+ }
+}

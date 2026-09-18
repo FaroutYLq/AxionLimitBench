@@ -1,0 +1,230 @@
+{
+ "paper_title": "Spectroscopy as a test of Coulomb's law - A probe of the hidden sector",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.0,
+   0.014305
+  ],
+  [
+   1.5841,
+   0.009033
+  ],
+  [
+   2.5093,
+   0.0057052
+  ],
+  [
+   3.975,
+   0.0036044
+  ],
+  [
+   6.2967,
+   0.0022782
+  ],
+  [
+   9.9744,
+   0.001441
+  ],
+  [
+   15.8,
+   0.00091253
+  ],
+  [
+   25.029,
+   0.0005789
+  ],
+  [
+   39.648,
+   0.0003683
+  ],
+  [
+   62.806,
+   0.00023537
+  ],
+  [
+   99.49,
+   0.00015147
+  ],
+  [
+   157.6,
+   9.8546e-05
+  ],
+  [
+   249.65,
+   6.5192e-05
+  ],
+  [
+   395.47,
+   4.4226e-05
+  ],
+  [
+   626.45,
+   3.1134e-05
+  ],
+  [
+   992.35,
+   2.3095e-05
+  ],
+  [
+   1572.0,
+   1.8379e-05
+  ],
+  [
+   2490.1,
+   1.597e-05
+  ],
+  [
+   3944.6,
+   1.5348e-05
+  ],
+  [
+   6248.5,
+   1.6381e-05
+  ],
+  [
+   9898.2,
+   1.929e-05
+  ],
+  [
+   15680.0,
+   2.4701e-05
+  ],
+  [
+   24838.0,
+   3.3781e-05
+  ],
+  [
+   39345.0,
+   4.8485e-05
+  ],
+  [
+   62326.0,
+   7.1979e-05
+  ],
+  [
+   98729.0,
+   0.00010932
+  ],
+  [
+   156390.0,
+   0.00016856
+  ],
+  [
+   247740.0,
+   0.00026245
+  ],
+  [
+   392440.0,
+   0.00041121
+  ],
+  [
+   621660.0,
+   0.00064687
+  ],
+  [
+   984770.0,
+   0.0010202
+  ],
+  [
+   1560000.0,
+   0.0016116
+  ],
+  [
+   2471100.0,
+   0.0025484
+  ],
+  [
+   3914400.0,
+   0.0040324
+  ],
+  [
+   6200800.0,
+   0.0063832
+  ],
+  [
+   9822500.0,
+   0.010107
+  ],
+  [
+   15560000.0,
+   0.016006
+  ],
+  [
+   24648000.0,
+   0.02535
+  ],
+  [
+   39044000.0,
+   0.040152
+  ],
+  [
+   61849000.0,
+   0.0636
+  ],
+  [
+   97974000.0,
+   0.10074
+  ],
+  [
+   155200000.0,
+   0.15958
+  ],
+  [
+   245850000.0,
+   0.25278
+  ],
+  [
+   389440000.0,
+   0.40043
+  ],
+  [
+   616910000.0,
+   0.6343
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "CoulombSpectroscopy_2010",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Hidden photon (dark photon) kinetic mixing chi vs mass m_gamma'. Headline measured bound is the 2s_{1/2}-2p_{1/2} Lamb-shift limit in atomic hydrogen (blue curve, Fig. 3), stated as one of 'the best ones we can derive from atomic spectra'. Curve computed analytically from Eq. (3.8), |dE| = chi^2 * alpha * a * m^2 / [2(1+a m)^4] with Bohr radius a=1/(alpha m_e), set equal to the conservative 2-sigma uncertainty DeltaM* = 2e-10 eV (Fig. 3 caption). Verified against the vector figure: minimum chi~1.5e-5 near m~3.7 keV, reaching chi=1 at m~1 GeV. Excluded region is above the U-shaped curve; both branches reported. The nearly-coincident green curve (combined 1s-2s + 2s-8s, correctly renormalised alpha) gives essentially the same bound within <factor 2. The hydrogen-like helium (Z=2) bound in Fig. 4 reaches slightly further but is presented as a Z-trend illustration. Not a dark-matter search, so no density dependence. Perturbation theory breaks down for chi ~ O(1); curve truncated at chi=1.",
+ "num_points": 45,
+ "arxiv_id": "1008.3536",
+ "elapsed_s": 191.73691391944885,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 191426,
+  "duration_api_ms": 188736,
+  "total_cost_usd": 1.010029,
+  "usage": {
+   "input_tokens": 433,
+   "output_tokens": 13575,
+   "cache_creation_input_tokens": 42982,
+   "cache_read_input_tokens": 477338
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1008.3536.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:13:08-0500"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "paper_title": "Searching for solar axions using data from the Sudbury Neutrino Observatory",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-06,
+   7.512e-05
+  ],
+  [
+   0.001,
+   7.512e-05
+  ],
+  [
+   1.0,
+   7.512e-05
+  ],
+  [
+   1000.0,
+   7.512e-05
+  ],
+  [
+   1000000.0,
+   7.512e-05
+  ],
+  [
+   5500000.0,
+   7.512e-05
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "SNO_2020",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Isovector coupling |g3_aN| = (1/2)|g_aN - g_aP| > 2e-5 GeV-1 excluded from Figure 1 (blue SNO curve). Converted to canonical single-nucleon form with g_aP=0: g_aN,paper=4e-5 GeV-1, then g_aN,canonical=2*m_N*g_aN,paper=7.512e-5 dimensionless via 2m_N rule. Limit is flat from low masses to ~5.5 MeV (solar axion production threshold). Constraint from axiodissociation channel (a+d\u2192n+p) using SNO deuterium target.",
+ "num_points": 6,
+ "arxiv_id": "2004.02733",
+ "elapsed_s": 148.42103505134583,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 7,
+  "duration_ms": 147737,
+  "duration_api_ms": 145725,
+  "total_cost_usd": 0.18654130000000002,
+  "usage": {
+   "input_tokens": 52,
+   "output_tokens": 14834,
+   "cache_creation_input_tokens": 46612,
+   "cache_read_input_tokens": 190953
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2004.02733.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:12:12-0500"
+ }
+}

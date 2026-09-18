@@ -1,0 +1,331 @@
+{
+ "paper_title": "Constraints on axions from patchy screening of the cosmic microwave background",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.64089e-13,
+   1.78364e-10
+  ],
+  [
+   1.70819e-13,
+   8.21164e-11
+  ],
+  [
+   1.78621e-13,
+   3.73382e-11
+  ],
+  [
+   1.85946e-13,
+   1.90803e-11
+  ],
+  [
+   1.93573e-13,
+   1.07856e-11
+  ],
+  [
+   2.01512e-13,
+   6.78147e-12
+  ],
+  [
+   2.10716e-13,
+   4.17186e-12
+  ],
+  [
+   2.19358e-13,
+   2.67884e-12
+  ],
+  [
+   2.28355e-13,
+   1.94422e-12
+  ],
+  [
+   2.3772e-13,
+   1.61842e-12
+  ],
+  [
+   2.48578e-13,
+   1.42813e-12
+  ],
+  [
+   2.58773e-13,
+   1.34173e-12
+  ],
+  [
+   2.69386e-13,
+   1.30313e-12
+  ],
+  [
+   2.80434e-13,
+   1.27828e-12
+  ],
+  [
+   2.93243e-13,
+   1.25297e-12
+  ],
+  [
+   3.0527e-13,
+   1.23385e-12
+  ],
+  [
+   3.1779e-13,
+   1.22593e-12
+  ],
+  [
+   3.30824e-13,
+   1.2328e-12
+  ],
+  [
+   3.45934e-13,
+   1.25595e-12
+  ],
+  [
+   3.60122e-13,
+   1.28334e-12
+  ],
+  [
+   3.74892e-13,
+   1.3127e-12
+  ],
+  [
+   3.90267e-13,
+   1.34754e-12
+  ],
+  [
+   4.08092e-13,
+   1.39062e-12
+  ],
+  [
+   4.24829e-13,
+   1.42847e-12
+  ],
+  [
+   4.42253e-13,
+   1.46504e-12
+  ],
+  [
+   4.62452e-13,
+   1.50807e-12
+  ],
+  [
+   4.81419e-13,
+   1.55376e-12
+  ],
+  [
+   5.01164e-13,
+   1.59854e-12
+  ],
+  [
+   5.21719e-13,
+   1.63949e-12
+  ],
+  [
+   5.45547e-13,
+   1.69861e-12
+  ],
+  [
+   5.67922e-13,
+   1.76152e-12
+  ],
+  [
+   5.91215e-13,
+   1.82165e-12
+  ],
+  [
+   6.15463e-13,
+   1.891e-12
+  ],
+  [
+   6.43573e-13,
+   1.97637e-12
+  ],
+  [
+   6.69968e-13,
+   2.03358e-12
+  ],
+  [
+   6.97446e-13,
+   2.09331e-12
+  ],
+  [
+   7.26051e-13,
+   2.18323e-12
+  ],
+  [
+   7.59212e-13,
+   2.29829e-12
+  ],
+  [
+   7.9035e-13,
+   2.39989e-12
+  ],
+  [
+   8.22765e-13,
+   2.49799e-12
+  ],
+  [
+   8.5651e-13,
+   2.60935e-12
+  ],
+  [
+   8.9563e-13,
+   2.7541e-12
+  ],
+  [
+   9.32362e-13,
+   2.87712e-12
+  ],
+  [
+   9.70602e-13,
+   3.01213e-12
+  ],
+  [
+   1.01041e-12,
+   3.18884e-12
+  ],
+  [
+   1.05656e-12,
+   3.39262e-12
+  ],
+  [
+   1.09989e-12,
+   3.57439e-12
+  ],
+  [
+   1.145e-12,
+   3.79079e-12
+  ],
+  [
+   1.1973e-12,
+   4.04992e-12
+  ],
+  [
+   1.2464e-12,
+   4.28695e-12
+  ],
+  [
+   1.29752e-12,
+   4.57385e-12
+  ],
+  [
+   1.35074e-12,
+   4.90885e-12
+  ],
+  [
+   1.41243e-12,
+   5.29221e-12
+  ],
+  [
+   1.47036e-12,
+   5.64226e-12
+  ],
+  [
+   1.53067e-12,
+   6.04492e-12
+  ],
+  [
+   1.59345e-12,
+   6.59229e-12
+  ],
+  [
+   1.66622e-12,
+   7.31051e-12
+  ],
+  [
+   1.73456e-12,
+   7.99862e-12
+  ],
+  [
+   1.8057e-12,
+   8.89617e-12
+  ],
+  [
+   1.87976e-12,
+   1.01135e-11
+  ],
+  [
+   1.96562e-12,
+   1.19064e-11
+  ],
+  [
+   2.04623e-12,
+   1.42408e-11
+  ],
+  [
+   2.13016e-12,
+   1.76091e-11
+  ],
+  [
+   2.21752e-12,
+   2.21339e-11
+  ],
+  [
+   2.3188e-12,
+   2.90147e-11
+  ],
+  [
+   2.41391e-12,
+   3.79833e-11
+  ],
+  [
+   2.51291e-12,
+   5.19559e-11
+  ],
+  [
+   2.61597e-12,
+   7.52634e-11
+  ],
+  [
+   2.73545e-12,
+   1.21914e-10
+  ],
+  [
+   2.84764e-12,
+   1.96587e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.93,
+ "suggested_experiment_name": "PatchyScreening_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% CL upper limit on g_agamma from cross-correlating an axion patchy-screening map (Planck) with unWISE Blue galaxies; no DM assumption (CMB photon-to-axion resonant conversion in large-scale structure), so no density rescaling. Curve traced from the vector red exclusion region ('This work') in the main constraint figure (fig_axion_constraint_IllustrisTNG.pdf), the fiducial analysis with IllustrisTNG-derived magnetic field profiles. Axis calibration verified against tick positions and visual overlay; boundary clipped where it exits the top of the plotted axes (g ~ 2e-10 GeV^-1), giving a mass range 1.64e-13 to 2.85e-12 eV. Lagrangian convention matches canonical: L = -(1/4) g a F Ftilde (paper Eq. 1).",
+ "num_points": 70,
+ "arxiv_id": "2409.10514",
+ "elapsed_s": 128.37735509872437,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 128041,
+  "duration_api_ms": 119159,
+  "total_cost_usd": 1.2253280000000002,
+  "usage": {
+   "input_tokens": 373,
+   "output_tokens": 9080,
+   "cache_creation_input_tokens": 34463,
+   "cache_read_input_tokens": 278438
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2409.10514.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:14:09-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

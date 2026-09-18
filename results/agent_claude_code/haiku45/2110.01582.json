@@ -1,0 +1,374 @@
+{
+ "paper_title": "New Constraints on Dark Photon Dark Matter with Superconducting Nanowire Detectors in an Optical Haloscope",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.2815,
+   9.615e-13
+  ],
+  [
+   1.2862,
+   8.561e-13
+  ],
+  [
+   1.291,
+   9.485e-13
+  ],
+  [
+   1.2957,
+   9.485e-13
+  ],
+  [
+   1.3004,
+   9.485e-13
+  ],
+  [
+   1.3052,
+   9.485e-13
+  ],
+  [
+   1.31,
+   9.485e-13
+  ],
+  [
+   1.3148,
+   9.485e-13
+  ],
+  [
+   1.3196,
+   9.485e-13
+  ],
+  [
+   1.3245,
+   9.485e-13
+  ],
+  [
+   1.3293,
+   9.485e-13
+  ],
+  [
+   1.3342,
+   9.485e-13
+  ],
+  [
+   1.3391,
+   9.485e-13
+  ],
+  [
+   1.344,
+   9.485e-13
+  ],
+  [
+   1.3489,
+   9.485e-13
+  ],
+  [
+   1.3539,
+   9.485e-13
+  ],
+  [
+   1.3589,
+   8.561e-13
+  ],
+  [
+   1.3639,
+   9.615e-13
+  ],
+  [
+   1.4044,
+   5.921e-13
+  ],
+  [
+   1.4096,
+   5.921e-13
+  ],
+  [
+   1.4147,
+   5.921e-13
+  ],
+  [
+   1.4199,
+   5.921e-13
+  ],
+  [
+   1.4251,
+   5.921e-13
+  ],
+  [
+   1.4304,
+   5.921e-13
+  ],
+  [
+   1.4356,
+   5.921e-13
+  ],
+  [
+   1.4409,
+   5.921e-13
+  ],
+  [
+   1.4462,
+   5.921e-13
+  ],
+  [
+   1.4515,
+   5.921e-13
+  ],
+  [
+   1.4568,
+   5.921e-13
+  ],
+  [
+   1.4621,
+   5.921e-13
+  ],
+  [
+   1.4675,
+   5.921e-13
+  ],
+  [
+   1.4729,
+   5.921e-13
+  ],
+  [
+   1.4783,
+   5.921e-13
+  ],
+  [
+   1.4837,
+   5.921e-13
+  ],
+  [
+   1.4892,
+   5.921e-13
+  ],
+  [
+   1.4946,
+   5.921e-13
+  ],
+  [
+   1.5001,
+   5.921e-13
+  ],
+  [
+   1.5056,
+   5.921e-13
+  ],
+  [
+   1.5111,
+   5.921e-13
+  ],
+  [
+   1.5167,
+   5.921e-13
+  ],
+  [
+   1.5222,
+   5.921e-13
+  ],
+  [
+   1.5278,
+   5.921e-13
+  ],
+  [
+   1.5334,
+   5.921e-13
+  ],
+  [
+   1.5391,
+   5.921e-13
+  ],
+  [
+   1.5447,
+   5.921e-13
+  ],
+  [
+   1.5504,
+   5.921e-13
+  ],
+  [
+   1.5561,
+   5.921e-13
+  ],
+  [
+   1.5618,
+   5.921e-13
+  ],
+  [
+   1.5675,
+   5.921e-13
+  ],
+  [
+   1.5732,
+   5.921e-13
+  ],
+  [
+   1.579,
+   5.921e-13
+  ],
+  [
+   1.6682,
+   4.784e-12
+  ],
+  [
+   1.6743,
+   9.932e-12
+  ],
+  [
+   1.6805,
+   9.932e-12
+  ],
+  [
+   1.6866,
+   9.932e-12
+  ],
+  [
+   1.6928,
+   9.932e-12
+  ],
+  [
+   1.699,
+   9.932e-12
+  ],
+  [
+   1.7052,
+   9.932e-12
+  ],
+  [
+   1.7115,
+   9.932e-12
+  ],
+  [
+   1.7178,
+   9.932e-12
+  ],
+  [
+   1.7241,
+   9.932e-12
+  ],
+  [
+   1.7304,
+   9.932e-12
+  ],
+  [
+   1.7368,
+   9.932e-12
+  ],
+  [
+   1.7431,
+   9.932e-12
+  ],
+  [
+   1.7495,
+   9.932e-12
+  ],
+  [
+   1.7559,
+   9.932e-12
+  ],
+  [
+   1.7624,
+   9.932e-12
+  ],
+  [
+   1.7689,
+   9.932e-12
+  ],
+  [
+   1.7753,
+   9.932e-12
+  ],
+  [
+   1.7819,
+   9.932e-12
+  ],
+  [
+   1.7884,
+   9.932e-12
+  ],
+  [
+   1.795,
+   9.932e-12
+  ],
+  [
+   1.8015,
+   9.932e-12
+  ],
+  [
+   1.8082,
+   9.932e-12
+  ],
+  [
+   1.8148,
+   9.932e-12
+  ],
+  [
+   1.8214,
+   9.932e-12
+  ],
+  [
+   1.8281,
+   9.932e-12
+  ],
+  [
+   1.8348,
+   9.932e-12
+  ],
+  [
+   1.8416,
+   5.635e-12
+  ],
+  [
+   1.8483,
+   5.791e-12
+  ],
+  [
+   1.8551,
+   6.034e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "LAMPOST_2021",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "90% exclusion limit extracted from Figure 4 magenta shaded region (upper boundary). Mass range 1.28-1.86 eV corresponds to wavelengths 954-666 nm. Design wavelength was 0.7-0.8 eV (1550-1770 nm), but measured sensitivity extends to longer operating wavelengths. Proof-of-concept SNSPD-based optical haloscope with layered dielectric stack target.",
+ "num_points": 81,
+ "arxiv_id": "2110.01582",
+ "elapsed_s": 247.3105480670929,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 30,
+  "duration_ms": 246991,
+  "duration_api_ms": 239881,
+  "total_cost_usd": 0.34140840000000006,
+  "usage": {
+   "input_tokens": 214,
+   "output_tokens": 21716,
+   "cache_creation_input_tokens": 60318,
+   "cache_read_input_tokens": 1119784
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2110.01582.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:08:25-0500"
+ }
+}

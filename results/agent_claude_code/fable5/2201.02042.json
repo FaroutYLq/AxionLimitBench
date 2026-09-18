@@ -1,0 +1,411 @@
+{
+ "paper_title": "Improved bounds on ultralight scalar dark matter in the radio-frequency range",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   8.3858e-11,
+   339210.0
+  ],
+  [
+   9.4965e-11,
+   292210.0
+  ],
+  [
+   1.0823e-10,
+   155720.0
+  ],
+  [
+   1.1632e-10,
+   155720.0
+  ],
+  [
+   1.3084e-10,
+   247170.0
+  ],
+  [
+   1.4432e-10,
+   246800.0
+  ],
+  [
+   1.645e-10,
+   276970.0
+  ],
+  [
+   1.7448e-10,
+   320330.0
+  ],
+  [
+   1.985e-10,
+   127000.0
+  ],
+  [
+   2.2883e-10,
+   72315.0
+  ],
+  [
+   2.6407e-10,
+   65771.0
+  ],
+  [
+   2.9596e-10,
+   73290.0
+  ],
+  [
+   3.3318e-10,
+   60874.0
+  ],
+  [
+   4.2225e-10,
+   110840.0
+  ],
+  [
+   4.3977e-10,
+   115550.0
+  ],
+  [
+   4.951e-10,
+   108840.0
+  ],
+  [
+   5.2872e-10,
+   97597.0
+  ],
+  [
+   5.5736e-10,
+   111130.0
+  ],
+  [
+   6.153e-10,
+   116760.0
+  ],
+  [
+   6.5123e-10,
+   103080.0
+  ],
+  [
+   8.0111e-10,
+   181240.0
+  ],
+  [
+   8.514e-10,
+   145580.0
+  ],
+  [
+   1.0674e-09,
+   192430.0
+  ],
+  [
+   1.5595e-09,
+   406280.0
+  ],
+  [
+   1.6801e-09,
+   407340.0
+  ],
+  [
+   1.8915e-09,
+   530660.0
+  ],
+  [
+   1.9766e-09,
+   449370.0
+  ],
+  [
+   2.2939e-09,
+   586510.0
+  ],
+  [
+   2.609e-09,
+   546080.0
+  ],
+  [
+   3.0245e-09,
+   678330.0
+  ],
+  [
+   3.2619e-09,
+   672800.0
+  ],
+  [
+   3.8064e-09,
+   943130.0
+  ],
+  [
+   3.8095e-09,
+   805820.0
+  ],
+  [
+   4.7011e-09,
+   1197500.0
+  ],
+  [
+   4.9401e-09,
+   1200700.0
+  ],
+  [
+   5.3773e-09,
+   1653900.0
+  ],
+  [
+   5.6861e-09,
+   1538200.0
+  ],
+  [
+   6.019e-09,
+   3147700.0
+  ],
+  [
+   6.1295e-09,
+   2489200.0
+  ],
+  [
+   6.6668e-09,
+   2554900.0
+  ],
+  [
+   6.7535e-09,
+   3239200.0
+  ],
+  [
+   7.0338e-09,
+   1643500.0
+  ],
+  [
+   7.5923e-09,
+   1297700.0
+  ],
+  [
+   8.7638e-09,
+   1096100.0
+  ],
+  [
+   1.1592e-08,
+   1125000.0
+  ],
+  [
+   1.2462e-08,
+   1216400.0
+  ],
+  [
+   1.3406e-08,
+   1151200.0
+  ],
+  [
+   1.5484e-08,
+   1252700.0
+  ],
+  [
+   1.7371e-08,
+   1205100.0
+  ],
+  [
+   2.4382e-08,
+   1413700.0
+  ],
+  [
+   2.6144e-08,
+   1375800.0
+  ],
+  [
+   4.0147e-08,
+   1849200.0
+  ],
+  [
+   4.0994e-08,
+   1759900.0
+  ],
+  [
+   6.7905e-08,
+   2969200.0
+  ],
+  [
+   7.0835e-08,
+   2867200.0
+  ],
+  [
+   8.1831e-08,
+   3354500.0
+  ],
+  [
+   8.5607e-08,
+   3311100.0
+  ],
+  [
+   8.8692e-08,
+   3785500.0
+  ],
+  [
+   9.4975e-08,
+   3986400.0
+  ],
+  [
+   1.0206e-07,
+   3898400.0
+  ],
+  [
+   1.025e-07,
+   4620800.0
+  ],
+  [
+   1.0993e-07,
+   4817400.0
+  ],
+  [
+   1.1031e-07,
+   4237200.0
+  ],
+  [
+   1.2793e-07,
+   5434500.0
+  ],
+  [
+   1.375e-07,
+   5380100.0
+  ],
+  [
+   1.3781e-07,
+   6377100.0
+  ],
+  [
+   1.4598e-07,
+   5542700.0
+  ],
+  [
+   1.4892e-07,
+   6484800.0
+  ],
+  [
+   1.5995e-07,
+   6983000.0
+  ],
+  [
+   1.6763e-07,
+   6508900.0
+  ],
+  [
+   1.8563e-07,
+   9533700.0
+  ],
+  [
+   1.9386e-07,
+   8866600.0
+  ],
+  [
+   2.0547e-07,
+   10896000.0
+  ],
+  [
+   2.0864e-07,
+   9558500.0
+  ],
+  [
+   2.2438e-07,
+   11461000.0
+  ],
+  [
+   2.3055e-07,
+   10839000.0
+  ],
+  [
+   2.4277e-07,
+   13359000.0
+  ],
+  [
+   2.5188e-07,
+   12200000.0
+  ],
+  [
+   2.62e-07,
+   15941000.0
+  ],
+  [
+   2.6937e-07,
+   13943000.0
+  ],
+  [
+   2.8188e-07,
+   18050000.0
+  ],
+  [
+   3.0222e-07,
+   19898000.0
+  ],
+  [
+   3.2513e-07,
+   20024000.0
+  ],
+  [
+   3.2659e-07,
+   23673000.0
+  ],
+  [
+   3.3912e-07,
+   22885000.0
+  ],
+  [
+   3.5134e-07,
+   27410000.0
+  ],
+  [
+   3.7537e-07,
+   27800000.0
+  ],
+  [
+   3.7848e-07,
+   32068000.0
+  ],
+  [
+   4.0028e-07,
+   31291000.0
+  ],
+  [
+   4.0225e-07,
+   37283000.0
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.39,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "Mainz_2022",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Curve is the Experiment B (measured) 95% C.L. exclusion on the UDM-photon coupling g_gamma from Fig. 2(a), Galactic-halo scenario, extracted from the vector PDF (exclusions.pdf); axis calibration verified against tick marks and against Eq. (5) with the delta-f/f limits of Fig. 1. Paper convention alpha(t)=alpha_0[1+g_gamma*phi] with g_gamma in eV^-1; converted to Damour-Donoghue d_e = g_gamma/kappa, kappa = sqrt(4pi)/(1.22e19 GeV), i.e. d_e = g_gamma[eV^-1] x 3.4416e27 eV. The paper also bounds the electron coupling g_e (Fig. 2a top, only above 50 kHz) and d_me (Fig. 3); the photon coupling covers the full investigated mass range 8e-11 - 4e-7 eV and is reported here. Experiment A curves are 'ultimate apparatus sensitivity' (not a valid exclusion due to unexcluded spurious peaks) and are excluded; Solar/Earth-halo scenario panels also not used. rho_DM = 3e-6 eV^4 ~ 0.39 GeV/cm^3 assumed by the paper.",
+ "num_points": 90,
+ "arxiv_id": "2201.02042",
+ "elapsed_s": 314.6469180583954,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 314288,
+  "duration_api_ms": 310570,
+  "total_cost_usd": 2.8077065,
+  "usage": {
+   "input_tokens": 570,
+   "output_tokens": 24277,
+   "cache_creation_input_tokens": 57746,
+   "cache_read_input_tokens": 804674
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2201.02042.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:45:26-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

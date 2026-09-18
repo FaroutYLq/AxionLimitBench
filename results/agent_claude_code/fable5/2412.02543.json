@@ -1,0 +1,451 @@
+{
+ "paper_title": "Bounds on Axion-Like Particles Shining in the Ultra-Violet",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   14.431,
+   3.849e-13
+  ],
+  [
+   14.5092,
+   2.874e-13
+  ],
+  [
+   14.5875,
+   2.415e-13
+  ],
+  [
+   14.6657,
+   2.165e-13
+  ],
+  [
+   14.7439,
+   2.005e-13
+  ],
+  [
+   14.8221,
+   1.932e-13
+  ],
+  [
+   14.9003,
+   1.893e-13
+  ],
+  [
+   14.9785,
+   1.886e-13
+  ],
+  [
+   15.0568,
+   1.927e-13
+  ],
+  [
+   15.135,
+   2.014e-13
+  ],
+  [
+   15.2132,
+   2.028e-13
+  ],
+  [
+   15.2914,
+   2.099e-13
+  ],
+  [
+   15.3696,
+   2.172e-13
+  ],
+  [
+   15.4478,
+   2.257e-13
+  ],
+  [
+   15.5261,
+   2.351e-13
+  ],
+  [
+   15.6043,
+   2.371e-13
+  ],
+  [
+   15.6825,
+   2.4e-13
+  ],
+  [
+   15.7607,
+   2.311e-13
+  ],
+  [
+   15.8389,
+   2.221e-13
+  ],
+  [
+   15.9171,
+   2.233e-13
+  ],
+  [
+   15.9954,
+   2.22e-13
+  ],
+  [
+   16.0736,
+   2.053e-13
+  ],
+  [
+   16.1518,
+   1.887e-13
+  ],
+  [
+   16.23,
+   1.818e-13
+  ],
+  [
+   16.3082,
+   1.853e-13
+  ],
+  [
+   16.3864,
+   1.953e-13
+  ],
+  [
+   16.4647,
+   2.08e-13
+  ],
+  [
+   16.5429,
+   2.247e-13
+  ],
+  [
+   16.6211,
+   2.454e-13
+  ],
+  [
+   16.6993,
+   2.701e-13
+  ],
+  [
+   16.7775,
+   2.692e-13
+  ],
+  [
+   16.8558,
+   2.6e-13
+  ],
+  [
+   16.934,
+   2.563e-13
+  ],
+  [
+   17.0122,
+   2.676e-13
+  ],
+  [
+   17.0904,
+   2.682e-13
+  ],
+  [
+   17.1686,
+   2.462e-13
+  ],
+  [
+   17.2468,
+   2.242e-13
+  ],
+  [
+   17.3251,
+   2.051e-13
+  ],
+  [
+   17.4033,
+   1.916e-13
+  ],
+  [
+   17.4815,
+   1.834e-13
+  ],
+  [
+   17.5597,
+   1.791e-13
+  ],
+  [
+   17.6379,
+   1.797e-13
+  ],
+  [
+   17.7161,
+   1.785e-13
+  ],
+  [
+   17.7944,
+   1.754e-13
+  ],
+  [
+   17.8726,
+   1.789e-13
+  ],
+  [
+   17.9508,
+   1.88e-13
+  ],
+  [
+   18.029,
+   2.029e-13
+  ],
+  [
+   18.1072,
+   2.223e-13
+  ],
+  [
+   18.1854,
+   2.454e-13
+  ],
+  [
+   18.2637,
+   2.836e-13
+  ],
+  [
+   18.3419,
+   3.425e-13
+  ],
+  [
+   18.4201,
+   4.269e-13
+  ],
+  [
+   18.4983,
+   5.363e-13
+  ],
+  [
+   18.5765,
+   5.248e-13
+  ],
+  [
+   18.6547,
+   4.053e-13
+  ],
+  [
+   18.733,
+   3.603e-13
+  ],
+  [
+   18.8112,
+   3.373e-13
+  ],
+  [
+   18.8894,
+   3.014e-13
+  ],
+  [
+   18.9676,
+   2.673e-13
+  ],
+  [
+   19.0458,
+   2.519e-13
+  ],
+  [
+   19.1241,
+   2.741e-13
+  ],
+  [
+   19.2023,
+   3.22e-13
+  ],
+  [
+   19.2805,
+   3.716e-13
+  ],
+  [
+   19.3587,
+   4.344e-13
+  ],
+  [
+   19.4369,
+   5.163e-13
+  ],
+  [
+   19.5151,
+   5.912e-13
+  ],
+  [
+   19.5934,
+   6.321e-13
+  ],
+  [
+   19.6716,
+   6.246e-13
+  ],
+  [
+   19.7498,
+   6.201e-13
+  ],
+  [
+   19.828,
+   7.375e-13
+  ],
+  [
+   19.9062,
+   8.94e-13
+  ],
+  [
+   19.9844,
+   9.972e-13
+  ],
+  [
+   20.0627,
+   1.01e-12
+  ],
+  [
+   20.1409,
+   9.586e-13
+  ],
+  [
+   20.2191,
+   9.003e-13
+  ],
+  [
+   20.2973,
+   6.951e-13
+  ],
+  [
+   20.3755,
+   4.32e-13
+  ],
+  [
+   20.4537,
+   3.427e-13
+  ],
+  [
+   20.532,
+   3.094e-13
+  ],
+  [
+   20.6102,
+   2.904e-13
+  ],
+  [
+   20.6884,
+   2.642e-13
+  ],
+  [
+   20.7666,
+   2.451e-13
+  ],
+  [
+   20.8448,
+   2.523e-13
+  ],
+  [
+   20.923,
+   2.893e-13
+  ],
+  [
+   21.0013,
+   3.44e-13
+  ],
+  [
+   21.0795,
+   3.966e-13
+  ],
+  [
+   21.1577,
+   4.48e-13
+  ],
+  [
+   21.2359,
+   5.155e-13
+  ],
+  [
+   21.3141,
+   5.672e-13
+  ],
+  [
+   21.3923,
+   5.944e-13
+  ],
+  [
+   21.4706,
+   6.395e-13
+  ],
+  [
+   21.5488,
+   7.203e-13
+  ],
+  [
+   21.627,
+   7.837e-13
+  ],
+  [
+   21.7052,
+   8.046e-13
+  ],
+  [
+   21.7834,
+   8.324e-13
+  ],
+  [
+   21.8617,
+   9.578e-13
+  ],
+  [
+   21.9399,
+   1.145e-12
+  ],
+  [
+   22.0181,
+   1.352e-12
+  ],
+  [
+   22.0963,
+   1.567e-12
+  ],
+  [
+   22.1745,
+   1.827e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.93,
+ "suggested_experiment_name": "HST_FUV_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Curve is the solid black line in the right panel of Fig. 3: the 95% C.L. combined (UMi+Draco+Virgo+Fornax) upper limit on g_agamma from HST/STIS FUV spectra, which the paper describes as its most conservative exclusion limit (upper edge of the D-factor uncertainty band). Extracted from vector paths of the e-print figure bound.pdf, axes calibrated from tick-label positions (linear mass axis, log coupling axis); resampled to 100 points over 14.43-22.17 eV. Coupling already in the canonical L = -(g/4) a F Fdual convention. Limit uses target-halo D-factors (NFW profiles), not the local DM density, so no rho_DM rescaling applies.",
+ "num_points": 100,
+ "arxiv_id": "2412.02543",
+ "elapsed_s": 102.67352604866028,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 102371,
+  "duration_api_ms": 98709,
+  "total_cost_usd": 1.1838389999999999,
+  "usage": {
+   "input_tokens": 336,
+   "output_tokens": 7539,
+   "cache_creation_input_tokens": 34455,
+   "cache_read_input_tokens": 314469
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2412.02543.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:24:33-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

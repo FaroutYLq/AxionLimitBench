@@ -1,0 +1,187 @@
+{
+ "paper_title": "Search for Axions in Magnetic White Dwarf Polarization at Lick and Keck Observatories",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.001e-14,
+   1.694e-12
+  ],
+  [
+   2.684e-14,
+   1.694e-12
+  ],
+  [
+   7.201e-14,
+   1.694e-12
+  ],
+  [
+   1.932e-13,
+   1.694e-12
+  ],
+  [
+   5.182e-13,
+   1.694e-12
+  ],
+  [
+   1.39e-12,
+   1.694e-12
+  ],
+  [
+   3.73e-12,
+   1.694e-12
+  ],
+  [
+   1.001e-11,
+   1.694e-12
+  ],
+  [
+   2.784e-11,
+   1.697e-12
+  ],
+  [
+   7.747e-11,
+   1.7e-12
+  ],
+  [
+   2.156e-10,
+   1.703e-12
+  ],
+  [
+   5.998e-10,
+   1.706e-12
+  ],
+  [
+   1.669e-09,
+   1.709e-12
+  ],
+  [
+   4.644e-09,
+   1.712e-12
+  ],
+  [
+   1.292e-08,
+   1.715e-12
+  ],
+  [
+   3.596e-08,
+   1.718e-12
+  ],
+  [
+   1.001e-07,
+   1.721e-12
+  ],
+  [
+   1.693e-07,
+   1.799e-12
+  ],
+  [
+   2.386e-07,
+   1.934e-12
+  ],
+  [
+   3.079e-07,
+   2.123e-12
+  ],
+  [
+   3.771e-07,
+   2.369e-12
+  ],
+  [
+   4.464e-07,
+   2.654e-12
+  ],
+  [
+   5.157e-07,
+   2.989e-12
+  ],
+  [
+   5.849e-07,
+   3.401e-12
+  ],
+  [
+   6.542e-07,
+   3.871e-12
+  ],
+  [
+   7.235e-07,
+   4.424e-12
+  ],
+  [
+   7.928e-07,
+   5.045e-12
+  ],
+  [
+   8.62e-07,
+   5.764e-12
+  ],
+  [
+   9.313e-07,
+   6.571e-12
+  ],
+  [
+   1.223e-06,
+   1.133e-11
+  ],
+  [
+   1.605e-06,
+   1.953e-11
+  ],
+  [
+   2.108e-06,
+   3.366e-11
+  ],
+  [
+   2.767e-06,
+   5.801e-11
+  ],
+  [
+   3.633e-06,
+   1e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "MWDPolarization_2025",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Red headline curve of Fig. 1 (limit_summary.pdf in e-print): 95% CL upper limit on |g_agamma| from the most constraining MWD, SDSS J033320+000720 observed with the Kast spectrograph at Lick (fiducial l_max=2 harmonic B-field model, weakest limit at 1-sigma over the field-geometry ensemble). Extracted from vector line coordinates; axis calibration verified against quoted flat limit 1.7e-12 GeV^-1 for m_a <~ 2e-7 eV. Curve is flat from the plot edge at m_a = 1e-14 eV and rises steeply above ~1e-7 eV, clipped where it crosses the plot top at g = 1e-10 GeV^-1 (m_a ~ 3.6e-6 eV). Astrophysical (photon-to-axion conversion in MWD magnetosphere), no dark-matter density assumption.",
+ "num_points": 34,
+ "arxiv_id": "2504.12377",
+ "elapsed_s": 89.85738801956177,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 89526,
+  "duration_api_ms": 83798,
+  "total_cost_usd": 1.005922,
+  "usage": {
+   "input_tokens": 346,
+   "output_tokens": 6581,
+   "cache_creation_input_tokens": 28817,
+   "cache_read_input_tokens": 254827
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2504.12377.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:37:41-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

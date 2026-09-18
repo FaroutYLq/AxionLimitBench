@@ -1,0 +1,323 @@
+{
+ "paper_title": "Helioscope Bounds on Hidden Sector Photons",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   6.607e-05,
+   0.0007808
+  ],
+  [
+   9.058e-05,
+   0.0004154
+  ],
+  [
+   0.0001242,
+   0.000221
+  ],
+  [
+   0.0001702,
+   0.0001176
+  ],
+  [
+   0.0002334,
+   6.257e-05
+  ],
+  [
+   0.00032,
+   3.329e-05
+  ],
+  [
+   0.0004387,
+   1.771e-05
+  ],
+  [
+   0.0006014,
+   9.423e-06
+  ],
+  [
+   0.0008245,
+   5.025e-06
+  ],
+  [
+   0.00113,
+   2.678e-06
+  ],
+  [
+   0.00155,
+   1.427e-06
+  ],
+  [
+   0.002125,
+   7.607e-07
+  ],
+  [
+   0.002913,
+   4.026e-07
+  ],
+  [
+   0.003993,
+   2.157e-07
+  ],
+  [
+   0.005475,
+   1.181e-07
+  ],
+  [
+   0.007505,
+   6.842e-08
+  ],
+  [
+   0.01029,
+   5.113e-08
+  ],
+  [
+   0.01411,
+   4.009e-08
+  ],
+  [
+   0.01934,
+   2.942e-08
+  ],
+  [
+   0.02651,
+   2.16e-08
+  ],
+  [
+   0.03635,
+   1.563e-08
+  ],
+  [
+   0.04983,
+   1.131e-08
+  ],
+  [
+   0.06832,
+   8.269e-09
+  ],
+  [
+   0.09367,
+   6.02e-09
+  ],
+  [
+   0.1284,
+   4.401e-09
+  ],
+  [
+   0.176,
+   3.204e-09
+  ],
+  [
+   0.2414,
+   2.342e-09
+  ],
+  [
+   0.3309,
+   1.705e-09
+  ],
+  [
+   0.4536,
+   1.246e-09
+  ],
+  [
+   0.6219,
+   9.073e-10
+  ],
+  [
+   0.8526,
+   6.632e-10
+  ],
+  [
+   1.169,
+   4.828e-10
+  ],
+  [
+   1.603,
+   3.529e-10
+  ],
+  [
+   2.197,
+   2.569e-10
+  ],
+  [
+   3.012,
+   1.738e-10
+  ],
+  [
+   4.129,
+   5.509e-11
+  ],
+  [
+   5.661,
+   1.809e-11
+  ],
+  [
+   7.761,
+   8.148e-12
+  ],
+  [
+   10.64,
+   4.593e-12
+  ],
+  [
+   14.59,
+   3.407e-12
+  ],
+  [
+   20.0,
+   2.879e-12
+  ],
+  [
+   27.42,
+   2.403e-12
+  ],
+  [
+   37.59,
+   2.039e-12
+  ],
+  [
+   51.53,
+   1.786e-12
+  ],
+  [
+   70.65,
+   1.539e-12
+  ],
+  [
+   96.86,
+   1.342e-12
+  ],
+  [
+   132.8,
+   1.168e-12
+  ],
+  [
+   182.0,
+   1.053e-12
+  ],
+  [
+   249.6,
+   1.063e-12
+  ],
+  [
+   342.2,
+   3.218e-12
+  ],
+  [
+   469.1,
+   4.448e-12
+  ],
+  [
+   643.1,
+   5.387e-12
+  ],
+  [
+   881.7,
+   6.396e-12
+  ],
+  [
+   1209.0,
+   7.702e-12
+  ],
+  [
+   1657.0,
+   9.524e-12
+  ],
+  [
+   2272.0,
+   1.217e-11
+  ],
+  [
+   3115.0,
+   1.614e-11
+  ],
+  [
+   4270.0,
+   2.272e-11
+  ],
+  [
+   5854.0,
+   3.352e-11
+  ],
+  [
+   8026.0,
+   5.299e-11
+  ],
+  [
+   11000.0,
+   9.364e-11
+  ],
+  [
+   15080.0,
+   1.942e-10
+  ],
+  [
+   20680.0,
+   5.311e-10
+  ],
+  [
+   28350.0,
+   2.162e-09
+  ],
+  [
+   38870.0,
+   1.428e-08
+  ],
+  [
+   53290.0,
+   2.071e-07
+  ],
+  [
+   73060.0,
+   7.878e-06
+  ],
+  [
+   100200.0,
+   0.001022
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "CAST_2008",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Redondo (DESY 07-211), arXiv:0801.1527. Headline curve: 'Helioscope (CAST)' bound in Fig. 6 (e-print file A2.pdf), extracted from the vector PDF; axis calibration verified against tick marks and the 15 keV (log10 m=4.17) dashed line marking CAST's energy window. Curve = upper limit on kinetic mixing chi vs hidden-photon mass from non-observation of X-rays in CAST (flux bound Eq. 39, Phi < 1e-5 /cm^2/s/keV in 0.5-15 keV, a conservative cap on the CAST 2007 background; no formal CL stated, CAST's underlying result is 95% CL). Solar hidden-photon flux, not DM, so no rho_DM rescaling. The drawn curve starts at log10(m/eV)=-3.2; extended to the plot frame edge (-4.18) with the exact low-mass slope chi ~ m^-2 (Eq. 37 regime). Above 15 keV (log10 m > 4.17) the author continues the line assuming the same sensitivity with no upper energy threshold; included as drawn up to log10 m = 5. Other curves in Fig. 6 (T/L-Lifetime solar energy-loss bounds, 'Gas' scenario, m.f.p. line) not reported; Lifetime bounds are the paper's secondary result. Scenario: vacuum oscillation helioscope bound (transverse modes only).",
+ "num_points": 68,
+ "arxiv_id": "0801.1527",
+ "elapsed_s": 201.26896595954895,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.0",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 200869,
+  "duration_api_ms": 198660,
+  "total_cost_usd": 1.9759400000000003,
+  "usage": {
+   "input_tokens": 333,
+   "output_tokens": 15214,
+   "cache_creation_input_tokens": 44886,
+   "cache_read_input_tokens": 314190
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "0801.1527.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:24:37-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

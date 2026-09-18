@@ -1,0 +1,130 @@
+{
+ "paper_title": "Searching for Invisible Axion Dark Matter with an 18 T Magnet Haloscope",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.9764e-05,
+   1.05e-14
+  ],
+  [
+   1.976575e-05,
+   1.05e-14
+  ],
+  [
+   1.9767499999999997e-05,
+   1.05e-14
+  ],
+  [
+   1.9769249999999997e-05,
+   1.05e-14
+  ],
+  [
+   1.97715e-05,
+   1.47e-14
+  ],
+  [
+   1.9771999999999996e-05,
+   1.89e-14
+  ],
+  [
+   1.9781099999999996e-05,
+   1.89e-14
+  ],
+  [
+   1.97902e-05,
+   1.89e-14
+  ],
+  [
+   1.97993e-05,
+   1.89e-14
+  ],
+  [
+   1.9808399999999998e-05,
+   1.89e-14
+  ],
+  [
+   1.9817499999999998e-05,
+   1.89e-14
+  ],
+  [
+   1.9826599999999998e-05,
+   1.89e-14
+  ],
+  [
+   1.9835699999999997e-05,
+   1.89e-14
+  ],
+  [
+   1.9844799999999997e-05,
+   1.89e-14
+  ],
+  [
+   1.98539e-05,
+   1.89e-14
+  ],
+  [
+   1.9863e-05,
+   1.54e-14
+  ],
+  [
+   1.9869749999999997e-05,
+   1.19e-14
+  ],
+  [
+   1.98765e-05,
+   1.19e-14
+  ],
+  [
+   1.988325e-05,
+   1.19e-14
+  ],
+  [
+   1.989e-05,
+   1.19e-14
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "CAPP18T_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Exclusion limit from CAPP18T haloscope search (arXiv:2206.08845). Paper reports measured limits in three mass ranges at 90% CL: 19.764-19.771 \u00b5eV at 1.5\u00d7|g_KSVZ_a\u03b3\u03b3|\u22481.05\u00d710^-14 GeV^-1; 19.772-19.863 \u00b5eV at 2.7\u00d7|g_KSVZ_a\u03b3\u03b3|\u22481.89\u00d710^-14 GeV^-1 (shallow scan, lower sensitivity); 19.863-19.890 \u00b5eV at 1.7\u00d7|g_KSVZ_a\u03b3\u03b3|\u22481.19\u00d710^-14 GeV^-1. Systematic uncertainty on signal power is 9.5%. No significant axion signal observed. Extracted from text description and Figure 5.",
+ "num_points": 20,
+ "arxiv_id": "2206.08845",
+ "elapsed_s": 255.95387291908264,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 255620,
+  "duration_api_ms": 246402,
+  "total_cost_usd": 0.440724,
+  "usage": {
+   "input_tokens": 142,
+   "output_tokens": 23345,
+   "cache_creation_input_tokens": 81743,
+   "cache_read_input_tokens": 875500
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2206.08845.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:38:49-0500"
+ }
+}

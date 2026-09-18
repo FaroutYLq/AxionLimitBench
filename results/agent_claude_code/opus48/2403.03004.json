@@ -1,0 +1,230 @@
+{
+ "paper_title": "Ultralight vector dark matter search using data from the KAGRA O3GK run",
+ "coupling_type": "VectorBL",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   6.442954886130583e-14,
+   8.808532910005074e-20
+  ],
+  [
+   7.076705863173165e-14,
+   8.162923566943919e-20
+  ],
+  [
+   7.772794743864123e-14,
+   7.010193850795289e-20
+  ],
+  [
+   8.537353296629923e-14,
+   6.71470134660056e-20
+  ],
+  [
+   9.377116431514503e-14,
+   5.622011308707442e-20
+  ],
+  [
+   1.0299481527242089e-13,
+   5.579001444146251e-20
+  ],
+  [
+   1.1312573593891925e-13,
+   5.439227076388211e-20
+  ],
+  [
+   1.242531684519549e-13,
+   5.439227076388211e-20
+  ],
+  [
+   1.3647513310928546e-13,
+   5.209953697663728e-20
+  ],
+  [
+   1.4989929181885694e-13,
+   4.791161070735584e-20
+  ],
+  [
+   1.6464389648040612e-13,
+   5.2232395361654245e-20
+  ],
+  [
+   1.8083883065310528e-13,
+   4.625215687011166e-20
+  ],
+  [
+   1.986267536851836e-13,
+   6.597842777894719e-20
+  ],
+  [
+   2.1816435738403253e-13,
+   5.524169251276813e-20
+  ],
+  [
+   2.396237462966612e-13,
+   4.9521671633170186e-20
+  ],
+  [
+   2.631939537592368e-13,
+   5.302954567175603e-20
+  ],
+  [
+   2.890826070704182e-13,
+   5.579001444146251e-20
+  ],
+  [
+   3.1751775645680824e-13,
+   5.481159386715623e-20
+  ],
+  [
+   3.487498839416743e-13,
+   4.220309996870954e-20
+  ],
+  [
+   3.830541098128352e-13,
+   2.6935961721514305e-20
+  ],
+  [
+   4.2073261612624117e-13,
+   2.5407309482131215e-20
+  ],
+  [
+   4.621173085936164e-13,
+   2.741678516191508e-20
+  ],
+  [
+   5.075727403024327e-13,
+   2.762814775579906e-20
+  ],
+  [
+   5.57499323022933e-13,
+   2.9066339203201035e-20
+  ],
+  [
+   6.12336854390245e-13,
+   2.812132714152835e-20
+  ],
+  [
+   6.725683920321387e-13,
+   4.263690510555797e-20
+  ],
+  [
+   7.387245087691772e-13,
+   5.439227076388211e-20
+  ],
+  [
+   8.113879663708389e-13,
+   4.791161070735584e-20
+  ],
+  [
+   8.911988490382066e-13,
+   5.3438363199393853e-20
+  ],
+  [
+   9.7886020183349e-13,
+   4.828097284286751e-20
+  ],
+  [
+   1.0751442237246693e-12,
+   5.579001444146251e-20
+  ],
+  [
+   1.1808990697990936e-12,
+   6.066658743897804e-20
+  ],
+  [
+   1.2970563225659696e-12,
+   9.578481693254244e-20
+  ],
+  [
+   1.424639198161598e-12,
+   1.2344954995075058e-19
+  ],
+  [
+   1.5647715597448885e-12,
+   8.721959859208509e-20
+  ],
+  [
+   1.7186878174811481e-12,
+   9.127759429492036e-20
+  ],
+  [
+   1.8877438023219804e-12,
+   8.372690040121652e-20
+  ],
+  [
+   2.0734287093671896e-12,
+   1.0256974687386748e-19
+  ],
+  [
+   2.277378216016423e-12,
+   1.1153530931321634e-19
+  ],
+  [
+   2.5013888904668673e-12,
+   1.1440148443755114e-19
+  ],
+  [
+   2.7474340174798377e-12,
+   1.3219411484660286e-19
+  ],
+  [
+   3.0176809808236373e-12,
+   1.500750649366965e-19
+  ],
+  [
+   3.314510355512672e-12,
+   2.20941659339689e-19
+  ],
+  [
+   3.640536878024214e-12,
+   2.556898560278036e-19
+  ],
+  [
+   3.998632479217073e-12,
+   2.851844718031283e-19
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.55,
+ "suggested_experiment_name": "KAGRA_2024",
+ "coupling_convention": "g_BL (dimensionless)",
+ "notes": "U(1)_{B-L} gauge boson dark matter search with KAGRA O3GK auxiliary length channels (MICH blue, PRCL orange). Headline 95% upper limit on epsilon_{B-L} = gauge coupling normalized by e, from Fig.5 (raster upperlimits_final.png; no ancillary data). Reported epsilon_{B-L} directly as g_BL per compilation convention for B-L vector-DM papers (Michimura/Miller/LIGO-O3 family; no *e factor). x-axis converted from frequency via m_A=h*f (m_A[eV]=4.1357e-15*f[Hz]); calibrated x-ticks px156/504/853=10/100/1000 Hz, y-ticks py105..468=1e-15..1e-19. Data span 15-1015 Hz => 6.2e-14..4.2e-12 eV. Curve = lower envelope (10th-pct floor per log-f bin) of combined MICH+PRCL best constraint, rejecting upward line-artifact spikes; deepest ~2.5e-20 near 100-150 Hz (m_A~4e-13 eV), rising to ~3e-19 at high mass. Paper notes these limits are weaker than Eot-Wash/MICROSCOPE by orders of magnitude but are its own measured bound. rho_DM~0.4 GeV/cm^3, v_vir~220 km/s SHM.",
+ "num_points": 45,
+ "arxiv_id": "2403.03004",
+ "elapsed_s": 204.60040807724,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 204287,
+  "duration_api_ms": 201284,
+  "total_cost_usd": 1.3118154999999998,
+  "usage": {
+   "input_tokens": 528,
+   "output_tokens": 14130,
+   "cache_creation_input_tokens": 55726,
+   "cache_read_input_tokens": 797331
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2403.03004.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:16:11-0500"
+ }
+}

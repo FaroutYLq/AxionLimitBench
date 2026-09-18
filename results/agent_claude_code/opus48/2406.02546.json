@@ -1,0 +1,230 @@
+{
+ "paper_title": "Dark photon limits from patchy dark screening of the cosmic microwave background",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.262e-13,
+   9.215e-06
+  ],
+  [
+   1.4798e-13,
+   1.0346e-06
+  ],
+  [
+   1.6123e-13,
+   2.9742e-07
+  ],
+  [
+   1.7566e-13,
+   9.278e-08
+  ],
+  [
+   1.9139e-13,
+   6.2924e-08
+  ],
+  [
+   2.0852e-13,
+   5.3433e-08
+  ],
+  [
+   2.2719e-13,
+   4.5374e-08
+  ],
+  [
+   2.4752e-13,
+   4.1812e-08
+  ],
+  [
+   2.664e-13,
+   4.0138e-08
+  ],
+  [
+   2.9025e-13,
+   3.853e-08
+  ],
+  [
+   3.1623e-13,
+   3.6987e-08
+  ],
+  [
+   3.4454e-13,
+   3.6239e-08
+  ],
+  [
+   3.7538e-13,
+   3.6239e-08
+  ],
+  [
+   4.0898e-13,
+   3.6239e-08
+  ],
+  [
+   4.4559e-13,
+   3.6239e-08
+  ],
+  [
+   4.7957e-13,
+   3.6987e-08
+  ],
+  [
+   5.225e-13,
+   3.7751e-08
+  ],
+  [
+   5.6927e-13,
+   3.7751e-08
+  ],
+  [
+   6.2023e-13,
+   3.9326e-08
+  ],
+  [
+   6.7575e-13,
+   4.0138e-08
+  ],
+  [
+   7.3624e-13,
+   4.1812e-08
+  ],
+  [
+   8.0215e-13,
+   4.2675e-08
+  ],
+  [
+   8.7396e-13,
+   4.4456e-08
+  ],
+  [
+   9.406e-13,
+   4.6311e-08
+  ],
+  [
+   1.0248e-12,
+   4.9239e-08
+  ],
+  [
+   1.1165e-12,
+   5.1293e-08
+  ],
+  [
+   1.2165e-12,
+   5.5663e-08
+  ],
+  [
+   1.3254e-12,
+   5.9182e-08
+  ],
+  [
+   1.444e-12,
+   6.5549e-08
+  ],
+  [
+   1.5733e-12,
+   7.4101e-08
+  ],
+  [
+   1.6933e-12,
+   8.2073e-08
+  ],
+  [
+   1.8448e-12,
+   9.4696e-08
+  ],
+  [
+   2.01e-12,
+   1.0705e-07
+  ],
+  [
+   2.1899e-12,
+   1.2102e-07
+  ],
+  [
+   2.3859e-12,
+   1.4846e-07
+  ],
+  [
+   2.5995e-12,
+   1.8212e-07
+  ],
+  [
+   2.8322e-12,
+   2.4245e-07
+  ],
+  [
+   3.0482e-12,
+   3.2942e-07
+  ],
+  [
+   3.3211e-12,
+   4.6627e-07
+  ],
+  [
+   3.6184e-12,
+   6.5997e-07
+  ],
+  [
+   3.9423e-12,
+   9.7312e-07
+  ],
+  [
+   4.2952e-12,
+   1.7246e-06
+  ],
+  [
+   4.6796e-12,
+   2.9945e-06
+  ],
+  [
+   5.0986e-12,
+   5.307e-06
+  ],
+  [
+   5.555e-12,
+   9.215e-06
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.82,
+ "suggested_experiment_name": "PatchyScreening_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline 95% CL upper limit on the dark-photon kinetic mixing epsilon (=chi) from patchy dark screening of the CMB (Planck NPIPE x unWISE Blue+Green cross-correlation). Traced the red 'Joint' curve in Fig.3 (constraints_newrange_ellmin2_withbias_nodrop.png, a raster PNG; no ancillary data). The plotted variable is epsilon itself, reported directly as chi (no chi^2). Curve is the lower boundary of the red excluded region: exclusion is epsilon > curve. Axis calibration from tick marks: x col165=1e-13 eV (188 px/decade), y row26=1e-5 (112.67 px/decade). Minimum epsilon ~3.6e-8 near m_A' ~4e-13 eV; consistent with the paper's stated eps<4e-8 over the range 1e-13 - 1e-11 eV and best sensitivity at m_A'~5e-13 eV. This is not a dark-matter-density-dependent search (resonant CMB photon->DP conversion), so dm_density_assumed is null. Scan range 1.5e-13 to 9.7e-12 eV; steep left/right walls at ~1.7e-13 and ~5e-12 eV bound the excluded region.",
+ "num_points": 45,
+ "arxiv_id": "2406.02546",
+ "elapsed_s": 195.6702699661255,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 195399,
+  "duration_api_ms": 186982,
+  "total_cost_usd": 1.1011895,
+  "usage": {
+   "input_tokens": 627,
+   "output_tokens": 13530,
+   "cache_creation_input_tokens": 41954,
+   "cache_read_input_tokens": 680529
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2406.02546.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:24:56-0500"
+ }
+}

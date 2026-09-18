@@ -1,0 +1,126 @@
+{
+ "paper_title": "A SQUID-based microwave cavity search for dark-matter axions",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.3358e-06,
+   1.4043e-15
+  ],
+  [
+   3.34386e-06,
+   4.5218e-15
+  ],
+  [
+   3.35976e-06,
+   2.3343e-15
+  ],
+  [
+   3.36847e-06,
+   1.9557e-15
+  ],
+  [
+   3.38241e-06,
+   1.9354e-15
+  ],
+  [
+   3.38916e-06,
+   2.1544e-15
+  ],
+  [
+   3.39635e-06,
+   1.836e-15
+  ],
+  [
+   3.40332e-06,
+   2.1952e-15
+  ],
+  [
+   3.41748e-06,
+   2.5737e-15
+  ],
+  [
+   3.43883e-06,
+   2.2251e-15
+  ],
+  [
+   3.45277e-06,
+   2.0049e-15
+  ],
+  [
+   3.45952e-06,
+   2.8625e-15
+  ],
+  [
+   3.46671e-06,
+   1.696e-15
+  ],
+  [
+   3.48065e-06,
+   2.285e-15
+  ],
+  [
+   3.49481e-06,
+   2.0349e-15
+  ],
+  [
+   3.50896e-06,
+   2.0251e-15
+  ],
+  [
+   3.5229e-06,
+   1.9754e-15
+  ],
+  [
+   3.53815e-06,
+   1.4887e-15
+  ],
+  [
+   3.54272e-06,
+   1.49e-15
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.82,
+ "suggested_experiment_name": "ADMX_2010",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ADMX SQUID run (Asztalos et al.). Headline result = Fig.5, |g_agamma| excluded at 90% CL for local DM density 0.45 GeV/cm^3, masses ~3.34-3.54 ueV (paper quotes 3.3-3.53 ueV; plot frame 811.7-861.7 MHz). Fig.5 shows two limits from the medium-resolution channel assuming two line shapes: a completely virialized halo (broad ~kHz peak) and an unvirialized/cold-flow model (narrow peak, higher SNR). I report the VIRIALIZED (standard Maxwellian halo) limit, which the paper presents as the primary analysis (\"optimized to search for the fully virialized axion signal\"; the narrow-line/high-res channel was not used here). The virialized curve is the outer (weaker, higher-g) staircase, median ~2e-15 GeV^-1, range ~1.4-4.5e-15 (4.5e-15 spike is a real single mode-crossing step). The unvirialized limit sits ~1.3e-15 at the KSVZ line (factor ~1.6 below virialized, so within a factor of 2 of the reported curve either way). Curve extracted from the vector figure coupling_limits.eps in the arXiv e-print: coupling axis calibrated from log decade major ticks (10^-16..10^-10, 52.83 px/decade), mass axis from top-axis major ticks (3.35/3.40/3.45/3.50 ueV). No density rescaling applied.",
+ "num_points": 19,
+ "arxiv_id": "0910.5914",
+ "elapsed_s": 720.0171210765839,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 41,
+  "duration_ms": 719694,
+  "duration_api_ms": 710983,
+  "total_cost_usd": 3.240674,
+  "usage": {
+   "input_tokens": 1121,
+   "output_tokens": 50688,
+   "cache_creation_input_tokens": 95137,
+   "cache_read_input_tokens": 2032998
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "0910.5914.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:16:17-0500"
+ }
+}

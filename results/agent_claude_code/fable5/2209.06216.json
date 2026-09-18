@@ -1,0 +1,335 @@
+{
+ "paper_title": "The Irreducible Axion Background",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   134.3,
+   6.351e-11
+  ],
+  [
+   151.4,
+   4.327e-11
+  ],
+  [
+   248.6,
+   2.874e-11
+  ],
+  [
+   259.8,
+   2.169e-11
+  ],
+  [
+   518.6,
+   1.497e-11
+  ],
+  [
+   533.3,
+   6.947e-12
+  ],
+  [
+   1520.0,
+   1.983e-12
+  ],
+  [
+   1588.0,
+   1.236e-12
+  ],
+  [
+   2285.0,
+   7.796e-13
+  ],
+  [
+   2617.0,
+   7.697e-13
+  ],
+  [
+   3170.0,
+   4.329e-13
+  ],
+  [
+   3603.0,
+   4.009e-13
+  ],
+  [
+   3841.0,
+   4.384e-13
+  ],
+  [
+   4078.0,
+   3.352e-13
+  ],
+  [
+   4453.0,
+   3.483e-13
+  ],
+  [
+   5867.0,
+   1.268e-13
+  ],
+  [
+   6667.0,
+   1.352e-13
+  ],
+  [
+   7193.0,
+   1.007e-13
+  ],
+  [
+   8110.0,
+   1.074e-13
+  ],
+  [
+   10020.0,
+   8.312e-14
+  ],
+  [
+   10470.0,
+   8.976e-14
+  ],
+  [
+   11120.0,
+   7.039e-14
+  ],
+  [
+   12000.0,
+   9.327e-14
+  ],
+  [
+   13310.0,
+   6.354e-14
+  ],
+  [
+   15740.0,
+   7.409e-14
+  ],
+  [
+   18920.0,
+   4.441e-14
+  ],
+  [
+   20330.0,
+   6.037e-14
+  ],
+  [
+   27660.0,
+   3.619e-14
+  ],
+  [
+   29250.0,
+   4.499e-14
+  ],
+  [
+   36300.0,
+   3.267e-14
+  ],
+  [
+   42420.0,
+   4.441e-14
+  ],
+  [
+   50170.0,
+   4.166e-14
+  ],
+  [
+   53490.0,
+   2.343e-14
+  ],
+  [
+   60180.0,
+   3.205e-14
+  ],
+  [
+   61270.0,
+   1.22e-14
+  ],
+  [
+   148200.0,
+   2.767e-15
+  ],
+  [
+   325700.0,
+   1.13e-15
+  ],
+  [
+   704300.0,
+   5.812e-16
+  ],
+  [
+   884500.0,
+   5.522e-16
+  ],
+  [
+   1179000.0,
+   2.913e-16
+  ],
+  [
+   1475000.0,
+   2.733e-16
+  ],
+  [
+   1999000.0,
+   1.886e-16
+  ],
+  [
+   2152000.0,
+   2.58e-16
+  ],
+  [
+   1883000.0,
+   4.331e-16
+  ],
+  [
+   117500.0,
+   4.499e-14
+  ],
+  [
+   62010.0,
+   1.074e-13
+  ],
+  [
+   58640.0,
+   8.207e-14
+  ],
+  [
+   53270.0,
+   1.189e-13
+  ],
+  [
+   49380.0,
+   1.06e-13
+  ],
+  [
+   32980.0,
+   2.403e-13
+  ],
+  [
+   33380.0,
+   3.064e-13
+  ],
+  [
+   283200.0,
+   3.267e-14
+  ],
+  [
+   1780000.0,
+   6.195e-15
+  ],
+  [
+   10970000.0,
+   6.521e-16
+  ],
+  [
+   21640000.0,
+   3.86e-16
+  ],
+  [
+   26850000.0,
+   4.011e-16
+  ],
+  [
+   29970000.0,
+   4.89e-16
+  ],
+  [
+   26220000.0,
+   1.088e-15
+  ],
+  [
+   10460000.0,
+   6.52e-15
+  ],
+  [
+   29960.0,
+   7.996e-11
+  ],
+  [
+   23340.0,
+   7.264e-11
+  ],
+  [
+   14620.0,
+   4.138e-12
+  ],
+  [
+   13150.0,
+   3.572e-12
+  ],
+  [
+   12390.0,
+   3.808e-12
+  ],
+  [
+   11340.0,
+   2.312e-12
+  ],
+  [
+   10560.0,
+   2.911e-12
+  ],
+  [
+   9516.0,
+   2.529e-12
+  ],
+  [
+   8891.0,
+   3.025e-12
+  ],
+  [
+   7981.0,
+   2.766e-12
+  ],
+  [
+   7592.0,
+   3.084e-12
+  ],
+  [
+   5267.0,
+   6.191e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "IrreducibleFreezeIn_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Closed exclusion region from Fig. 1 (figs/g_agg_constraints.pdf) of the e-print: union of the paper's new irreducible freeze-in constraints on the photophilic axion (T_RH = 5 MeV) from X-ray searches (mustard), the cosmic X-ray/gamma-ray background CRB (lime), and CMB anisotropies (velvet). Pre-existing astrophysical bounds (HB stars, SN1987A, solar basin) and the SD/BBN regions taken from other papers are excluded. Region extracted from the vector PDF by color-selecting the filled regions at 300 dpi (dashed/dotted future-sensitivity and Simons-Array projection curves removed); axes calibrated from tick marks and verified against the abstract's quoted value g_agamma < 8.1e-14 GeV^-1 at m_a = 10 keV (extraction gives 8.3e-14). The bound is two-sided (large couplings escape because the axion decays early), so the points trace a closed loop: starting at minimum mass (~130 eV), along the lower (strong-coupling-reach) boundary to the tip at ~30 MeV, then back along the upper boundary; masses converted keV -> eV. Confidence level not explicitly stated in the paper; 0.95 assumed (underlying X-ray limits are 95% CL). No local DM density dependence (cosmological abundance bound).",
+ "num_points": 71,
+ "arxiv_id": "2209.06216",
+ "elapsed_s": 371.50152826309204,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 31,
+  "duration_ms": 371188,
+  "duration_api_ms": 356648,
+  "total_cost_usd": 2.886319,
+  "usage": {
+   "input_tokens": 875,
+   "output_tokens": 25445,
+   "cache_creation_input_tokens": 47338,
+   "cache_read_input_tokens": 957884
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2209.06216.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:41:30-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

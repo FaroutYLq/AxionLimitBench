@@ -1,0 +1,186 @@
+{
+ "paper_title": "Novel bounds on decaying axionlike particle dark matter from the cosmic background",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.7686246100397761,
+   2.5977777380056564e-10
+  ],
+  [
+   1.9306977288832574,
+   3.0115305392018364e-07
+  ],
+  [
+   2.3327694951224656,
+   4.782363662889223e-07
+  ],
+  [
+   3.4902548789595937,
+   9.67112004466555e-07
+  ],
+  [
+   4.182428944333492,
+   1.2168917153491015e-06
+  ],
+  [
+   6.520572293428637,
+   2.298382474184303e-11
+  ],
+  [
+   10.165830334412268,
+   2.622422694066521e-11
+  ],
+  [
+   22.02201949987385,
+   3.3698055055258423e-11
+  ],
+  [
+   30.599496872072116,
+   3.573804453188918e-11
+  ],
+  [
+   37.27593720314957,
+   3.717586726781758e-11
+  ],
+  [
+   55.324293882095745,
+   4.55504441462423e-11
+  ],
+  [
+   74.37527275659076,
+   6.143792986273194e-11
+  ],
+  [
+   96.81646044119759,
+   7.111826460591038e-11
+  ],
+  [
+   136.68293180829318,
+   9.144789677856297e-11
+  ],
+  [
+   199.5262314968889,
+   1.1901032544015817e-10
+  ],
+  [
+   281.83829312644696,
+   2.6207214462697085e-10
+  ],
+  [
+   439.39705607608175,
+   2.895600165992762e-10
+  ],
+  [
+   673.8627168030989,
+   3.380154126024835e-10
+  ],
+  [
+   891.2509381337504,
+   3.9456481708747023e-10
+  ],
+  [
+   1042.0098577414924,
+   4.3099863708896717e-10
+  ],
+  [
+   1946.7061413847437,
+   5.864872673493497e-10
+  ],
+  [
+   2638.9342601937624,
+   6.160141365014599e-10
+  ],
+  [
+   3377.313908791033,
+   6.046692840054328e-10
+  ],
+  [
+   4846.615913949274,
+   6.787572791614322e-10
+  ],
+  [
+   6309.573444801975,
+   6.943075365104904e-10
+  ],
+  [
+   10857.111194022105,
+   1.1111265934555355e-11
+  ],
+  [
+   12223.093079463557,
+   7.799579185333268e-10
+  ],
+  [
+   16650.54953069664,
+   8.40089523976647e-10
+  ],
+  [
+   26389.34260193765,
+   9.079715440228187e-10
+  ],
+  [
+   39496.69185398282,
+   1.0619984301511138e-09
+  ],
+  [
+   57236.26654878413,
+   1.367502716029568e-09
+  ],
+  [
+   78137.0737651815,
+   3.713253860058481e-09
+  ],
+  [
+   106800.04325145842,
+   4.197801638425973e-09
+  ],
+  [
+   136682.9318082933,
+   5.387798844107938e-09
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "CosmicBackground_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Extracted from Figure 2 (bottom panel) showing the 2\u03c3 confidence level exclusion limit on axion-photon coupling from cosmic background radiation. The blue shaded excluded region is bounded by the 'Our model' curve (solid blue line). Limit derived from observations of cosmic, ultraviolet, infrared, and x-ray backgrounds, accounting for axion decay contributions. Mass range: 0.8 eV to ~135 keV.",
+ "num_points": 34,
+ "arxiv_id": "2407.10618",
+ "elapsed_s": 345.08525800704956,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 42,
+  "duration_ms": 344775,
+  "duration_api_ms": 333528,
+  "total_cost_usd": 0.5258483,
+  "usage": {
+   "input_tokens": 314,
+   "output_tokens": 29997,
+   "cache_creation_input_tokens": 80811,
+   "cache_read_input_tokens": 2139273
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2407.10618.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:16:22-0500"
+ }
+}

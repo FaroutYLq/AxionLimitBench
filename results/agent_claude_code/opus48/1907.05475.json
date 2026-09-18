@@ -1,0 +1,190 @@
+{
+ "paper_title": "Astrophysical limits on very light axion-like particles from Chandra grating spectroscopy of NGC 1275",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-20,
+   7.95e-13
+  ],
+  [
+   1e-18,
+   7.95e-13
+  ],
+  [
+   1e-15,
+   7.95e-13
+  ],
+  [
+   1.5e-13,
+   7.95e-13
+  ],
+  [
+   1.997e-13,
+   9.718e-13
+  ],
+  [
+   2.226e-13,
+   9.718e-13
+  ],
+  [
+   2.481e-13,
+   8.702e-13
+  ],
+  [
+   2.766e-13,
+   7.888e-13
+  ],
+  [
+   3.083e-13,
+   7.888e-13
+  ],
+  [
+   3.436e-13,
+   7.888e-13
+  ],
+  [
+   3.831e-13,
+   7.888e-13
+  ],
+  [
+   4.27e-13,
+   8.285e-13
+  ],
+  [
+   4.76e-13,
+   9.252e-13
+  ],
+  [
+   5.306e-13,
+   9.838e-13
+  ],
+  [
+   5.914e-13,
+   9.14e-13
+  ],
+  [
+   6.592e-13,
+   8.666e-13
+  ],
+  [
+   7.348e-13,
+   1.197e-12
+  ],
+  [
+   8.191e-13,
+   1.562e-12
+  ],
+  [
+   9.131e-13,
+   1.416e-12
+  ],
+  [
+   1.018e-12,
+   1.14e-12
+  ],
+  [
+   1.135e-12,
+   1.183e-12
+  ],
+  [
+   1.265e-12,
+   1.321e-12
+  ],
+  [
+   1.41e-12,
+   1.543e-12
+  ],
+  [
+   1.571e-12,
+   1.543e-12
+  ],
+  [
+   1.752e-12,
+   1.581e-12
+  ],
+  [
+   1.953e-12,
+   1.758e-12
+  ],
+  [
+   2.176e-12,
+   1.809e-12
+  ],
+  [
+   2.426e-12,
+   1.627e-12
+  ],
+  [
+   2.704e-12,
+   1.562e-12
+  ],
+  [
+   3.015e-12,
+   1.723e-12
+  ],
+  [
+   3.36e-12,
+   1.916e-12
+  ],
+  [
+   3.746e-12,
+   2.322e-12
+  ],
+  [
+   4.175e-12,
+   2.908e-12
+  ],
+  [
+   4.654e-12,
+   3.079e-12
+  ],
+  [
+   5.188e-12,
+   3.079e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.997,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "Chandra_NGC1275",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Reynolds et al. 2020 (ApJ), Chandra HETG spectroscopy of NGC 1275. Headline result is a limit on the ALP-photon coupling g_agamma from the absence of X-ray spectral distortions (photon-ALP conversion in the cluster magnetic field); this is an X-ray transparency measurement, independent of ALP dark-matter density, so dm_density_assumed=null. Confidence level is the 99.7% credible region (marginalized over magnetic-field realizations), as the paper states (not 0.90/0.95). Two magnetic-field models are shown: Model-A gives g<6.3e-13 GeV^-1 and Model-B (boxed Eq. 5) gives g<7.9e-13 GeV^-1 for m_a<1e-12 eV. I report the more conservative Model-B curve (bottom panel of Fig. 6, HETG 99.7% excl. heavy black line); the two models' flat levels agree to ~25% so the choice is well within factor-2 scoring. Curve traced by pixel analysis of the embedded raster figure f6b_new.pdf: flat at ~7.9e-13 GeV^-1 for m_a below ~2e-13 eV, then a jagged rise above ~2e-13 eV peaking near ~3.1e-12 GeV^-1 and terminating around 5e-12 eV. Axis calibration from x labels (10^-20..10^-8 eV) and y labels (10^-13..10^-11 GeV^-1). Flat left extent set to the plotted range; the paper states the limit is insensitive to the minimum ALP mass.",
+ "num_points": 35,
+ "arxiv_id": "1907.05475",
+ "elapsed_s": 438.9849679470062,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 32,
+  "duration_ms": 438637,
+  "duration_api_ms": 432106,
+  "total_cost_usd": 1.9789849999999996,
+  "usage": {
+   "input_tokens": 901,
+   "output_tokens": 30172,
+   "cache_creation_input_tokens": 63250,
+   "cache_read_input_tokens": 1175360
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1907.05475.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:32:23-0500"
+ }
+}

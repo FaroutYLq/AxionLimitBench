@@ -1,0 +1,207 @@
+{
+ "paper_title": "Evidence for light-by-light scattering and searches for axion-like particles in ultraperipheral PbPb collisions at sqrt(s_NN) = 5.02 TeV",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4999000000.0,
+   0.0005048
+  ],
+  [
+   6000000000.0,
+   0.00024951
+  ],
+  [
+   8999000000.0,
+   0.00010256
+  ],
+  [
+   11000000000.0,
+   0.00011054
+  ],
+  [
+   13999000000.0,
+   0.0001072
+  ],
+  [
+   16000000000.0,
+   0.00013549
+  ],
+  [
+   19000000000.0,
+   0.00013663
+  ],
+  [
+   22000000000.0,
+   0.00013778
+  ],
+  [
+   24667000000.0,
+   0.00014955
+  ],
+  [
+   27334000000.0,
+   0.00016232
+  ],
+  [
+   30001000000.0,
+   0.00017618
+  ],
+  [
+   32501167000.0,
+   0.00018801
+  ],
+  [
+   35001333000.0,
+   0.00020063
+  ],
+  [
+   37501500000.0,
+   0.0002141
+  ],
+  [
+   40001667000.0,
+   0.00022847
+  ],
+  [
+   42501833000.0,
+   0.00024381
+  ],
+  [
+   45002000000.0,
+   0.00026018
+  ],
+  [
+   47502167000.0,
+   0.00027765
+  ],
+  [
+   50002333000.0,
+   0.00029629
+  ],
+  [
+   52502500000.0,
+   0.00031618
+  ],
+  [
+   55002667000.0,
+   0.0003374
+  ],
+  [
+   57502833000.0,
+   0.00036006
+  ],
+  [
+   60003000000.0,
+   0.00038423
+  ],
+  [
+   62503167000.0,
+   0.00041002
+  ],
+  [
+   65003333000.0,
+   0.00043755
+  ],
+  [
+   67503500000.0,
+   0.00046693
+  ],
+  [
+   70003667000.0,
+   0.00049827
+  ],
+  [
+   72503833000.0,
+   0.00053173
+  ],
+  [
+   75004000000.0,
+   0.00056742
+  ],
+  [
+   77504167000.0,
+   0.00060552
+  ],
+  [
+   80004333000.0,
+   0.00064617
+  ],
+  [
+   82504500000.0,
+   0.00068955
+  ],
+  [
+   85004667000.0,
+   0.00073584
+  ],
+  [
+   87504833000.0,
+   0.00078524
+  ],
+  [
+   90005000000.0,
+   0.00083796
+  ],
+  [
+   92505000000.0,
+   0.0008855
+  ],
+  [
+   95005000000.0,
+   0.00093573
+  ],
+  [
+   97505000000.0,
+   0.00098881
+  ],
+  [
+   100005000000.0,
+   0.0010449
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "CMS-PbPb_2018",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Observed 95% CL limit from Fig. 7 (left), photon-only coupling scenario (operator a F Ftilde / 4Lambda; g_agamma = 1/Lambda in GeV^-1, matching the canonical convention up to an irrelevant sign). Curve extracted from the vector paths of Figure_007-a.pdf in the arXiv e-print; axis calibration from tick-mark coordinates (linear mass axis 10-100 GeV, log coupling axis with decades at 1e-4 and 1e-3). Vertices of the drawn curve are at m_a ~ 5, 6, 9, 11, 14, 16, 22, 30, 90, 100 GeV; intermediate points are log-linear interpolation along the drawn straight segments. Paper quotes the limit range as m_a = 5-90 GeV; the plotted curve extends to the frame edge at 100 GeV. The alternative hypercharge-coupling scenario (Fig. 7 right) is not reported. Collider limit: no dark-matter density assumption.",
+ "num_points": 39,
+ "arxiv_id": "1810.04602",
+ "elapsed_s": 143.76407194137573,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 143388,
+  "duration_api_ms": 139676,
+  "total_cost_usd": 1.6350860000000003,
+  "usage": {
+   "input_tokens": 541,
+   "output_tokens": 10899,
+   "cache_creation_input_tokens": 41378,
+   "cache_read_input_tokens": 507981
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1810.04602.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:29:16-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

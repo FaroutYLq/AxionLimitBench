@@ -1,0 +1,354 @@
+{
+ "paper_title": "Limits on axion-like particles from Mrk 421 with 4.5-year period observations by ARGO-YBJ and Fermi-LAT",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.004e-10,
+   6.606e-11
+  ],
+  [
+   4.186e-10,
+   5.556e-11
+  ],
+  [
+   4.281e-10,
+   5.108e-11
+  ],
+  [
+   4.687e-10,
+   4.393e-11
+  ],
+  [
+   4.951e-10,
+   3.971e-11
+  ],
+  [
+   4.951e-10,
+   3.086e-11
+  ],
+  [
+   4.842e-10,
+   2.79e-11
+  ],
+  [
+   4.735e-10,
+   2.565e-11
+  ],
+  [
+   4.9e-10,
+   2.301e-11
+  ],
+  [
+   5.01e-10,
+   2.149e-11
+  ],
+  [
+   5.301e-10,
+   2.01e-11
+  ],
+  [
+   5.476e-10,
+   1.788e-11
+  ],
+  [
+   5.667e-10,
+   1.602e-11
+  ],
+  [
+   5.925e-10,
+   1.461e-11
+  ],
+  [
+   6.333e-10,
+   1.354e-11
+  ],
+  [
+   6.782e-10,
+   1.266e-11
+  ],
+  [
+   7.176e-10,
+   1.214e-11
+  ],
+  [
+   7.924e-10,
+   1.164e-11
+  ],
+  [
+   8.573e-10,
+   1.145e-11
+  ],
+  [
+   9.071e-10,
+   1.136e-11
+  ],
+  [
+   1.003e-09,
+   1.155e-11
+  ],
+  [
+   1.049e-09,
+   1.205e-11
+  ],
+  [
+   1.086e-09,
+   1.266e-11
+  ],
+  [
+   1.135e-09,
+   1.388e-11
+  ],
+  [
+   1.149e-09,
+   1.473e-11
+  ],
+  [
+   1.174e-09,
+   1.589e-11
+  ],
+  [
+   1.086e-09,
+   1.788e-11
+  ],
+  [
+   1.003e-09,
+   2.01e-11
+  ],
+  [
+   1.187e-09,
+   2.262e-11
+  ],
+  [
+   1.372e-09,
+   2.46e-11
+  ],
+  [
+   1.59e-09,
+   2.585e-11
+  ],
+  [
+   1.989e-09,
+   2.502e-11
+  ],
+  [
+   2.459e-09,
+   2.337e-11
+  ],
+  [
+   2.66e-09,
+   2.279e-11
+  ],
+  [
+   3.146e-09,
+   2.206e-11
+  ],
+  [
+   3.558e-09,
+   2.206e-11
+  ],
+  [
+   4.025e-09,
+   2.223e-11
+  ],
+  [
+   4.768e-09,
+   2.522e-11
+  ],
+  [
+   5.097e-09,
+   2.743e-11
+  ],
+  [
+   6.377e-09,
+   3.111e-11
+  ],
+  [
+   7.979e-09,
+   2.887e-11
+  ],
+  [
+   9.983e-09,
+   2.932e-11
+  ],
+  [
+   1.143e-08,
+   3.189e-11
+  ],
+  [
+   1.264e-08,
+   3.357e-11
+  ],
+  [
+   1.563e-08,
+   3.528e-11
+  ],
+  [
+   1.955e-08,
+   3.617e-11
+  ],
+  [
+   2.289e-08,
+   3.589e-11
+  ],
+  [
+   2.502e-08,
+   3.561e-11
+  ],
+  [
+   2.893e-08,
+   3.971e-11
+  ],
+  [
+   3.168e-08,
+   4.071e-11
+  ],
+  [
+   3.963e-08,
+   5.022e-11
+  ],
+  [
+   5.01e-08,
+   5.068e-11
+  ],
+  [
+   5.996e-08,
+   5.696e-11
+  ],
+  [
+   6.633e-08,
+   6.195e-11
+  ],
+  [
+   7.09e-08,
+   6.606e-11
+  ],
+  [
+   1.42e-07,
+   6.606e-11
+  ],
+  [
+   1.162e-07,
+   5.94e-11
+  ],
+  [
+   9.387e-08,
+   5.462e-11
+  ],
+  [
+   8.116e-08,
+   5.068e-11
+  ],
+  [
+   7.176e-08,
+   4.581e-11
+  ],
+  [
+   6.269e-08,
+   4.103e-11
+  ],
+  [
+   5.794e-08,
+   3.773e-11
+  ],
+  [
+   4.959e-08,
+   3.164e-11
+  ],
+  [
+   5.609e-08,
+   3.058e-11
+  ],
+  [
+   6.344e-08,
+   3.01e-11
+  ],
+  [
+   7.763e-08,
+   3.086e-11
+  ],
+  [
+   9.713e-08,
+   3.14e-11
+  ],
+  [
+   1.174e-07,
+   3.244e-11
+  ],
+  [
+   1.315e-07,
+   3.326e-11
+  ],
+  [
+   1.662e-07,
+   3.589e-11
+  ],
+  [
+   2.058e-07,
+   3.837e-11
+  ],
+  [
+   2.575e-07,
+   4.141e-11
+  ],
+  [
+   3.256e-07,
+   4.617e-11
+  ],
+  [
+   3.984e-07,
+   5.196e-11
+  ],
+  [
+   4.711e-07,
+   5.748e-11
+  ],
+  [
+   5.765e-07,
+   6.606e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "Mrk421_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "AxionPhoton (ALP-photon) limit from ALP-photon oscillation in blazar/Galactic magnetic fields; not a DM search so no density dependence. Headline result is the combined 95% C.L. excluded region (Fig. 5, shown as red Mrk 421 contour in Fig. 6). Curve extracted by vector-tracing the red-fill boundary in the e-print vector figure fig_compare_contour_421 (drawing 17), calibrated on axis decade ticks: x 1e-10 eV at px57.7, 67.3px/decade; y 1e-10 GeV^-1 at px22.9, 87.75px/decade. Points trace the lower boundary of the excluded region (the upper limit on g_agamma); the flat top of the red region at 6.6e-11 is the CAST cap, not a Mrk421 feature. Eq.1 Lagrangian L=-(1/4)g_agamma a F Ftilde matches canonical convention, no conversion. Text: limit within ~[2e-11,6e-11] GeV^-1 for ~5e-10 <= m_a <= 5e-7 eV.",
+ "num_points": 76,
+ "arxiv_id": "2008.09464",
+ "elapsed_s": 184.00407576560974,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 183683,
+  "duration_api_ms": 175876,
+  "total_cost_usd": 0.8628175000000001,
+  "usage": {
+   "input_tokens": 450,
+   "output_tokens": 12462,
+   "cache_creation_input_tokens": 35660,
+   "cache_read_input_tokens": 384835
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.09464.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:04:22-0500"
+ }
+}

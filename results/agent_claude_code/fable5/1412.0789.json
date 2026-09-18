@@ -1,0 +1,211 @@
+{
+ "paper_title": "Axion dark matter from topological defects",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-06,
+   1.6666666666666667e-13
+  ],
+  [
+   1.1329315616236255e-06,
+   1.8882192693727093e-13
+  ],
+  [
+   1.283533923322947e-06,
+   2.139223205538245e-13
+  ],
+  [
+   1.4541560921471681e-06,
+   2.423593486911947e-13
+  ],
+  [
+   1.6474593323208e-06,
+   2.745765553868e-13
+  ],
+  [
+   1.8664586740776194e-06,
+   3.1107644567960324e-13
+  ],
+  [
+   2.114569940328719e-06,
+   3.524283233881198e-13
+  ],
+  [
+   2.3956630246589924e-06,
+   3.992771707764987e-13
+  ],
+  [
+   2.71412225165089e-06,
+   4.5235370860848166e-13
+  ],
+  [
+   3.0749147610002804e-06,
+   5.124857935000467e-13
+  ],
+  [
+   3.483667982039585e-06,
+   5.806113303399308e-13
+  ],
+  [
+   3.946757407070331e-06,
+   6.577929011783885e-13
+  ],
+  [
+   4.471406032541802e-06,
+   7.45234338756967e-13
+  ],
+  [
+   5.0657970191008835e-06,
+   8.442995031834806e-13
+  ],
+  [
+   5.7392013277182715e-06,
+   9.565335546197118e-13
+  ],
+  [
+   6.50212232268426e-06,
+   1.0836870537807099e-12
+  ],
+  [
+   7.366459596906513e-06,
+   1.2277432661510856e-12
+  ],
+  [
+   8.34569457476064e-06,
+   1.39094909579344e-12
+  ],
+  [
+   9.455100787417391e-06,
+   1.5758501312362318e-12
+  ],
+  [
+   1.0711982100397557e-05,
+   1.7853303500662595e-12
+  ],
+  [
+   1.2135942609087753e-05,
+   2.0226571015146256e-12
+  ],
+  [
+   1.3749192411888487e-05,
+   2.2915320686480813e-12
+  ],
+  [
+   1.5576894030264525e-05,
+   2.5961490050440874e-12
+  ],
+  [
+   1.764755487895332e-05,
+   2.94125914649222e-12
+  ],
+  [
+   1.9993471907851216e-05,
+   3.3322453179752028e-12
+  ],
+  [
+   2.2651235350840013e-05,
+   3.775205891806669e-12
+  ],
+  [
+   2.566229943873145e-05,
+   4.277049906455242e-12
+  ],
+  [
+   2.9073628977975112e-05,
+   4.845604829662519e-12
+  ],
+  [
+   3.293843188008324e-05,
+   5.48973864668054e-12
+  ],
+  [
+   3.7316989067336116e-05,
+   6.2194981778893524e-12
+  ],
+  [
+   4.227759469914895e-05,
+   7.046265783191492e-12
+  ],
+  [
+   4.789762138419744e-05,
+   7.98293689736624e-12
+  ],
+  [
+   5.426472699285608e-05,
+   9.044121165476014e-12
+  ],
+  [
+   6.147822189309614e-05,
+   1.0246370315516023e-11
+  ],
+  [
+   6.965061793518918e-05,
+   1.160843632253153e-11
+  ],
+  [
+   7.890938334536438e-05,
+   1.3151563890894062e-11
+  ],
+  [
+   8.939893090022098e-05,
+   1.4899821816703496e-11
+  ],
+  [
+   0.00010128287039227006,
+   1.6880478398711675e-11
+  ],
+  [
+   0.00011474656051923789,
+   1.9124426753206316e-11
+  ],
+  [
+   0.00013,
+   2.1666666666666666e-11
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.5,
+ "suggested_experiment_name": "AxionDM_TopologicalDefects_2015",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Headline bound from Sec. IV.A: requiring the total axion abundance (misalignment + strings + string-wall decay, Eq. 4.4) not to exceed Omega_CDM h^2 = 0.12 in the post-inflationary PQ-breaking scenario with N_DW=1 gives Fa <~ (4.6-7.2)e10 GeV, i.e. m_a >~ (0.8-1.3)e-4 eV (Eqs. 4.5-4.6, Lambda_QCD=400 MeV). The bound applies to the QCD axion, so mass and 1/f_a are tied by the paper mass relation m_a = 6.0e-6 eV x (1e12 GeV/Fa); the curve traces the QCD line over the excluded (overproduction) region up to the upper edge of the quoted band, m_a = 1.3e-4 eV (Fa = 4.6e10 GeV). No formal CL is stated (range reflects simulation-parameter uncertainties); confidence_level 0.95 is nominal. N_DW=1 scenario chosen as the main result; N_DW>1 constraints (Figs. 7-8) additionally involve the bias parameter Xi and are not reported. Not a local-DM-density-dependent limit, so no rho_DM rescaling.",
+ "num_points": 40,
+ "arxiv_id": "1412.0789",
+ "elapsed_s": 147.2354497909546,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 4,
+  "duration_ms": 146793,
+  "duration_api_ms": 145454,
+  "total_cost_usd": 1.2728019999999998,
+  "usage": {
+   "input_tokens": 109,
+   "output_tokens": 11316,
+   "cache_creation_input_tokens": 32261,
+   "cache_read_input_tokens": 60692
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1412.0789.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:57:29-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

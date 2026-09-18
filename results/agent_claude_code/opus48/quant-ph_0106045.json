@@ -1,0 +1,126 @@
+{
+ "paper_title": "New Developments in the Casimir Effect",
+ "coupling_type": "ScalarNucleon",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.3014,
+   72713000000000.0
+  ],
+  [
+   1.6398,
+   123020000000000.0
+  ],
+  [
+   1.798,
+   151820000000000.0
+  ],
+  [
+   1.9714,
+   194890000000000.0
+  ],
+  [
+   2.2129,
+   256850000000000.0
+  ],
+  [
+   2.4795,
+   361510000000000.0
+  ],
+  [
+   2.7833,
+   536280000000000.0
+  ],
+  [
+   3.2685,
+   872220000000000.0
+  ],
+  [
+   3.9295,
+   1617900000000000.0
+  ],
+  [
+   4.9513,
+   3802300000000000.0
+  ],
+  [
+   6.5268,
+   1.3789e+16
+  ],
+  [
+   9.8691,
+   1.1752e+17
+  ],
+  [
+   19.707,
+   2.0868e+19
+  ],
+  [
+   22.121,
+   5.7422e+19
+  ],
+  [
+   24.831,
+   1.8993e+20
+  ],
+  [
+   27.823,
+   8.7268e+20
+  ],
+  [
+   32.733,
+   6.0268e+21
+  ],
+  [
+   39.352,
+   8.245e+22
+  ],
+  [
+   49.495,
+   3.5398e+24
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.55,
+ "suggested_experiment_name": "Casimir_AFM_Au_2001",
+ "coupling_convention": "alpha (Yukawa strength relative to gravity)",
+ "notes": "Review paper (Bordag, Mohideen, Mostepanenko). Sec.7 derives Yukawa-type non-Newtonian-gravity constraints from Casimir/van-der-Waals force measurements. Headline = strongest, most recent bound: curve 6 in Fig.28 (figCnew.eps), from the gold-coated sphere-disk AFM Casimir measurement (Refs [44]/[306], Eqs 7.16-7.22), which gives the largest strengthening (up to 4500x vs dielectric). Plane = fifth-force |alpha_G| (Yukawa strength relative to Newtonian gravity) vs range lambda; converted to mass via m=1.97e-7 eV*m/lambda. Vector coordinates read from figCnew.eps: x-axis log(lambda/1m) [-9..-4 at px 1300..7676], y-axis log|alpha_G| [0..25 at px 8666..4287]. Curve spans lambda=4.3e-9..1.5e-7 m (m~1.3..49 eV). No statistical CL stated (constraint from |F_hyp|<=Delta_F). Curve 5 (Al AFM, ref [43]) is ~4x weaker; curves 1-4 (Cavendish, dielectric Casimir/vdW, Lamoreaux) cover other lambda ranges and are not traced. Native alpha declaration used (canonical scalar-nucleon g not extractable without modeling test-body composition).",
+ "num_points": 19,
+ "arxiv_id": "quant-ph/0106045",
+ "elapsed_s": 211.7524197101593,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 27,
+  "duration_ms": 211437,
+  "duration_api_ms": 209132,
+  "total_cost_usd": 1.7942315,
+  "usage": {
+   "input_tokens": 678,
+   "output_tokens": 14437,
+   "cache_creation_input_tokens": 74478,
+   "cache_read_input_tokens": 1370273
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "quant-ph_0106045.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T03:27:46-0500"
+ }
+}

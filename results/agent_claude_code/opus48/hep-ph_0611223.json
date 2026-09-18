@@ -1,0 +1,206 @@
+{
+ "paper_title": "Particle Physics Implications of a Recent Test of the Gravitational Inverse-Square Law",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.1141749885575706e-06,
+   0.0005605362199138447
+  ],
+  [
+   1.4271850466782028e-06,
+   0.0005605362199138447
+  ],
+  [
+   1.8281303909889517e-06,
+   0.0005605362199138447
+  ],
+  [
+   2.3417150664772728e-06,
+   0.0005605362199138447
+  ],
+  [
+   2.9995833336593762e-06,
+   0.0005605362199138447
+  ],
+  [
+   3.9777874851963275e-06,
+   0.0005605362199138447
+  ],
+  [
+   5.2749970637026176e-06,
+   0.0005605362199138447
+  ],
+  [
+   6.995243995720368e-06,
+   0.0005605362199138447
+  ],
+  [
+   9.276486407238794e-06,
+   0.0005605362199138447
+  ],
+  [
+   1.2301672410044983e-05,
+   0.0005605362199138447
+  ],
+  [
+   1.6326880941375307e-05,
+   0.0005605362199138447
+  ],
+  [
+   2.0002085014429062e-05,
+   0.0005605362199138447
+  ],
+  [
+   2.499478827893002e-05,
+   0.0005601325223186581
+  ],
+  [
+   2.9995833336593768e-05,
+   0.0005601325223186581
+  ],
+  [
+   3.626587897315435e-05,
+   0.0005601325223186581
+  ],
+  [
+   4.6034394724386186e-05,
+   0.0005613444881702907
+  ],
+  [
+   5.570294235595088e-05,
+   0.0005641826163113024
+  ],
+  [
+   7.082379782528218e-05,
+   0.0005694915506066744
+  ],
+  [
+   9.072063746114162e-05,
+   0.0005769249551945092
+  ],
+  [
+   0.00011059298967650602,
+   0.0005878337186576815
+  ],
+  [
+   0.00014166236251460305,
+   0.0006115944070989368
+  ],
+  [
+   0.00018146019030609525,
+   0.0006497501056571301
+  ],
+  [
+   0.000221209038150935,
+   0.0006952774170220552
+  ],
+  [
+   0.00028335426183619605,
+   0.0007746255019637716
+  ],
+  [
+   0.00036295821532369917,
+   0.0008876223132909653
+  ],
+  [
+   0.0004316437411715476,
+   0.0009917756530333846
+  ],
+  [
+   0.0005529073073968383,
+   0.001187507116978713
+  ],
+  [
+   0.0007082379782528215,
+   0.0014623850985847524
+  ],
+  [
+   0.0009072063746114148,
+   0.0018508752466990085
+  ],
+  [
+   0.0011059298967650627,
+   0.0022809489756502547
+  ],
+  [
+   0.0014166236251460292,
+   0.0030362207398481524
+  ],
+  [
+   0.0018146019030609508,
+   0.004150764425839051
+  ],
+  [
+   0.002230422290817452,
+   0.005497378256551914
+  ],
+  [
+   0.0028335426183619633,
+   0.008030384614676754
+  ],
+  [
+   0.0036295821532369888,
+   0.013059839755097878
+  ],
+  [
+   0.004539303776581582,
+   0.021860243468152504
+  ],
+  [
+   0.005570294235595093,
+   0.03771495273660534
+  ],
+  [
+   0.007082379782528223,
+   0.08277091821745745
+  ],
+  [
+   0.00907206374611414,
+   0.2356110585293364
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.68,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "EotWash_2007",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Fig.5 solid curve (this work, Eot-Wash ISL torsion balance, Ref[1]=Kapner et al hep-ph/0611184), 68% CL. Plotted y=(g_P^n)^2/(4*pi*hbar*c) vs mc^2 [meV] for the gamma5 pseudoscalar-neutron coupling from simultaneous two-pseudoscalar (k=3) exchange (Eq.19-21). Converted: g_an = sqrt(4*pi*y); x mass = mc2[meV]*1e-3 eV. The gamma5 Yukawa coupling g_P^n equals the canonical dimensionless g_an (integrating (g_an/2m_n) d_mu a Nbar gamma^mu gamma5 N by parts gives g_an a Nbar i gamma5 N), so no 2m_N factor applies. Solid=this work headline; dashed curve=Ref[14] Hoyle2004 (not reported); red dotted line=SN1987a. Vector data recovered from e-print 2ps_fac5.eps via GRAF tick calibration (x decades at 4.280..15.440 cm=0.001..10 meV; y decades at 2.948..12.538 cm=1e-8..1e-2). Flat g_an~5.6e-4 at low mass. Not a DM search: density-independent lab bound.",
+ "num_points": 39,
+ "arxiv_id": "hep-ph/0611223",
+ "elapsed_s": 233.6017029285431,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 233298,
+  "duration_api_ms": 231394,
+  "total_cost_usd": 1.3893144999999998,
+  "usage": {
+   "input_tokens": 452,
+   "output_tokens": 16755,
+   "cache_creation_input_tokens": 60817,
+   "cache_read_input_tokens": 720019
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "hep-ph_0611223.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T03:24:14-0500"
+ }
+}

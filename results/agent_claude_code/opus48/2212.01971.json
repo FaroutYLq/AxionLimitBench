@@ -1,0 +1,318 @@
+{
+ "paper_title": "Limits on Dark Photons, Scalars, and Axion-Electromagnetodynamics with The ORGAN Experiment",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   6.32169e-05,
+   1.823e-12
+  ],
+  [
+   6.32607e-05,
+   2.035e-12
+  ],
+  [
+   6.33044e-05,
+   2.105e-12
+  ],
+  [
+   6.33482e-05,
+   2.089e-12
+  ],
+  [
+   6.33919e-05,
+   2.092e-12
+  ],
+  [
+   6.34357e-05,
+   2.146e-12
+  ],
+  [
+   6.34794e-05,
+   2.151e-12
+  ],
+  [
+   6.35232e-05,
+   2.122e-12
+  ],
+  [
+   6.3567e-05,
+   2.115e-12
+  ],
+  [
+   6.36107e-05,
+   2.082e-12
+  ],
+  [
+   6.36545e-05,
+   2.052e-12
+  ],
+  [
+   6.36982e-05,
+   2.031e-12
+  ],
+  [
+   6.3742e-05,
+   2.042e-12
+  ],
+  [
+   6.37857e-05,
+   2.045e-12
+  ],
+  [
+   6.38295e-05,
+   2.02e-12
+  ],
+  [
+   6.38732e-05,
+   1.948e-12
+  ],
+  [
+   6.3917e-05,
+   1.901e-12
+  ],
+  [
+   6.39608e-05,
+   1.891e-12
+  ],
+  [
+   6.40045e-05,
+   1.896e-12
+  ],
+  [
+   6.40483e-05,
+   1.897e-12
+  ],
+  [
+   6.4092e-05,
+   1.882e-12
+  ],
+  [
+   6.41358e-05,
+   1.992e-12
+  ],
+  [
+   6.41795e-05,
+   1.958e-12
+  ],
+  [
+   6.42233e-05,
+   2.013e-12
+  ],
+  [
+   6.42671e-05,
+   2.201e-12
+  ],
+  [
+   6.43108e-05,
+   2.314e-12
+  ],
+  [
+   6.43546e-05,
+   2.14e-12
+  ],
+  [
+   6.43983e-05,
+   2.082e-12
+  ],
+  [
+   6.45734e-05,
+   1.415e-12
+  ],
+  [
+   6.46171e-05,
+   1.424e-12
+  ],
+  [
+   6.46609e-05,
+   1.378e-12
+  ],
+  [
+   6.47046e-05,
+   1.522e-12
+  ],
+  [
+   6.47484e-05,
+   2.099e-12
+  ],
+  [
+   6.49234e-05,
+   1.117e-12
+  ],
+  [
+   6.49672e-05,
+   1.184e-12
+  ],
+  [
+   6.50109e-05,
+   1.24e-12
+  ],
+  [
+   6.50547e-05,
+   1.275e-12
+  ],
+  [
+   6.50984e-05,
+   1.174e-12
+  ],
+  [
+   6.51422e-05,
+   1.231e-12
+  ],
+  [
+   6.5186e-05,
+   1.225e-12
+  ],
+  [
+   6.52297e-05,
+   1.196e-12
+  ],
+  [
+   6.52735e-05,
+   1.104e-12
+  ],
+  [
+   6.53172e-05,
+   1.1e-12
+  ],
+  [
+   6.5361e-05,
+   1.162e-12
+  ],
+  [
+   6.54047e-05,
+   1.051e-12
+  ],
+  [
+   6.54485e-05,
+   1.04e-12
+  ],
+  [
+   6.54923e-05,
+   1.021e-12
+  ],
+  [
+   6.5536e-05,
+   1.14e-12
+  ],
+  [
+   6.55798e-05,
+   9.435e-13
+  ],
+  [
+   6.56235e-05,
+   9.742e-13
+  ],
+  [
+   6.56673e-05,
+   9.835e-13
+  ],
+  [
+   6.5711e-05,
+   1.007e-12
+  ],
+  [
+   6.57548e-05,
+   9.828e-13
+  ],
+  [
+   6.57985e-05,
+   9.414e-13
+  ],
+  [
+   6.58423e-05,
+   9.276e-13
+  ],
+  [
+   6.58861e-05,
+   9.176e-13
+  ],
+  [
+   6.59298e-05,
+   8.156e-13
+  ],
+  [
+   6.59736e-05,
+   8.127e-13
+  ],
+  [
+   6.60173e-05,
+   1.246e-12
+  ],
+  [
+   6.6805e-05,
+   1.154e-12
+  ],
+  [
+   6.68487e-05,
+   1.136e-12
+  ],
+  [
+   6.68925e-05,
+   1.172e-12
+  ],
+  [
+   6.69362e-05,
+   1.289e-12
+  ],
+  [
+   6.698e-05,
+   1.308e-12
+  ],
+  [
+   6.70237e-05,
+   1.366e-12
+  ],
+  [
+   6.70675e-05,
+   1.387e-12
+  ],
+  [
+   6.71113e-05,
+   1.518e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "ORGAN_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline result: dark-photon kinetic-mixing limit recast from ORGAN Phase 1a axion-photon limit (63.2-67.1 ueV). Traced the opaque crimson (RGB 0.86,0.08,0.24, fill_opacity=1.0) filled-region lower edge in Fig.1 (DarkPhoton_Haloscopes_ORGAN_Closeup.pdf, drawing idx 6) = FIXED (worst-case) polarisation scenario at 95% CL, which the paper presents opaque as its main/conservative result (the transparent idx7 fill is the less-conservative random-polarisation scenario, |cos theta|=sqrt(1/3)). Fixed scenario uses |cos theta|=sqrt(0.03). x-axis in ueV converted to eV. rho_DM=0.45 GeV/cm^3 as stated. Cross-check chi=g_agg*B/(m|cos theta|) with g_agg=3e-12, B=11.5 T, m=6.5e-5 eV gives ~6e-13, matching extracted deepest chi~8e-13. Vertical gaps are real scan/notch gaps (dropped bins). Fig.2 landscape uses the same fixed-polarisation curve.",
+ "num_points": 67,
+ "arxiv_id": "2212.01971",
+ "elapsed_s": 173.82288527488708,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 173507,
+  "duration_api_ms": 170687,
+  "total_cost_usd": 0.8241219999999998,
+  "usage": {
+   "input_tokens": 477,
+   "output_tokens": 11737,
+   "cache_creation_input_tokens": 32731,
+   "cache_read_input_tokens": 402004
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2212.01971.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:54:01-0500"
+ }
+}

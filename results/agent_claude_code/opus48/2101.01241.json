@@ -1,0 +1,182 @@
+{
+ "paper_title": "Search for axion-like dark matter using solid-state nuclear magnetic resonance",
+ "coupling_type": "AxionEDM",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.62229e-07,
+   1.0
+  ],
+  [
+   1.62278e-07,
+   0.8
+  ],
+  [
+   1.62284e-07,
+   0.55
+  ],
+  [
+   1.6229e-07,
+   0.32
+  ],
+  [
+   1.62296e-07,
+   0.19
+  ],
+  [
+   1.62302e-07,
+   0.11
+  ],
+  [
+   1.62306e-07,
+   0.0054
+  ],
+  [
+   1.62582e-07,
+   0.0008779
+  ],
+  [
+   1.62766e-07,
+   0.0009015
+  ],
+  [
+   1.62949e-07,
+   0.0008779
+  ],
+  [
+   1.63133e-07,
+   0.0008663
+  ],
+  [
+   1.63317e-07,
+   0.0008779
+  ],
+  [
+   1.635e-07,
+   0.0008779
+  ],
+  [
+   1.63684e-07,
+   0.0008896
+  ],
+  [
+   1.63868e-07,
+   0.0009136
+  ],
+  [
+   1.64051e-07,
+   0.0008896
+  ],
+  [
+   1.64235e-07,
+   0.0009015
+  ],
+  [
+   1.64419e-07,
+   0.0008779
+  ],
+  [
+   1.64603e-07,
+   0.0008896
+  ],
+  [
+   1.64786e-07,
+   0.0008779
+  ],
+  [
+   1.6497e-07,
+   0.0009015
+  ],
+  [
+   1.65154e-07,
+   0.0009508
+  ],
+  [
+   1.65337e-07,
+   0.0008896
+  ],
+  [
+   1.65521e-07,
+   0.0008896
+  ],
+  [
+   1.65705e-07,
+   0.0009015
+  ],
+  [
+   1.6585e-07,
+   0.0019
+  ],
+  [
+   1.65888e-07,
+   0.0046
+  ],
+  [
+   1.65894e-07,
+   0.11
+  ],
+  [
+   1.65901e-07,
+   0.17
+  ],
+  [
+   1.65907e-07,
+   0.29
+  ],
+  [
+   1.65913e-07,
+   0.5
+  ],
+  [
+   1.65919e-07,
+   0.92
+  ],
+  [
+   1.65931e-07,
+   1.0
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.83,
+ "suggested_experiment_name": "CASPErElectric_2021",
+ "coupling_convention": "g_d [GeV^-2]",
+ "notes": "CASPEr-electric (207Pb solid-state NMR in polarized PMN-PT ferroelectric). Main result is the axion-EDM coupling g_d; Fig 3(a) left y-axis. Paper's g_d matches the canonical AxionEDM definition exactly: H_EDM=g_d a E*.I/I, oscillating nucleon EDM d_n=g_d a (no conversion needed). Curve traced from raster of Fig 3(a) (blue bathtub boundary). x-axis calibrated from the top Compton-frequency ticks (39.0/39.65/40.3 MHz at EPS x=111.94/428.06/744.19) converted to mass via m=h*nu; y-axis log decades =83.2 EPS px, 10^0 at EPS y=1098.3. Flat-bottom best limit read ~8.9e-4 GeV^-2, consistent with the paper's stated |g_d|<9.5e-4 GeV^-2 (95% CL) over 39.1-40.2 MHz (162-166 neV). Walls of the bathtub rise to ~1 GeV^-2 at the band edges. Dark-matter search: limit scales with sqrt(rho_DM); paper assumes rho_DM=m_a^2 a_0^2/2=3.6e-42 GeV^4 (~0.4-0.47 GeV/cm^3), reported here not rescaled. The paper also reports a secondary gradient-coupling bound |g_aNN|<2.8e-1 GeV^-1 (right y-axis) which is not the main result. g_d also corresponds to oscillating neutron EDM amplitude <1.0e-21 e.cm and CP-violating theta amplitude <4.3e-6.",
+ "num_points": 33,
+ "arxiv_id": "2101.01241",
+ "elapsed_s": 823.2059190273285,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 40,
+  "duration_ms": 822706,
+  "duration_api_ms": 812665,
+  "total_cost_usd": 3.5772954999999995,
+  "usage": {
+   "input_tokens": 1100,
+   "output_tokens": 56656,
+   "cache_creation_input_tokens": 100698,
+   "cache_read_input_tokens": 2296831
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2101.01241.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:32:06-0500"
+ }
+}

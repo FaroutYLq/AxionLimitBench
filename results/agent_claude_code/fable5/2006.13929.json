@@ -1,0 +1,315 @@
+{
+ "paper_title": "New limits on dark photons from solar emission and keV scale dark matter",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.015849,
+   9.1385e-11
+  ],
+  [
+   0.017506,
+   8.3034e-11
+  ],
+  [
+   0.02797,
+   5.1846e-11
+  ],
+  [
+   0.038872,
+   3.7234e-11
+  ],
+  [
+   0.049989,
+   2.8967e-11
+  ],
+  [
+   0.060781,
+   2.3858e-11
+  ],
+  [
+   0.072327,
+   1.9959e-11
+  ],
+  [
+   0.083171,
+   1.7403e-11
+  ],
+  [
+   0.094467,
+   1.5332e-11
+  ],
+  [
+   0.11777,
+   1.2273e-11
+  ],
+  [
+   0.13171,
+   1.1008e-11
+  ],
+  [
+   0.15524,
+   9.3041e-12
+  ],
+  [
+   0.17795,
+   8.1342e-12
+  ],
+  [
+   0.21109,
+   6.8751e-12
+  ],
+  [
+   0.25278,
+   5.7211e-12
+  ],
+  [
+   0.28977,
+   4.9873e-12
+  ],
+  [
+   0.33629,
+   4.3042e-12
+  ],
+  [
+   0.38671,
+   3.7431e-12
+  ],
+  [
+   0.44329,
+   3.263e-12
+  ],
+  [
+   0.52583,
+   2.7652e-12
+  ],
+  [
+   0.60295,
+   2.4048e-12
+  ],
+  [
+   0.71521,
+   2.0219e-12
+  ],
+  [
+   0.82245,
+   1.7583e-12
+  ],
+  [
+   0.96331,
+   1.5015e-12
+  ],
+  [
+   1.107746,
+   1.3093e-12
+  ],
+  [
+   1.306117,
+   1.1095e-12
+  ],
+  [
+   1.501953,
+   9.6468e-13
+  ],
+  [
+   1.764768,
+   8.1751e-13
+  ],
+  [
+   2.029373,
+   7.1283e-13
+  ],
+  [
+   2.40724,
+   6.0409e-13
+  ],
+  [
+   2.760281,
+   5.2521e-13
+  ],
+  [
+   3.243283,
+   4.4509e-13
+  ],
+  [
+   3.787919,
+   3.7919e-13
+  ],
+  [
+   4.342095,
+   3.2716e-13
+  ],
+  [
+   5.024863,
+   2.7799e-13
+  ],
+  [
+   5.905963,
+   2.2896e-13
+  ],
+  [
+   6.91746,
+   1.8376e-13
+  ],
+  [
+   8.030577,
+   1.3931e-13
+  ],
+  [
+   9.319921,
+   9.3533e-14
+  ],
+  [
+   10.88499,
+   6.4275e-14
+  ],
+  [
+   12.672674,
+   4.4863e-14
+  ],
+  [
+   14.758557,
+   3.2126e-14
+  ],
+  [
+   17.128091,
+   2.185e-14
+  ],
+  [
+   20.004365,
+   1.4258e-14
+  ],
+  [
+   23.363643,
+   1.2925e-14
+  ],
+  [
+   26.951933,
+   1.5251e-14
+  ],
+  [
+   32.573499,
+   1.6825e-14
+  ],
+  [
+   37.457486,
+   1.6869e-14
+  ],
+  [
+   42.937552,
+   1.6569e-14
+  ],
+  [
+   49.831365,
+   1.6104e-14
+  ],
+  [
+   56.778734,
+   1.5532e-14
+  ],
+  [
+   69.036052,
+   1.4406e-14
+  ],
+  [
+   78.412216,
+   1.3647e-14
+  ],
+  [
+   92.161644,
+   1.2925e-14
+  ],
+  [
+   105.980125,
+   1.2691e-14
+  ],
+  [
+   121.870513,
+   1.2083e-14
+  ],
+  [
+   140.143465,
+   1.1504e-14
+  ],
+  [
+   172.515895,
+   1.0755e-14
+  ],
+  [
+   197.755136,
+   1.0425e-14
+  ],
+  [
+   227.406034,
+   1.0373e-14
+  ],
+  [
+   262.33229,
+   1.0924e-14
+  ],
+  [
+   310.194123,
+   1.6569e-14
+  ],
+  [
+   356.704172,
+   2.8822e-14
+  ],
+  [
+   415.415767,
+   1.0005e-13
+  ],
+  [
+   483.641571,
+   7.1283e-13
+  ],
+  [
+   564.858169,
+   8.1751e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "SolarDarkPhoton_XENON1T_2020",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Solid red 'XENON1T (S2)' curve in Fig. 1 left panel (file 2020solar.pdf in the e-print), the paper's headline 90% C.L. limit on solar dark photon emission from XENON1T S2-only data, for a hard Stueckelberg mass. The dashed 'Higgsed (e'=0.1)' variant and the XENON10 curve were not used. Coordinates recovered from the vector PDF; axes calibrated from tick-label positions (log-log, m_V 1e-3..1e3 eV, eps 1e-15..1e-10) and verified by overlay. Solar-flux limit, independent of local DM density, so no rho_DM rescaling.",
+ "num_points": 66,
+ "arxiv_id": "2006.13929",
+ "elapsed_s": 105.29704284667969,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 104976,
+  "duration_api_ms": 102467,
+  "total_cost_usd": 0.9645994999999999,
+  "usage": {
+   "input_tokens": 315,
+   "output_tokens": 7182,
+   "cache_creation_input_tokens": 25147,
+   "cache_read_input_tokens": 228042
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2006.13929.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T23:04:42-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

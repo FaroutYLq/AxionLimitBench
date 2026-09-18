@@ -1,0 +1,247 @@
+{
+ "paper_title": "Emission of Single and Few Electrons in XENON1T and Limits on Light Dark Matter",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   11.412,
+   5e-13
+  ],
+  [
+   11.619,
+   4.497e-14
+  ],
+  [
+   12.528,
+   8.175e-15
+  ],
+  [
+   13.507,
+   4.443e-15
+  ],
+  [
+   14.563,
+   3.565e-15
+  ],
+  [
+   15.702,
+   2.972e-15
+  ],
+  [
+   16.93,
+   2.738e-15
+  ],
+  [
+   18.253,
+   2.716e-15
+  ],
+  [
+   19.68,
+   2.889e-15
+  ],
+  [
+   21.219,
+   3.163e-15
+  ],
+  [
+   22.878,
+   3.722e-15
+  ],
+  [
+   24.667,
+   4.522e-15
+  ],
+  [
+   26.596,
+   5.591e-15
+  ],
+  [
+   28.675,
+   6.994e-15
+  ],
+  [
+   30.917,
+   8.683e-15
+  ],
+  [
+   33.335,
+   1.104e-14
+  ],
+  [
+   35.941,
+   1.396e-14
+  ],
+  [
+   38.751,
+   1.736e-14
+  ],
+  [
+   41.781,
+   4.332e-15
+  ],
+  [
+   45.048,
+   4.776e-15
+  ],
+  [
+   48.57,
+   5.093e-15
+  ],
+  [
+   52.368,
+   6.128e-15
+  ],
+  [
+   56.462,
+   5.054e-15
+  ],
+  [
+   60.877,
+   4.511e-15
+  ],
+  [
+   65.637,
+   2.853e-15
+  ],
+  [
+   70.769,
+   2.905e-15
+  ],
+  [
+   76.302,
+   2.314e-15
+  ],
+  [
+   82.268,
+   2.104e-15
+  ],
+  [
+   88.7,
+   1.912e-15
+  ],
+  [
+   95.635,
+   1.948e-15
+  ],
+  [
+   103.11,
+   2.016e-15
+  ],
+  [
+   111.18,
+   2.448e-15
+  ],
+  [
+   119.87,
+   3.107e-15
+  ],
+  [
+   129.24,
+   4.698e-15
+  ],
+  [
+   139.34,
+   7.479e-15
+  ],
+  [
+   150.24,
+   1.058e-14
+  ],
+  [
+   161.99,
+   1.645e-14
+  ],
+  [
+   174.65,
+   2.315e-14
+  ],
+  [
+   188.31,
+   2.779e-14
+  ],
+  [
+   203.03,
+   3.031e-14
+  ],
+  [
+   218.91,
+   3.305e-14
+  ],
+  [
+   236.02,
+   3.498e-14
+  ],
+  [
+   254.48,
+   3.714e-14
+  ],
+  [
+   274.37,
+   4.033e-14
+  ],
+  [
+   295.83,
+   4.89e-14
+  ],
+  [
+   318.96,
+   6.13e-14
+  ],
+  [
+   343.89,
+   7.799e-14
+  ],
+  [
+   370.78,
+   9.114e-14
+  ],
+  [
+   399.77,
+   1.296e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "XENON1T_SE_2021",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Relic dark-photon DM absorption limit from Fig. 15 (top panel), the solid dark-blue 'XENON1T SE (This Work)' 90% CL curve, extracted from the vector paths of the e-print figure fig_bosonic_limits.pdf and calibrated against the axis tick marks (log-log). This is the paper's reported conservative limit assuming ionization from the lowest accessible electron shell; the blue shaded band in the figure is the systematic from the alternative outermost-5p-shell assumption and is not reported here. Chosen as the main result because the abstract highlights excluding new parameter space for dark photons (the ALP g_ae limit in the bottom panel does not exceed prior bounds; the solar dark-photon limit of Fig. 16 is a separate non-DM flux result). The near-vertical rise at threshold (~12.1 eV, xenon 5p binding) was clipped at the plot frame, giving the first point (11.4 eV, 5.0e-13). Local DM density is not stated numerically in the paper; 0.3 GeV/cm^3 (the standard XENON halo-model value) is assumed. Masses converted from keV/c^2 to eV.",
+ "num_points": 49,
+ "arxiv_id": "2112.12116",
+ "elapsed_s": 249.8426070213318,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 249447,
+  "duration_api_ms": 244878,
+  "total_cost_usd": 1.7988689999999998,
+  "usage": {
+   "input_tokens": 445,
+   "output_tokens": 15863,
+   "cache_creation_input_tokens": 40541,
+   "cache_read_input_tokens": 432849
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2112.12116.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:43:59-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

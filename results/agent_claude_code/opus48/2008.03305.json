@@ -1,0 +1,126 @@
+{
+ "paper_title": "X-ray Searches for Axions from Super Star Clusters",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-13,
+   3.705e-12
+  ],
+  [
+   1.669e-13,
+   3.705e-12
+  ],
+  [
+   2.784e-13,
+   3.705e-12
+  ],
+  [
+   4.643e-13,
+   3.706e-12
+  ],
+  [
+   7.745e-13,
+   3.707e-12
+  ],
+  [
+   1.292e-12,
+   3.71e-12
+  ],
+  [
+   2.155e-12,
+   3.718e-12
+  ],
+  [
+   3.595e-12,
+   3.738e-12
+  ],
+  [
+   5.997e-12,
+   3.764e-12
+  ],
+  [
+   1e-11,
+   3.665e-12
+  ],
+  [
+   1.669e-11,
+   3.038e-12
+  ],
+  [
+   2.784e-11,
+   3.068e-12
+  ],
+  [
+   4.643e-11,
+   3.763e-12
+  ],
+  [
+   7.745e-11,
+   7.755e-12
+  ],
+  [
+   1.292e-10,
+   1.131e-11
+  ],
+  [
+   2.155e-10,
+   2.09e-11
+  ],
+  [
+   3.595e-10,
+   3.167e-11
+  ],
+  [
+   5.997e-10,
+   5.746e-11
+  ],
+  [
+   1e-09,
+   9.29e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "NuSTAR_SSC_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Joint 95% power-constrained upper limit (red curve) combining Quintuplet and Wd1 super-star-cluster NuSTAR analyses, from Fig. 3 (Plots/combined_limit_Wd1.pdf in the e-print), extracted from the vector PDF using log-log tick calibration (Wd1 bottom panel; the Quintuplet top-panel red curve is identical). Paper headline: g_agamma <~ 3.6e-12 GeV^-1 for m_a <~ 5e-11 eV; my low-mass plateau reads 3.7e-12 (~3% calibration offset). The dip near m_a~2e-11 eV is a genuine feature of the power-constrained limit. Not a dark-matter search, so no density dependence. This is an X-ray helioscope-like/Primakoff search on axions produced in and converted near super star clusters; the axion is assumed massless (m_a << 10^-11 eV) for the conversion probability at low masses, with the limit weakening above ~5e-11 eV.",
+ "num_points": 19,
+ "arxiv_id": "2008.03305",
+ "elapsed_s": 76.65271282196045,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 76340,
+  "duration_api_ms": 72718,
+  "total_cost_usd": 0.5023515000000001,
+  "usage": {
+   "input_tokens": 289,
+   "output_tokens": 5430,
+   "cache_creation_input_tokens": 25860,
+   "cache_read_input_tokens": 213113
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.03305.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:59:11-0500"
+ }
+}

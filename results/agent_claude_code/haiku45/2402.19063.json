@@ -1,0 +1,70 @@
+{
+ "paper_title": "Search for Axion dark matter with the QUAX\u2013LNF tunable haloscope",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.65241e-05,
+   8.82e-14
+  ],
+  [
+   3.65309e-05,
+   8.8e-14
+  ],
+  [
+   3.6537599999999994e-05,
+   8.78e-14
+  ],
+  [
+   3.6544299999999995e-05,
+   8.8e-14
+  ],
+  [
+   3.6551099999999996e-05,
+   8.82e-14
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "QUAX_LNF_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "90% CL upper limits extracted from Figure 7 (top panel). No signal detected; curve represents observed limit. Limit is approximately flat across mass range 36.5241-36.5511 \u00b5eV with slight structure. Maximum sensitivity stated as 0.882 \u00d7 10^-13 GeV^-1. Assumed local DM density \u03c1_a = 0.45 GeV/cm\u00b3. Data extracted by visual inspection of figure.",
+ "num_points": 5,
+ "arxiv_id": "2402.19063",
+ "elapsed_s": 113.09509491920471,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 9,
+  "duration_ms": 112744,
+  "duration_api_ms": 110340,
+  "total_cost_usd": 0.1775026,
+  "usage": {
+   "input_tokens": 68,
+   "output_tokens": 10029,
+   "cache_creation_input_tokens": 46996,
+   "cache_read_input_tokens": 332976
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2402.19063.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:56:25-0500"
+ }
+}

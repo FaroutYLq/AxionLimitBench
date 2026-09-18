@@ -1,0 +1,291 @@
+{
+ "paper_title": "Results from the Solar Hidden Photon Search (SHIPS)",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0001,
+   7.4073e-06
+  ],
+  [
+   0.00011735,
+   5.3777e-06
+  ],
+  [
+   0.00013772,
+   3.9047e-06
+  ],
+  [
+   0.00016162,
+   2.8343e-06
+  ],
+  [
+   0.00018966,
+   2.057e-06
+  ],
+  [
+   0.00022257,
+   1.4948e-06
+  ],
+  [
+   0.0002612,
+   1.0837e-06
+  ],
+  [
+   0.00030652,
+   7.8752e-07
+  ],
+  [
+   0.00035972,
+   5.7303e-07
+  ],
+  [
+   0.00042214,
+   4.1787e-07
+  ],
+  [
+   0.00049539,
+   3.0544e-07
+  ],
+  [
+   0.00058136,
+   2.246e-07
+  ],
+  [
+   0.00068224,
+   1.6814e-07
+  ],
+  [
+   0.00080063,
+   1.3003e-07
+  ],
+  [
+   0.00093957,
+   1.073e-07
+  ],
+  [
+   0.0011026,
+   1.0282e-07
+  ],
+  [
+   0.001294,
+   1.2552e-07
+  ],
+  [
+   0.0015185,
+   6.9223e-08
+  ],
+  [
+   0.001782,
+   6.4862e-08
+  ],
+  [
+   0.0020912,
+   4.8297e-08
+  ],
+  [
+   0.0024541,
+   4.1876e-08
+  ],
+  [
+   0.00288,
+   3.5419e-08
+  ],
+  [
+   0.0033798,
+   3.151e-08
+  ],
+  [
+   0.0039663,
+   2.7308e-08
+  ],
+  [
+   0.0046546,
+   2.3995e-08
+  ],
+  [
+   0.0054623,
+   2.1345e-08
+  ],
+  [
+   0.0064102,
+   1.8987e-08
+  ],
+  [
+   0.0075225,
+   1.689e-08
+  ],
+  [
+   0.0088279,
+   1.5025e-08
+  ],
+  [
+   0.01036,
+   1.3366e-08
+  ],
+  [
+   0.012158,
+   1.1889e-08
+  ],
+  [
+   0.014267,
+   1.0576e-08
+  ],
+  [
+   0.016743,
+   9.4083e-09
+  ],
+  [
+   0.019649,
+   8.3197e-09
+  ],
+  [
+   0.023058,
+   7.364e-09
+  ],
+  [
+   0.02706,
+   6.5173e-09
+  ],
+  [
+   0.031755,
+   5.7665e-09
+  ],
+  [
+   0.037266,
+   5.1034e-09
+  ],
+  [
+   0.043733,
+   4.5144e-09
+  ],
+  [
+   0.051322,
+   3.991e-09
+  ],
+  [
+   0.060228,
+   3.5229e-09
+  ],
+  [
+   0.070679,
+   3.1059e-09
+  ],
+  [
+   0.082945,
+   2.7346e-09
+  ],
+  [
+   0.097338,
+   2.4026e-09
+  ],
+  [
+   0.11423,
+   2.1044e-09
+  ],
+  [
+   0.13405,
+   1.8393e-09
+  ],
+  [
+   0.15731,
+   1.6038e-09
+  ],
+  [
+   0.18461,
+   1.3927e-09
+  ],
+  [
+   0.21665,
+   1.2062e-09
+  ],
+  [
+   0.25425,
+   1.0419e-09
+  ],
+  [
+   0.29836,
+   8.9528e-10
+  ],
+  [
+   0.35014,
+   7.657e-10
+  ],
+  [
+   0.4109,
+   6.5185e-10
+  ],
+  [
+   0.48221,
+   5.5065e-10
+  ],
+  [
+   0.56588,
+   4.6331e-10
+  ],
+  [
+   0.66408,
+   3.9028e-10
+  ],
+  [
+   0.77932,
+   3.3048e-10
+  ],
+  [
+   0.91456,
+   2.8157e-10
+  ],
+  [
+   1.0733,
+   2.3995e-10
+  ],
+  [
+   1.2595,
+   2.0445e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.93,
+ "suggested_experiment_name": "SHIPS_2015",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "95% C.L. upper limit on kinetic mixing chi for transversely polarised solar hidden photons from the TSHIPS helioscope (330 h Sun + 330 h background; dN/dt < 1.2 mHz at 95% C.L., Eq. 4.1). Curve digitised from the vector paths of Fig. 13 (e-print file SHIPSbounds2.pdf): thick black line bounding the orange 'SHIPS' region; axes calibrated with the figure's tick marks (log-log). Mass range 1e-4 eV to ~1.26 eV (plot frame edges). Solar (non-DM) bound, so no rho_DM rescaling applied.",
+ "num_points": 60,
+ "arxiv_id": "1502.04490",
+ "elapsed_s": 147.64130401611328,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 147115,
+  "duration_api_ms": 141182,
+  "total_cost_usd": 1.6019549999999996,
+  "usage": {
+   "input_tokens": 361,
+   "output_tokens": 9478,
+   "cache_creation_input_tokens": 41924,
+   "cache_read_input_tokens": 285965
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1502.04490.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:58:01-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

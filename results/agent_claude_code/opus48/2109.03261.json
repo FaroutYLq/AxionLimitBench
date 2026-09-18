@@ -1,0 +1,122 @@
+{
+ "paper_title": "New constraints on light Axion-Like Particles using Chandra Transmission Grating Spectroscopy of the powerful cluster-hosted quasar H1821+643",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-19,
+   6.3e-13
+  ],
+  [
+   1.259e-13,
+   6.3e-13
+  ],
+  [
+   1.586e-13,
+   5.01e-13
+  ],
+  [
+   1.996e-13,
+   5.01e-13
+  ],
+  [
+   3.164e-13,
+   7.94e-13
+  ],
+  [
+   3.983e-13,
+   6.3e-13
+  ],
+  [
+   5.014e-13,
+   6.3e-13
+  ],
+  [
+   6.313e-13,
+   7.94e-13
+  ],
+  [
+   1.001e-12,
+   5.01e-13
+  ],
+  [
+   1.26e-12,
+   5.01e-13
+  ],
+  [
+   1.586e-12,
+   6.3e-13
+  ],
+  [
+   1.996e-12,
+   6.3e-13
+  ],
+  [
+   2.513e-12,
+   5.01e-13
+  ],
+  [
+   3.164e-12,
+   5.01e-13
+  ],
+  [
+   5.015e-12,
+   1.258e-12
+  ],
+  [
+   6.314e-12,
+   1.584e-12
+  ],
+  [
+   1.26e-11,
+   6.31e-12
+  ],
+  [
+   1.565e-11,
+   1.585e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.997,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "H1821+643_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline photon-ALP coupling limit from H1821+643 Chandra HETG/LETG spectral-distortion search, assuming thermal-to-magnetic pressure ratio beta=100. Curve traced from the paper's Figure 5 (e-print file images/fig4_myPaper.pdf; note internal filename fig4 = paper Fig.5), the 'This work, 99.7% CL' magenta line (combined HETG+LETG). This is the paper's main result; the 95.5% CL curve lies slightly below. Flat exclusion at g_agamma > 6.3e-13 GeV^-1 for m_a < ~1e-12 eV (matches abstract), with genuine oscillatory structure (5e-13 to 8e-13) between ~1e-13 and ~3e-12 eV, then a steep rise for m_a > ~5e-12 eV. Last point (1.57e-11 eV, 1.58e-11) is clipped at the plot top frame; the real curve continues above 1e-11 GeV^-1. Axis calibration from vector gridlines: x decades at fig-x 82.51..378.32 (10^-19..10^-11), y decades at fig-y 175.1 (10^-12) and 46.2 (10^-11). Not a dark-matter search, so no density dependence. Curve extends left to the plotted 10^-19 eV; text notes the flat limit holds down to much lower masses (log(m_a/eV) as low as -30).",
+ "num_points": 18,
+ "arxiv_id": "2109.03261",
+ "elapsed_s": 200.70658326148987,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 200351,
+  "duration_api_ms": 197738,
+  "total_cost_usd": 1.1283812500000001,
+  "usage": {
+   "input_tokens": 511,
+   "output_tokens": 13980,
+   "cache_creation_input_tokens": 49319,
+   "cache_read_input_tokens": 583035
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2109.03261.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:46:04-0500"
+ }
+}

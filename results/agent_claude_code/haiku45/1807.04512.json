@@ -1,0 +1,49 @@
+{
+ "paper_title": "Violation of the equivalence principle from light scalar dark matter",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.0,
+ "suggested_experiment_name": null,
+ "coupling_convention": null,
+ "notes": "Theoretical paper with reinterpretation of existing measurements. Paper develops models of light scalar dark matter coupling to matter and derives observable signatures. Constraints presented in Figures 3 and 4 on scalar coupling coefficients are obtained by reanalyzing existing experimental data from E\u00f6t-Wash, MICROSCOPE, SYRITE, and clock comparison experiments. No new experimental measurements are presented.",
+ "num_points": 0,
+ "arxiv_id": "1807.04512",
+ "elapsed_s": 38.76679301261902,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 37697,
+  "duration_api_ms": 35429,
+  "total_cost_usd": 0.0990463,
+  "usage": {
+   "input_tokens": 66,
+   "output_tokens": 2454,
+   "cache_creation_input_tokens": 34661,
+   "cache_read_input_tokens": 173883
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1807.04512.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:36:11-0500"
+ }
+}

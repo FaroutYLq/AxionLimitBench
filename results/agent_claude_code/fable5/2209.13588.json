@@ -1,0 +1,451 @@
+{
+ "paper_title": "Constraints on axion-like dark matter from a SERF comagnetometer",
+ "coupling_type": "AxionProton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.4201e-12,
+   6.1462e-05
+  ],
+  [
+   1.4923e-12,
+   5.6249e-05
+  ],
+  [
+   1.5679e-12,
+   5.1696e-05
+  ],
+  [
+   1.6499e-12,
+   5.0743e-05
+  ],
+  [
+   1.738e-12,
+   4.514e-05
+  ],
+  [
+   1.8244e-12,
+   4.6636e-05
+  ],
+  [
+   1.9092e-12,
+   4.1678e-05
+  ],
+  [
+   2.0089e-12,
+   3.8379e-05
+  ],
+  [
+   2.1124e-12,
+   3.6264e-05
+  ],
+  [
+   2.2416e-12,
+   3.6477e-05
+  ],
+  [
+   2.3374e-12,
+   3.1763e-05
+  ],
+  [
+   2.4617e-12,
+   3.0219e-05
+  ],
+  [
+   2.5794e-12,
+   3.1353e-05
+  ],
+  [
+   2.7156e-12,
+   2.7876e-05
+  ],
+  [
+   2.8557e-12,
+   2.6237e-05
+  ],
+  [
+   2.9983e-12,
+   2.3704e-05
+  ],
+  [
+   3.1398e-12,
+   2.4567e-05
+  ],
+  [
+   3.3265e-12,
+   2.3102e-05
+  ],
+  [
+   3.4849e-12,
+   2.1014e-05
+  ],
+  [
+   3.6682e-12,
+   1.9636e-05
+  ],
+  [
+   3.8367e-12,
+   2.2509e-05
+  ],
+  [
+   4.0717e-12,
+   2.1774e-05
+  ],
+  [
+   4.2788e-12,
+   2.0344e-05
+  ],
+  [
+   4.4699e-12,
+   2.1435e-05
+  ],
+  [
+   4.7049e-12,
+   1.9314e-05
+  ],
+  [
+   4.9432e-12,
+   1.5735e-05
+  ],
+  [
+   5.2154e-12,
+   1.3677e-05
+  ],
+  [
+   5.495e-12,
+   1.2918e-05
+  ],
+  [
+   5.7812e-12,
+   1.1954e-05
+  ],
+  [
+   6.0492e-12,
+   1.1714e-05
+  ],
+  [
+   6.3617e-12,
+   1.1098e-05
+  ],
+  [
+   6.6815e-12,
+   1.0546e-05
+  ],
+  [
+   7.0425e-12,
+   1.0288e-05
+  ],
+  [
+   7.4066e-12,
+   1.0295e-05
+  ],
+  [
+   7.7682e-12,
+   9.9012e-06
+  ],
+  [
+   8.1753e-12,
+   9.9822e-06
+  ],
+  [
+   8.6271e-12,
+   9.5576e-06
+  ],
+  [
+   9.0444e-12,
+   1.0653e-05
+  ],
+  [
+   9.4989e-12,
+   1.2396e-05
+  ],
+  [
+   1.0002e-11,
+   1.2884e-05
+  ],
+  [
+   1.0498e-11,
+   1.282e-05
+  ],
+  [
+   1.1032e-11,
+   1.2773e-05
+  ],
+  [
+   1.1569e-11,
+   1.3068e-05
+  ],
+  [
+   1.2258e-11,
+   1.2341e-05
+  ],
+  [
+   1.2819e-11,
+   1.1702e-05
+  ],
+  [
+   1.351e-11,
+   1.0657e-05
+  ],
+  [
+   1.4204e-11,
+   1.2076e-05
+  ],
+  [
+   1.495e-11,
+   1.2511e-05
+  ],
+  [
+   1.5666e-11,
+   1.267e-05
+  ],
+  [
+   1.6505e-11,
+   1.3202e-05
+  ],
+  [
+   1.7372e-11,
+   1.5901e-05
+  ],
+  [
+   1.8332e-11,
+   1.6423e-05
+  ],
+  [
+   1.9144e-11,
+   1.8099e-05
+  ],
+  [
+   2.0121e-11,
+   1.3918e-05
+  ],
+  [
+   2.1167e-11,
+   1.5505e-05
+  ],
+  [
+   2.2157e-11,
+   1.7251e-05
+  ],
+  [
+   2.3437e-11,
+   1.7106e-05
+  ],
+  [
+   2.4585e-11,
+   1.7659e-05
+  ],
+  [
+   2.5945e-11,
+   1.6727e-05
+  ],
+  [
+   2.7189e-11,
+   1.7074e-05
+  ],
+  [
+   2.8477e-11,
+   1.8723e-05
+  ],
+  [
+   3.0148e-11,
+   2.0449e-05
+  ],
+  [
+   3.1536e-11,
+   2.0466e-05
+  ],
+  [
+   3.3317e-11,
+   2.0288e-05
+  ],
+  [
+   3.4994e-11,
+   1.8221e-05
+  ],
+  [
+   3.6714e-11,
+   1.6107e-05
+  ],
+  [
+   3.8542e-11,
+   1.7475e-05
+  ],
+  [
+   4.0459e-11,
+   1.7411e-05
+  ],
+  [
+   4.2599e-11,
+   1.809e-05
+  ],
+  [
+   4.4841e-11,
+   1.8376e-05
+  ],
+  [
+   4.7176e-11,
+   1.8641e-05
+  ],
+  [
+   4.9561e-11,
+   1.8668e-05
+  ],
+  [
+   5.2339e-11,
+   1.8305e-05
+  ],
+  [
+   5.4832e-11,
+   1.9386e-05
+  ],
+  [
+   5.7754e-11,
+   1.8986e-05
+  ],
+  [
+   6.0589e-11,
+   1.9973e-05
+  ],
+  [
+   6.3564e-11,
+   1.9553e-05
+  ],
+  [
+   6.6886e-11,
+   2.0522e-05
+  ],
+  [
+   7.0267e-11,
+   1.923e-05
+  ],
+  [
+   7.4001e-11,
+   1.9907e-05
+  ],
+  [
+   7.7981e-11,
+   2.4234e-05
+  ],
+  [
+   8.1894e-11,
+   2.2943e-05
+  ],
+  [
+   8.6146e-11,
+   2.1202e-05
+  ],
+  [
+   9.0397e-11,
+   1.9857e-05
+  ],
+  [
+   9.5136e-11,
+   1.9388e-05
+  ],
+  [
+   9.968e-11,
+   2.0232e-05
+  ],
+  [
+   1.0529e-10,
+   2.4667e-05
+  ],
+  [
+   1.1029e-10,
+   2.0181e-05
+  ],
+  [
+   1.1607e-10,
+   2.0841e-05
+  ],
+  [
+   1.2222e-10,
+   2.2846e-05
+  ],
+  [
+   1.2825e-10,
+   3.6047e-05
+  ],
+  [
+   1.3494e-10,
+   2.0813e-05
+  ],
+  [
+   1.4234e-10,
+   2.031e-05
+  ],
+  [
+   1.4926e-10,
+   2.0703e-05
+  ],
+  [
+   1.5692e-10,
+   2.5302e-05
+  ],
+  [
+   1.6545e-10,
+   3.0883e-05
+  ],
+  [
+   1.7275e-10,
+   3.2497e-05
+  ],
+  [
+   1.8284e-10,
+   4.8408e-05
+  ],
+  [
+   1.9182e-10,
+   6.7618e-05
+  ],
+  [
+   2.0098e-10,
+   0.00010561
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "NASDUCK-SERF_2022",
+ "coupling_convention": "g_ap (dimensionless)",
+ "notes": "NASDUCK SERF comagnetometer (K-3He). Headline result: first reliable terrestrial 95% C.L. bound on the ALP-proton coupling g_aPP (Fig. 2 right panel, protons.pdf vector figure from the e-print). The paper also bounds g_aNN (neutrons, left panel); the proton bound is the one the abstract highlights as novel. Extracted the black 'mean' line (binned log-log average of the dense jagged bound at 0.1% mass resolution); the true bound fluctuates around this within the plotted 1-sigma band. Axis calibration from major tick marks; cross-check: curve minimum 4.7e-6 GeV^-1 near 1.3e-11 eV matches the abstract's quoted closing of the 5e-6 to 2e-5 GeV^-1 region. Converted the paper's g_aPP [GeV^-1] (L = g \u2202_mu a p-bar gamma^mu gamma_5 p convention, cf. H = g_I grad(a)\u00b7I with epsilon_P=0.16 proton spin fraction of 39K) to the canonical dimensionless coupling via g_ap = 2 m_p g_aPP, m_p = 0.938 GeV. Two clipped points at the figure boundary (lowest masses, g>0.5 GeV^-1) were dropped. DM density: not stated explicitly; the paper assumes the Standard Halo Model of Lee et al. (2013) \u2014 0.4 GeV/cm^3 recorded as the presumed value. Precise tabulated bounds are on the collaboration's GitHub (not consulted).",
+ "num_points": 100,
+ "arxiv_id": "2209.13588",
+ "elapsed_s": 243.11570620536804,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 242441,
+  "duration_api_ms": 238157,
+  "total_cost_usd": 2.1660545,
+  "usage": {
+   "input_tokens": 473,
+   "output_tokens": 18019,
+   "cache_creation_input_tokens": 50711,
+   "cache_read_input_tokens": 562437
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2209.13588.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:59:27-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

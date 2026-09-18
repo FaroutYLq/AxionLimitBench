@@ -1,0 +1,291 @@
+{
+ "paper_title": "New Limits on Exotic Spin-Dependent Interactions at Astronomical Distances",
+ "coupling_type": "MonopoleDipole",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.97e-21,
+   1.602e-35
+  ],
+  [
+   2.562e-21,
+   1.602e-35
+  ],
+  [
+   3.331e-21,
+   1.602e-35
+  ],
+  [
+   4.331e-21,
+   1.602e-35
+  ],
+  [
+   5.63e-21,
+   1.602e-35
+  ],
+  [
+   7.321e-21,
+   1.602e-35
+  ],
+  [
+   9.518e-21,
+   1.602e-35
+  ],
+  [
+   1.237e-20,
+   1.602e-35
+  ],
+  [
+   1.609e-20,
+   1.602e-35
+  ],
+  [
+   2.092e-20,
+   1.602e-35
+  ],
+  [
+   2.72e-20,
+   1.602e-35
+  ],
+  [
+   3.536e-20,
+   1.602e-35
+  ],
+  [
+   4.598e-20,
+   1.603e-35
+  ],
+  [
+   5.978e-20,
+   1.604e-35
+  ],
+  [
+   7.772e-20,
+   1.605e-35
+  ],
+  [
+   1.011e-19,
+   1.607e-35
+  ],
+  [
+   1.314e-19,
+   1.609e-35
+  ],
+  [
+   1.708e-19,
+   1.615e-35
+  ],
+  [
+   2.221e-19,
+   1.623e-35
+  ],
+  [
+   2.888e-19,
+   1.637e-35
+  ],
+  [
+   3.754e-19,
+   1.659e-35
+  ],
+  [
+   4.881e-19,
+   1.694e-35
+  ],
+  [
+   6.347e-19,
+   1.752e-35
+  ],
+  [
+   8.252e-19,
+   1.847e-35
+  ],
+  [
+   1.073e-18,
+   2.003e-35
+  ],
+  [
+   1.395e-18,
+   2.259e-35
+  ],
+  [
+   1.814e-18,
+   2.695e-35
+  ],
+  [
+   2.358e-18,
+   3.473e-35
+  ],
+  [
+   3.066e-18,
+   4.981e-35
+  ],
+  [
+   3.986e-18,
+   8.291e-35
+  ],
+  [
+   5.182e-18,
+   1.702e-34
+  ],
+  [
+   6.738e-18,
+   4.549e-34
+  ],
+  [
+   8.761e-18,
+   1.717e-33
+  ],
+  [
+   1.139e-17,
+   3.172e-33
+  ],
+  [
+   1.481e-17,
+   3.172e-33
+  ],
+  [
+   1.925e-17,
+   3.173e-33
+  ],
+  [
+   2.503e-17,
+   3.175e-33
+  ],
+  [
+   3.255e-17,
+   3.177e-33
+  ],
+  [
+   4.232e-17,
+   3.181e-33
+  ],
+  [
+   5.502e-17,
+   3.189e-33
+  ],
+  [
+   7.154e-17,
+   3.2e-33
+  ],
+  [
+   9.301e-17,
+   3.218e-33
+  ],
+  [
+   1.209e-16,
+   3.247e-33
+  ],
+  [
+   1.572e-16,
+   3.296e-33
+  ],
+  [
+   2.044e-16,
+   3.376e-33
+  ],
+  [
+   2.658e-16,
+   3.506e-33
+  ],
+  [
+   3.456e-16,
+   3.717e-33
+  ],
+  [
+   4.493e-16,
+   4.057e-33
+  ],
+  [
+   5.842e-16,
+   4.621e-33
+  ],
+  [
+   7.595e-16,
+   5.586e-33
+  ],
+  [
+   9.875e-16,
+   7.343e-33
+  ],
+  [
+   1.284e-15,
+   1.093e-32
+  ],
+  [
+   1.669e-15,
+   1.911e-32
+  ],
+  [
+   2.17e-15,
+   4.124e-32
+  ],
+  [
+   2.822e-15,
+   1.175e-31
+  ],
+  [
+   3.669e-15,
+   4.817e-31
+  ],
+  [
+   4.77e-15,
+   3.165e-30
+  ],
+  [
+   6.202e-15,
+   3.928e-29
+  ],
+  [
+   8.064e-15,
+   1.137e-27
+  ],
+  [
+   1.048e-14,
+   1.002e-25
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "Wu_2023",
+ "coupling_convention": "g_s g_p (dimensionless)",
+ "notes": "Fig. 2 of the paper: 95% C.L. upper limit on the neutron-nucleon monopole-dipole (scalar-pseudoscalar) coupling |g_S^N g_P^n| vs interaction range lambda (10^6-10^14 m), derived from Lorentz/CPT-violation comagnetometer data with the Sun and Moon as sources. Reported curve is the boundary of the dark-grey region excluded by this work: the envelope of the two solid lines (Moon curve for lambda < ~10^10.3 m, Sun curve at larger lambda). Curves extracted from PDF vector paths; axis calibration verified against the quoted asymptote |g_S g_P| < 1.6e-35 for lambda > 10^12 m and against the analytic form (1+R/lambda)exp(-R/lambda) (agreement < 0.01 dex). Range converted to mass via m = 1.97e-7 eV.m / lambda (matches the figure's top mass axis). Curves clipped at the figure frame top (10^-25) at the high-mass end. Not a dark-matter limit; no density assumed.",
+ "num_points": 60,
+ "arxiv_id": "2302.09096",
+ "elapsed_s": 238.4340422153473,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 238065,
+  "duration_api_ms": 235551,
+  "total_cost_usd": 2.078156,
+  "usage": {
+   "input_tokens": 426,
+   "output_tokens": 18198,
+   "cache_creation_input_tokens": 51102,
+   "cache_read_input_tokens": 467171
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2302.09096.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:04:44-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

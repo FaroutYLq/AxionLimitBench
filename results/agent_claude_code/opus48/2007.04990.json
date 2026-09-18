@@ -1,0 +1,49 @@
+{
+ "paper_title": "More Axions from Strings",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": null,
+ "coupling_convention": null,
+ "notes": "Theoretical cosmology paper. It computes the QCD axion dark-matter abundance produced by axion strings during the scaling regime (with nonlinear effects near the QCD scale) using numerical field-theory simulations plus an analytic extrapolation. The headline result (Sec. 4, eqs. 6-7) is a lower bound on the QCD axion mass in the post-inflationary scenario: m_a >~ 0.5 meV, f_a <~ 1e10 GeV for N=1 (KSVZ), and m_a >~ 3.5 meV, f_a <~ 2e9 GeV for N=6 (DFSZ), from requiring the relic abundance not exceed observed DM. This is a theoretical relic-abundance prediction of the axion mass/decay-constant window, NOT an experimental or observational exclusion limit on any of the couplings in the task table (photon, electron, nucleon, EDM, etc.). No coupling-vs-mass exclusion curve is derived. Out of scope; is_new_limit false, is_projection false.",
+ "num_points": 0,
+ "arxiv_id": "2007.04990",
+ "elapsed_s": 25.125725269317627,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 6,
+  "duration_ms": 24817,
+  "duration_api_ms": 24245,
+  "total_cost_usd": 0.266538,
+  "usage": {
+   "input_tokens": 111,
+   "output_tokens": 1665,
+   "cache_creation_input_tokens": 19492,
+   "cache_read_input_tokens": 58876
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2007.04990.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:56:26-0500"
+ }
+}

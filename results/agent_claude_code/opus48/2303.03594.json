@@ -1,0 +1,250 @@
+{
+ "paper_title": "First Results of Axion Dark Matter Search with DANCE",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.4228e-16,
+   0.02792
+  ],
+  [
+   5.2291e-16,
+   0.02792
+  ],
+  [
+   6.1824e-16,
+   0.02715
+  ],
+  [
+   7.3094e-16,
+   0.02715
+  ],
+  [
+   8.6419e-16,
+   0.02715
+  ],
+  [
+   1.0217e-15,
+   0.02715
+  ],
+  [
+   1.208e-15,
+   0.02715
+  ],
+  [
+   1.4282e-15,
+   0.026402
+  ],
+  [
+   1.6886e-15,
+   0.025674
+  ],
+  [
+   1.9964e-15,
+   0.024966
+  ],
+  [
+   2.3603e-15,
+   0.023609
+  ],
+  [
+   2.7906e-15,
+   0.022325
+  ],
+  [
+   3.2993e-15,
+   0.020529
+  ],
+  [
+   3.9008e-15,
+   0.017851
+  ],
+  [
+   4.6119e-15,
+   0.009924
+  ],
+  [
+   5.4527e-15,
+   0.0072968
+  ],
+  [
+   6.4467e-15,
+   0.0047975
+  ],
+  [
+   7.6219e-15,
+   0.0027428
+  ],
+  [
+   9.0114e-15,
+   0.0021931
+  ],
+  [
+   1.0654e-14,
+   0.0020738
+  ],
+  [
+   1.2596e-14,
+   0.0018544
+  ],
+  [
+   1.4893e-14,
+   0.0018033
+  ],
+  [
+   1.7608e-14,
+   0.0015681
+  ],
+  [
+   2.0817e-14,
+   0.0014828
+  ],
+  [
+   2.4612e-14,
+   0.0012192
+  ],
+  [
+   2.9099e-14,
+   0.0012538
+  ],
+  [
+   3.4404e-14,
+   0.0012192
+  ],
+  [
+   4.0676e-14,
+   0.0014022
+  ],
+  [
+   4.8091e-14,
+   0.0011856
+  ],
+  [
+   5.6858e-14,
+   0.0010602
+  ],
+  [
+   6.7223e-14,
+   0.001031
+  ],
+  [
+   7.9478e-14,
+   0.00097491
+  ],
+  [
+   9.3966e-14,
+   0.00094803
+  ],
+  [
+   1.111e-13,
+   0.00092189
+  ],
+  [
+   1.3135e-13,
+   0.00089648
+  ],
+  [
+   1.5529e-13,
+   0.0011529
+  ],
+  [
+   1.836e-13,
+   0.0013635
+  ],
+  [
+   2.1707e-13,
+   0.0014419
+  ],
+  [
+   2.5665e-13,
+   0.0012538
+  ],
+  [
+   3.0343e-13,
+   0.0012192
+  ],
+  [
+   3.5875e-13,
+   0.0013635
+  ],
+  [
+   4.2415e-13,
+   0.0013635
+  ],
+  [
+   5.0147e-13,
+   0.0014419
+  ],
+  [
+   5.9289e-13,
+   0.0015681
+  ],
+  [
+   7.0097e-13,
+   0.0017536
+  ],
+  [
+   8.2876e-13,
+   0.0021931
+  ],
+  [
+   9.7984e-13,
+   0.0021931
+  ],
+  [
+   1.1585e-12,
+   0.0025221
+  ],
+  [
+   1.3696e-12,
+   0.0027428
+  ],
+  [
+   1.6193e-12,
+   0.0031543
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "DANCE_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "DANCE Act-1 prototype, polarization-based (bow-tie cavity) axion DM search, no external B field. Headline 95% C.L. upper limit on g_agamma, Fig.6 blue 'This work' curve (already in GeV^-1 via Eq.19). Extracted the lower boundary of the excluded (blue-shaded) region per column from raster fig_upperlimits_ver5.png (e-print), taking the min-g envelope so the noise-peak spikes (which raise the limit locally) are excluded. Best limit g_agamma=~9e-4 GeV^-1 near m_a=1.3e-13 eV, consistent with abstract 'g_agamma < 8e-4 GeV^-1 in 1e-14<m_a<1e-13 eV'. Mass range set by 0.1-490 Hz analysis band -> m_a ~4e-16 to ~1.6e-12 eV (f_a=2.4Hz*(m_a/1e-14 eV)). DM density assumed rho_a=0.4 GeV/cm^3 (Sun), not rescaled per convention. Limit did not exceed CAST.",
+ "num_points": 50,
+ "arxiv_id": "2303.03594",
+ "elapsed_s": 141.5516517162323,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 141222,
+  "duration_api_ms": 138019,
+  "total_cost_usd": 0.8365135,
+  "usage": {
+   "input_tokens": 453,
+   "output_tokens": 9616,
+   "cache_creation_input_tokens": 36150,
+   "cache_read_input_tokens": 464697
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2303.03594.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:18:35-0500"
+ }
+}

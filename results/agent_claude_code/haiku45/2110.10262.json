@@ -1,0 +1,102 @@
+{
+ "paper_title": "Dark Matter Axion Search Using a Josephson Traveling Wave Parametric Amplifier",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.9835e-05,
+   4e-13
+  ],
+  [
+   1.9836e-05,
+   3.5e-13
+  ],
+  [
+   1.9837e-05,
+   3e-13
+  ],
+  [
+   1.9838e-05,
+   2.3e-13
+  ],
+  [
+   1.98395e-05,
+   1.5e-13
+  ],
+  [
+   1.984e-05,
+   1.8e-13
+  ],
+  [
+   1.9841e-05,
+   2.2e-13
+  ],
+  [
+   1.9842e-05,
+   2.6e-13
+  ],
+  [
+   1.9843e-05,
+   3e-13
+  ],
+  [
+   1.9844e-05,
+   3.4e-13
+  ],
+  [
+   1.9845e-05,
+   3.7e-13
+  ],
+  [
+   1.9846e-05,
+   3.9e-13
+  ],
+  [
+   1.9847e-05,
+   4e-13
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "ADMX_JTWPA_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Exclusion limit extracted from Figure 7 (page 5), tracing upper boundary of purple 'This work' region. Narrow axion mass range 19.835-19.847 \u00b5eV due to 2-week run with sticking tuning rod on sidecar cavity. Shape variation caused by TM010 mode frequency drift (4.7975-4.7990 GHz) during data-taking from liquid helium filling vibrations. DFSZ model. Confidence level not explicitly stated in paper but 95% CL is standard for haloscope experiments. Optimal filtering used with Maxwell-Boltzmann line shape assumption per Turner 1990.",
+ "num_points": 13,
+ "arxiv_id": "2110.10262",
+ "elapsed_s": 79.8387188911438,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 4,
+  "duration_ms": 79530,
+  "duration_api_ms": 79409,
+  "total_cost_usd": 0.1122003,
+  "usage": {
+   "input_tokens": 28,
+   "output_tokens": 7588,
+   "cache_creation_input_tokens": 34032,
+   "cache_read_input_tokens": 61683
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2110.10262.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:09:45-0500"
+ }
+}

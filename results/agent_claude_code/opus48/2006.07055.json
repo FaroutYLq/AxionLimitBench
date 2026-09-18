@@ -1,0 +1,350 @@
+{
+ "paper_title": "Searching for dark matter with an unequal delay interferometer",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.1558e-11,
+   8814.7
+  ],
+  [
+   4.3205e-11,
+   6957.7
+  ],
+  [
+   4.4917e-11,
+   5238.2
+  ],
+  [
+   4.6697e-11,
+   4996.1
+  ],
+  [
+   4.8784e-11,
+   4545.0
+  ],
+  [
+   5.0717e-11,
+   4545.0
+  ],
+  [
+   5.2727e-11,
+   4545.0
+  ],
+  [
+   5.5083e-11,
+   4335.0
+  ],
+  [
+   5.7266e-11,
+   4765.2
+  ],
+  [
+   5.9535e-11,
+   4765.2
+  ],
+  [
+   6.2196e-11,
+   5238.2
+  ],
+  [
+   6.466e-11,
+   7648.2
+  ],
+  [
+   6.7223e-11,
+   12276.0
+  ],
+  [
+   7.0227e-11,
+   12276.0
+  ],
+  [
+   7.301e-11,
+   5491.9
+  ],
+  [
+   7.5903e-11,
+   4335.0
+  ],
+  [
+   7.8911e-11,
+   2968.9
+  ],
+  [
+   8.2437e-11,
+   2576.1
+  ],
+  [
+   8.5704e-11,
+   2033.4
+  ],
+  [
+   8.91e-11,
+   2033.4
+  ],
+  [
+   9.3082e-11,
+   2033.4
+  ],
+  [
+   9.6771e-11,
+   2033.4
+  ],
+  [
+   1.0061e-10,
+   2033.4
+  ],
+  [
+   1.051e-10,
+   1849.8
+  ],
+  [
+   1.0927e-10,
+   752.86
+  ],
+  [
+   1.136e-10,
+   388.19
+  ],
+  [
+   1.1867e-10,
+   388.19
+  ],
+  [
+   1.2338e-10,
+   827.58
+  ],
+  [
+   1.2826e-10,
+   1939.4
+  ],
+  [
+   1.34e-10,
+   6957.7
+  ],
+  [
+   1.3931e-10,
+   6957.7
+  ],
+  [
+   1.4483e-10,
+   5491.9
+  ],
+  [
+   1.5057e-10,
+   4335.0
+  ],
+  [
+   1.5729e-10,
+   4335.0
+  ],
+  [
+   1.6353e-10,
+   8814.7
+  ],
+  [
+   1.7001e-10,
+   12276.0
+  ],
+  [
+   1.7761e-10,
+   12276.0
+  ],
+  [
+   1.8464e-10,
+   9689.5
+  ],
+  [
+   1.9196e-10,
+   9689.5
+  ],
+  [
+   2.0054e-10,
+   15552.0
+  ],
+  [
+   2.0849e-10,
+   17095.0
+  ],
+  [
+   2.1675e-10,
+   19702.0
+  ],
+  [
+   2.2643e-10,
+   19702.0
+  ],
+  [
+   2.3541e-10,
+   20657.0
+  ],
+  [
+   2.4474e-10,
+   26170.0
+  ],
+  [
+   2.5443e-10,
+   28768.0
+  ],
+  [
+   2.658e-10,
+   28768.0
+  ],
+  [
+   2.7634e-10,
+   46173.0
+  ],
+  [
+   2.8729e-10,
+   46173.0
+  ],
+  [
+   3.0013e-10,
+   50755.0
+  ],
+  [
+   3.1202e-10,
+   89548.0
+  ],
+  [
+   3.2438e-10,
+   89548.0
+  ],
+  [
+   3.3888e-10,
+   23807.0
+  ],
+  [
+   3.5231e-10,
+   23807.0
+  ],
+  [
+   3.6627e-10,
+   38211.0
+  ],
+  [
+   3.8264e-10,
+   44039.0
+  ],
+  [
+   3.978e-10,
+   55792.0
+  ],
+  [
+   4.1357e-10,
+   70683.0
+  ],
+  [
+   4.3205e-10,
+   77698.0
+  ],
+  [
+   4.4917e-10,
+   108200.0
+  ],
+  [
+   4.6697e-10,
+   93886.0
+  ],
+  [
+   4.8547e-10,
+   130750.0
+  ],
+  [
+   5.0717e-10,
+   130750.0
+  ],
+  [
+   5.2727e-10,
+   200160.0
+  ],
+  [
+   5.4816e-10,
+   200160.0
+  ],
+  [
+   5.7266e-10,
+   200160.0
+  ],
+  [
+   5.9535e-10,
+   124710.0
+  ],
+  [
+   6.1894e-10,
+   157990.0
+  ],
+  [
+   6.466e-10,
+   157990.0
+  ],
+  [
+   6.7223e-10,
+   469060.0
+  ],
+  [
+   6.9887e-10,
+   469060.0
+  ],
+  [
+   7.301e-10,
+   306410.0
+  ],
+  [
+   7.5903e-10,
+   306410.0
+  ],
+  [
+   7.8911e-10,
+   292250.0
+  ],
+  [
+   8.2437e-10,
+   241860.0
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "DAMNED_2021",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "DAMNED unequal-delay interferometer (Paris Observatory). 95% CL upper limit on the dilatonic coupling d_e in the standard galactic DM model, traced from the green DAMNED curve in Fig. 3 (top-left panel), which is the paper's headline result. The paper uses a 'maximum reach approach', setting d_me=0 when bounding d_e (Damour-Donoghue convention, alpha->alpha(1+d_e kappa phi), matching the canonical definition, so no conversion needed). A parallel d_me (ScalarElectron) limit is shown in the top-right panel; d_e is chosen as the main coupling (enters Eq.(3) with the largest, factor-2, weight). Mass axis via f_phi=m c^2/h with x=88px->1e4 Hz, x=562px->1e5 Hz (decade=474px), giving mass range [4.1e-11, 8.3e-10] eV as in the abstract. The curve traced is the smoothed centre of the noisy limit band; the deep narrow resonance dips at cavity mechanical resonances (n=1 at ~27.6 kHz i.e. m~1.14e-10 eV, and odd harmonics), which reach several orders of magnitude lower, are NOT individually resolved here. Density: galactic DM model with rho_DM=0.4 GeV/cm^3.",
+ "num_points": 75,
+ "arxiv_id": "2006.07055",
+ "elapsed_s": 286.88396310806274,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 286555,
+  "duration_api_ms": 282643,
+  "total_cost_usd": 1.1421565,
+  "usage": {
+   "input_tokens": 579,
+   "output_tokens": 19437,
+   "cache_creation_input_tokens": 37985,
+   "cache_read_input_tokens": 546973
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2006.07055.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:54:40-0500"
+ }
+}

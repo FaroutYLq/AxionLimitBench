@@ -1,0 +1,49 @@
+{
+ "paper_title": "A deep search for decaying dark matter with XMM-Newton blank-sky observations",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": 0.29,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "XMM_BSO_2021",
+ "coupling_convention": null,
+ "notes": "The paper's headline measured result (Fig. 3) is a power-constrained 95% upper limit on the sterile-neutrino mixing angle sin^2(2theta) (equivalently the decaying-DM lifetime) versus DM mass m_chi over 5-16 keV, from XMM-Newton blank-sky observations. This is a decaying sterile-neutrino DM search; the constrained quantity (sin^2(2theta) / DM lifetime) does not correspond to any coupling in the AxionLimitBench canonical table (AxionPhoton, AxionElectron, DarkPhoton, etc.). The paper notes in passing that axion-like-particle DM and moduli DM predict similar unassociated X-ray line signatures, but it does NOT present an axion-photon (or other listed) coupling limit as its result. Hence out of scope: is_new_limit=false, coupling_type=null. dm_density_assumed=0.29 GeV/cm^3 is the local DM density from the fiducial NFW profile used (r_0=6.6e6 Msun/kpc^3, r_s=19.1 kpc), reported for reference only. No data points emitted.",
+ "num_points": 0,
+ "arxiv_id": "2102.02207",
+ "elapsed_s": 40.408297061920166,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 6,
+  "duration_ms": 40043,
+  "duration_api_ms": 39443,
+  "total_cost_usd": 0.26992,
+  "usage": {
+   "input_tokens": 112,
+   "output_tokens": 2465,
+   "cache_creation_input_tokens": 17903,
+   "cache_read_input_tokens": 57410
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2102.02207.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:28:07-0500"
+ }
+}

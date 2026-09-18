@@ -1,0 +1,306 @@
+{
+ "paper_title": "Constraints on scalar field dark matter from colocated Michelson interferometers",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.56e-12,
+   18770000000.0
+  ],
+  [
+   3.121e-12,
+   225000000.0
+  ],
+  [
+   4.681e-12,
+   378600000.0
+  ],
+  [
+   6.241e-12,
+   302300000.0
+  ],
+  [
+   7.802e-12,
+   406900000.0
+  ],
+  [
+   9.362e-12,
+   590100000.0
+  ],
+  [
+   1.092e-11,
+   1134000000.0
+  ],
+  [
+   1.324e-11,
+   450000000.0
+  ],
+  [
+   1.56e-11,
+   347900000.0
+  ],
+  [
+   1.793e-11,
+   281400000.0
+  ],
+  [
+   2.105e-11,
+   238200000.0
+  ],
+  [
+   2.493e-11,
+   188600000.0
+  ],
+  [
+   2.962e-11,
+   211300000.0
+  ],
+  [
+   3.43e-11,
+   115500000.0
+  ],
+  [
+   3.975e-11,
+   78110000.0
+  ],
+  [
+   4.676e-11,
+   28270000.0
+  ],
+  [
+   5.533e-11,
+   17830000.0
+  ],
+  [
+   6.47e-11,
+   14490000.0
+  ],
+  [
+   7.559e-11,
+   11340000.0
+  ],
+  [
+   8.885e-11,
+   9328000.0
+  ],
+  [
+   1.044e-10,
+   9705000.0
+  ],
+  [
+   1.224e-10,
+   14160000.0
+  ],
+  [
+   1.426e-10,
+   20280000.0
+  ],
+  [
+   1.668e-10,
+   12170000.0
+  ],
+  [
+   1.956e-10,
+   3110000.0
+  ],
+  [
+   2.299e-10,
+   2653000.0
+  ],
+  [
+   2.697e-10,
+   2928000.0
+  ],
+  [
+   3.157e-10,
+   3522000.0
+  ],
+  [
+   3.694e-10,
+   2170000.0
+  ],
+  [
+   4.326e-10,
+   2407000.0
+  ],
+  [
+   5.074e-10,
+   1993000.0
+  ],
+  [
+   5.947e-10,
+   1650000.0
+  ],
+  [
+   6.968e-10,
+   967100.0
+  ],
+  [
+   8.168e-10,
+   274200.0
+  ],
+  [
+   9.571e-10,
+   7193.0
+  ],
+  [
+   1.122e-09,
+   689900.0
+  ],
+  [
+   1.314e-09,
+   2322000.0
+  ],
+  [
+   1.539e-09,
+   4143000.0
+  ],
+  [
+   1.804e-09,
+   4193000.0
+  ],
+  [
+   2.113e-09,
+   4174000.0
+  ],
+  [
+   2.475e-09,
+   3511000.0
+  ],
+  [
+   2.9e-09,
+   4290000.0
+  ],
+  [
+   3.398e-09,
+   7038000.0
+  ],
+  [
+   3.983e-09,
+   10410000.0
+  ],
+  [
+   4.666e-09,
+   15970000.0
+  ],
+  [
+   5.466e-09,
+   24690000.0
+  ],
+  [
+   6.405e-09,
+   38810000.0
+  ],
+  [
+   7.505e-09,
+   60140000.0
+  ],
+  [
+   8.793e-09,
+   95400000.0
+  ],
+  [
+   1.03e-08,
+   155200000.0
+  ],
+  [
+   1.207e-08,
+   286100000.0
+  ],
+  [
+   1.415e-08,
+   675600000.0
+  ],
+  [
+   1.657e-08,
+   1650000000.0
+  ],
+  [
+   1.942e-08,
+   1180000000.0
+  ],
+  [
+   2.275e-08,
+   1180000000.0
+  ],
+  [
+   2.666e-08,
+   1524000000.0
+  ],
+  [
+   3.123e-08,
+   4412000000.0
+  ],
+  [
+   3.659e-08,
+   4029000000.0
+  ],
+  [
+   4.288e-08,
+   4312000000.0
+  ],
+  [
+   5.024e-08,
+   8936000000.0
+  ],
+  [
+   5.886e-08,
+   8987000000.0
+  ],
+  [
+   6.896e-08,
+   16900000000.0
+  ],
+  [
+   8.08e-08,
+   29410000000.0
+  ],
+  [
+   9.467e-08,
+   32490000000.0
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.62,
+ "suggested_experiment_name": "Holometer_2021",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Fermilab Holometer twin 40-m Michelson interferometers, cross-correlated scalar-DM search. Headline = photon coupling Lambda_gamma, Basic Scalar scenario (Fig.2 top-right, gammaC_scalar.pdf), which is identical to the Dilaton/Modulus scenario (same rho=0.4 GeV/cm^3). Red exclusion region boundary (lower edge = smallest excluded 1/Lambda_gamma) extracted from the vector fill via pymupdf get_drawings; axis calibration from frame gridlines (x:10^-15..10^-5 eV, y:10^-25..10^-5 GeV^-1). Converted Lambda_gamma^-1 -> d_e using alpha->alpha(1+phi/Lambda_gamma)=alpha(1+d_e kappa phi), so d_e=(1/Lambda_gamma)/kappa, kappa=sqrt(4pi)/M_Pl, M_Pl=1.22e19 GeV, 1/kappa=3.4416e18. Paper also reports the electron coupling Lambda_e (Fig.2 left; ScalarElectron d_me=(1/Lambda_e)/kappa) equally; photon chosen as main. Relaxion Halo scenario (Fig.2 bottom) assumes enhanced density and is not used. Bathtub curve, min d_e~7e5 near 1e-9 eV. Mass range 1.6e-12..1.0e-7 eV matches abstract.",
+ "num_points": 64,
+ "arxiv_id": "2108.04746",
+ "elapsed_s": 219.83353877067566,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 219531,
+  "duration_api_ms": 215117,
+  "total_cost_usd": 1.0775955,
+  "usage": {
+   "input_tokens": 600,
+   "output_tokens": 15811,
+   "cache_creation_input_tokens": 40935,
+   "cache_read_input_tokens": 575941
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2108.04746.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:45:52-0500"
+ }
+}

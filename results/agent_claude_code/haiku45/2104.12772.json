@@ -1,0 +1,49 @@
+{
+ "paper_title": "No evidence for axions from Chandra observation of magnetic white dwarf",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.15,
+ "suggested_experiment_name": "Chandra_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Product constraint on two couplings: g_a\u03b3\u03b3 \u00d7 g_aee < 1.3 \u00d7 10^-25 GeV^-1 at 95% CL for m_a < 10^-5 eV from Chandra X-ray non-observation of RE J0317-853. This is not a direct constraint on g_a\u03b3\u03b3 alone but on the product with axion-electron coupling g_aee. The paper discusses two model scenarios: (i) tree-level DFSZ with C_aee = C_a\u03b3\u03b3, and (ii) loop-induced KSVZ with C_aee \u2248 1.5\u00d710^-8 C_a\u03b3\u03b3. Conversion to a single g_a\u03b3\u03b3 limit requires model-specific assumptions about the relationship between C_aee and C_a\u03b3\u03b3. The constraint applies across the entire low-mass range m_a < 10^-5 eV with no mass-dependent structure presented. Observation details: 37.42 ks Chandra ACIS-I exposure on 2020-12-18, modern 40 ks dataset. The non-observation of axion-induced X-ray signals from bremsstrahlung and electro-Primakoff production constrains the coupling product. For higher masses m_a > 10^-5 eV, the constraint weakens as different production mechanisms dominate.",
+ "num_points": 0,
+ "arxiv_id": "2104.12772",
+ "elapsed_s": 194.4046449661255,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 193720,
+  "duration_api_ms": 190300,
+  "total_cost_usd": 0.20701509999999998,
+  "usage": {
+   "input_tokens": 72,
+   "output_tokens": 16865,
+   "cache_creation_input_tokens": 48772,
+   "cache_read_input_tokens": 250741
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2104.12772.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:50:37-0500"
+ }
+}

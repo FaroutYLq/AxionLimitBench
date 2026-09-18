@@ -1,0 +1,291 @@
+{
+ "paper_title": "The State of the Art in Constraining Axion-to-Nucleon Coupling and Non-Newtonian Gravity from Laboratory Experiments",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.001,
+   0.00379662
+  ],
+  [
+   0.00121547,
+   0.00383996
+  ],
+  [
+   0.00147738,
+   0.0038866
+  ],
+  [
+   0.00179571,
+   0.00393701
+  ],
+  [
+   0.00218264,
+   0.0039923
+  ],
+  [
+   0.00265295,
+   0.00405324
+  ],
+  [
+   0.00322459,
+   0.00412006
+  ],
+  [
+   0.00391941,
+   0.00419465
+  ],
+  [
+   0.00476394,
+   0.00427807
+  ],
+  [
+   0.00579044,
+   0.00437086
+  ],
+  [
+   0.00703814,
+   0.00447416
+  ],
+  [
+   0.00855467,
+   0.00458931
+  ],
+  [
+   0.010398,
+   0.00471782
+  ],
+  [
+   0.0126385,
+   0.00486134
+  ],
+  [
+   0.0153617,
+   0.00502527
+  ],
+  [
+   0.0186718,
+   0.005212
+  ],
+  [
+   0.0226951,
+   0.00542368
+  ],
+  [
+   0.0275853,
+   0.0056656
+  ],
+  [
+   0.0335292,
+   0.00594377
+  ],
+  [
+   0.0407539,
+   0.00626433
+  ],
+  [
+   0.0495354,
+   0.0066382
+  ],
+  [
+   0.0602089,
+   0.00708367
+  ],
+  [
+   0.0731824,
+   0.00760905
+  ],
+  [
+   0.0889513,
+   0.00823321
+  ],
+  [
+   0.108118,
+   0.00898038
+  ],
+  [
+   0.131415,
+   0.00987567
+  ],
+  [
+   0.159731,
+   0.0109819
+  ],
+  [
+   0.194149,
+   0.0123623
+  ],
+  [
+   0.235983,
+   0.0141016
+  ],
+  [
+   0.286832,
+   0.0163292
+  ],
+  [
+   0.348637,
+   0.0192635
+  ],
+  [
+   0.423759,
+   0.0232348
+  ],
+  [
+   0.515068,
+   0.0287292
+  ],
+  [
+   0.626052,
+   0.0366206
+  ],
+  [
+   0.76095,
+   0.0485213
+  ],
+  [
+   0.924915,
+   0.0644866
+  ],
+  [
+   1.12421,
+   0.074222
+  ],
+  [
+   1.36645,
+   0.0871201
+  ],
+  [
+   1.66088,
+   0.10226
+  ],
+  [
+   2.01876,
+   0.120558
+  ],
+  [
+   2.45375,
+   0.155223
+  ],
+  [
+   2.98247,
+   0.199855
+  ],
+  [
+   3.62512,
+   0.279489
+  ],
+  [
+   4.40624,
+   0.408244
+  ],
+  [
+   5.35567,
+   0.639866
+  ],
+  [
+   6.50968,
+   1.09417
+  ],
+  [
+   7.91234,
+   1.84308
+  ],
+  [
+   9.61725,
+   2.43819
+  ],
+  [
+   11.6895,
+   3.35051
+  ],
+  [
+   14.2083,
+   4.82319
+  ],
+  [
+   17.2698,
+   7.3409
+  ],
+  [
+   20.991,
+   9.28965
+  ],
+  [
+   25.5141,
+   11.5058
+  ],
+  [
+   31.0117,
+   14.7061
+  ],
+  [
+   37.6939,
+   19.5206
+  ],
+  [
+   45.816,
+   27.0138
+  ],
+  [
+   55.6881,
+   39.2817
+  ],
+  [
+   67.6875,
+   60.5772
+  ],
+  [
+   82.2724,
+   100.145
+  ],
+  [
+   100.0,
+   179.794
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "CasimirForce_2020",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Review by Mostepanenko & Klimchitskaya summarizing the authors' own constraints on the axion-nucleon coupling from Casimir-effect experiments (GUT axions/ALPs, two-axion exchange). Curve is the lower envelope of Figure 8 lines 1 (Casimir-less experiment, strongest for m_a < 0.9 eV), 2 (Casimir pressure, 0.9-8 eV), 3 (lateral Casimir force, 8-17.8 eV) and 'new' (Casimir force at nanometer separations, Au sphere vs SiC plate, > 17.8 eV), extracted from the vector EPS figVMM-8.eps in the e-print. Axis calibration verified against text-quoted crossings at 0.9, ~8 and 17.8 eV. Figure plots g_an^2/(4pi); reported g_an = sqrt(4pi * y). Paper assumes g_an = g_ap (axion-to-nucleon); reported as AxionNeutron with the same value applying to protons. The paper's g_an is the dimensionless pseudoscalar coupling entering V = g_an^2/(16 pi m^2)[...] (Eq. 11), identical to the canonical dimensionless g_an; no 2m_N conversion needed. Experimental errors determined at 95% CL. Envelope displayed from m_a = 1e-3 eV (frame edge in Figs 6 and 8) to 100 eV. Not a dark-matter search; density-independent (fifth-force/two-axion-exchange lab limit).",
+ "num_points": 60,
+ "arxiv_id": "2009.04517",
+ "elapsed_s": 265.82871198654175,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 265321,
+  "duration_api_ms": 261589,
+  "total_cost_usd": 2.2560545,
+  "usage": {
+   "input_tokens": 554,
+   "output_tokens": 17848,
+   "cache_creation_input_tokens": 52724,
+   "cache_read_input_tokens": 637332
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2009.04517.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:19:11-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

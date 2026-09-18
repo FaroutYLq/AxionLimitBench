@@ -1,0 +1,214 @@
+{
+ "paper_title": "Search for Dark Photon Dark Matter in the Mass Range 41-74 ueV using Millimeter-Wave Receiver and Radioshielding Box",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   41.567,
+   1.07e-10
+  ],
+  [
+   42.17,
+   1.085e-10
+  ],
+  [
+   42.781,
+   1.099e-10
+  ],
+  [
+   43.401,
+   1.099e-10
+  ],
+  [
+   44.03,
+   1.176e-10
+  ],
+  [
+   44.668,
+   1.161e-10
+  ],
+  [
+   45.316,
+   1.161e-10
+  ],
+  [
+   45.973,
+   1.193e-10
+  ],
+  [
+   46.639,
+   1.145e-10
+  ],
+  [
+   47.315,
+   1.13e-10
+  ],
+  [
+   48.001,
+   1.13e-10
+  ],
+  [
+   48.697,
+   1.161e-10
+  ],
+  [
+   49.403,
+   1.161e-10
+  ],
+  [
+   50.119,
+   1.193e-10
+  ],
+  [
+   50.845,
+   1.193e-10
+  ],
+  [
+   51.582,
+   1.193e-10
+  ],
+  [
+   52.33,
+   1.225e-10
+  ],
+  [
+   53.088,
+   1.242e-10
+  ],
+  [
+   53.858,
+   1.225e-10
+  ],
+  [
+   54.639,
+   1.242e-10
+  ],
+  [
+   55.431,
+   1.259e-10
+  ],
+  [
+   56.234,
+   1.259e-10
+  ],
+  [
+   57.049,
+   1.293e-10
+  ],
+  [
+   57.876,
+   1.276e-10
+  ],
+  [
+   58.715,
+   1.311e-10
+  ],
+  [
+   59.566,
+   1.311e-10
+  ],
+  [
+   60.43,
+   1.329e-10
+  ],
+  [
+   61.306,
+   1.329e-10
+  ],
+  [
+   62.194,
+   1.366e-10
+  ],
+  [
+   63.096,
+   1.384e-10
+  ],
+  [
+   64.01,
+   1.442e-10
+  ],
+  [
+   64.938,
+   1.422e-10
+  ],
+  [
+   65.879,
+   1.422e-10
+  ],
+  [
+   66.834,
+   1.384e-10
+  ],
+  [
+   67.803,
+   1.442e-10
+  ],
+  [
+   68.786,
+   1.501e-10
+  ],
+  [
+   69.783,
+   1.607e-10
+  ],
+  [
+   70.795,
+   1.651e-10
+  ],
+  [
+   71.821,
+   1.743e-10
+  ],
+  [
+   72.862,
+   1.719e-10
+  ],
+  [
+   73.918,
+   1.79e-10
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.39,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "DOSUE-RR_2023",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "DOSUE-RR millimeter-wave DPDM search, 10-18 GHz (mass 41-74 ueV). Headline 95% CL upper limit on kinetic mixing chi < (0.5-3.9)e-10. Curve traced as the lower boundary of the red 'This work' filled region in Fig.11 (limit.png raster; no ancillary data file). Axis calibration: x log10 10-1e4 ueV (cols 145-1105), y log10 chi 1e-8..1e-11 (rows 99-609). Main boundary runs ~1.07e-10 at 41 ueV rising to ~1.79e-10 at 74 ueV; thin downward spikes reach ~0.5e-10 (matches paper's 0.5 end), sparse upward spikes (weakest 3.9e-10) are sub-pixel and not resolved. Density rho=0.39 GeV/cm3 per paper (not rescaled).",
+ "num_points": 41,
+ "arxiv_id": "2308.14656",
+ "elapsed_s": 186.38886904716492,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 186066,
+  "duration_api_ms": 181563,
+  "total_cost_usd": 1.0056125000000002,
+  "usage": {
+   "input_tokens": 561,
+   "output_tokens": 13084,
+   "cache_creation_input_tokens": 38961,
+   "cache_read_input_tokens": 572195
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2308.14656.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:49:08-0500"
+ }
+}

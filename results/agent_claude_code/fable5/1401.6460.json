@@ -1,0 +1,231 @@
+{
+ "paper_title": "Constraining Axion Dark Matter with Big Bang Nucleosynthesis",
+ "coupling_type": "AxionEDM",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.259e-22,
+   2.004e-21
+  ],
+  [
+   3.95e-22,
+   2.667e-21
+  ],
+  [
+   1.239e-21,
+   3.549e-21
+  ],
+  [
+   3.888e-21,
+   4.724e-21
+  ],
+  [
+   1.22e-20,
+   6.287e-21
+  ],
+  [
+   3.828e-20,
+   8.369e-21
+  ],
+  [
+   1.201e-19,
+   1.114e-20
+  ],
+  [
+   3.768e-19,
+   1.482e-20
+  ],
+  [
+   1.182e-18,
+   1.973e-20
+  ],
+  [
+   3.71e-18,
+   2.626e-20
+  ],
+  [
+   1.164e-17,
+   3.495e-20
+  ],
+  [
+   3.652e-17,
+   4.652e-20
+  ],
+  [
+   1.146e-16,
+   1.574e-19
+  ],
+  [
+   3.595e-16,
+   4.94e-19
+  ],
+  [
+   1.128e-15,
+   1.55e-18
+  ],
+  [
+   3.539e-15,
+   4.864e-18
+  ],
+  [
+   1.11e-14,
+   1.526e-17
+  ],
+  [
+   3.484e-14,
+   4.789e-17
+  ],
+  [
+   1.093e-13,
+   1.503e-16
+  ],
+  [
+   3.429e-13,
+   4.716e-16
+  ],
+  [
+   1.076e-12,
+   1.48e-15
+  ],
+  [
+   3.376e-12,
+   4.644e-15
+  ],
+  [
+   1.059e-11,
+   1.457e-14
+  ],
+  [
+   3.323e-11,
+   4.572e-14
+  ],
+  [
+   1.043e-10,
+   1.435e-13
+  ],
+  [
+   3.272e-10,
+   4.502e-13
+  ],
+  [
+   1.027e-09,
+   1.413e-12
+  ],
+  [
+   3.221e-09,
+   4.434e-12
+  ],
+  [
+   1.011e-08,
+   1.391e-11
+  ],
+  [
+   3.171e-08,
+   4.365e-11
+  ],
+  [
+   9.948e-08,
+   1.37e-10
+  ],
+  [
+   3.121e-07,
+   4.298e-10
+  ],
+  [
+   9.793e-07,
+   1.349e-09
+  ],
+  [
+   3.073e-06,
+   4.233e-09
+  ],
+  [
+   9.64e-06,
+   1.328e-08
+  ],
+  [
+   3.025e-05,
+   4.168e-08
+  ],
+  [
+   9.49e-05,
+   1.308e-07
+  ],
+  [
+   0.0002978,
+   4.104e-07
+  ],
+  [
+   0.0009342,
+   1.288e-06
+  ],
+  [
+   0.002931,
+   4.041e-06
+  ],
+  [
+   0.009197,
+   1.268e-05
+  ],
+  [
+   0.02886,
+   3.979e-05
+  ],
+  [
+   0.09054,
+   0.0001249
+  ],
+  [
+   0.2841,
+   0.0003918
+  ],
+  [
+   0.8913,
+   0.0008971
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "BBN_2014",
+ "coupling_convention": "g_d [GeV^-2]",
+ "notes": "BBN 4He exclusion (orange region, left panel of Fig. 1) from the axion e-print figure gdFinal.pdf, extracted from the vector paths. Axes calibrated from tick marks; g_d axis verified against the paper's QCD-axion line, confirming the plotted convention g_d = e*(2.4e-16 cm)/f_a ~ 3.7e-3 GeV^-1/f_a (dn = g_d a in natural units), matching the canonical L = -(i/2) g_d a Nbar sigma_munu gamma_5 N F^munu. The paper draws the bound as a thick line whose width reflects the ~40% uncertainty in g_d (eq. 16); I report the geometric center of that band (edges differ by ~factor 2.3), so the curve is within ~1.5x of either edge. Text bound: f_a m_a > 1.3e-9 GeV^2 for m_a > 1e-16 eV (delta Yp/Yp < 10%, Yp 95% CL range from PDG), scaling as f_a m_a > 1.8e-9 GeV^2 (m_a/1e-16 eV)^{3/4} for ultralight m_a; the extracted curve shows the corresponding slope-1 and slope-1/4 regimes. Cosmological bound (mean DM density from Planck), so no local-density rescaling. CASPEr curves in the right panel are projections and are not reported.",
+ "num_points": 45,
+ "arxiv_id": "1401.6460",
+ "elapsed_s": 291.22626090049744,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 290964,
+  "duration_api_ms": 288096,
+  "total_cost_usd": 2.398158,
+  "usage": {
+   "input_tokens": 314,
+   "output_tokens": 22626,
+   "cache_creation_input_tokens": 47681,
+   "cache_read_input_tokens": 310098
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1401.6460.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:55:02-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

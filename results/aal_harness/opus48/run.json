@@ -1,0 +1,9 @@
+{
+ "system": "aal_harness",
+ "model": "claude-opus-4-8",
+ "imported_from": "AutoAxionLimits evaluation/eval_runs/final347_remediated (master 73682236)",
+ "run_dates": "2026-07-15..2026-07-16",
+ "transport_notes": "claude-cli (subscription), N=1; definitive Opus arm of the PDU manuscript",
+ "n_snapshots": 347,
+ "harness": "AutoAxionLimits extraction pipeline (text/table/vision/vector channels, convention registry, deterministic gates, corroboration, convention-review flags); snapshots are raw per-paper predictions, unmodified"
+}

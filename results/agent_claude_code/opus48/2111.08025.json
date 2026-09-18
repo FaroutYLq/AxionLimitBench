@@ -1,0 +1,250 @@
+{
+ "paper_title": "Strong constraints on decay and annihilation of dark matter from heating of gas-rich dwarf galaxies",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   27.2275,
+   1.1071e-09
+  ],
+  [
+   29.8583,
+   3.4791e-13
+  ],
+  [
+   32.7409,
+   2.1932e-13
+  ],
+  [
+   35.901,
+   1.595e-13
+  ],
+  [
+   39.3669,
+   1.2298e-13
+  ],
+  [
+   43.1674,
+   9.7907e-14
+  ],
+  [
+   47.3312,
+   8.0756e-14
+  ],
+  [
+   51.9006,
+   7.507e-14
+  ],
+  [
+   56.9111,
+   6.4404e-14
+  ],
+  [
+   62.4041,
+   5.5441e-14
+  ],
+  [
+   68.4286,
+   4.7831e-14
+  ],
+  [
+   75.0347,
+   4.1349e-14
+  ],
+  [
+   82.2786,
+   3.5802e-14
+  ],
+  [
+   90.2218,
+   3.1033e-14
+  ],
+  [
+   98.9243,
+   2.6929e-14
+  ],
+  [
+   108.4725,
+   2.3389e-14
+  ],
+  [
+   118.9445,
+   2.0333e-14
+  ],
+  [
+   127.4609,
+   1.8311e-14
+  ],
+  [
+   143.0189,
+   1.5386e-14
+  ],
+  [
+   156.826,
+   1.3393e-14
+  ],
+  [
+   171.9628,
+   1.1662e-14
+  ],
+  [
+   188.5499,
+   1.016e-14
+  ],
+  [
+   206.7525,
+   8.8645e-15
+  ],
+  [
+   226.7125,
+   7.7579e-15
+  ],
+  [
+   248.5993,
+   6.835e-15
+  ],
+  [
+   272.5992,
+   6.0909e-15
+  ],
+  [
+   298.9104,
+   5.5084e-15
+  ],
+  [
+   327.7673,
+   5.0681e-15
+  ],
+  [
+   359.3829,
+   4.7185e-15
+  ],
+  [
+   394.0778,
+   4.4613e-15
+  ],
+  [
+   432.1221,
+   4.2692e-15
+  ],
+  [
+   473.8393,
+   4.1259e-15
+  ],
+  [
+   519.5742,
+   4.022e-15
+  ],
+  [
+   569.734,
+   3.9872e-15
+  ],
+  [
+   624.7363,
+   3.9464e-15
+  ],
+  [
+   685.0484,
+   3.9264e-15
+  ],
+  [
+   751.1265,
+   3.9183e-15
+  ],
+  [
+   823.6404,
+   3.9264e-15
+  ],
+  [
+   903.1381,
+   3.9448e-15
+  ],
+  [
+   967.803,
+   3.9606e-15
+  ],
+  [
+   1085.9336,
+   3.9918e-15
+  ],
+  [
+   1190.7698,
+   4.0248e-15
+  ],
+  [
+   1305.727,
+   4.0664e-15
+  ],
+  [
+   1431.6477,
+   4.1092e-15
+  ],
+  [
+   1569.8592,
+   4.1472e-15
+  ],
+  [
+   1721.4138,
+   4.1927e-15
+  ],
+  [
+   1887.5994,
+   4.2284e-15
+  ],
+  [
+   2069.8286,
+   4.2655e-15
+  ],
+  [
+   2269.6502,
+   4.3104e-15
+  ],
+  [
+   2488.7168,
+   4.354e-15
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.83,
+ "suggested_experiment_name": "LeoT_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Solid black 'Leo T gas temp.' curve from Fig. 4 (ALP DM a->gamma gamma), the paper's main/nominal result with observed Leo T gas temperature (T_gas=6100 K, sigma_v=7.1 km/s); the dashed curve is the conservative T_gas=7552 K variant and is not reported. Curve recovered from vector paths in the e-print figures/Axion.pdf and calibrated against the log tick labels (m_a: 5-1000+ eV; g_agamma: 1e-15 to 1e-9 GeV^-1). Curve clipped to the plotted frame (m_a ~ 27 eV to 2.5 keV); sharp left cutoff at m_a ~ 27 eV corresponds to E_gamma = m_a/2 = 13.6 eV HI ionization threshold. The blue G33.4-8.0 MW gas-cloud curve was not used. Bounds derived from Lagrangian L = -(g_agamma/4) a F Ftilde (Eq. 11) with Gamma_a = m_a^3 g_agamma^2/(64 pi) (Eq. 12); the ALP is assumed to be all of the DM and the limit is set by requiring DM decay heating <= radiative cooling of Leo T gas (not a statistical confidence level; no CL stated, hence null). Limit depends on the Leo T DM halo density profile (Burkert profile from FSM13/Fig.1), not a single local DM density, so dm_density_assumed is null.",
+ "num_points": 50,
+ "arxiv_id": "2111.08025",
+ "elapsed_s": 188.92473697662354,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 188466,
+  "duration_api_ms": 185270,
+  "total_cost_usd": 0.8201655000000001,
+  "usage": {
+   "input_tokens": 523,
+   "output_tokens": 11184,
+   "cache_creation_input_tokens": 38637,
+   "cache_read_input_tokens": 532046
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2111.08025.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:59:58-0500"
+ }
+}

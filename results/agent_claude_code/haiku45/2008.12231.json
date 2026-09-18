@@ -1,0 +1,70 @@
+{
+ "paper_title": "Searching for Dark Matter with a Superconducting Qubit",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.481e-05,
+   2.2e-15
+  ],
+  [
+   2.483e-05,
+   1.9e-15
+  ],
+  [
+   2.486e-05,
+   1.68e-15
+  ],
+  [
+   2.489e-05,
+   1.9e-15
+  ],
+  [
+   2.491e-05,
+   2.2e-15
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "QubitDM_2020",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Narrow-band exclusion from qubit-based photon counting at storage cavity resonance (6.011 GHz). Central point at resonance frequency has stated limit \u03b5 \u2264 1.68\u00d710\u207b\u00b9\u2075. Off-resonance points estimated from cavity linewidth and Ramsey measurement sensitivity. Exclusion bandwidth ~22 MHz (6.000-6.022 GHz) as shown in figure inset. Hidden photon mass calculated from resonance frequency: m_\u03b3 = h\u03bd/c\u00b2. Additional bands of sensitivity at odd multiples of 2\u03c7 exist but are weaker. Figure 4 represents the main result from qubit-based photon counting detection protocol.",
+ "num_points": 5,
+ "arxiv_id": "2008.12231",
+ "elapsed_s": 136.827308177948,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 136137,
+  "duration_api_ms": 131714,
+  "total_cost_usd": 0.1802998,
+  "usage": {
+   "input_tokens": 98,
+   "output_tokens": 11443,
+   "cache_creation_input_tokens": 42962,
+   "cache_read_input_tokens": 370628
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.12231.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:32:24-0500"
+ }
+}

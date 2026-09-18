@@ -1,0 +1,451 @@
+{
+ "paper_title": "Direct limits for scalar field dark matter from a gravitational-wave detector",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.06784e-13,
+   54.6811
+  ],
+  [
+   2.16955e-13,
+   39.8575
+  ],
+  [
+   2.27626e-13,
+   18.6248
+  ],
+  [
+   2.38823e-13,
+   18.2418
+  ],
+  [
+   2.5057e-13,
+   13.8435
+  ],
+  [
+   2.62895e-13,
+   7.87381
+  ],
+  [
+   2.75826e-13,
+   14.1438
+  ],
+  [
+   2.89393e-13,
+   17.6052
+  ],
+  [
+   3.03628e-13,
+   4.66766
+  ],
+  [
+   3.18562e-13,
+   6.25087
+  ],
+  [
+   3.34232e-13,
+   5.07171
+  ],
+  [
+   3.50672e-13,
+   2.13545
+  ],
+  [
+   3.6792e-13,
+   1.24788
+  ],
+  [
+   3.86017e-13,
+   0.93808
+  ],
+  [
+   4.05005e-13,
+   0.58232
+  ],
+  [
+   4.24926e-13,
+   0.427572
+  ],
+  [
+   4.45827e-13,
+   0.468475
+  ],
+  [
+   4.67756e-13,
+   0.541658
+  ],
+  [
+   4.90764e-13,
+   0.619733
+  ],
+  [
+   5.14903e-13,
+   0.311047
+  ],
+  [
+   5.4023e-13,
+   0.31555
+  ],
+  [
+   5.66802e-13,
+   0.36834
+  ],
+  [
+   5.94682e-13,
+   0.35925
+  ],
+  [
+   6.23933e-13,
+   1.16092
+  ],
+  [
+   6.54623e-13,
+   0.255858
+  ],
+  [
+   6.86822e-13,
+   0.213991
+  ],
+  [
+   7.20605e-13,
+   0.210614
+  ],
+  [
+   7.5605e-13,
+   0.20053
+  ],
+  [
+   7.93238e-13,
+   0.258038
+  ],
+  [
+   8.32255e-13,
+   0.280725
+  ],
+  [
+   8.73192e-13,
+   0.184444
+  ],
+  [
+   9.16142e-13,
+   0.161917
+  ],
+  [
+   9.61205e-13,
+   0.224797
+  ],
+  [
+   1.00848e-12,
+   0.171809
+  ],
+  [
+   1.05809e-12,
+   0.181973
+  ],
+  [
+   1.11013e-12,
+   0.168559
+  ],
+  [
+   1.16474e-12,
+   0.169675
+  ],
+  [
+   1.22203e-12,
+   0.180452
+  ],
+  [
+   1.28214e-12,
+   0.203566
+  ],
+  [
+   1.3452e-12,
+   0.238328
+  ],
+  [
+   1.41137e-12,
+   0.1827
+  ],
+  [
+   1.48079e-12,
+   0.188717
+  ],
+  [
+   1.55363e-12,
+   0.192214
+  ],
+  [
+   1.63005e-12,
+   0.208571
+  ],
+  [
+   1.71022e-12,
+   0.221837
+  ],
+  [
+   1.79435e-12,
+   0.228183
+  ],
+  [
+   1.88261e-12,
+   0.226232
+  ],
+  [
+   1.97521e-12,
+   0.235055
+  ],
+  [
+   2.07236e-12,
+   0.250806
+  ],
+  [
+   2.1743e-12,
+   0.260225
+  ],
+  [
+   2.28124e-12,
+   0.270348
+  ],
+  [
+   2.39345e-12,
+   0.28402
+  ],
+  [
+   2.51118e-12,
+   0.307731
+  ],
+  [
+   2.6347e-12,
+   0.341028
+  ],
+  [
+   2.76429e-12,
+   0.376714
+  ],
+  [
+   2.90026e-12,
+   0.36518
+  ],
+  [
+   3.04292e-12,
+   0.37508
+  ],
+  [
+   3.19259e-12,
+   0.397556
+  ],
+  [
+   3.34963e-12,
+   0.407906
+  ],
+  [
+   3.51439e-12,
+   0.424763
+  ],
+  [
+   3.68725e-12,
+   0.449743
+  ],
+  [
+   3.86862e-12,
+   0.477139
+  ],
+  [
+   4.05891e-12,
+   0.507016
+  ],
+  [
+   4.25856e-12,
+   0.540889
+  ],
+  [
+   4.46802e-12,
+   0.577372
+  ],
+  [
+   4.68779e-12,
+   0.624144
+  ],
+  [
+   4.91838e-12,
+   0.676228
+  ],
+  [
+   5.1603e-12,
+   0.751672
+  ],
+  [
+   5.41412e-12,
+   0.795205
+  ],
+  [
+   5.68043e-12,
+   0.916209
+  ],
+  [
+   5.95983e-12,
+   0.904623
+  ],
+  [
+   6.25298e-12,
+   0.974765
+  ],
+  [
+   6.56055e-12,
+   1.05522
+  ],
+  [
+   6.88325e-12,
+   1.15233
+  ],
+  [
+   7.22182e-12,
+   1.26057
+  ],
+  [
+   7.57704e-12,
+   1.39181
+  ],
+  [
+   7.94974e-12,
+   1.54055
+  ],
+  [
+   8.34077e-12,
+   1.70661
+  ],
+  [
+   8.75103e-12,
+   1.88783
+  ],
+  [
+   9.18147e-12,
+   2.0386
+  ],
+  [
+   9.63308e-12,
+   2.22717
+  ],
+  [
+   1.01069e-11,
+   2.46934
+  ],
+  [
+   1.0604e-11,
+   2.74169
+  ],
+  [
+   1.11256e-11,
+   3.02292
+  ],
+  [
+   1.16729e-11,
+   3.35265
+  ],
+  [
+   1.2247e-11,
+   3.73767
+  ],
+  [
+   1.28494e-11,
+   4.18809
+  ],
+  [
+   1.34815e-11,
+   4.70123
+  ],
+  [
+   1.41446e-11,
+   5.19462
+  ],
+  [
+   1.48403e-11,
+   5.81133
+  ],
+  [
+   1.55703e-11,
+   6.76244
+  ],
+  [
+   1.63361e-11,
+   7.35576
+  ],
+  [
+   1.71397e-11,
+   8.17225
+  ],
+  [
+   1.79827e-11,
+   9.12106
+  ],
+  [
+   1.88673e-11,
+   10.2259
+  ],
+  [
+   1.97953e-11,
+   11.5638
+  ],
+  [
+   2.0769e-11,
+   12.8795
+  ],
+  [
+   2.17905e-11,
+   14.4697
+  ],
+  [
+   2.28624e-11,
+   16.1449
+  ],
+  [
+   2.39869e-11,
+   18.2089
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "GEO600_2021",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "GEO600 scalar-field DM search. Curve traced from the vector paths of the green 'This work' boundary in Fig. 2 (Basic Scalar scenario, file figures/BasicScalar_PaperR2.0_NATURE_Lambda_Excl._08-26-2021_1121.pdf), calibrated with the MATLAB gridlines (x: 1e-20..1e-5 eV, y: 1e-30..1e-10 GeV^-1); extracted curve spans 2.07e-13 eV (=50 Hz) to 2.4e-11 eV (~5.8 kHz), matching the stated analysis band. Paper reports 95% CL upper limits on 1/Lambda_gamma (and identically on 1/Lambda_e, since the signal in Eq. 6 is proportional to 1/Lambda_gamma + 1/Lambda_e and each coupling is bounded with the other set to zero). Converted to Damour-Donoghue d_e via delta_alpha/alpha = phi/Lambda_gamma = d_e*kappa*phi, i.e. d_e = (1/Lambda_gamma) * M_Pl/sqrt(4pi) with M_Pl = 1.22e19 GeV (factor 3.4416e18 GeV). The identical curve applies to d_me (ScalarElectron). Basic Scalar scenario chosen as the main result; Dilaton/Modulus and Relaxion Halo scenarios in Fig. 3 are model variants. Assumed local DM density 0.4 GeV/cm^3; limit minimum d_e ~ 0.16 at m ~ 1e-12 eV.",
+ "num_points": 100,
+ "arxiv_id": "2103.03783",
+ "elapsed_s": 138.23661065101624,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 137524,
+  "duration_api_ms": 133875,
+  "total_cost_usd": 1.5028615000000003,
+  "usage": {
+   "input_tokens": 438,
+   "output_tokens": 10688,
+   "cache_creation_input_tokens": 40092,
+   "cache_read_input_tokens": 401199
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2103.03783.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:25:58-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

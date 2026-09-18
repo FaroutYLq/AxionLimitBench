@@ -1,0 +1,222 @@
+{
+ "paper_title": "Supernova axions convert to gamma-rays in magnetic fields of progenitor stars",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.521e-12,
+   2.362e-12
+  ],
+  [
+   6.889e-11,
+   2.356e-12
+  ],
+  [
+   8.754e-11,
+   2.362e-12
+  ],
+  [
+   4.351e-10,
+   2.37e-12
+  ],
+  [
+   6.256e-10,
+   2.458e-12
+  ],
+  [
+   8.152e-10,
+   2.589e-12
+  ],
+  [
+   9.484e-10,
+   2.706e-12
+  ],
+  [
+   1.239e-09,
+   3e-12
+  ],
+  [
+   1.656e-09,
+   3.377e-12
+  ],
+  [
+   1.859e-09,
+   3.705e-12
+  ],
+  [
+   2.125e-09,
+   4.369e-12
+  ],
+  [
+   2.386e-09,
+   5.188e-12
+  ],
+  [
+   2.776e-09,
+   6.783e-12
+  ],
+  [
+   3.388e-09,
+   9.769e-12
+  ],
+  [
+   3.719e-09,
+   1.14e-11
+  ],
+  [
+   4.177e-09,
+   1.327e-11
+  ],
+  [
+   4.714e-09,
+   1.483e-11
+  ],
+  [
+   5.321e-09,
+   1.576e-11
+  ],
+  [
+   6.097e-09,
+   1.616e-11
+  ],
+  [
+   6.951e-09,
+   1.629e-11
+  ],
+  [
+   1.105e-08,
+   1.638e-11
+  ],
+  [
+   5.328e-07,
+   1.639e-11
+  ],
+  [
+   1.371e-05,
+   1.645e-11
+  ],
+  [
+   2.073e-05,
+   1.658e-11
+  ],
+  [
+   2.798e-05,
+   1.68e-11
+  ],
+  [
+   3.466e-05,
+   1.709e-11
+  ],
+  [
+   4.241e-05,
+   1.751e-11
+  ],
+  [
+   5.202e-05,
+   1.813e-11
+  ],
+  [
+   6.317e-05,
+   1.901e-11
+  ],
+  [
+   6.847e-05,
+   1.948e-11
+  ],
+  [
+   8.149e-05,
+   2.073e-11
+  ],
+  [
+   8.701e-05,
+   2.132e-11
+  ],
+  [
+   0.000103,
+   2.311e-11
+  ],
+  [
+   0.0001097,
+   2.393e-11
+  ],
+  [
+   0.0001309,
+   2.664e-11
+  ],
+  [
+   0.0001391,
+   2.777e-11
+  ],
+  [
+   0.0001689,
+   3.204e-11
+  ],
+  [
+   0.000214,
+   3.911e-11
+  ],
+  [
+   0.0002817,
+   5.043e-11
+  ],
+  [
+   0.000397,
+   7.045e-11
+  ],
+  [
+   0.0006297,
+   1.117e-10
+  ],
+  [
+   0.004099,
+   7.348e-10
+  ],
+  [
+   0.06011,
+   1.095e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.78,
+ "suggested_experiment_name": "SN1987A_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Fig.1 (Plots/Limits_18p6.pdf), lower boundary of the solid blue 'ALP SN1987A (excl. 95%)' filled region, extracted from vector drawing (blue stroke, RGB 0.255,0.412,0.882). This is the paper's headline new limit: SN1987A axion production (Primakoff + nucleon bremsstrahlung + pion conversion, loop-induced hadronic couplings for the ALP model) followed by axion-photon conversion in the Galactic field (dominates m_a<~1e-9 eV) and the progenitor stellar magnetic field (100 G BSG, conservative; dominates above ~1e-9 eV). Excluded region is above the curve up to a validity ceiling |g|<~1e-8 GeV^-1. Low-mass floor ~2.4e-12 GeV^-1 matches the text value |g_agg|<2.6e-12 GeV^-1; shelf ~1.6e-11 GeV^-1 over ~1e-8 to ~1e-5 eV; rises for higher masses. Axis calibration from tick labels (x: 1e-12..1e-1 eV, y: 1e-16..1e-8 GeV^-1). The alternative KSVZ-like axion SN1987A hatched region (drawing 391, floor ~6e-13) was NOT chosen since the ALP model is the solid/filled headline curve. Not a dark-matter search (SN1987A), so dm_density is null.",
+ "num_points": 43,
+ "arxiv_id": "2405.19393",
+ "elapsed_s": 229.95346426963806,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 229561,
+  "duration_api_ms": 225493,
+  "total_cost_usd": 1.1600624999999998,
+  "usage": {
+   "input_tokens": 523,
+   "output_tokens": 14575,
+   "cache_creation_input_tokens": 47754,
+   "cache_read_input_tokens": 631065
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2405.19393.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:22:48-0500"
+ }
+}

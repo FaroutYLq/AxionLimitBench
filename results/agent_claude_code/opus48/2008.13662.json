@@ -1,0 +1,254 @@
+{
+ "paper_title": "Testing the ALP-photon coupling with polarization measurements of Sagittarius A*",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   9.163e-21,
+   3.097e-11
+  ],
+  [
+   1.052e-20,
+   3.043e-11
+  ],
+  [
+   1.208e-20,
+   3.003e-11
+  ],
+  [
+   1.387e-20,
+   2.973e-11
+  ],
+  [
+   1.592e-20,
+   2.953e-11
+  ],
+  [
+   1.828e-20,
+   2.94e-11
+  ],
+  [
+   2.099e-20,
+   2.932e-11
+  ],
+  [
+   2.41e-20,
+   2.93e-11
+  ],
+  [
+   2.768e-20,
+   7.784e-12
+  ],
+  [
+   3.178e-20,
+   4.655e-12
+  ],
+  [
+   3.648e-20,
+   3.265e-12
+  ],
+  [
+   4.189e-20,
+   2.66e-12
+  ],
+  [
+   4.81e-20,
+   1.52e-11
+  ],
+  [
+   5.522e-20,
+   3.794e-12
+  ],
+  [
+   6.341e-20,
+   8.874e-12
+  ],
+  [
+   7.28e-20,
+   6.806e-12
+  ],
+  [
+   8.359e-20,
+   5.238e-12
+  ],
+  [
+   9.597e-20,
+   4.049e-12
+  ],
+  [
+   1.102e-19,
+   3.149e-12
+  ],
+  [
+   1.265e-19,
+   1.053e-12
+  ],
+  [
+   1.453e-19,
+   1.955e-12
+  ],
+  [
+   1.668e-19,
+   1.57e-12
+  ],
+  [
+   1.915e-19,
+   1.283e-12
+  ],
+  [
+   2.199e-19,
+   9.632e-13
+  ],
+  [
+   2.525e-19,
+   9.182e-13
+  ],
+  [
+   2.899e-19,
+   8.015e-13
+  ],
+  [
+   3.328e-19,
+   7.447e-13
+  ],
+  [
+   3.821e-19,
+   7.889e-13
+  ],
+  [
+   4.388e-19,
+   1.074e-12
+  ],
+  [
+   5.038e-19,
+   1.523e-12
+  ],
+  [
+   5.784e-19,
+   1.9e-12
+  ],
+  [
+   6.641e-19,
+   2.27e-12
+  ],
+  [
+   7.626e-19,
+   2.278e-12
+  ],
+  [
+   8.755e-19,
+   1.635e-12
+  ],
+  [
+   1.005e-18,
+   8.873e-13
+  ],
+  [
+   1.154e-18,
+   1.584e-12
+  ],
+  [
+   1.325e-18,
+   2.105e-12
+  ],
+  [
+   1.522e-18,
+   3.146e-12
+  ],
+  [
+   1.747e-18,
+   1.672e-12
+  ],
+  [
+   2.006e-18,
+   1.684e-12
+  ],
+  [
+   2.303e-18,
+   2.215e-12
+  ],
+  [
+   2.644e-18,
+   1.086e-12
+  ],
+  [
+   3.036e-18,
+   1.262e-12
+  ],
+  [
+   3.486e-18,
+   2.64e-12
+  ],
+  [
+   4.003e-18,
+   1.925e-12
+  ],
+  [
+   4.596e-18,
+   2.951e-12
+  ],
+  [
+   5.277e-18,
+   3.347e-12
+  ],
+  [
+   6.059e-18,
+   2.627e-12
+  ],
+  [
+   6.957e-18,
+   7.902e-12
+  ],
+  [
+   7.987e-18,
+   5.601e-11
+  ],
+  [
+   9.171e-18,
+   1.654e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 2000000000.0,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.82,
+ "suggested_experiment_name": "SgrA*_Polarization_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline 95% CL upper limit on g_agamma (red Sgr A* curve) from Fig. 1 (combined three EHT sub-array data sets, polarization_v1.pdf in the e-print), extracted as vector paths and calibrated to the log-log axes. Curve spans m_a ~ 1e-20 to 1e-17 eV; strongest bound ~7e-13 GeV^-1 near 3e-19 eV. Birefringence search using position-angle oscillation of polarized mm emission from Sgr A*. Jagged features/upward jumps are physical (degeneracy with background phase at low mass, non-significant favored regions at high mass) as described in the text. DM density is not the local 0.4 GeV/cm^3: the limit uses a solitonic-core+NFW profile (Eq. 2.12) for ALP DM near the SMBH; the position-angle parameterization (Eq. 2.9) is normalized to rho_DM = 2e9 GeV/cm^3, the value recorded here, but the actual assumed density at the source is mass-dependent via Eq. 2.12. Delta-chi2 = 2.7 threshold.",
+ "num_points": 51,
+ "arxiv_id": "2008.13662",
+ "elapsed_s": 92.61144185066223,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 92310,
+  "duration_api_ms": 89700,
+  "total_cost_usd": 0.628918,
+  "usage": {
+   "input_tokens": 313,
+   "output_tokens": 6805,
+   "cache_creation_input_tokens": 32034,
+   "cache_read_input_tokens": 273776
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.13662.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:05:55-0500"
+ }
+}

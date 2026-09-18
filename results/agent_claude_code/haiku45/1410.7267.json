@@ -1,0 +1,170 @@
+{
+ "paper_title": "Stronger limits on hypothetical Yukawa interactions in the 30\u20138000 nm range",
+ "coupling_type": "ScalarNucleon",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   6.340212724826013,
+   2347406135.0396056
+  ],
+  [
+   5.228569668743521,
+   149117773.91988927
+  ],
+  [
+   4.311833367019225,
+   14811131.413811
+  ],
+  [
+   3.5558304015882505,
+   1584893.192461111
+  ],
+  [
+   2.932379052857502,
+   228467.0265144549
+  ],
+  [
+   2.4182387623989903,
+   44366.87330978607
+  ],
+  [
+   1.9942437885956272,
+   10000.0
+  ],
+  [
+   1.6445887602954838,
+   2616.0561352140144
+  ],
+  [
+   1.356239495871717,
+   684.3749702590857
+  ],
+  [
+   1.1184471246367305,
+   3036.3577601873585
+  ],
+  [
+   0.9423166236665173,
+   143.1799983052128
+  ],
+  [
+   0.7939227520716928,
+   324.9112177554553
+  ],
+  [
+   0.6408479394252019,
+   207.80072518241758
+  ],
+  [
+   0.5284866997025476,
+   207.80072518241758
+  ],
+  [
+   0.43582599643372916,
+   2.5634421994871426
+  ],
+  [
+   0.351795172809545,
+   98.65466974037014
+  ],
+  [
+   0.29639527176730934,
+   46.83690999171282
+  ],
+  [
+   0.2444276549039723,
+   0.16284135440132466
+  ],
+  [
+   0.20157163144208054,
+   0.08973072494285637
+  ],
+  [
+   0.16622964622470646,
+   0.0426002124248145
+  ],
+  [
+   0.13708424685708243,
+   0.023474061350396057
+  ],
+  [
+   0.11549653247862715,
+   0.01293494855817149
+  ],
+  [
+   0.09322785454446877,
+   0.007127564834438892
+  ],
+  [
+   0.07688201543215882,
+   0.003927513143222845
+  ],
+  [
+   0.06408479394252019,
+   0.002331562484720027
+  ],
+  [
+   0.05341770492839372,
+   0.0013841286895587557
+  ],
+  [
+   0.04405186448537589,
+   0.0008852355034801525
+  ],
+  [
+   0.036328156876811485,
+   0.0004877926971588842
+  ],
+  [
+   0.029958663441007075,
+   0.00031197345819126065
+  ],
+  [
+   0.024705946910960078,
+   0.00019952623149688828
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "IUPUI_2014",
+ "coupling_convention": "alpha (Yukawa strength relative to gravity)",
+ "notes": "Limit extracted from Figure 4 (red IUPUI 2014 curve). The coupling \u03b1 represents the strength of a Yukawa-type fifth force relative to gravity. The range \u03bb is related to the exchanged boson mass by m = \u210fc/\u03bb = 1.973\u00d710^-7 eV\u00b7m / \u03bb. Curve was extracted by identifying red pixels in the log-log plot and converting pixel coordinates to the canonical (mass, coupling) plane.",
+ "num_points": 30,
+ "arxiv_id": "1410.7267",
+ "elapsed_s": 242.92851781845093,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 32,
+  "duration_ms": 236710,
+  "duration_api_ms": 212350,
+  "total_cost_usd": 0.38026490000000013,
+  "usage": {
+   "input_tokens": 252,
+   "output_tokens": 26125,
+   "cache_creation_input_tokens": 58257,
+   "cache_read_input_tokens": 1328739
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1410.7267.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:02:29-0500"
+ }
+}

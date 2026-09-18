@@ -1,0 +1,130 @@
+{
+ "paper_title": "NuSTAR bounds on radiatively decaying particles from M82",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   10000.0,
+   5.288e-12
+  ],
+  [
+   12591.4,
+   4.41e-12
+  ],
+  [
+   15851.1,
+   3.655e-12
+  ],
+  [
+   19954.7,
+   2.97e-12
+  ],
+  [
+   25120.6,
+   2.324e-12
+  ],
+  [
+   31623.9,
+   1.788e-12
+  ],
+  [
+   39810.8,
+   1.364e-12
+  ],
+  [
+   50117.2,
+   1.058e-12
+  ],
+  [
+   63091.7,
+   8.529e-13
+  ],
+  [
+   79425.1,
+   7.353e-13
+  ],
+  [
+   99986.9,
+   6.701e-13
+  ],
+  [
+   125871.9,
+   6.502e-13
+  ],
+  [
+   158458.0,
+   6.746e-13
+  ],
+  [
+   199480.1,
+   7.799e-13
+  ],
+  [
+   251122.1,
+   9.691e-13
+  ],
+  [
+   316133.5,
+   1.376e-12
+  ],
+  [
+   397975.1,
+   2.595e-12
+  ],
+  [
+   501004.3,
+   1.06e-11
+  ],
+  [
+   630705.8,
+   4.242e-11
+  ],
+  [
+   719133.0,
+   1.033e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "NuSTAR_M82_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Fig.2 (FigBounds.pdf in e-print), lower boundary of the red \"Excluded by NuSTAR observations of M82\" region, extracted from the vector stroke (drawing idx 103). Axes: log m_a[keV] (x0=92.3px=10keV, 561.5px=100keV) and log g_agamma[GeV^-1] (10^-12 at 362.55px, decade=172.3px). Values converted keV->eV. Bathtub curve, minimum g_agamma~6.5e-13 at m_a~126 keV, spanning ~10-720 keV. Convention L=g_agamma a E.B equals canonical -(g/4)a F Ftilde (F Ftilde=-4 E.B), no conversion. Confidence level 0.95: upper limit from test statistic TS=2.7 threshold (half-chi-square, 1 dof). Astrophysical stellar-decay bound, independent of local DM density. Right rising wall is where axions decay too fast / freeze-in takes over.",
+ "num_points": 20,
+ "arxiv_id": "2412.03660",
+ "elapsed_s": 196.7860028743744,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 196485,
+  "duration_api_ms": 193334,
+  "total_cost_usd": 1.0752815,
+  "usage": {
+   "input_tokens": 552,
+   "output_tokens": 12229,
+   "cache_creation_input_tokens": 41885,
+   "cache_read_input_tokens": 695893
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2412.03660.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T03:01:50-0500"
+ }
+}

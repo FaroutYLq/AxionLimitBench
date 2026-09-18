@@ -1,0 +1,403 @@
+{
+ "paper_title": "First Results from an Axion Haloscope at CAPP around 10.7 ueV",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.0162e-05,
+   3.824e-14
+  ],
+  [
+   1.017e-05,
+   3.1087e-14
+  ],
+  [
+   1.0186e-05,
+   3.0036e-14
+  ],
+  [
+   1.02021e-05,
+   3.0204e-14
+  ],
+  [
+   1.02181e-05,
+   2.9066e-14
+  ],
+  [
+   1.02341e-05,
+   2.9345e-14
+  ],
+  [
+   1.02502e-05,
+   2.9865e-14
+  ],
+  [
+   1.02662e-05,
+   2.8625e-14
+  ],
+  [
+   1.02822e-05,
+   2.9016e-14
+  ],
+  [
+   1.02983e-05,
+   3.1105e-14
+  ],
+  [
+   1.03143e-05,
+   3.2037e-14
+  ],
+  [
+   1.03304e-05,
+   3.1831e-14
+  ],
+  [
+   1.03464e-05,
+   3.6815e-14
+  ],
+  [
+   1.03624e-05,
+   3.6287e-14
+  ],
+  [
+   1.03785e-05,
+   3.52e-14
+  ],
+  [
+   1.03945e-05,
+   3.4973e-14
+  ],
+  [
+   1.04106e-05,
+   3.4334e-14
+  ],
+  [
+   1.04266e-05,
+   3.4802e-14
+  ],
+  [
+   1.04426e-05,
+   3.4578e-14
+  ],
+  [
+   1.04587e-05,
+   3.3541e-14
+  ],
+  [
+   1.04747e-05,
+   3.4271e-14
+  ],
+  [
+   1.04907e-05,
+   3.7628e-14
+  ],
+  [
+   1.05068e-05,
+   3.6354e-14
+  ],
+  [
+   1.05228e-05,
+   3.5689e-14
+  ],
+  [
+   1.05389e-05,
+   3.9977e-14
+  ],
+  [
+   1.05549e-05,
+   4.2512e-14
+  ],
+  [
+   1.05709e-05,
+   4.557e-14
+  ],
+  [
+   1.0587e-05,
+   5.3983e-14
+  ],
+  [
+   1.0603e-05,
+   4.7194e-14
+  ],
+  [
+   1.06191e-05,
+   4.226e-14
+  ],
+  [
+   1.06351e-05,
+   4.3352e-14
+  ],
+  [
+   1.06511e-05,
+   3.9445e-14
+  ],
+  [
+   1.06672e-05,
+   3.8109e-14
+  ],
+  [
+   1.06832e-05,
+   3.7711e-14
+  ],
+  [
+   1.06992e-05,
+   3.6872e-14
+  ],
+  [
+   1.0711e-05,
+   3.6613e-14
+  ],
+  [
+   1.07115e-05,
+   2.5983e-14
+  ],
+  [
+   1.0712e-05,
+   1.0354e-14
+  ],
+  [
+   1.07125e-05,
+   4.9194e-15
+  ],
+  [
+   1.07135e-05,
+   4.4715e-15
+  ],
+  [
+   1.0715e-05,
+   4.5475e-15
+  ],
+  [
+   1.07153e-05,
+   3.7523e-14
+  ],
+  [
+   1.07165e-05,
+   4.6196e-15
+  ],
+  [
+   1.07178e-05,
+   4.7234e-15
+  ],
+  [
+   1.07182e-05,
+   5.2395e-15
+  ],
+  [
+   1.07186e-05,
+   1.1234e-14
+  ],
+  [
+   1.07191e-05,
+   3.7831e-14
+  ],
+  [
+   1.07313e-05,
+   3.7881e-14
+  ],
+  [
+   1.07474e-05,
+   3.1314e-14
+  ],
+  [
+   1.07634e-05,
+   3.1111e-14
+  ],
+  [
+   1.07794e-05,
+   3.3215e-14
+  ],
+  [
+   1.07955e-05,
+   3.2606e-14
+  ],
+  [
+   1.08115e-05,
+   3.4122e-14
+  ],
+  [
+   1.08276e-05,
+   3.5284e-14
+  ],
+  [
+   1.08436e-05,
+   3.6777e-14
+  ],
+  [
+   1.08596e-05,
+   3.6247e-14
+  ],
+  [
+   1.08757e-05,
+   3.6301e-14
+  ],
+  [
+   1.08917e-05,
+   3.5778e-14
+  ],
+  [
+   1.09077e-05,
+   3.6408e-14
+  ],
+  [
+   1.09238e-05,
+   3.5597e-14
+  ],
+  [
+   1.09398e-05,
+   3.6224e-14
+  ],
+  [
+   1.09559e-05,
+   3.5135e-14
+  ],
+  [
+   1.09719e-05,
+   3.5469e-14
+  ],
+  [
+   1.09879e-05,
+   3.5238e-14
+  ],
+  [
+   1.1004e-05,
+   3.529e-14
+  ],
+  [
+   1.102e-05,
+   3.5911e-14
+  ],
+  [
+   1.10361e-05,
+   3.5677e-14
+  ],
+  [
+   1.10521e-05,
+   3.616e-14
+  ],
+  [
+   1.10681e-05,
+   3.5924e-14
+  ],
+  [
+   1.10842e-05,
+   3.612e-14
+  ],
+  [
+   1.11002e-05,
+   3.705e-14
+  ],
+  [
+   1.11162e-05,
+   3.7702e-14
+  ],
+  [
+   1.11323e-05,
+   3.8059e-14
+  ],
+  [
+   1.11483e-05,
+   3.7811e-14
+  ],
+  [
+   1.11644e-05,
+   3.9726e-14
+  ],
+  [
+   1.11804e-05,
+   4.0748e-14
+  ],
+  [
+   1.11964e-05,
+   4.1134e-14
+  ],
+  [
+   1.12125e-05,
+   4.054e-14
+  ],
+  [
+   1.12285e-05,
+   3.7931e-14
+  ],
+  [
+   1.12446e-05,
+   3.6642e-14
+  ],
+  [
+   1.12606e-05,
+   3.6403e-14
+  ],
+  [
+   1.12766e-05,
+   3.5876e-14
+  ],
+  [
+   1.12927e-05,
+   3.5076e-14
+  ],
+  [
+   1.13087e-05,
+   3.555e-14
+  ],
+  [
+   1.13247e-05,
+   3.5458e-14
+  ],
+  [
+   1.13408e-05,
+   3.5508e-14
+  ],
+  [
+   1.13568e-05,
+   3.5843e-14
+  ],
+  [
+   1.13648e-05,
+   6.6386e-14
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "CAPP-PACE_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Boundary of the red 90% CL excluded region in Fig. 4 (main panel, |g_gamma/g_gamma^KSVZ| vs m_a), digitised from the e-print raster Fig4_pace_exclusion_plot.jpg with pixel-level tick calibration (x: 10.0-11.5 ueV linear, y: 10^0-10^4 log). Main band (10.16-11.37 ueV, ~7-11x KSVZ from the 9KSVZ runs) binned as per-bin medians of the per-column lower envelope; the narrow KSVZ-run notch at 10.7126-10.7186 ueV (down to ~1.13x KSVZ) is sampled explicitly. Ratio converted to g_agamma using the paper's own convention: g_KSVZ = 0.97*alpha_em/(pi*f_a) with f_a*m_a = (78 MeV)^2 [Eq. (1), refs 23,25], giving g_KSVZ ~ 3.96e-15 GeV^-1 at 10.7 ueV. Paper assumes rho_a = 0.45 GeV/cm^3 (matches canonical density, no rescaling) and a virialized axion line shape. Small gaps (bluetooth interference near 2.48 GHz, TE mode crossings) are interpolated over by the binning.",
+ "num_points": 88,
+ "arxiv_id": "2012.10764",
+ "elapsed_s": 165.96591997146606,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 165615,
+  "duration_api_ms": 161967,
+  "total_cost_usd": 1.7019540000000002,
+  "usage": {
+   "input_tokens": 325,
+   "output_tokens": 12937,
+   "cache_creation_input_tokens": 35922,
+   "cache_read_input_tokens": 333414
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2012.10764.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T01:42:36-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,239 @@
+{
+ "paper_title": "Shedding Infrared Light on QCD Axion and ALP Dark Matter with JWST",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.468741,
+   9.87289e-11
+  ],
+  [
+   0.469878,
+   4.30096e-11
+  ],
+  [
+   0.473304,
+   3.88587e-11
+  ],
+  [
+   0.484905,
+   3.51085e-11
+  ],
+  [
+   0.496791,
+   3.23295e-11
+  ],
+  [
+   0.511439,
+   3.07299e-11
+  ],
+  [
+   0.521444,
+   2.81186e-11
+  ],
+  [
+   0.534226,
+   2.63904e-11
+  ],
+  [
+   0.553988,
+   2.46118e-11
+  ],
+  [
+   0.571706,
+   2.32461e-11
+  ],
+  [
+   0.594292,
+   2.22365e-11
+  ],
+  [
+   0.607386,
+   2.44562e-11
+  ],
+  [
+   0.625296,
+   2.10026e-11
+  ],
+  [
+   0.649999,
+   1.90964e-11
+  ],
+  [
+   0.677317,
+   1.71443e-11
+  ],
+  [
+   0.710928,
+   1.60906e-11
+  ],
+  [
+   0.748017,
+   1.53917e-11
+  ],
+  [
+   0.781344,
+   1.50061e-11
+  ],
+  [
+   0.816155,
+   1.4817e-11
+  ],
+  [
+   0.860816,
+   1.38184e-11
+  ],
+  [
+   0.910122,
+   1.34722e-11
+  ],
+  [
+   0.941506,
+   1.29691e-11
+  ],
+  [
+   0.971618,
+   1.29691e-11
+  ],
+  [
+   1.00269,
+   1.26441e-11
+  ],
+  [
+   1.0423,
+   1.23274e-11
+  ],
+  [
+   1.09138,
+   1.2095e-11
+  ],
+  [
+   1.14001,
+   1.19425e-11
+  ],
+  [
+   1.19658,
+   1.16433e-11
+  ],
+  [
+   1.24687,
+   1.1792e-11
+  ],
+  [
+   1.30242,
+   1.20185e-11
+  ],
+  [
+   1.35716,
+   1.15697e-11
+  ],
+  [
+   1.4142,
+   1.14965e-11
+  ],
+  [
+   1.47363,
+   1.1792e-11
+  ],
+  [
+   1.52814,
+   1.25642e-11
+  ],
+  [
+   1.59237,
+   1.1867e-11
+  ],
+  [
+   1.65929,
+   1.12798e-11
+  ],
+  [
+   1.72067,
+   1.07217e-11
+  ],
+  [
+   1.81482,
+   1.00627e-11
+  ],
+  [
+   1.95158,
+   9.20765e-12
+  ],
+  [
+   2.0336,
+   8.64173e-12
+  ],
+  [
+   2.13451,
+   8.26642e-12
+  ],
+  [
+   2.20812,
+   7.8574e-12
+  ],
+  [
+   2.31209,
+   7.66055e-12
+  ],
+  [
+   2.4151,
+   7.37447e-12
+  ],
+  [
+   2.50444,
+   7.51615e-12
+  ],
+  [
+   2.54726,
+   7.66055e-12
+  ],
+  [
+   2.56583,
+   9.87289e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "JWST_2025",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Combined 95% CL upper limit (Delta chi^2=2.71) on g_agamma from JWST NIRSpec IFU line search for MW-halo ALP decay, traced from the navy 'Our work (combined)' boundary in Fig. 1 (vector simple_limit.pdf in the e-print). Axes calibrated from tick strokes (x: 1 eV at 451.8pt, 952.6pt/decade; y: 1e-11 at 380.5pt, 364.05pt/decade); curve endpoints reproduce the stated 0.47-2.55 eV range. First and last points are the near-vertical band-edge walls of the shaded region. NFW profile with rho_s=0.18 GeV/cm^3, r_s=24 kpc, r_sun=8 kpc, giving local density ~0.30 GeV/cm^3 (limit depends on the MW D-factor, not just local density).",
+ "num_points": 47,
+ "arxiv_id": "2503.14582",
+ "elapsed_s": 130.0121202468872,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 129709,
+  "duration_api_ms": 127636,
+  "total_cost_usd": 1.096538,
+  "usage": {
+   "input_tokens": 305,
+   "output_tokens": 7991,
+   "cache_creation_input_tokens": 30593,
+   "cache_read_input_tokens": 253378
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2503.14582.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T22:36:24-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,391 @@
+{
+ "paper_title": "Spectra of axions emitted from main sequence stars",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   388.16,
+   1.044e-10
+  ],
+  [
+   430.02,
+   9.121e-11
+  ],
+  [
+   480.01,
+   7.465e-11
+  ],
+  [
+   550.01,
+   5.902e-11
+  ],
+  [
+   620.02,
+   4.898e-11
+  ],
+  [
+   700.02,
+   4.169e-11
+  ],
+  [
+   780.03,
+   3.741e-11
+  ],
+  [
+   889.99,
+   3.46e-11
+  ],
+  [
+   1000.0,
+   3.385e-11
+  ],
+  [
+   1070.0,
+   3.385e-11
+  ],
+  [
+   1150.0,
+   3.424e-11
+  ],
+  [
+   1160.0,
+   3.448e-11
+  ],
+  [
+   1230.0,
+   3.472e-11
+  ],
+  [
+   1320.0,
+   3.52e-11
+  ],
+  [
+   1350.0,
+   3.553e-11
+  ],
+  [
+   1410.0,
+   3.561e-11
+  ],
+  [
+   1520.0,
+   3.602e-11
+  ],
+  [
+   1570.0,
+   3.635e-11
+  ],
+  [
+   1630.0,
+   3.635e-11
+  ],
+  [
+   1740.0,
+   3.661e-11
+  ],
+  [
+   1830.0,
+   3.712e-11
+  ],
+  [
+   1869.9,
+   3.695e-11
+  ],
+  [
+   2000.0,
+   3.72e-11
+  ],
+  [
+   2119.9,
+   3.763e-11
+  ],
+  [
+   2150.0,
+   3.746e-11
+  ],
+  [
+   2299.9,
+   3.772e-11
+  ],
+  [
+   2469.9,
+   3.807e-11
+  ],
+  [
+   2639.8,
+   3.798e-11
+  ],
+  [
+   2829.8,
+   3.798e-11
+  ],
+  [
+   2869.8,
+   3.816e-11
+  ],
+  [
+   3039.8,
+   3.789e-11
+  ],
+  [
+   3249.8,
+   3.772e-11
+  ],
+  [
+   3329.8,
+   3.781e-11
+  ],
+  [
+   3489.8,
+   3.737e-11
+  ],
+  [
+   3739.9,
+   3.686e-11
+  ],
+  [
+   3869.8,
+   3.678e-11
+  ],
+  [
+   4009.7,
+   3.635e-11
+  ],
+  [
+   4299.7,
+   3.569e-11
+  ],
+  [
+   4499.6,
+   3.536e-11
+  ],
+  [
+   4599.7,
+   3.504e-11
+  ],
+  [
+   4939.6,
+   3.44e-11
+  ],
+  [
+   5229.5,
+   3.408e-11
+  ],
+  [
+   5289.6,
+   3.385e-11
+  ],
+  [
+   5669.5,
+   3.346e-11
+  ],
+  [
+   6079.4,
+   3.346e-11
+  ],
+  [
+   6519.4,
+   3.339e-11
+  ],
+  [
+   6979.3,
+   3.385e-11
+  ],
+  [
+   7069.5,
+   3.408e-11
+  ],
+  [
+   7489.3,
+   3.464e-11
+  ],
+  [
+   8019.4,
+   3.586e-11
+  ],
+  [
+   8219.1,
+   3.661e-11
+  ],
+  [
+   8599.1,
+   3.763e-11
+  ],
+  [
+   8999.2,
+   3.895e-11
+  ],
+  [
+   9219.0,
+   3.977e-11
+  ],
+  [
+   9549.1,
+   4.107e-11
+  ],
+  [
+   9879.2,
+   4.213e-11
+  ],
+  [
+   9999.0,
+   4.252e-11
+  ],
+  [
+   10589.0,
+   4.432e-11
+  ],
+  [
+   10999.0,
+   4.524e-11
+  ],
+  [
+   11349.0,
+   4.577e-11
+  ],
+  [
+   11809.0,
+   4.587e-11
+  ],
+  [
+   12169.0,
+   4.535e-11
+  ],
+  [
+   12369.0,
+   4.493e-11
+  ],
+  [
+   13038.0,
+   4.252e-11
+  ],
+  [
+   13978.0,
+   3.824e-11
+  ],
+  [
+   14988.0,
+   3.44e-11
+  ],
+  [
+   14998.0,
+   3.393e-11
+  ],
+  [
+   16058.0,
+   3.181e-11
+  ],
+  [
+   17218.0,
+   2.989e-11
+  ],
+  [
+   17437.0,
+   2.941e-11
+  ],
+  [
+   18448.0,
+   2.861e-11
+  ],
+  [
+   19777.0,
+   2.809e-11
+  ],
+  [
+   20267.0,
+   2.777e-11
+  ],
+  [
+   21197.0,
+   2.809e-11
+  ],
+  [
+   22727.0,
+   2.881e-11
+  ],
+  [
+   23557.0,
+   2.914e-11
+  ],
+  [
+   24356.0,
+   3.017e-11
+  ],
+  [
+   26106.0,
+   3.225e-11
+  ],
+  [
+   27386.0,
+   3.393e-11
+  ],
+  [
+   27986.0,
+   3.528e-11
+  ],
+  [
+   29996.0,
+   3.932e-11
+  ],
+  [
+   31835.0,
+   4.351e-11
+  ],
+  [
+   37004.0,
+   6.245e-11
+  ],
+  [
+   43013.0,
+   9.785e-11
+  ],
+  [
+   43540.0,
+   1.044e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "StAB_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% CL exclusion on g_agamma from Figure 7 (limit.pdf in e-print): blue 'NuSTAR' region, derived by the paper from a chi-squared fit of the predicted stellar axion background (StAB) decay X-ray signal against the NuSTAR CXB spectrum (attenuated power-law background, E0 fixed to 41.13 keV, E~20 keV outlier removed). Boundary traced from the vector stroke path in limit.pdf; axes calibrated from tick labels (m_a in keV converted to eV). Curve spans ~0.39-43.5 keV; endpoints are where the curve exits the top of the plotted range (~1e-10 GeV^-1). Limit is from stellar axion production, not dark matter, so no rho_DM rescaling applies. Gray regions in the figure (globular clusters, freeze-in) are prior constraints from other works, not reported.",
+ "num_points": 85,
+ "arxiv_id": "2307.11216",
+ "elapsed_s": 113.92165899276733,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 113540,
+  "duration_api_ms": 110146,
+  "total_cost_usd": 1.2518885,
+  "usage": {
+   "input_tokens": 362,
+   "output_tokens": 8520,
+   "cache_creation_input_tokens": 35776,
+   "cache_read_input_tokens": 316696
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2307.11216.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:29:12-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

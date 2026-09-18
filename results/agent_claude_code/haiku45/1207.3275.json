@@ -1,0 +1,54 @@
+{
+ "paper_title": "A microwave paraphoton and axion detection experiment with 300 dB electromagnetic shielding at 3 GHz",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.1e-05,
+   7.6e-09
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": "Microwave-LSW_CERN_2012",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Single measured exclusion point at fsys=2.9565 GHz from March 2012 measurement run. No paraphotons observed. Mass corresponds to cavity resonant frequency: m = hf/c\u00b2 = 1.1\u00d710^-5 eV. Kinetic mixing parameter \u03c7 = 7.6\u00d710^-9 from Eq. 1 using measured output power Pdet = 8.51\u00d710^-25 W and cavity Q-factors. Limited to single frequency cavity measurement; future upgrades planned with magnet for axion searches.",
+ "num_points": 1,
+ "arxiv_id": "1207.3275",
+ "elapsed_s": 96.58428597450256,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 5,
+  "duration_ms": 93138,
+  "duration_api_ms": 83166,
+  "total_cost_usd": 0.0944993,
+  "usage": {
+   "input_tokens": 36,
+   "output_tokens": 7419,
+   "cache_creation_input_tokens": 24551,
+   "cache_read_input_tokens": 82663
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1207.3275.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T14:48:58-0500"
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "paper_title": "Novel bounds on decaying axionlike particle dark matter from the cosmic background",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.6244,
+   1.87e-09
+  ],
+  [
+   0.7073,
+   7.05e-10
+  ],
+  [
+   0.8179,
+   4.96e-10
+  ],
+  [
+   0.9459,
+   4.11e-10
+  ],
+  [
+   1.094,
+   3.69e-10
+  ],
+  [
+   1.265,
+   3.44e-10
+  ],
+  [
+   1.433,
+   3.23e-10
+  ],
+  [
+   1.657,
+   2.98e-10
+  ],
+  [
+   1.916,
+   2.84e-10
+  ],
+  [
+   2.216,
+   2.3e-10
+  ],
+  [
+   2.563,
+   2.04e-10
+  ],
+  [
+   2.903,
+   1.69e-10
+  ],
+  [
+   3.357,
+   1.3e-10
+  ],
+  [
+   3.882,
+   1.19e-10
+  ],
+  [
+   4.489,
+   4.71e-11
+  ],
+  [
+   5.192,
+   3.81e-11
+  ],
+  [
+   5.881,
+   2.7e-11
+  ],
+  [
+   6.801,
+   1.87e-11
+  ],
+  [
+   7.864,
+   1.72e-11
+  ],
+  [
+   9.095,
+   1.56e-11
+  ],
+  [
+   10.52,
+   1.44e-11
+  ],
+  [
+   11.91,
+   1.1e-11
+  ],
+  [
+   13.78,
+   9.88e-12
+  ],
+  [
+   15.93,
+   9.15e-12
+  ],
+  [
+   18.05,
+   4.31e-12
+  ],
+  [
+   20.87,
+   3.84e-12
+  ],
+  [
+   24.13,
+   3.57e-12
+  ],
+  [
+   28.16,
+   1.55e-12
+  ],
+  [
+   32.28,
+   1.42e-12
+  ],
+  [
+   36.56,
+   1.31e-12
+  ],
+  [
+   42.28,
+   1.2e-12
+  ],
+  [
+   48.89,
+   1.13e-12
+  ],
+  [
+   56.54,
+   1.05e-12
+  ],
+  [
+   65.39,
+   1.01e-12
+  ],
+  [
+   74.07,
+   9.65e-13
+  ],
+  [
+   85.65,
+   9.16e-13
+  ],
+  [
+   99.05,
+   2.61e-13
+  ],
+  [
+   114.5,
+   2.22e-14
+  ],
+  [
+   132.5,
+   2.03e-14
+  ],
+  [
+   150.0,
+   1.87e-14
+  ],
+  [
+   173.5,
+   1.04e-14
+  ],
+  [
+   200.7,
+   9.61e-15
+  ],
+  [
+   232.1,
+   8.75e-15
+  ],
+  [
+   268.4,
+   8.23e-15
+  ],
+  [
+   304.0,
+   4.59e-15
+  ],
+  [
+   351.5,
+   4.11e-15
+  ],
+  [
+   406.5,
+   3.82e-15
+  ],
+  [
+   470.1,
+   3.5e-15
+  ],
+  [
+   543.7,
+   3.31e-15
+  ],
+  [
+   615.8,
+   3.16e-15
+  ],
+  [
+   712.2,
+   2.98e-15
+  ],
+  [
+   823.6,
+   2.87e-15
+  ],
+  [
+   932.9,
+   2.76e-15
+  ],
+  [
+   1086.0,
+   6.55e-16
+  ],
+  [
+   1248.0,
+   2.75e-16
+  ],
+  [
+   1443.0,
+   1.51e-16
+  ],
+  [
+   1890.0,
+   1.01e-16
+  ],
+  [
+   2923.0,
+   5.59e-17
+  ],
+  [
+   4428.0,
+   3.26e-17
+  ],
+  [
+   6848.0,
+   2.28e-17
+  ],
+  [
+   10370.0,
+   1.16e-17
+  ],
+  [
+   15710.0,
+   7.14e-18
+  ],
+  [
+   24300.0,
+   3.91e-18
+  ],
+  [
+   36810.0,
+   2.34e-18
+  ],
+  [
+   55770.0,
+   1.66e-18
+  ],
+  [
+   86250.0,
+   7.17e-19
+  ],
+  [
+   130600.0,
+   2.85e-19
+  ],
+  [
+   197900.0,
+   1.13e-19
+  ],
+  [
+   306100.0,
+   4.75e-20
+  ],
+  [
+   463700.0,
+   3.15e-20
+  ],
+  [
+   717100.0,
+   2.61e-20
+  ],
+  [
+   1086000.0,
+   2.28e-20
+  ],
+  [
+   1646000.0,
+   2.03e-20
+  ],
+  [
+   2493000.0,
+   1.83e-20
+  ],
+  [
+   3855000.0,
+   1.63e-20
+  ],
+  [
+   5840000.0,
+   1.47e-20
+  ],
+  [
+   9032000.0,
+   1.32e-20
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.42,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "CosmicBackground_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ALP dark matter decaying to two photons contributes to the cosmic background (COB/CUB/CXB). Headline 2-sigma exclusion on g_agamma from Fig.3 (bound_inset.pdf), using the CUBA astrophysical model with the NH/LORRI datum treated as an upper limit. Curve is the lower boundary of the union of the blue (COB), orange (CUB) and pink (CXB) filled excluded regions, extracted from the vector PDF (drawings 543/604/665) and calibrated on axis decade ticks (x: exp=(px-377.5)/124.0; y: exp=-8+(px-52.8)*(-12/614.1)). Covers ma=0.5 eV to 1e7 eV; excluded region is ABOVE the curve. Assumes Omega_DM=Omega_a and rho_sun=0.42 GeV/cm^3. The black overall line in Fig.3 adds narrow deeper dips (down to ~3e-12) from local Milky Way halo decay at individual data-point wavelengths; not traced as it deviates only over narrow mass windows. Different COB models (Finke22/CUBA/own) give very similar constraints.",
+ "num_points": 77,
+ "arxiv_id": "2407.10618",
+ "elapsed_s": 472.88464617729187,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 31,
+  "duration_ms": 472544,
+  "duration_api_ms": 458456,
+  "total_cost_usd": 2.1071940000000007,
+  "usage": {
+   "input_tokens": 920,
+   "output_tokens": 28989,
+   "cache_creation_input_tokens": 68356,
+   "cache_read_input_tokens": 1388618
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2407.10618.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:34:42-0500"
+ }
+}

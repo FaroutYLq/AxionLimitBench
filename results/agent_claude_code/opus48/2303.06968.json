@@ -1,0 +1,186 @@
+{
+ "paper_title": "New solar X-ray constraints on keV Axion-Like Particles",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3062.0116,
+   3.983e-11
+  ],
+  [
+   3307.1502,
+   2.603e-11
+  ],
+  [
+   3571.9142,
+   1.538e-11
+  ],
+  [
+   3857.8747,
+   8.639e-12
+  ],
+  [
+   4166.7287,
+   5.067e-12
+  ],
+  [
+   4500.3089,
+   3.336e-12
+  ],
+  [
+   4860.5948,
+   2.309e-12
+  ],
+  [
+   5249.7246,
+   1.634e-12
+  ],
+  [
+   5670.0073,
+   1.168e-12
+  ],
+  [
+   6114.3194,
+   7.004e-13
+  ],
+  [
+   6583.0937,
+   5.1e-13
+  ],
+  [
+   7087.808,
+   4.447e-13
+  ],
+  [
+   7631.2179,
+   3.506e-13
+  ],
+  [
+   8216.2902,
+   2.744e-13
+  ],
+  [
+   8846.2188,
+   2.627e-13
+  ],
+  [
+   9690.5432,
+   2.242e-13
+  ],
+  [
+   10433.5003,
+   2.116e-13
+  ],
+  [
+   11233.4187,
+   1.913e-13
+  ],
+  [
+   12094.6654,
+   1.955e-13
+  ],
+  [
+   13021.9423,
+   1.886e-13
+  ],
+  [
+   14020.312,
+   1.668e-13
+  ],
+  [
+   15095.225,
+   1.846e-13
+  ],
+  [
+   16252.5497,
+   1.886e-13
+  ],
+  [
+   17831.7735,
+   2.358e-13
+  ],
+  [
+   19198.9046,
+   2.375e-13
+  ],
+  [
+   20670.8513,
+   2.928e-13
+  ],
+  [
+   22255.6495,
+   3.238e-13
+  ],
+  [
+   23961.9515,
+   5.891e-13
+  ],
+  [
+   25799.0727,
+   8.267e-13
+  ],
+  [
+   27777.0427,
+   1.559e-12
+  ],
+  [
+   30428.2132,
+   3.348e-12
+  ],
+  [
+   32761.0914,
+   4.308e-12
+  ],
+  [
+   35272.8274,
+   1.289e-11
+  ],
+  [
+   37977.1338,
+   2.932e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "SolarXray_Beaufort_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline hadronic (g_ae=0) exclusion in the (g_agamma, m) plane from Fig.1, produced via photon coalescence which improves prior limits by ~1 order of magnitude. Curve is the combined lower envelope (boundary of excluded region) of the two blue 'Coalescence' limits: SphinX (dashed, ~3-6 keV) and NuSTAR (solid, 6-38 keV, the stronger one over the overlap). Axion mass m = 2*E_gamma. Extracted from the ROOT vector EPS (Fig1_limitsCouplingPhoton.eps); x log-axis calibrated on 3-40 keV ticks, y on 10^-13..10^-9 GeV^-1. Limits explicitly do NOT assume the local dark-matter density (decay of gravitationally trapped solar ALPs), hence dm_density_assumed=null. Paper states no explicit statistical CL: limit set by requiring predicted ALP-induced X-ray flux not exceed measured solar flux per energy bin (conservative).",
+ "num_points": 34,
+ "arxiv_id": "2303.06968",
+ "elapsed_s": 257.6623537540436,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 257346,
+  "duration_api_ms": 255073,
+  "total_cost_usd": 1.2586890000000002,
+  "usage": {
+   "input_tokens": 452,
+   "output_tokens": 17755,
+   "cache_creation_input_tokens": 53033,
+   "cache_read_input_tokens": 564448
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2303.06968.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:21:07-0500"
+ }
+}

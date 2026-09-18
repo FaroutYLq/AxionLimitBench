@@ -1,0 +1,131 @@
+{
+ "paper_title": "NuSTAR bounds on radiatively decaying particles from M82",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   10000.0,
+   5.123e-12
+  ],
+  [
+   12589.0,
+   4.275e-12
+  ],
+  [
+   15849.0,
+   3.543e-12
+  ],
+  [
+   19953.0,
+   2.879e-12
+  ],
+  [
+   25119.0,
+   2.253e-12
+  ],
+  [
+   31623.0,
+   1.733e-12
+  ],
+  [
+   39811.0,
+   1.322e-12
+  ],
+  [
+   50119.0,
+   1.026e-12
+  ],
+  [
+   63096.0,
+   8.271e-13
+  ],
+  [
+   79433.0,
+   7.131e-13
+  ],
+  [
+   100000.0,
+   6.499e-13
+  ],
+  [
+   125890.0,
+   6.307e-13
+  ],
+  [
+   158490.0,
+   6.543e-13
+  ],
+  [
+   199530.0,
+   7.564e-13
+  ],
+  [
+   251190.0,
+   9.398e-13
+  ],
+  [
+   316230.0,
+   1.335e-12
+  ],
+  [
+   398110.0,
+   2.515e-12
+  ],
+  [
+   501190.0,
+   1.027e-11
+  ],
+  [
+   630960.0,
+   4.107e-11
+  ],
+  [
+   719460.0,
+   1e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.93,
+ "suggested_experiment_name": "NuSTAR-M82_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Curve extracted from the vector path (orange stroke, width 3) of FigBounds.pdf (Fig. 2 of the paper), the boundary of the region 'Excluded by NuSTAR observations of M82'. Axis calibration from major tick marks: x=92.34px=10 keV, 469.13px/decade; y=15.50px=1e-10 GeV^-1, 172.375px/decade; curve vertices lie at exact 0.1-dex mass spacing, confirming they are the authors' computed grid points. Paper convention L = g_agamma a E.B is identical to the canonical -(g/4)aFF~. Bound from likelihood test statistic threshold TS=2.7 (one-sided half-chi-squared, 95% CL), main analysis with free isotropic background (conservative choice; OFF-region/power-law variants give slightly stronger limits). Astrophysical (stellar-production) bound, no dark-matter density assumption. Curve reported over the plotted range 10-631 keV plus the crossing of the top of the frame (g=1e-10) at ~719 keV; the first vertex of the drawn path (7.9 keV) lies outside the plotted axes and is omitted.",
+ "num_points": 20,
+ "arxiv_id": "2412.03660",
+ "elapsed_s": 207.79511904716492,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 207485,
+  "duration_api_ms": 201300,
+  "total_cost_usd": 1.5825279999999997,
+  "usage": {
+   "input_tokens": 493,
+   "output_tokens": 12225,
+   "cache_creation_input_tokens": 37409,
+   "cache_read_input_tokens": 440363
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2412.03660.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:28:12-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

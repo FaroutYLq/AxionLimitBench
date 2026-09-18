@@ -1,0 +1,371 @@
+{
+ "paper_title": "Upper limit on the axion-photon coupling from Markarian 421",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.243e-10,
+   8.011e-11
+  ],
+  [
+   2.452e-10,
+   7.754e-11
+  ],
+  [
+   2.68e-10,
+   7.505e-11
+  ],
+  [
+   2.93e-10,
+   2.441e-11
+  ],
+  [
+   3.203e-10,
+   2.145e-11
+  ],
+  [
+   3.501e-10,
+   1.898e-11
+  ],
+  [
+   3.828e-10,
+   1.761e-11
+  ],
+  [
+   4.185e-10,
+   1.675e-11
+  ],
+  [
+   4.575e-10,
+   1.611e-11
+  ],
+  [
+   5.001e-10,
+   1.55e-11
+  ],
+  [
+   5.467e-10,
+   1.495e-11
+  ],
+  [
+   5.977e-10,
+   1.443e-11
+  ],
+  [
+   6.534e-10,
+   1.432e-11
+  ],
+  [
+   7.143e-10,
+   1.462e-11
+  ],
+  [
+   7.809e-10,
+   1.492e-11
+  ],
+  [
+   8.536e-10,
+   1.549e-11
+  ],
+  [
+   9.332e-10,
+   1.591e-11
+  ],
+  [
+   1.02e-09,
+   1.617e-11
+  ],
+  [
+   1.115e-09,
+   1.636e-11
+  ],
+  [
+   1.219e-09,
+   8.9e-12
+  ],
+  [
+   1.333e-09,
+   7.28e-12
+  ],
+  [
+   1.457e-09,
+   6.555e-12
+  ],
+  [
+   1.593e-09,
+   5.919e-12
+  ],
+  [
+   1.741e-09,
+   5.457e-12
+  ],
+  [
+   1.904e-09,
+   5.03e-12
+  ],
+  [
+   2.081e-09,
+   4.697e-12
+  ],
+  [
+   2.275e-09,
+   4.439e-12
+  ],
+  [
+   2.487e-09,
+   4.195e-12
+  ],
+  [
+   2.719e-09,
+   4.152e-12
+  ],
+  [
+   2.972e-09,
+   4.139e-12
+  ],
+  [
+   3.249e-09,
+   4.176e-12
+  ],
+  [
+   3.552e-09,
+   4.321e-12
+  ],
+  [
+   3.883e-09,
+   4.472e-12
+  ],
+  [
+   4.245e-09,
+   4.627e-12
+  ],
+  [
+   4.641e-09,
+   4.789e-12
+  ],
+  [
+   5.074e-09,
+   4.98e-12
+  ],
+  [
+   5.546e-09,
+   5.34e-12
+  ],
+  [
+   6.063e-09,
+   5.725e-12
+  ],
+  [
+   6.629e-09,
+   6.151e-12
+  ],
+  [
+   7.246e-09,
+   6.619e-12
+  ],
+  [
+   7.922e-09,
+   7.123e-12
+  ],
+  [
+   8.66e-09,
+   7.852e-12
+  ],
+  [
+   9.467e-09,
+   8.47e-12
+  ],
+  [
+   1.035e-08,
+   8.871e-12
+  ],
+  [
+   1.131e-08,
+   9.017e-12
+  ],
+  [
+   1.237e-08,
+   9.165e-12
+  ],
+  [
+   1.352e-08,
+   9.542e-12
+  ],
+  [
+   1.478e-08,
+   9.955e-12
+  ],
+  [
+   1.616e-08,
+   1.037e-11
+  ],
+  [
+   1.767e-08,
+   1.079e-11
+  ],
+  [
+   1.931e-08,
+   1.122e-11
+  ],
+  [
+   2.111e-08,
+   1.152e-11
+  ],
+  [
+   2.308e-08,
+   1.177e-11
+  ],
+  [
+   2.523e-08,
+   1.199e-11
+  ],
+  [
+   2.758e-08,
+   1.18e-11
+  ],
+  [
+   3.015e-08,
+   1.163e-11
+  ],
+  [
+   3.297e-08,
+   1.175e-11
+  ],
+  [
+   3.604e-08,
+   1.219e-11
+  ],
+  [
+   3.94e-08,
+   1.266e-11
+  ],
+  [
+   4.307e-08,
+   1.502e-11
+  ],
+  [
+   4.708e-08,
+   1.653e-11
+  ],
+  [
+   5.147e-08,
+   1.74e-11
+  ],
+  [
+   5.627e-08,
+   1.808e-11
+  ],
+  [
+   6.151e-08,
+   1.878e-11
+  ],
+  [
+   6.725e-08,
+   1.983e-11
+  ],
+  [
+   7.352e-08,
+   2.106e-11
+  ],
+  [
+   8.037e-08,
+   2.27e-11
+  ],
+  [
+   8.786e-08,
+   2.548e-11
+  ],
+  [
+   9.605e-08,
+   2.727e-11
+  ],
+  [
+   1.05e-07,
+   2.949e-11
+  ],
+  [
+   1.148e-07,
+   3.196e-11
+  ],
+  [
+   1.255e-07,
+   3.427e-11
+  ],
+  [
+   1.372e-07,
+   3.572e-11
+  ],
+  [
+   1.5e-07,
+   3.716e-11
+  ],
+  [
+   1.639e-07,
+   3.944e-11
+  ],
+  [
+   1.792e-07,
+   4.889e-11
+  ],
+  [
+   1.959e-07,
+   5.756e-11
+  ],
+  [
+   2.142e-07,
+   6.151e-11
+  ],
+  [
+   2.342e-07,
+   8.056e-11
+  ],
+  [
+   2.56e-07,
+   1e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.99,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "Mrk421_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "99% C.L. exclusion from 1038-day Fermi-LAT + HAWC gamma-ray spectra of Mrk 421 with B0=24 mG (baseline scenario, red 'this work' contour of Fig. 3). The excluded region is a closed blob in the {ma, gagamma} plane (chi2_null=44.24 < chi2_99%=46.98, so low couplings are unexcluded); points reported are the lower boundary (minimum excluded coupling vs mass) of that blob, recovered from the vector paths of fig_compare_mrk421-eps-converted-to.pdf in the arXiv e-print, axis-calibrated to the log-log frame (1e-10..1e-6 eV, 1e-12..1e-10 GeV^-1). Minimum g=4.1e-12 GeV^-1 near ma=3e-9 eV, matching the quoted headline g<~4.0e-12 for 1e-9..1e-8 eV. Contour is clipped by the plot frame at g=1e-10 GeV^-1 at both mass ends (2.2e-10 and 2.6e-7 eV). Astrophysical propagation limit: no dark-matter density assumption.",
+ "num_points": 80,
+ "arxiv_id": "2406.00387",
+ "elapsed_s": 255.471862077713,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 254898,
+  "duration_api_ms": 250499,
+  "total_cost_usd": 1.806399,
+  "usage": {
+   "input_tokens": 439,
+   "output_tokens": 15712,
+   "cache_creation_input_tokens": 42591,
+   "cache_read_input_tokens": 425649
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2406.00387.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:00:37-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

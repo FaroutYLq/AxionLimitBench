@@ -1,0 +1,203 @@
+{
+ "paper_title": "Multimessenger Constraints on Radiatively Decaying Axions from GW170817",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1000000.0,
+   9.99994e-08
+  ],
+  [
+   1001320.0,
+   2.18931e-08
+  ],
+  [
+   1682760.0,
+   1.02764e-08
+  ],
+  [
+   1692710.0,
+   9.73804e-09
+  ],
+  [
+   7557940.0,
+   1.16119e-09
+  ],
+  [
+   8018470.0,
+   1.11074e-09
+  ],
+  [
+   11918400.0,
+   6.16643e-10
+  ],
+  [
+   12588600.0,
+   5.91734e-10
+  ],
+  [
+   23507500.0,
+   2.48634e-10
+  ],
+  [
+   39557500.0,
+   1.43549e-10
+  ],
+  [
+   71349000.0,
+   8.29408e-11
+  ],
+  [
+   79175900.0,
+   7.8445e-11
+  ],
+  [
+   94174600.0,
+   6.64507e-11
+  ],
+  [
+   104505000.0,
+   6.43847e-11
+  ],
+  [
+   124302000.0,
+   5.61281e-11
+  ],
+  [
+   128691000.0,
+   5.71609e-11
+  ],
+  [
+   147850000.0,
+   5.34675e-11
+  ],
+  [
+   153069000.0,
+   5.45696e-11
+  ],
+  [
+   164068000.0,
+   5.13982e-11
+  ],
+  [
+   169861000.0,
+   5.24791e-11
+  ],
+  [
+   175858000.0,
+   5.1504e-11
+  ],
+  [
+   182066000.0,
+   5.37193e-11
+  ],
+  [
+   195149000.0,
+   5.09289e-11
+  ],
+  [
+   202039000.0,
+   5.33071e-11
+  ],
+  [
+   216556000.0,
+   5.20651e-11
+  ],
+  [
+   224202000.0,
+   5.59016e-11
+  ],
+  [
+   240312000.0,
+   5.58634e-11
+  ],
+  [
+   257580000.0,
+   6.49882e-11
+  ],
+  [
+   285835000.0,
+   9.50435e-11
+  ],
+  [
+   338856000.0,
+   2.29739e-10
+  ],
+  [
+   358560000.0,
+   3.90955e-10
+  ],
+  [
+   362433000.0,
+   6.65301e-10
+  ],
+  [
+   347982000.0,
+   1.07627e-09
+  ],
+  [
+   292332000.0,
+   2.41966e-09
+  ],
+  [
+   220238000.0,
+   5.57937e-09
+  ],
+  [
+   140793000.0,
+   1.61573e-08
+  ],
+  [
+   62434500.0,
+   9.26857e-08
+  ],
+  [
+   54668500.0,
+   9.99994e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "GW170817_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Boundary of the red 'Excluded by GW170817 data' region in Fig. 3 (BoundsNSMFull.pdf, vector paths extracted with pymupdf; axes calibrated to the frame spanning 1-3000 MeV and 1e-12-1e-7 GeV^-1, log-log). The excluded region is a closed contour, so points trace the full boundary (not monotonic in mass): starting at (1 MeV, 1e-7 GeV^-1), down the left edge, along the lower limit (minimum g_agamma ~5.1e-11 GeV^-1 near 150-240 MeV, matching the abstract's 'down to 5e-11'), to the right tip at ~362 MeV, back along the upper boundary, and along the top plot edge at g=1e-7 GeV^-1 (the region is clipped there for m < ~55 MeV; larger couplings are covered by SN cooling/low-energy SNe bounds). The shaded region corresponds to the thick solid contour, the 1.25-1.45 Msun asymmetric merger with SFHo EoS; DD2 and symmetric-merger variants are shown only as thin/dashed lines. Bound derived from 90% C.L. X-ray fluence upper limits (CALET CGBM, Konus-Wind, Insight-HXMT/HE) on GW170817/GRB 170817A (Table I). Astrophysical decay bound: no dark-matter density assumption.",
+ "num_points": 38,
+ "arxiv_id": "2305.10327",
+ "elapsed_s": 186.64043378829956,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 186125,
+  "duration_api_ms": 181107,
+  "total_cost_usd": 1.407054,
+  "usage": {
+   "input_tokens": 343,
+   "output_tokens": 13608,
+   "cache_creation_input_tokens": 32303,
+   "cache_read_input_tokens": 261064
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2305.10327.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:21:41-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

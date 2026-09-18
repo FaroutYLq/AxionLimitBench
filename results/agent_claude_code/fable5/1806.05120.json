@@ -1,0 +1,203 @@
+{
+ "paper_title": "First results from a hidden photon dark matter search in the meV sector using a plane-parabolic mirror system",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0006671395,
+   1.5934e-08
+  ],
+  [
+   0.0006857368,
+   1.5598e-08
+  ],
+  [
+   0.0006857368,
+   1.1094e-08
+  ],
+  [
+   0.0006942474,
+   1.1094e-08
+  ],
+  [
+   0.0006942474,
+   1.3438e-08
+  ],
+  [
+   0.0007052797,
+   1.3295e-08
+  ],
+  [
+   0.0007052797,
+   1.93e-08
+  ],
+  [
+   0.000729866,
+   1.8893e-08
+  ],
+  [
+   0.000729866,
+   8.8711e-09
+  ],
+  [
+   0.0007547675,
+   8.6842e-09
+  ],
+  [
+   0.0007547675,
+   5.0453e-09
+  ],
+  [
+   0.0007635934,
+   4.9919e-09
+  ],
+  [
+   0.0007635934,
+   8.0604e-09
+  ],
+  [
+   0.0007717888,
+   8.0604e-09
+  ],
+  [
+   0.0007717888,
+   1.8693e-08
+  ],
+  [
+   0.0007799842,
+   1.8693e-08
+  ],
+  [
+   0.0007799842,
+   2.5455e-08
+  ],
+  [
+   0.0008052009,
+   2.4919e-08
+  ],
+  [
+   0.0008052009,
+   1.4324e-08
+  ],
+  [
+   0.0008215918,
+   1.4172e-08
+  ],
+  [
+   0.0008215918,
+   1.1826e-08
+  ],
+  [
+   0.0008389283,
+   1.1701e-08
+  ],
+  [
+   0.0008389283,
+   6.1766e-09
+  ],
+  [
+   0.0008474389,
+   6.1766e-09
+  ],
+  [
+   0.0008474389,
+   1.9715e-08
+  ],
+  [
+   0.0008553191,
+   1.9506e-08
+  ],
+  [
+   0.0008553191,
+   1.8693e-08
+  ],
+  [
+   0.0008638298,
+   1.8693e-08
+  ],
+  [
+   0.0008638298,
+   2.388e-08
+  ],
+  [
+   0.00087171,
+   2.388e-08
+  ],
+  [
+   0.00087171,
+   2.4919e-08
+  ],
+  [
+   0.0008959811,
+   2.4394e-08
+  ],
+  [
+   0.0008959811,
+   1.6451e-08
+  ],
+  [
+   0.0009038613,
+   1.6451e-08
+  ],
+  [
+   0.0009038613,
+   1.1577e-08
+  ],
+  [
+   0.0009123719,
+   1.1577e-08
+  ],
+  [
+   0.0009123719,
+   1.1826e-08
+  ],
+  [
+   0.0009177305,
+   1.1826e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "Tokyo_2018",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Thick 'virialized' four-bin analysis curve (the headline result) from Fig. 5 (left), recovered from the vector EPS figures/chiOnly_cut.eps in the arXiv e-print (ROOT plot; axes calibrated from tick labels: x linear 0.6-1.0 meV, y log 1e-9 to 1e-5). Paper assumes rho_HPDM = 0.45 GeV/cm^3 (their footnote 2), so no density rescaling needed. 90% CL upper limit on kinetic mixing chi over 0.67-0.92 meV; stepwise structure reflects the 19 SBD conversion-loss sub-regions. The thin 'unvirialized' single-bin curve was not reported. A closure point where the curve exits the plot frame at the right edge (chi=1e-5) was dropped.",
+ "num_points": 38,
+ "arxiv_id": "1806.05120",
+ "elapsed_s": 100.32136702537537,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 100029,
+  "duration_api_ms": 96747,
+  "total_cost_usd": 1.061047,
+  "usage": {
+   "input_tokens": 306,
+   "output_tokens": 6655,
+   "cache_creation_input_tokens": 31536,
+   "cache_read_input_tokens": 271517
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1806.05120.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:26:14-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

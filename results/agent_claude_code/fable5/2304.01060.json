@@ -1,0 +1,335 @@
+{
+ "paper_title": "Investigating the gamma-ray burst from decaying MeV-scale axion-like particles produced in supernova explosions",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   31430.7,
+   7.9512e-11
+  ],
+  [
+   36378.6,
+   7.4896e-11
+  ],
+  [
+   42448.9,
+   6.91555e-11
+  ],
+  [
+   49131.3,
+   6.3855e-11
+  ],
+  [
+   57329.4,
+   5.89607e-11
+  ],
+  [
+   66354.4,
+   5.55378e-11
+  ],
+  [
+   77426.4,
+   5.1281e-11
+  ],
+  [
+   89615.1,
+   4.73505e-11
+  ],
+  [
+   104568.0,
+   4.37213e-11
+  ],
+  [
+   121030.0,
+   4.11831e-11
+  ],
+  [
+   141225.0,
+   3.80265e-11
+  ],
+  [
+   163457.0,
+   3.51119e-11
+  ],
+  [
+   190732.0,
+   3.24207e-11
+  ],
+  [
+   220757.0,
+   3.05386e-11
+  ],
+  [
+   257593.0,
+   2.81979e-11
+  ],
+  [
+   298145.0,
+   2.60366e-11
+  ],
+  [
+   347893.0,
+   2.4041e-11
+  ],
+  [
+   402660.0,
+   2.21983e-11
+  ],
+  [
+   469848.0,
+   2.09096e-11
+  ],
+  [
+   543813.0,
+   1.9307e-11
+  ],
+  [
+   634555.0,
+   1.78272e-11
+  ],
+  [
+   740438.0,
+   1.64608e-11
+  ],
+  [
+   857000.0,
+   1.55052e-11
+  ],
+  [
+   1000000.0,
+   1.43167e-11
+  ],
+  [
+   1157420.0,
+   1.32194e-11
+  ],
+  [
+   1350550.0,
+   1.22062e-11
+  ],
+  [
+   1563160.0,
+   1.12706e-11
+  ],
+  [
+   1823990.0,
+   1.06163e-11
+  ],
+  [
+   2111130.0,
+   9.80262e-12
+  ],
+  [
+   2463400.0,
+   9.05128e-12
+  ],
+  [
+   2851190.0,
+   8.35753e-12
+  ],
+  [
+   3326950.0,
+   7.87234e-12
+  ],
+  [
+   3850680.0,
+   7.26895e-12
+  ],
+  [
+   4493220.0,
+   6.71181e-12
+  ],
+  [
+   5200550.0,
+   6.32216e-12
+  ],
+  [
+   6068320.0,
+   5.83759e-12
+  ],
+  [
+   7023620.0,
+   5.39016e-12
+  ],
+  [
+   8195590.0,
+   4.97702e-12
+  ],
+  [
+   9485760.0,
+   4.68809e-12
+  ],
+  [
+   11068600.0,
+   4.32876e-12
+  ],
+  [
+   12915500.0,
+   3.99698e-12
+  ],
+  [
+   14948700.0,
+   3.69062e-12
+  ],
+  [
+   17443100.0,
+   3.40775e-12
+  ],
+  [
+   20189000.0,
+   3.20991e-12
+  ],
+  [
+   23557800.0,
+   2.96389e-12
+  ],
+  [
+   27266300.0,
+   2.73671e-12
+  ],
+  [
+   31816000.0,
+   2.57784e-12
+  ],
+  [
+   36824600.0,
+   2.38025e-12
+  ],
+  [
+   42969200.0,
+   2.24207e-12
+  ],
+  [
+   49733500.0,
+   2.15443e-12
+  ],
+  [
+   58032100.0,
+   2.02936e-12
+  ],
+  [
+   67167700.0,
+   1.91155e-12
+  ],
+  [
+   78375400.0,
+   1.80058e-12
+  ],
+  [
+   90713500.0,
+   1.7302e-12
+  ],
+  [
+   105850000.0,
+   1.66257e-12
+  ],
+  [
+   122513000.0,
+   1.62975e-12
+  ],
+  [
+   142956000.0,
+   1.69604e-12
+  ],
+  [
+   165461000.0,
+   1.91155e-12
+  ],
+  [
+   193070000.0,
+   2.33327e-12
+  ],
+  [
+   225286000.0,
+   3.08445e-12
+  ],
+  [
+   228975000.0,
+   3.14656e-12
+  ],
+  [
+   234623000.0,
+   3.40775e-12
+  ],
+  [
+   240410000.0,
+   3.61778e-12
+  ],
+  [
+   244347000.0,
+   3.76494e-12
+  ],
+  [
+   250374000.0,
+   4.07746e-12
+  ],
+  [
+   256549000.0,
+   4.41592e-12
+  ],
+  [
+   262877000.0,
+   4.78249e-12
+  ],
+  [
+   267182000.0,
+   5.17947e-12
+  ],
+  [
+   273772000.0,
+   5.72237e-12
+  ],
+  [
+   280525000.0,
+   6.57933e-12
+  ],
+  [
+   287444000.0,
+   8.19257e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "SN1987A-decay_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Lower boundary of the solid red 'SN1987A (This work)' exclusion region in Fig. 3 (combinedBoundsPlot.png from the e-print), digitised by color segmentation with axis calibration from tick marks. This is the paper's updated SN 1987A gamma-ray decay bound from the SMM non-observation (223 s window, 25-100 MeV), including Primakoff and photon-coalescence production; it extends from m_a ~ 31 keV to ~287 MeV with a minimum g_agamma ~ 1.6e-12 GeV^-1 near 110 MeV. The traced curve is the outer edge of the plotted region, i.e. the 2-sigma contour (F_gamma < 1.19 cm^-2); the 3-sigma contour (F_gamma < 1.78 cm^-2, convention of earlier literature) lies ~10% higher in coupling. The excluded region is closed: it also has an upper boundary at g ~ 8e-11 GeV^-1 (overlapping other astrophysical bounds); only the lower (headline) boundary is reported here, with the right-hand closure of the region captured by the rising last points. The red dashed Fermi-LAT curve in the same figure is a future-SN sensitivity projection and was excluded. No dark-matter density assumption is involved (astrophysical SN bound, not rescaled).",
+ "num_points": 71,
+ "arxiv_id": "2304.01060",
+ "elapsed_s": 220.64848709106445,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 220335,
+  "duration_api_ms": 214922,
+  "total_cost_usd": 1.784157,
+  "usage": {
+   "input_tokens": 514,
+   "output_tokens": 15620,
+   "cache_creation_input_tokens": 37653,
+   "cache_read_input_tokens": 468937
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2304.01060.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:15:46-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

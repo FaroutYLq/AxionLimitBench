@@ -1,0 +1,331 @@
+{
+ "paper_title": "ADMX SLIC: Results from a Superconducting LC Circuit Investigating Cold Axions",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.75006e-07,
+   5.07e-12
+  ],
+  [
+   1.750139e-07,
+   5.07e-12
+  ],
+  [
+   1.750144e-07,
+   3.388e-12
+  ],
+  [
+   1.750306e-07,
+   3.388e-12
+  ],
+  [
+   1.750311e-07,
+   1.396e-12
+  ],
+  [
+   1.7504e-07,
+   1.396e-12
+  ],
+  [
+   1.750405e-07,
+   2.265e-12
+  ],
+  [
+   1.750484e-07,
+   2.265e-12
+  ],
+  [
+   1.750489e-07,
+   3.126e-12
+  ],
+  [
+   1.750642e-07,
+   3.126e-12
+  ],
+  [
+   1.750647e-07,
+   3.003e-12
+  ],
+  [
+   1.750731e-07,
+   3.003e-12
+  ],
+  [
+   1.750735e-07,
+   1.641e-12
+  ],
+  [
+   1.750898e-07,
+   1.641e-12
+  ],
+  [
+   1.750903e-07,
+   1.454e-12
+  ],
+  [
+   1.750992e-07,
+   1.454e-12
+  ],
+  [
+   1.750997e-07,
+   2.089e-12
+  ],
+  [
+   1.75116e-07,
+   2.089e-12
+  ],
+  [
+   1.751165e-07,
+   2.455e-12
+  ],
+  [
+   1.751327e-07,
+   2.455e-12
+  ],
+  [
+   1.751332e-07,
+   5.278e-12
+  ],
+  [
+   1.751416e-07,
+   5.278e-12
+  ],
+  [
+   1.751421e-07,
+   6.722e-12
+  ],
+  [
+   1.751574e-07,
+   6.722e-12
+  ],
+  [
+   1.751579e-07,
+   2.089e-12
+  ],
+  [
+   1.751668e-07,
+   2.089e-12
+  ],
+  [
+   1.751673e-07,
+   2.556e-12
+  ],
+  [
+   1.751751e-07,
+   2.556e-12
+  ],
+  [
+   1.773308e-07,
+   3.673e-12
+  ],
+  [
+   1.773347e-07,
+   3.673e-12
+  ],
+  [
+   1.773349e-07,
+   5.754e-13
+  ],
+  [
+   1.773393e-07,
+   5.754e-13
+  ],
+  [
+   1.773395e-07,
+   8.27e-13
+  ],
+  [
+   1.773476e-07,
+   8.27e-13
+  ],
+  [
+   1.773477e-07,
+   1.514e-12
+  ],
+  [
+   1.773557e-07,
+   1.514e-12
+  ],
+  [
+   1.773558e-07,
+   5.754e-13
+  ],
+  [
+   1.773603e-07,
+   5.754e-13
+  ],
+  [
+   1.773604e-07,
+   8.61e-13
+  ],
+  [
+   1.773683e-07,
+   8.61e-13
+  ],
+  [
+   1.773685e-07,
+   5.309e-13
+  ],
+  [
+   1.773728e-07,
+   5.309e-13
+  ],
+  [
+   1.773729e-07,
+   5.991e-13
+  ],
+  [
+   1.773769e-07,
+   5.991e-13
+  ],
+  [
+   1.773771e-07,
+   6.494e-13
+  ],
+  [
+   1.773812e-07,
+   6.494e-13
+  ],
+  [
+   1.80077e-07,
+   2.455e-12
+  ],
+  [
+   1.800809e-07,
+   2.455e-12
+  ],
+  [
+   1.800811e-07,
+   5.099e-13
+  ],
+  [
+   1.800852e-07,
+   5.099e-13
+  ],
+  [
+   1.800854e-07,
+   4.169e-13
+  ],
+  [
+   1.800898e-07,
+   4.169e-13
+  ],
+  [
+   1.8009e-07,
+   5.527e-13
+  ],
+  [
+   1.800982e-07,
+   5.527e-13
+  ],
+  [
+   1.800984e-07,
+   5.754e-13
+  ],
+  [
+   1.801023e-07,
+   5.754e-13
+  ],
+  [
+   1.801026e-07,
+   6.237e-13
+  ],
+  [
+   1.801104e-07,
+   6.237e-13
+  ],
+  [
+   1.801106e-07,
+   5.754e-13
+  ],
+  [
+   1.801149e-07,
+   5.754e-13
+  ],
+  [
+   1.801151e-07,
+   6.494e-13
+  ],
+  [
+   1.80119e-07,
+   6.494e-13
+  ],
+  [
+   1.801193e-07,
+   1.012e-12
+  ],
+  [
+   1.801232e-07,
+   1.012e-12
+  ],
+  [
+   1.801234e-07,
+   1.514e-12
+  ],
+  [
+   1.801275e-07,
+   1.514e-12
+  ],
+  [
+   1.801277e-07,
+   1.851e-12
+  ],
+  [
+   1.801316e-07,
+   1.851e-12
+  ],
+  [
+   1.801318e-07,
+   2.661e-12
+  ],
+  [
+   1.801358e-07,
+   2.661e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "ADMX-SLIC_2019",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Blue '90% Limit, RFI Limit' curve (the observed exclusion; text: 'Axion couplings that would produce signals larger than the observed excesses can be excluded, as shown in the blue lines of Fig. 4') digitised by pixel analysis from the e-print raster panels plots/limit_1.png (Run 1, 4.5 T, 42.316-42.357 MHz), limit_2a.png (Run 2a, 5.0 T, 42.878-42.891 MHz) and limit_2b.png (Run 2b, 7.0 T, 43.542-43.557 MHz), i.e. Figs. 4b-4d; axis calibration from tick marks (x linear in MHz, y log decades 1e-17..1e-10 GeV^-1). Orange 'without RFI estimated' curve NOT used. Three disjoint mass bands; each step of the staircase limit emitted as a pair of points. Mass = h*f. Paper does not state its assumed local DM density; ADMX convention 0.45 GeV/cm^3 assumed, no rescaling applied.",
+ "num_points": 70,
+ "arxiv_id": "1911.05772",
+ "elapsed_s": 198.5979461669922,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 198290,
+  "duration_api_ms": 195366,
+  "total_cost_usd": 1.696479,
+  "usage": {
+   "input_tokens": 440,
+   "output_tokens": 14381,
+   "cache_creation_input_tokens": 39881,
+   "cache_read_input_tokens": 417509
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1911.05772.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:51:55-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

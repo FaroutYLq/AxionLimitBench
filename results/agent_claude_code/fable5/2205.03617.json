@@ -1,0 +1,131 @@
+{
+ "paper_title": "Particle dispersion in the classical vector dark matter background",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-20,
+   1.1041e-11
+  ],
+  [
+   3.1535e-20,
+   3.4817e-11
+  ],
+  [
+   9.9447e-20,
+   1.098e-10
+  ],
+  [
+   3.1361e-19,
+   3.4625e-10
+  ],
+  [
+   9.8897e-19,
+   1.0919e-09
+  ],
+  [
+   3.1187e-18,
+   3.4433e-09
+  ],
+  [
+   9.835e-18,
+   1.0859e-08
+  ],
+  [
+   3.1015e-17,
+   3.4243e-08
+  ],
+  [
+   9.7806e-17,
+   1.0799e-07
+  ],
+  [
+   3.0843e-16,
+   3.4054e-07
+  ],
+  [
+   9.7265e-16,
+   1.0739e-06
+  ],
+  [
+   3.0673e-15,
+   3.3865e-06
+  ],
+  [
+   9.6728e-15,
+   1.0679e-05
+  ],
+  [
+   3.0503e-14,
+   3.3678e-05
+  ],
+  [
+   9.6193e-14,
+   0.0001062
+  ],
+  [
+   3.0335e-13,
+   0.00033492
+  ],
+  [
+   9.5661e-13,
+   0.0010562
+  ],
+  [
+   3.0167e-12,
+   0.0033307
+  ],
+  [
+   9.5132e-12,
+   0.010503
+  ],
+  [
+   3e-11,
+   0.033122
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "ChunYun_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Dashed green (delta m_e^earth) line in Fig. 6 (DPbounds.pdf), the paper's new dark-photon bound from the electron mass measurement, Eq. (35): g_e < 3.3e-12 (m/1e-20 eV) at local DM density 0.3 GeV/cm^3, converted to kinetic mixing via eps = g_e/e giving eps < 1.1e-11 (m/1e-20 eV). Vector extraction of the figure confirms this exactly (log-log slope 1.000, eps=1.10e-11 at 1e-20 eV); points span the line's extent within the figure frame (1e-20 to 3e-11 eV, where it exits the plot top). The paper also draws a stronger dashed black 'Z' line from electroweak-precision wavefunction-normalization arguments, Eq. (39): eps < 2.2e-38 (m/1e-20 eV)^2 (verified in the figure, slope 2.000, spanning ~3e-13 to 2e-2 eV within the frame); I report the delta m_e dispersion bound as the main result since the abstract and conclusions present the dispersion/refraction bound as the headline dark-photon constraint, with the Z bound framed as a generic VDM normalization constraint. Confidence level not stated explicitly; density quoted at 2-sigma. Assumes vector field is all of the local DM.",
+ "num_points": 20,
+ "arxiv_id": "2205.03617",
+ "elapsed_s": 249.00435423851013,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 248545,
+  "duration_api_ms": 243421,
+  "total_cost_usd": 2.1049805,
+  "usage": {
+   "input_tokens": 487,
+   "output_tokens": 18407,
+   "cache_creation_input_tokens": 52130,
+   "cache_read_input_tokens": 464813
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2205.03617.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:49:35-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

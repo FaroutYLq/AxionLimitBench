@@ -1,0 +1,431 @@
+{
+ "paper_title": "Search for QCD coupled axion dark matter with the MICROSCOPE space experiment",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.01579e-20,
+   2.10581e-16
+  ],
+  [
+   1.3895e-20,
+   2.58606e-16
+  ],
+  [
+   2.59996e-20,
+   3.28646e-16
+  ],
+  [
+   2.6827e-20,
+   3.5194e-16
+  ],
+  [
+   3.23746e-20,
+   3.76884e-16
+  ],
+  [
+   3.44679e-20,
+   4.03597e-16
+  ],
+  [
+   5.87094e-20,
+   4.95641e-16
+  ],
+  [
+   6.05777e-20,
+   5.30771e-16
+  ],
+  [
+   6.44947e-20,
+   5.49259e-16
+  ],
+  [
+   8.03086e-20,
+   5.88189e-16
+  ],
+  [
+   9.10298e-20,
+   6.51818e-16
+  ],
+  [
+   9.69158e-20,
+   6.51818e-16
+  ],
+  [
+   1.2452e-19,
+   7.47491e-16
+  ],
+  [
+   1.32571e-19,
+   7.47491e-16
+  ],
+  [
+   1.3679e-19,
+   8.00471e-16
+  ],
+  [
+   1.45635e-19,
+   8.28353e-16
+  ],
+  [
+   2.12095e-19,
+   9.49938e-16
+  ],
+  [
+   2.18845e-19,
+   1.01727e-15
+  ],
+  [
+   2.99358e-19,
+   1.12731e-15
+  ],
+  [
+   3.18714e-19,
+   1.16658e-15
+  ],
+  [
+   3.28857e-19,
+   1.24926e-15
+  ],
+  [
+   5.60144e-19,
+   1.53417e-15
+  ],
+  [
+   6.34923e-19,
+   1.70013e-15
+  ],
+  [
+   7.19686e-19,
+   1.75935e-15
+  ],
+  [
+   7.42589e-19,
+   1.88405e-15
+  ],
+  [
+   1.3895e-18,
+   2.39432e-15
+  ],
+  [
+   1.67683e-18,
+   2.74575e-15
+  ],
+  [
+   1.78526e-18,
+   2.74575e-15
+  ],
+  [
+   1.84207e-18,
+   2.94037e-15
+  ],
+  [
+   1.96118e-18,
+   3.04279e-15
+  ],
+  [
+   3.66966e-18,
+   3.86688e-15
+  ],
+  [
+   4.42852e-18,
+   4.43445e-15
+  ],
+  [
+   4.71487e-18,
+   4.43445e-15
+  ],
+  [
+   4.86491e-18,
+   4.74876e-15
+  ],
+  [
+   5.17947e-18,
+   4.91417e-15
+  ],
+  [
+   9.69158e-18,
+   6.24509e-15
+  ],
+  [
+   1.16957e-17,
+   7.16174e-15
+  ],
+  [
+   2.18845e-17,
+   9.10139e-15
+  ],
+  [
+   2.25809e-17,
+   9.74648e-15
+  ],
+  [
+   2.4041e-17,
+   1.0086e-14
+  ],
+  [
+   2.55955e-17,
+   1.0086e-14
+  ],
+  [
+   2.81177e-17,
+   1.08008e-14
+  ],
+  [
+   3.18714e-17,
+   1.08008e-14
+  ],
+  [
+   3.39322e-17,
+   1.15664e-14
+  ],
+  [
+   3.61263e-17,
+   1.15664e-14
+  ],
+  [
+   3.96862e-17,
+   1.23862e-14
+  ],
+  [
+   5.42868e-17,
+   1.37261e-14
+  ],
+  [
+   7.6622e-17,
+   1.62891e-14
+  ],
+  [
+   7.90604e-17,
+   1.62891e-14
+  ],
+  [
+   8.41725e-17,
+   1.32641e-14
+  ],
+  [
+   9.54095e-17,
+   1.32641e-14
+  ],
+  [
+   1.22584e-16,
+   1.52109e-14
+  ],
+  [
+   1.3895e-16,
+   1.52109e-14
+  ],
+  [
+   1.57499e-16,
+   1.62891e-14
+  ],
+  [
+   1.96118e-16,
+   1.62891e-14
+  ],
+  [
+   2.44205e-16,
+   1.86799e-14
+  ],
+  [
+   2.94705e-16,
+   1.86799e-14
+  ],
+  [
+   3.34048e-16,
+   2.00039e-14
+  ],
+  [
+   4.03127e-16,
+   2.00039e-14
+  ],
+  [
+   4.56945e-16,
+   2.14218e-14
+  ],
+  [
+   5.17947e-16,
+   2.14218e-14
+  ],
+  [
+   5.3443e-16,
+   2.29401e-14
+  ],
+  [
+   6.65471e-16,
+   2.29401e-14
+  ],
+  [
+   7.31047e-16,
+   2.4566e-14
+  ],
+  [
+   8.28643e-16,
+   2.4566e-14
+  ],
+  [
+   8.82223e-16,
+   2.63072e-14
+  ],
+  [
+   1.06466e-15,
+   2.54217e-14
+  ],
+  [
+   1.09854e-15,
+   2.63072e-14
+  ],
+  [
+   1.3679e-15,
+   2.63072e-14
+  ],
+  [
+   1.41143e-15,
+   2.72235e-14
+  ],
+  [
+   1.70331e-15,
+   2.72235e-14
+  ],
+  [
+   1.75751e-15,
+   2.81718e-14
+  ],
+  [
+   2.55955e-15,
+   2.81718e-14
+  ],
+  [
+   2.72505e-15,
+   3.01685e-14
+  ],
+  [
+   9.54095e-15,
+   3.12193e-14
+  ],
+  [
+   9.84458e-15,
+   1.56066e-13
+  ],
+  [
+   2.51977e-14,
+   1.56066e-13
+  ],
+  [
+   2.59996e-14,
+   1.08937e-11
+  ],
+  [
+   2.76807e-14,
+   1.08937e-11
+  ],
+  [
+   2.85616e-14,
+   1.20721e-11
+  ],
+  [
+   3.04084e-14,
+   1.24926e-11
+  ],
+  [
+   3.13761e-14,
+   1.64291e-11
+  ],
+  [
+   3.55648e-14,
+   1.64291e-11
+  ],
+  [
+   3.66966e-14,
+   2.39432e-11
+  ],
+  [
+   4.15956e-14,
+   2.47772e-11
+  ],
+  [
+   4.29193e-14,
+   7.93649e-11
+  ],
+  [
+   4.42852e-14,
+   7.93649e-11
+  ],
+  [
+   4.56945e-14,
+   8.499e-11
+  ],
+  [
+   4.86491e-14,
+   8.499e-11
+  ],
+  [
+   5.87094e-14,
+   1.08008e-10
+  ],
+  [
+   6.25055e-14,
+   1.08008e-10
+  ],
+  [
+   6.86649e-14,
+   1.28176e-10
+  ],
+  [
+   7.31047e-14,
+   1.28176e-10
+  ],
+  [
+   7.54312e-14,
+   1.37261e-10
+  ],
+  [
+   8.55013e-14,
+   1.46989e-10
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "MICROSCOPE_2025",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Lower boundary of the red 95% credible exclusion region on the ALP-gluon coupling 1/f_a in Fig. 2 (raster Figs/1_fa_Micro_final.png from the e-print), extracted per pixel column as the bottommost red-or-black-outline pixel. Axes calibrated from decade gridlines (x: cols 214/361/508/655 = 1e-19/1e-17/1e-15/1e-13 eV; y: rows 309/444 = 1e-13/1e-15 GeV^-1, frame 40/578 = 1e-9/1e-17). Cross-checked against text: 1/f_a ~ 1.7e-16 GeV^-1 at m=1e-20 eV (extracted 2.1e-16) and 1.3e-10 GeV^-1 at m~7.7e-14 eV (extracted ~1.4e-10). Paper convention theta = E_P a / f_a matches the standard f_a normalization of the gluon coupling; no conversion applied. The exclusion contains narrow blind bands (gamma zero crossings) and, above m~1e-14 eV, only thin excluded needle bands (black dashes at 1/f_a~1.5e-13) below the main red body; the reported curve is the outer lower envelope of the full plotted excluded structure, with a narrow artifact where the overlaid gray lab-bound curve crosses the boundary (cols 371-374) interpolated over. rho_DM = 0.4 GeV/cm^3 assumed; limit scales with sqrt(rho_DM) via the field amplitude.",
+ "num_points": 95,
+ "arxiv_id": "2504.00720",
+ "elapsed_s": 347.98039984703064,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 29,
+  "duration_ms": 347674,
+  "duration_api_ms": 340463,
+  "total_cost_usd": 3.045328,
+  "usage": {
+   "input_tokens": 739,
+   "output_tokens": 24828,
+   "cache_creation_input_tokens": 57584,
+   "cache_read_input_tokens": 1018493
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2504.00720.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T22:41:43-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

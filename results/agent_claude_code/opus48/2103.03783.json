@@ -1,0 +1,194 @@
+{
+ "paper_title": "Direct limits for scalar field dark matter from a gravitational-wave detector",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.113e-13,
+   15.95
+  ],
+  [
+   2.411e-13,
+   7.809
+  ],
+  [
+   2.75e-13,
+   4.578
+  ],
+  [
+   3.137e-13,
+   2.097
+  ],
+  [
+   3.578e-13,
+   0.6031
+  ],
+  [
+   4.082e-13,
+   0.4077
+  ],
+  [
+   4.656e-13,
+   0.2925
+  ],
+  [
+   5.311e-13,
+   0.2889
+  ],
+  [
+   6.059e-13,
+   0.2167
+  ],
+  [
+   6.911e-13,
+   0.1945
+  ],
+  [
+   7.884e-13,
+   0.1821
+  ],
+  [
+   8.993e-13,
+   0.1612
+  ],
+  [
+   1.026e-12,
+   0.1608
+  ],
+  [
+   1.17e-12,
+   0.1646
+  ],
+  [
+   1.335e-12,
+   0.1752
+  ],
+  [
+   1.523e-12,
+   0.1873
+  ],
+  [
+   1.737e-12,
+   0.2193
+  ],
+  [
+   1.981e-12,
+   0.2326
+  ],
+  [
+   2.26e-12,
+   0.2655
+  ],
+  [
+   2.578e-12,
+   0.3154
+  ],
+  [
+   2.941e-12,
+   0.3608
+  ],
+  [
+   3.355e-12,
+   0.4046
+  ],
+  [
+   3.827e-12,
+   0.4664
+  ],
+  [
+   4.365e-12,
+   0.5509
+  ],
+  [
+   4.979e-12,
+   0.6725
+  ],
+  [
+   5.68e-12,
+   0.8894
+  ],
+  [
+   6.479e-12,
+   1.014
+  ],
+  [
+   7.391e-12,
+   1.295
+  ],
+  [
+   8.431e-12,
+   1.717
+  ],
+  [
+   9.617e-12,
+   2.174
+  ],
+  [
+   1.097e-11,
+   2.878
+  ],
+  [
+   1.251e-11,
+   3.848
+  ],
+  [
+   1.427e-11,
+   5.201
+  ],
+  [
+   1.628e-11,
+   7.2
+  ],
+  [
+   1.857e-11,
+   9.656
+  ],
+  [
+   2.119e-11,
+   13.27
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "GEO600_2021",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Basic Scalar scenario, Fig.2 (green GEO600 exclusion), rho_local=0.4 GeV/cm3. Paper parameterises photon coupling via L_int = (phi/Lambda_gamma) F^2/4, i.e. delta_alpha/alpha = phi/Lambda_gamma; converted to Damour-Donoghue d_e using delta_alpha/alpha = d_e*kappa*phi => d_e = (1/Lambda_gamma)/kappa, kappa=sqrt(4pi)/M_Pl=2.906e-19 GeV^-1 (M_Pl=1.22e19 GeV). Y-axis of Fig.2 is 1/Lambda_i in GeV^-1; curve is the lower boundary (deepest reach) of the green region extracted from the vector PDF. Mass axis calibrated via f-to-m (m=h f/c^2), verified left frame=1e-20 eV; band spans GEO600 50-5800 Hz. Since the refractive-index (delta_n) contribution is neglected, the electron-coupling limit (Lambda_e -> d_me) is numerically identical (Eq.6 is symmetric in 1/Lambda_gamma+1/Lambda_e); reporting ScalarPhoton as main plane. Best reach d_e~0.16 (Lambda~2e19 GeV; abstract rounds to 3e19). Limits set assuming the other coupling zero.",
+ "num_points": 36,
+ "arxiv_id": "2103.03783",
+ "elapsed_s": 391.015743970871,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 390719,
+  "duration_api_ms": 386562,
+  "total_cost_usd": 1.854465,
+  "usage": {
+   "input_tokens": 672,
+   "output_tokens": 28182,
+   "cache_creation_input_tokens": 64091,
+   "cache_read_input_tokens": 1011290
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2103.03783.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:36:43-0500"
+ }
+}

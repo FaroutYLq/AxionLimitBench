@@ -1,0 +1,114 @@
+{
+ "paper_title": "Search for 70 \u00b5eV Dark Photon Dark Matter with a Dielectrically-Loaded Multi-Wavelength Microwave Cavity",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   6.55e-05,
+   1.2e-13
+  ],
+  [
+   6.57e-05,
+   1e-13
+  ],
+  [
+   6.6e-05,
+   7e-14
+  ],
+  [
+   6.62e-05,
+   5e-14
+  ],
+  [
+   6.65e-05,
+   4e-14
+  ],
+  [
+   6.68e-05,
+   3.2e-14
+  ],
+  [
+   6.7e-05,
+   3e-14
+  ],
+  [
+   6.72e-05,
+   3.2e-14
+  ],
+  [
+   6.75e-05,
+   4e-14
+  ],
+  [
+   6.78e-05,
+   5.5e-14
+  ],
+  [
+   6.8e-05,
+   7e-14
+  ],
+  [
+   6.82e-05,
+   8.5e-14
+  ],
+  [
+   6.85e-05,
+   1e-13
+  ],
+  [
+   6.88e-05,
+   1.2e-13
+  ],
+  [
+   6.9e-05,
+   1.4e-13
+  ],
+  [
+   6.93e-05,
+   1.7e-13
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "ADMX-Orpheus_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Exclusion limit extracted from Figure 5 (top panel). This is the inaugural ADMX-Orpheus run. The curve shows the 90% confidence level exclusion limit on kinetic mixing parameter \u03c7 vs. dark photon mass. The best sensitivity (minimum \u03c7) is achieved around 67 \u03bceV. Dark matter density assumed: \u03c1_DM = 0.45 GeV/cm\u00b3. Dark photon polarization: randomly polarized with \u27e8cos\u00b2\u03b8\u27e9_T = 1/3. Data points extracted by visual reading of the plot boundary.",
+ "num_points": 16,
+ "arxiv_id": "2204.03818",
+ "elapsed_s": 132.89906907081604,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 132582,
+  "duration_api_ms": 129339,
+  "total_cost_usd": 0.224749,
+  "usage": {
+   "input_tokens": 110,
+   "output_tokens": 12114,
+   "cache_creation_input_tokens": 53403,
+   "cache_read_input_tokens": 572630
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2204.03818.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:29:35-0500"
+ }
+}

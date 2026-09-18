@@ -1,0 +1,295 @@
+{
+ "paper_title": "New Constraints on ALP Electron and Photon Couplings from ArgoNeuT and the MiniBooNE Beam Dump",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   999.27,
+   0.00022246
+  ],
+  [
+   4725.7,
+   0.00022245
+  ],
+  [
+   13563.0,
+   0.0002222
+  ],
+  [
+   20001.0,
+   0.00022127
+  ],
+  [
+   29495.0,
+   0.00021727
+  ],
+  [
+   36825.0,
+   0.00021093
+  ],
+  [
+   51374.0,
+   0.00018919
+  ],
+  [
+   64142.0,
+   0.00016597
+  ],
+  [
+   94588.0,
+   0.00012051
+  ],
+  [
+   131960.0,
+   8.7756e-05
+  ],
+  [
+   174150.0,
+   6.6671e-05
+  ],
+  [
+   250450.0,
+   4.6437e-05
+  ],
+  [
+   320650.0,
+   3.6302e-05
+  ],
+  [
+   443990.0,
+   2.6226e-05
+  ],
+  [
+   659660.0,
+   1.7641e-05
+  ],
+  [
+   891990.0,
+   1.3046e-05
+  ],
+  [
+   1214500.0,
+   9.5854e-06
+  ],
+  [
+   1684400.0,
+   6.9147e-06
+  ],
+  [
+   2498700.0,
+   4.6583e-06
+  ],
+  [
+   3383200.0,
+   3.4396e-06
+  ],
+  [
+   4600500.0,
+   2.5302e-06
+  ],
+  [
+   6387900.0,
+   1.8231e-06
+  ],
+  [
+   8953500.0,
+   1.2987e-06
+  ],
+  [
+   12815000.0,
+   9.0687e-07
+  ],
+  [
+   34987000.0,
+   3.2842e-07
+  ],
+  [
+   42343000.0,
+   2.6967e-07
+  ],
+  [
+   52866000.0,
+   2.1273e-07
+  ],
+  [
+   62442000.0,
+   1.7619e-07
+  ],
+  [
+   69756000.0,
+   1.5332e-07
+  ],
+  [
+   82409000.0,
+   1.3333e-07
+  ],
+  [
+   108760000.0,
+   1.3452e-07
+  ],
+  [
+   143540000.0,
+   1.5788e-07
+  ],
+  [
+   178630000.0,
+   1.8548e-07
+  ],
+  [
+   176770000.0,
+   2.5477e-07
+  ],
+  [
+   164900000.0,
+   3.7288e-07
+  ],
+  [
+   154520000.0,
+   4.8067e-07
+  ],
+  [
+   143540000.0,
+   6.1169e-07
+  ],
+  [
+   132550000.0,
+   7.9874e-07
+  ],
+  [
+   118890000.0,
+   1.0971e-06
+  ],
+  [
+   108760000.0,
+   1.3823e-06
+  ],
+  [
+   98089000.0,
+   1.8231e-06
+  ],
+  [
+   87111000.0,
+   2.4577e-06
+  ],
+  [
+   77960000.0,
+   3.224e-06
+  ],
+  [
+   70394000.0,
+   4.1612e-06
+  ],
+  [
+   62442000.0,
+   5.5113e-06
+  ],
+  [
+   54000000.0,
+   7.8508e-06
+  ],
+  [
+   48406000.0,
+   1.012e-05
+  ],
+  [
+   43330000.0,
+   1.3046e-05
+  ],
+  [
+   38735000.0,
+   1.6817e-05
+  ],
+  [
+   34578000.0,
+   2.1679e-05
+  ],
+  [
+   30815000.0,
+   2.7945e-05
+  ],
+  [
+   27163000.0,
+   3.649e-05
+  ],
+  [
+   23956000.0,
+   4.9481e-05
+  ],
+  [
+   21361000.0,
+   6.3784e-05
+  ],
+  [
+   19019000.0,
+   8.2223e-05
+  ],
+  [
+   16485000.0,
+   0.0001097
+  ],
+  [
+   14753000.0,
+   0.00013914
+  ],
+  [
+   13030000.0,
+   0.00018767
+  ],
+  [
+   11591000.0,
+   0.00024192
+  ],
+  [
+   10274000.0,
+   0.00031186
+  ],
+  [
+   9047500.0,
+   0.00040201
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "MiniBooNE_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "MiniBooNE dump-mode (1.86e20 POT on steel dump) 2-sigma exclusion on g_agamma from Fig. 7 (crimson 'MiniBooNE Dump' contour), extracted from the vector figure MB_ARGONEUT_photon_limits2sigma.pdf in the e-print, calibrated on the axis tick labels. The Lagrangian (Eq. 1) is -(g_agamma/4) a F Ftilde, matching the canonical convention. The excluded region is a wedge: points run from m=1e3 eV along the lower exclusion boundary up in mass to the tip at m~1.8e8 eV, then back along the upper boundary (short ALP lifetime ceiling), which leaves the top of the plotted axes (g~4e-4 GeV^-1) at m~9e6 eV; so the list is a contour trace, not single-valued in mass. The paper also bounds g_ae (Fig. 8) but that MiniBooNE limit lies inside existing lab bounds; the photon coupling is the headline new-parameter-space result (Sec. V). ArgoNeuT curves (3/20/100 events) are projections and are not reported. Beam-dump limit: no dark-matter density assumption.",
+ "num_points": 61,
+ "arxiv_id": "2307.03878",
+ "elapsed_s": 168.88901686668396,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 168576,
+  "duration_api_ms": 165601,
+  "total_cost_usd": 1.6444935000000003,
+  "usage": {
+   "input_tokens": 446,
+   "output_tokens": 12487,
+   "cache_creation_input_tokens": 42202,
+   "cache_read_input_tokens": 429786
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2307.03878.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:28:02-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

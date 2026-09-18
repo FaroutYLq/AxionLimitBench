@@ -1,0 +1,307 @@
+{
+ "paper_title": "Search for sub-eV axion-like particles in a quasi-parallel stimulated resonant photon-photon collider with \"coronagraphy\"",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.00228617,
+   0.0999918
+  ],
+  [
+   0.00236985,
+   0.0901962
+  ],
+  [
+   0.00273637,
+   0.0584964
+  ],
+  [
+   0.00315957,
+   0.0379376
+  ],
+  [
+   0.00364823,
+   0.0246043
+  ],
+  [
+   0.00421246,
+   0.015957
+  ],
+  [
+   0.00486395,
+   0.0103489
+  ],
+  [
+   0.0056162,
+   0.00657473
+  ],
+  [
+   0.0064848,
+   0.00426402
+  ],
+  [
+   0.00748773,
+   0.00276541
+  ],
+  [
+   0.00864577,
+   0.00175689
+  ],
+  [
+   0.00998291,
+   0.00111617
+  ],
+  [
+   0.0115269,
+   0.000709115
+  ],
+  [
+   0.0133096,
+   0.000450508
+  ],
+  [
+   0.015368,
+   0.000286212
+  ],
+  [
+   0.0177448,
+   0.000178122
+  ],
+  [
+   0.0204892,
+   0.000113163
+  ],
+  [
+   0.023658,
+   6.8989e-05
+  ],
+  [
+   0.027317,
+   4.29349e-05
+  ],
+  [
+   0.0315418,
+   2.61749e-05
+  ],
+  [
+   0.03642,
+   1.62898e-05
+  ],
+  [
+   0.0420526,
+   1.01379e-05
+  ],
+  [
+   0.0485564,
+   6.30924e-06
+  ],
+  [
+   0.0560661,
+   4.00832e-06
+  ],
+  [
+   0.0647372,
+   2.59958e-06
+  ],
+  [
+   0.0747493,
+   1.75693e-06
+  ],
+  [
+   0.08631,
+   1.23742e-06
+  ],
+  [
+   0.0996585,
+   9.08214e-07
+  ],
+  [
+   0.112732,
+   7.38986e-07
+  ],
+  [
+   0.115072,
+   7.0913e-07
+  ],
+  [
+   0.128176,
+   6.13818e-07
+  ],
+  [
+   0.132868,
+   6.0129e-07
+  ],
+  [
+   0.145737,
+   5.53686e-07
+  ],
+  [
+   0.168277,
+   5.53686e-07
+  ],
+  [
+   0.177145,
+   5.76997e-07
+  ],
+  [
+   0.188406,
+   6.26606e-07
+  ],
+  [
+   0.199356,
+   6.94657e-07
+  ],
+  [
+   0.204542,
+   7.54382e-07
+  ],
+  [
+   0.21643,
+   9.08214e-07
+  ],
+  [
+   0.230188,
+   1.16319e-06
+  ],
+  [
+   0.236176,
+   1.31638e-06
+  ],
+  [
+   0.252483,
+   1.8309e-06
+  ],
+  [
+   0.265789,
+   2.44364e-06
+  ],
+  [
+   0.272703,
+   2.94194e-06
+  ],
+  [
+   0.287074,
+   4.26411e-06
+  ],
+  [
+   0.299115,
+   5.93077e-06
+  ],
+  [
+   0.311661,
+   8.59616e-06
+  ],
+  [
+   0.314879,
+   9.72828e-06
+  ],
+  [
+   0.331473,
+   1.59573e-05
+  ],
+  [
+   0.343606,
+   2.41026e-05
+  ],
+  [
+   0.356184,
+   3.79384e-05
+  ],
+  [
+   0.363577,
+   5.2767e-05
+  ],
+  [
+   0.380777,
+   0.000104204
+  ],
+  [
+   0.394716,
+   0.000178122
+  ],
+  [
+   0.407068,
+   0.000298262
+  ],
+  [
+   0.421969,
+   0.00056521
+  ],
+  [
+   0.435175,
+   0.00109339
+  ],
+  [
+   0.448794,
+   0.00220421
+  ],
+  [
+   0.462839,
+   0.00444354
+  ],
+  [
+   0.474878,
+   0.00914453
+  ],
+  [
+   0.48723,
+   0.0156313
+  ],
+  [
+   0.499904,
+   0.0364049
+  ],
+  [
+   0.515549,
+   0.0865521
+  ],
+  [
+   0.518203,
+   0.0999918
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "SAPPHIRES_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Pseudoscalar ALP exclusion (Fig. 11, SAPPHIRES02 red region), the paper's headline result: g/M = 5.45e-7 GeV^-1 at m = 0.15 eV, 95% CL. Coupling defined by -L = (g/M)(1/4) F Ftilde sigma (Eq. 1), identical to the canonical g_agamma normalization, so g/M = g_agamma with no conversion. Curve extracted from the ROOT-generated vector EPS (Fig11.eps in the e-print): red boundary stroke digitised exactly; axes calibrated from tick marks (x: 10^-3 eV at px 631, 448.3 px/decade; y: 10^-13 GeV^-1 at py 212, 111.7 px/decade). Extracted minimum 5.54e-7 GeV^-1 at 0.146 eV agrees with the quoted value. Laboratory LSW-type search, no dark-matter density assumption. The scalar-ALP limit (Fig. 10) is not reported here. Curve endpoints are at the plot boundary g/M = 0.1 GeV^-1.",
+ "num_points": 64,
+ "arxiv_id": "2409.01805",
+ "elapsed_s": 161.74540781974792,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 161395,
+  "duration_api_ms": 157443,
+  "total_cost_usd": 1.8175740000000002,
+  "usage": {
+   "input_tokens": 581,
+   "output_tokens": 11961,
+   "cache_creation_input_tokens": 51205,
+   "cache_read_input_tokens": 515279
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2409.01805.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:12:52-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

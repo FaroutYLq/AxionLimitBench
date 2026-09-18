@@ -1,0 +1,230 @@
+{
+ "paper_title": "Search for axion-like dark matter with ferromagnets",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.2956e-11,
+   2.455e-10
+  ],
+  [
+   1.5103e-11,
+   9.1439e-11
+  ],
+  [
+   1.7606e-11,
+   4.2357e-11
+  ],
+  [
+   2.0524e-11,
+   3.9811e-11
+  ],
+  [
+   2.3925e-11,
+   5.5738e-11
+  ],
+  [
+   2.7889e-11,
+   5.6234e-11
+  ],
+  [
+   3.2511e-11,
+   4.8374e-11
+  ],
+  [
+   3.7898e-11,
+   4.5467e-11
+  ],
+  [
+   4.4179e-11,
+   4.3497e-11
+  ],
+  [
+   5.15e-11,
+   4.4668e-11
+  ],
+  [
+   6.0034e-11,
+   4.5871e-11
+  ],
+  [
+   6.9982e-11,
+   4.6567e-11
+  ],
+  [
+   8.1579e-11,
+   4.6567e-11
+  ],
+  [
+   9.5098e-11,
+   4.7948e-11
+  ],
+  [
+   1.1086e-10,
+   4.9239e-11
+  ],
+  [
+   1.2923e-10,
+   5.0565e-11
+  ],
+  [
+   1.5064e-10,
+   5.2854e-11
+  ],
+  [
+   1.7561e-10,
+   5.447e-11
+  ],
+  [
+   2.0471e-10,
+   5.6234e-11
+  ],
+  [
+   2.3863e-10,
+   5.878e-11
+  ],
+  [
+   2.7817e-10,
+   6.1441e-11
+  ],
+  [
+   3.2427e-10,
+   6.3657e-11
+  ],
+  [
+   3.7801e-10,
+   6.6539e-11
+  ],
+  [
+   4.4065e-10,
+   6.7728e-11
+  ],
+  [
+   5.1367e-10,
+   7.0607e-11
+  ],
+  [
+   5.9879e-10,
+   7.3347e-11
+  ],
+  [
+   6.9802e-10,
+   7.5992e-11
+  ],
+  [
+   8.1369e-10,
+   7.8732e-11
+  ],
+  [
+   9.4853e-10,
+   8.2297e-11
+  ],
+  [
+   1.1057e-09,
+   8.4513e-11
+  ],
+  [
+   1.2889e-09,
+   8.8339e-11
+  ],
+  [
+   1.5025e-09,
+   9.1525e-11
+  ],
+  [
+   1.7515e-09,
+   9.4825e-11
+  ],
+  [
+   2.0418e-09,
+   9.9118e-11
+  ],
+  [
+   2.3801e-09,
+   1.0269e-10
+  ],
+  [
+   2.7745e-09,
+   1.083e-10
+  ],
+  [
+   3.2343e-09,
+   1.1421e-10
+  ],
+  [
+   3.7703e-09,
+   1.1938e-10
+  ],
+  [
+   4.3951e-09,
+   1.2701e-10
+  ],
+  [
+   5.1234e-09,
+   1.3719e-10
+  ],
+  [
+   5.9724e-09,
+   1.4949e-10
+  ],
+  [
+   6.9621e-09,
+   1.6348e-10
+  ],
+  [
+   8.1159e-09,
+   1.9122e-10
+  ],
+  [
+   9.4608e-09,
+   2.2269e-10
+  ],
+  [
+   1.1029e-08,
+   2.6892e-10
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "SHAFT_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "SHAFT experiment (Search for Halo Axions with Ferromagnetic Toroids). Headline limit is the blue observed 95% CL exclusion curve in Fig. 4(c), |g_agamma| vs axion-like DM mass over 12 peV-12 neV. Paper g_agamma matches the canonical L=-(g/4) a F Ftilde normalization (CAST reference line in the same figure at ~6.6e-11 GeV^-1 confirms convention). Curve digitized by tracing the lower envelope of the noisy blue trace (narrowband RF-interference spikes going upward were excluded as artifacts); the trace is the strongest limit vs mass. Axis calibration: x log [1.2e-11,1.2e-8] eV (frame edges), y 1e-9 at row516 and 1e-10 at row776. Validated: extracted value at 20 peV = 4.0e-11 GeV^-1, matching the abstract. DM density rho_DM=3.6e-42 GeV^4 ~= 0.45 GeV/cm^3, not rescaled. data_source figure_vision (figures shipped as raster PNG; no ancillary data file).",
+ "num_points": 45,
+ "arxiv_id": "2003.03348",
+ "elapsed_s": 349.3717267513275,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 36,
+  "duration_ms": 349063,
+  "duration_api_ms": 342087,
+  "total_cost_usd": 1.6013099999999998,
+  "usage": {
+   "input_tokens": 1082,
+   "output_tokens": 24222,
+   "cache_creation_input_tokens": 44477,
+   "cache_read_input_tokens": 1091160
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2003.03348.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:48:18-0500"
+ }
+}

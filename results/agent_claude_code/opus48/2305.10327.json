@@ -1,0 +1,372 @@
+{
+ "paper_title": "Multimessenger Constraints on Radiatively Decaying Axions from GW170817",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   999642.386,
+   2.362e-08
+  ],
+  [
+   1084486.2499,
+   1.961e-08
+  ],
+  [
+   1191103.1528,
+   1.677e-08
+  ],
+  [
+   1318395.091,
+   1.461e-08
+  ],
+  [
+   1455723.8833,
+   1.261e-08
+  ],
+  [
+   1608705.148,
+   1.087e-08
+  ],
+  [
+   1768875.9467,
+   9.181e-09
+  ],
+  [
+   1960928.8573,
+   7.899e-09
+  ],
+  [
+   2175719.2123,
+   6.792e-09
+  ],
+  [
+   2415405.5531,
+   5.841e-09
+  ],
+  [
+   2692251.3969,
+   5.118e-09
+  ],
+  [
+   2987131.2754,
+   4.399e-09
+  ],
+  [
+   3315308.7087,
+   3.784e-09
+  ],
+  [
+   3679455.6136,
+   3.251e-09
+  ],
+  [
+   4084581.382,
+   2.793e-09
+  ],
+  [
+   4535274.083,
+   2.399e-09
+  ],
+  [
+   5058354.9821,
+   2.104e-09
+  ],
+  [
+   5611003.9037,
+   1.805e-09
+  ],
+  [
+   6227995.6014,
+   1.553e-09
+  ],
+  [
+   6913534.5882,
+   1.335e-09
+  ],
+  [
+   7678193.6554,
+   1.146e-09
+  ],
+  [
+   8560813.7308,
+   1.006e-09
+  ],
+  [
+   9507934.2059,
+   8.646e-10
+  ],
+  [
+   10568384.2624,
+   7.427e-10
+  ],
+  [
+   11756928.4778,
+   6.374e-10
+  ],
+  [
+   13125686.009,
+   5.563e-10
+  ],
+  [
+   14609416.5441,
+   4.76e-10
+  ],
+  [
+   16280027.9712,
+   4.072e-10
+  ],
+  [
+   18162701.5001,
+   3.485e-10
+  ],
+  [
+   20331599.2728,
+   3.047e-10
+  ],
+  [
+   22711358.2534,
+   2.608e-10
+  ],
+  [
+   25437658.3565,
+   2.286e-10
+  ],
+  [
+   28553285.653,
+   2.047e-10
+  ],
+  [
+   31984866.6383,
+   1.797e-10
+  ],
+  [
+   35896716.7295,
+   1.606e-10
+  ],
+  [
+   40230808.793,
+   1.416e-10
+  ],
+  [
+   45160361.4057,
+   1.268e-10
+  ],
+  [
+   50702704.9,
+   1.137e-10
+  ],
+  [
+   56932393.5047,
+   1.02e-10
+  ],
+  [
+   63940110.5159,
+   9.175e-11
+  ],
+  [
+   71811736.4598,
+   8.277e-11
+  ],
+  [
+   80685060.4577,
+   7.646e-11
+  ],
+  [
+   90711848.4266,
+   6.958e-11
+  ],
+  [
+   102010242.1294,
+   6.445e-11
+  ],
+  [
+   114731597.1735,
+   5.995e-11
+  ],
+  [
+   129021887.3008,
+   5.7e-11
+  ],
+  [
+   145396997.549,
+   5.399e-11
+  ],
+  [
+   163507783.0026,
+   5.145e-11
+  ],
+  [
+   183849517.1034,
+   5.32e-11
+  ],
+  [
+   206526409.8371,
+   5.286e-11
+  ],
+  [
+   231490064.8998,
+   5.567e-11
+  ],
+  [
+   257024860.8924,
+   6.443e-11
+  ],
+  [
+   276766661.0888,
+   8.651e-11
+  ],
+  [
+   296075342.0986,
+   1.18e-10
+  ],
+  [
+   318207272.5977,
+   1.599e-10
+  ],
+  [
+   337503872.4864,
+   2.233e-10
+  ],
+  [
+   351436429.7644,
+   3.2e-10
+  ],
+  [
+   362508886.2096,
+   4.627e-10
+  ],
+  [
+   362483565.9814,
+   6.782e-10
+  ],
+  [
+   351989000.0539,
+   9.821e-10
+  ],
+  [
+   334171527.4902,
+   1.387e-09
+  ],
+  [
+   311937089.587,
+   1.899e-09
+  ],
+  [
+   288282515.4944,
+   2.535e-09
+  ],
+  [
+   264943829.4369,
+   3.326e-09
+  ],
+  [
+   242300173.9452,
+   4.299e-09
+  ],
+  [
+   221257107.1721,
+   5.517e-09
+  ],
+  [
+   201331588.7461,
+   6.984e-09
+  ],
+  [
+   182924315.5796,
+   8.792e-09
+  ],
+  [
+   166193916.7009,
+   1.108e-08
+  ],
+  [
+   150837464.7692,
+   1.385e-08
+  ],
+  [
+   136713476.8821,
+   1.723e-08
+  ],
+  [
+   123780061.5286,
+   2.139e-08
+  ],
+  [
+   112011370.7182,
+   2.646e-08
+  ],
+  [
+   101443827.5003,
+   3.279e-08
+  ],
+  [
+   91896093.0807,
+   4.064e-08
+  ],
+  [
+   83256846.4666,
+   5.039e-08
+  ],
+  [
+   75371582.6084,
+   6.233e-08
+  ],
+  [
+   68230843.1409,
+   7.714e-08
+  ],
+  [
+   61638086.8965,
+   9.433e-08
+  ],
+  [
+   54699051.8015,
+   9.993e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.83,
+ "suggested_experiment_name": "GW170817_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline red excluded region \"Excluded by GW170817 data\" from Fig.3 (BoundsNSMFull.pdf), thick solid red curve = fiducial 1.25-1.45 Msun SFHo EoS model. Bound on axion-photon coupling from non-observation of an axion-sourced X-ray fireball by CALET CGBM/Konus-Wind/Insight-HXMT (Table I, 90% C.L.). Vector extraction: x=log10(m/MeV) frame 10^0 MeV at px111.1, 247.5px/decade; y frame maps 10^-7 (top,y34.2) to 10^-12 (bottom,y425.5). Closed island clipped at top by 10^-7 plot boundary; points trace full boundary (lower reach floor down to g~5.1e-11 GeV^-1 near m~180 MeV, then back up high-coupling side), mass range ~1-400 MeV, consistent with abstract (down to 5e-11 GeV^-1). Not a DM search, no density dependence.",
+ "num_points": 80,
+ "arxiv_id": "2305.10327",
+ "elapsed_s": 186.78233814239502,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 186471,
+  "duration_api_ms": 182956,
+  "total_cost_usd": 0.7227829999999998,
+  "usage": {
+   "input_tokens": 411,
+   "output_tokens": 9819,
+   "cache_creation_input_tokens": 30577,
+   "cache_read_input_tokens": 338966
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [
+   "result.json found at ep/result.json"
+  ],
+  "events_file": "2305.10327.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:34:06-0500"
+ }
+}

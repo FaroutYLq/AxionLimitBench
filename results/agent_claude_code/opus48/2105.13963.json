@@ -1,0 +1,286 @@
+{
+ "paper_title": "First Constraints on Nuclear Coupling of Axionlike Particles from the Binary Neutron Star Gravitational Wave Event GW170817",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.099e-21,
+   1.021e-18
+  ],
+  [
+   2.173e-12,
+   1.12e-18
+  ],
+  [
+   3.092e-12,
+   1.593e-18
+  ],
+  [
+   1.331e-11,
+   6.857e-18
+  ],
+  [
+   1.727e-11,
+   8.896e-18
+  ],
+  [
+   2.032e-11,
+   1.047e-17
+  ],
+  [
+   2.099e-11,
+   2.094e-17
+  ],
+  [
+   1.842e-11,
+   2.361e-17
+  ],
+  [
+   1.566e-11,
+   2.902e-17
+  ],
+  [
+   1.331e-11,
+   3.655e-17
+  ],
+  [
+   1.146e-11,
+   4.453e-17
+  ],
+  [
+   1.02e-11,
+   4.841e-17
+  ],
+  [
+   8.948e-12,
+   4.932e-17
+  ],
+  [
+   7.892e-12,
+   5.064e-17
+  ],
+  [
+   7.02e-12,
+   5.592e-17
+  ],
+  [
+   6.293e-12,
+   6.877e-17
+  ],
+  [
+   5.217e-12,
+   9.744e-17
+  ],
+  [
+   4.495e-12,
+   1.186e-16
+  ],
+  [
+   4.006e-12,
+   1.299e-16
+  ],
+  [
+   3.57e-12,
+   1.351e-16
+  ],
+  [
+   3.182e-12,
+   1.355e-16
+  ],
+  [
+   2.831e-12,
+   1.322e-16
+  ],
+  [
+   2.517e-12,
+   1.28e-16
+  ],
+  [
+   2.238e-12,
+   1.216e-16
+  ],
+  [
+   1.99e-12,
+   1.126e-16
+  ],
+  [
+   1.758e-12,
+   1.002e-16
+  ],
+  [
+   1.55e-12,
+   8.416e-17
+  ],
+  [
+   1.389e-12,
+   6.952e-17
+  ],
+  [
+   1.264e-12,
+   5.228e-17
+  ],
+  [
+   1.187e-12,
+   4.431e-17
+  ],
+  [
+   1.071e-12,
+   4.42e-17
+  ],
+  [
+   9.957e-13,
+   5.826e-17
+  ],
+  [
+   9.395e-13,
+   6.817e-17
+  ],
+  [
+   8.365e-13,
+   8.006e-17
+  ],
+  [
+   7.45e-13,
+   8.428e-17
+  ],
+  [
+   6.533e-13,
+   9.118e-17
+  ],
+  [
+   5.859e-13,
+   1.012e-16
+  ],
+  [
+   5.338e-13,
+   8.847e-17
+  ],
+  [
+   4.677e-13,
+   7.963e-17
+  ],
+  [
+   4.123e-13,
+   8.178e-17
+  ],
+  [
+   3.576e-13,
+   7.574e-17
+  ],
+  [
+   3.052e-13,
+   6.998e-17
+  ],
+  [
+   2.689e-13,
+   6.701e-17
+  ],
+  [
+   2.392e-13,
+   6.617e-17
+  ],
+  [
+   2.007e-13,
+   6.728e-17
+  ],
+  [
+   1.684e-13,
+   6.725e-17
+  ],
+  [
+   1.311e-13,
+   6.722e-17
+  ],
+  [
+   1.02e-13,
+   6.719e-17
+  ],
+  [
+   1.52e-14,
+   6.696e-17
+  ],
+  [
+   2.205e-15,
+   6.671e-17
+  ],
+  [
+   3.19e-16,
+   6.646e-17
+  ],
+  [
+   4.602e-17,
+   6.623e-17
+  ],
+  [
+   6.621e-18,
+   6.599e-17
+  ],
+  [
+   9.275e-19,
+   6.575e-17
+  ],
+  [
+   1.393e-19,
+   6.552e-17
+  ],
+  [
+   1.941e-20,
+   6.528e-17
+  ],
+  [
+   2.899e-21,
+   6.504e-17
+  ],
+  [
+   1.165e-21,
+   6.493e-17
+  ],
+  [
+   1.099e-21,
+   1.021e-18
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9973,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "GW170817_2021",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Bound on the axion decay constant f_a from a Bayesian search for a nuclear-coupled ALP dephasing the GW170817 inspiral (KCL-PH-TH-2021-25). Canonical plane is 1/f_a [GeV^-1] vs m_a [eV]. The paper excludes axions with m_a<=1e-11 eV having 1.6e16<f_a<1e18 GeV at 3 sigma; equivalently 1/f_a in [1e-18, 6.25e-17] GeV^-1. Points are the vector-extracted closed boundary of the blue GW170817 region in Fig.1 (y-axis = Log10[GeV/f_a] = log10(1/f_a in GeV^-1)), traced as a closed polygon: flat top edge at ~6.6e-17 (f_a~1.6e16 GeV) and flat bottom at ~1e-18 (f_a=1e18 GeV) for small m_a, with the sampled-mass 3sigma dots rising to ~1.35e-16 near m_a~3e-12..2e-11 eV, right cutoff near m_a~2e-11 eV. Constraint is explicitly INDEPENDENT of the dark-matter assumption, so dm_density_assumed=null. Note: the paper uses m_a = sqrt(eps) m_pi f_pi/f_a rather than the QCD mass-f_a relation, but both axes here are the paper native quantities (1/f_a and m_a directly) so no convention conversion was applied. Calibration cross-checked against abstract values.",
+ "num_points": 59,
+ "arxiv_id": "2105.13963",
+ "elapsed_s": 256.1643810272217,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 255654,
+  "duration_api_ms": 252766,
+  "total_cost_usd": 1.1162085000000002,
+  "usage": {
+   "input_tokens": 457,
+   "output_tokens": 18715,
+   "cache_creation_input_tokens": 41681,
+   "cache_read_input_tokens": 458477
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2105.13963.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:41:00-0500"
+ }
+}

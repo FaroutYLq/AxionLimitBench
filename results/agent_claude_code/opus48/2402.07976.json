@@ -1,0 +1,410 @@
+{
+ "paper_title": "First Result for Dark Matter Search by WINERED",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.833723,
+   1.175e-10
+  ],
+  [
+   1.843573,
+   2.332e-11
+  ],
+  [
+   1.853509,
+   1.24e-11
+  ],
+  [
+   1.863432,
+   1.15e-11
+  ],
+  [
+   1.87334,
+   1.344e-11
+  ],
+  [
+   1.883268,
+   1.491e-11
+  ],
+  [
+   1.89335,
+   1.017e-11
+  ],
+  [
+   1.903283,
+   9.248e-12
+  ],
+  [
+   1.913506,
+   1.052e-11
+  ],
+  [
+   1.923475,
+   1.272e-11
+  ],
+  [
+   1.932978,
+   1.14e-11
+  ],
+  [
+   1.942945,
+   5.948e-11
+  ],
+  [
+   1.954044,
+   1.07e-11
+  ],
+  [
+   1.963277,
+   1.263e-11
+  ],
+  [
+   1.973506,
+   1.13e-11
+  ],
+  [
+   1.983008,
+   9.333e-12
+  ],
+  [
+   1.993019,
+   8.67e-12
+  ],
+  [
+   2.002866,
+   9.628e-12
+  ],
+  [
+   2.012941,
+   1.164e-11
+  ],
+  [
+   2.02285,
+   9.964e-12
+  ],
+  [
+   2.032808,
+   8.796e-12
+  ],
+  [
+   2.042706,
+   9.148e-12
+  ],
+  [
+   2.052761,
+   1.097e-11
+  ],
+  [
+   2.062682,
+   1.046e-11
+  ],
+  [
+   2.072725,
+   8.767e-12
+  ],
+  [
+   2.082668,
+   8.45e-12
+  ],
+  [
+   2.092622,
+   9.717e-12
+  ],
+  [
+   2.102547,
+   1.117e-11
+  ],
+  [
+   2.112634,
+   8.915e-12
+  ],
+  [
+   2.122616,
+   8.199e-12
+  ],
+  [
+   2.13257,
+   8.75e-12
+  ],
+  [
+   2.142609,
+   1.122e-11
+  ],
+  [
+   2.152388,
+   9.718e-12
+  ],
+  [
+   2.162288,
+   8.527e-12
+  ],
+  [
+   2.172312,
+   8.322e-12
+  ],
+  [
+   2.182226,
+   1.039e-11
+  ],
+  [
+   2.192107,
+   1.12e-11
+  ],
+  [
+   2.20219,
+   8.52e-12
+  ],
+  [
+   2.21228,
+   7.867e-12
+  ],
+  [
+   2.222258,
+   8.636e-12
+  ],
+  [
+   2.232161,
+   1.042e-11
+  ],
+  [
+   2.242108,
+   8.808e-12
+  ],
+  [
+   2.252019,
+   7.676e-12
+  ],
+  [
+   2.262014,
+   8.091e-12
+  ],
+  [
+   2.271932,
+   9.539e-12
+  ],
+  [
+   2.281893,
+   9.646e-12
+  ],
+  [
+   2.29198,
+   7.905e-12
+  ],
+  [
+   2.301824,
+   7.588e-12
+  ],
+  [
+   2.311627,
+   8.685e-12
+  ],
+  [
+   2.321762,
+   1.008e-11
+  ],
+  [
+   2.331734,
+   8.386e-12
+  ],
+  [
+   2.341623,
+   7.572e-12
+  ],
+  [
+   2.351638,
+   7.855e-12
+  ],
+  [
+   2.361611,
+   9.599e-12
+  ],
+  [
+   2.371542,
+   9.038e-12
+  ],
+  [
+   2.3816,
+   7.84e-12
+  ],
+  [
+   2.391487,
+   7.549e-12
+  ],
+  [
+   2.401458,
+   8.398e-12
+  ],
+  [
+   2.411599,
+   9.801e-12
+  ],
+  [
+   2.421438,
+   8.319e-12
+  ],
+  [
+   2.431316,
+   7.342e-12
+  ],
+  [
+   2.441235,
+   8.296e-12
+  ],
+  [
+   2.451282,
+   9.894e-12
+  ],
+  [
+   2.461239,
+   8.768e-12
+  ],
+  [
+   2.471191,
+   7.473e-12
+  ],
+  [
+   2.481184,
+   7.526e-12
+  ],
+  [
+   2.491218,
+   9.329e-12
+  ],
+  [
+   2.501068,
+   9.342e-12
+  ],
+  [
+   2.511048,
+   7.702e-12
+  ],
+  [
+   2.521067,
+   7.299e-12
+  ],
+  [
+   2.530945,
+   8.107e-12
+  ],
+  [
+   2.540953,
+   9.641e-12
+  ],
+  [
+   2.550909,
+   8.177e-12
+  ],
+  [
+   2.560904,
+   7.376e-12
+  ],
+  [
+   2.570801,
+   7.488e-12
+  ],
+  [
+   2.580782,
+   9.227e-12
+  ],
+  [
+   2.590709,
+   9.499e-12
+  ],
+  [
+   2.600675,
+   7.855e-12
+  ],
+  [
+   2.610632,
+   7.731e-12
+  ],
+  [
+   2.620627,
+   8.714e-12
+  ],
+  [
+   2.630614,
+   1.017e-11
+  ],
+  [
+   2.640544,
+   8.516e-12
+  ],
+  [
+   2.650512,
+   7.648e-12
+  ],
+  [
+   2.660517,
+   8.313e-12
+  ],
+  [
+   2.670465,
+   9.788e-12
+  ],
+  [
+   2.680402,
+   8.756e-12
+  ],
+  [
+   2.690376,
+   7.647e-12
+  ],
+  [
+   2.700339,
+   7.618e-12
+  ],
+  [
+   2.710291,
+   8.743e-12
+  ],
+  [
+   2.72023,
+   1.204e-11
+  ]
+ ],
+ "data_source": "ancillary_file",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.55,
+ "suggested_experiment_name": "WINERED_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ALP dark-matter decay (phi->2 photons, q=2) search with WINERED spectrograph on Magellan, targeting dSphs Leo V and Tucana II. Headline curve = bottom panel of Fig.1 (ga_sub-crop.pdf), the continuum-subtracted \"line\" analysis; taken directly from ancillary file gagg_line.txt. The plotted \"This work\" red band is the generalized-Hernquist-profile result; I report its lower edge = column 2 (max D-factor), i.e. the boundary of the drawn excluded (red) region, which gives the strongest reach (~7-15e-12 GeV^-1 over 1.8-2.7 eV, matching the abstract characterization of one of the most stringent decay-rate limits). Values binned into ~90 mass bins (median per bin) to tame the spiky per-pixel curve (spikes at edges from atmospheric-transmission gaps are real, e.g. first bin ~1.2e-10 near 1.83 eV). Alternative choices: the conservative min-D-factor edge (col3, ~1e-10, the gray \"excluded even in gen. Hernquist\" boundary, = abstract 10^-10) and the NFW blue band (~2-3e-11, abstract (2-3)e-11) are not reported. 2sigma limit. Limit depends on the assumed differential D-factor (log10 D_LeoV ~ 21.4 for gen. Hernquist) rather than a single local density, so dm_density_assumed is null.",
+ "num_points": 90,
+ "arxiv_id": "2402.07976",
+ "elapsed_s": 311.02729535102844,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 310732,
+  "duration_api_ms": 305986,
+  "total_cost_usd": 1.3342250000000002,
+  "usage": {
+   "input_tokens": 537,
+   "output_tokens": 20987,
+   "cache_creation_input_tokens": 49535,
+   "cache_read_input_tokens": 623030
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2402.07976.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:11:44-0500"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "paper_title": "(Almost) Closing the \u03bdMSM Sterile Neutrino Dark Matter Window with NuSTAR",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.0,
+ "suggested_experiment_name": null,
+ "coupling_convention": null,
+ "notes": "Paper reports constraints on sterile neutrino dark matter (\u03bdMSM) in terms of mass and mixing angle, not on any axion-like couplings (AxionPhoton, AxionElectron, AxionNeutron, AxionProton, AxionEDM, AxionMass, DarkPhoton, VectorBL, ScalarPhoton, ScalarElectron, ScalarNucleon, ScalarBaryon, MonopoleDipole, or AxionCPV). Sterile neutrinos are outside the scope of the AxionLimitBench compilation.",
+ "num_points": 0,
+ "arxiv_id": "1609.00667",
+ "elapsed_s": 38.78298997879028,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 7,
+  "duration_ms": 35422,
+  "duration_api_ms": 28899,
+  "total_cost_usd": 0.0716462,
+  "usage": {
+   "input_tokens": 46,
+   "output_tokens": 2211,
+   "cache_creation_input_tokens": 25363,
+   "cache_read_input_tokens": 98192
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1609.00667.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:15:43-0500"
+ }
+}

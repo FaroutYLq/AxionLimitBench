@@ -1,0 +1,219 @@
+{
+ "paper_title": "MICROSCOPE mission: first constraints on the violation of the weak equivalence principle by a light scalar dilaton",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.0533e-24,
+   0.00023411
+  ],
+  [
+   8.4007e-24,
+   0.00023411
+  ],
+  [
+   6.7002e-23,
+   0.00023411
+  ],
+  [
+   5.6286e-22,
+   0.00023411
+  ],
+  [
+   4.4893e-21,
+   0.00023411
+  ],
+  [
+   3.5805e-20,
+   0.00023411
+  ],
+  [
+   2.8557e-19,
+   0.00023411
+  ],
+  [
+   2.399e-18,
+   0.00023411
+  ],
+  [
+   1.9134e-17,
+   0.00023411
+  ],
+  [
+   1.5261e-16,
+   0.00023411
+  ],
+  [
+   1.2172e-15,
+   0.00023411
+  ],
+  [
+   1.0225e-14,
+   0.00023411
+  ],
+  [
+   1.5489e-14,
+   0.00023411
+  ],
+  [
+   2.0079e-14,
+   0.00023411
+  ],
+  [
+   2.6029e-14,
+   0.00023411
+  ],
+  [
+   3.3743e-14,
+   0.00023411
+  ],
+  [
+   4.3742e-14,
+   0.00023411
+  ],
+  [
+   5.6705e-14,
+   0.00023411
+  ],
+  [
+   6.9791e-14,
+   0.00023932
+  ],
+  [
+   9.0474e-14,
+   0.00024464
+  ],
+  [
+   1.1729e-13,
+   0.00024464
+  ],
+  [
+   1.5204e-13,
+   0.00025565
+  ],
+  [
+   1.971e-13,
+   0.00026715
+  ],
+  [
+   2.4258e-13,
+   0.00027916
+  ],
+  [
+   3.1447e-13,
+   0.00030484
+  ],
+  [
+   4.0767e-13,
+   0.00033288
+  ],
+  [
+   5.2848e-13,
+   0.00037985
+  ],
+  [
+   6.8509e-13,
+   0.00043345
+  ],
+  [
+   8.4319e-13,
+   0.00050562
+  ],
+  [
+   1.0931e-12,
+   0.00060291
+  ],
+  [
+   1.417e-12,
+   0.00075127
+  ],
+  [
+   1.8369e-12,
+   0.00097824
+  ],
+  [
+   2.3813e-12,
+   0.0012738
+  ],
+  [
+   3.087e-12,
+   0.0017718
+  ],
+  [
+   3.7994e-12,
+   0.0024644
+  ],
+  [
+   4.9253e-12,
+   0.0038265
+  ],
+  [
+   6.3849e-12,
+   0.0066322
+  ],
+  [
+   8.277e-12,
+   0.013409
+  ],
+  [
+   1.073e-11,
+   0.030935
+  ],
+  [
+   1.3206e-11,
+   0.069815
+  ],
+  [
+   1.712e-11,
+   0.24464
+  ],
+  [
+   2.2193e-11,
+   0.85728
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "MICROSCOPE_2017",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Curve digitised from Fig. 5 (solid black MICROSCOPE line) of the e-print raster fig_de.png via pixel tracing with axis calibration (frame x: 1e-24..1e-10 eV, y: 1e-9..1). This is the constraint on |d_e| for a dilaton coupled only to the electromagnetic sector, obtained from the D_mtilde=0 subspace with D_e = 0.00027 d_e^2, derived from MICROSCOPE's 2-sigma Eotvos-parameter measurement. Paper convention Delta(alpha_EM)/alpha_EM = d_e phi/M_P with M_P^-1 = sqrt(4 pi G), identical to the Damour-Donoghue kappa convention, so no conversion applied. Limit is flat at |d_e| ~ 2.3e-4 below ~1e-13 eV (curve shown from 1e-24 eV, left edge of the figure) and rises steeply, leaving the plot (d_e~1) near 2.2e-11 eV. WEP test, no dark-matter density assumption. The paper also gives Yukawa |alpha|(lambda) limits for q=B and q=B-L (Figs 1-2) and dilaton (D_mtilde, D_e) constraints (Figs 3-4); the d_e limit is the one directly in a canonical plane.",
+ "num_points": 42,
+ "arxiv_id": "1712.00483",
+ "elapsed_s": 147.53260374069214,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 10,
+  "duration_ms": 147240,
+  "duration_api_ms": 144565,
+  "total_cost_usd": 1.2439415,
+  "usage": {
+   "input_tokens": 272,
+   "output_tokens": 10269,
+   "cache_creation_input_tokens": 33075,
+   "cache_read_input_tokens": 254814
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1712.00483.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:24:34-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

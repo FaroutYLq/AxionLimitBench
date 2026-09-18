@@ -1,0 +1,167 @@
+{
+ "paper_title": "The ORGAN Experiment: An axion haloscope above 15 GHz",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0001095853,
+   6.6e-11
+  ],
+  [
+   0.00010962,
+   4.953e-11
+  ],
+  [
+   0.000109649,
+   3.5689e-11
+  ],
+  [
+   0.0001096738,
+   2.3841e-11
+  ],
+  [
+   0.0001096903,
+   1.5965e-11
+  ],
+  [
+   0.0001097027,
+   1.0102e-11
+  ],
+  [
+   0.000109711,
+   6.2729e-12
+  ],
+  [
+   0.0001097151,
+   4.4447e-12
+  ],
+  [
+   0.0001097184,
+   3.1182e-12
+  ],
+  [
+   0.0001097201,
+   2.5668e-12
+  ],
+  [
+   0.0001097213,
+   2.2495e-12
+  ],
+  [
+   0.0001097222,
+   2.1066e-12
+  ],
+  [
+   0.0001097226,
+   2.0584e-12
+  ],
+  [
+   0.000109723,
+   2.0297e-12
+  ],
+  [
+   0.0001097234,
+   2.02e-12
+  ],
+  [
+   0.0001097238,
+   2.0297e-12
+  ],
+  [
+   0.0001097242,
+   2.0584e-12
+  ],
+  [
+   0.0001097246,
+   2.1066e-12
+  ],
+  [
+   0.0001097255,
+   2.2495e-12
+  ],
+  [
+   0.0001097267,
+   2.5668e-12
+  ],
+  [
+   0.0001097284,
+   3.1182e-12
+  ],
+  [
+   0.0001097317,
+   4.4447e-12
+  ],
+  [
+   0.0001097358,
+   6.2729e-12
+  ],
+  [
+   0.0001097441,
+   1.0102e-11
+  ],
+  [
+   0.0001097565,
+   1.5965e-11
+  ],
+  [
+   0.000109773,
+   2.3841e-11
+  ],
+  [
+   0.0001097978,
+   3.5689e-11
+  ],
+  [
+   0.0001098268,
+   4.953e-11
+  ],
+  [
+   0.0001098615,
+   6.6e-11
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "ORGAN_2017",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Pathfinding-run 90% CL exclusion at the stationary TM020 resonance, 26.531 GHz (m_a = h f = 1.0972e-4 eV). Best limit g_agamma = 2.02e-12 quoted in abstract/conclusion as 'eV^-1', but this is a units typo: Fig. 3 axis is GeV^-1, the vector figure (e-print excnarrow.pdf) places the spike tip at ~2.1e-12 GeV^-1, and the quoted '~50x KSVZ' at 110 ueV also gives ~2e-12 GeV^-1. The figure draws the limit as a zero-width vertical spike from 2.02e-12 up to the CAST line (~6.6e-11), so the curve shape was reconstructed analytically: g(df) = 2.02e-12 * sqrt(1+(2 df/Dnu)^2) with Dnu = f0/QL, QL ~ 13,000 (loaded Q stated in text), i.e. the Lorentzian resonance shape the paper says sets the limit's ~2.5 neV span; truncated at the CAST level matching the top of the drawn spike. Paper's only stated DM density is 0.45 GeV/cm^3 (Ref. 35), so no rescaling applied. Figs. 4 and 5 are projections (Stage I/II) and were not extracted.",
+ "num_points": 29,
+ "arxiv_id": "1706.00209",
+ "elapsed_s": 180.11839389801025,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 8,
+  "duration_ms": 179758,
+  "duration_api_ms": 177007,
+  "total_cost_usd": 1.6456049999999998,
+  "usage": {
+   "input_tokens": 160,
+   "output_tokens": 12934,
+   "cache_creation_input_tokens": 43423,
+   "cache_read_input_tokens": 128845
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1706.00209.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:18:08-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

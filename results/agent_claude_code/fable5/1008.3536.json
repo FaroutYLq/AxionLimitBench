@@ -1,0 +1,331 @@
+{
+ "paper_title": "Spectroscopy as a test of Coulomb's law - A probe of the hidden sector",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.00328603,
+   1.0
+  ],
+  [
+   0.0044718,
+   0.734835
+  ],
+  [
+   0.00655969,
+   0.500943
+  ],
+  [
+   0.00962244,
+   0.341497
+  ],
+  [
+   0.0141152,
+   0.232801
+  ],
+  [
+   0.0207056,
+   0.158702
+  ],
+  [
+   0.0303731,
+   0.108189
+  ],
+  [
+   0.0445544,
+   0.0737532
+  ],
+  [
+   0.065357,
+   0.0502782
+  ],
+  [
+   0.0958724,
+   0.034275
+  ],
+  [
+   0.140636,
+   0.0233656
+  ],
+  [
+   0.206299,
+   0.0159285
+  ],
+  [
+   0.30262,
+   0.0108586
+  ],
+  [
+   0.443915,
+   0.00740239
+  ],
+  [
+   0.65118,
+   0.00505464
+  ],
+  [
+   0.955218,
+   0.00352081
+  ],
+  [
+   1.40121,
+   0.00243442
+  ],
+  [
+   2.05544,
+   0.00167287
+  ],
+  [
+   3.01513,
+   0.00118047
+  ],
+  [
+   4.42291,
+   0.000787678
+  ],
+  [
+   6.48798,
+   0.000541975
+  ],
+  [
+   9.51724,
+   0.000372218
+  ],
+  [
+   13.9609,
+   0.000259494
+  ],
+  [
+   20.4792,
+   0.000183641
+  ],
+  [
+   30.0411,
+   0.000129961
+  ],
+  [
+   44.0673,
+   9.40214e-05
+  ],
+  [
+   64.6425,
+   7.01551e-05
+  ],
+  [
+   94.8243,
+   5.31813e-05
+  ],
+  [
+   139.098,
+   4.14362e-05
+  ],
+  [
+   204.043,
+   3.34101e-05
+  ],
+  [
+   299.312,
+   2.79081e-05
+  ],
+  [
+   439.062,
+   2.40219e-05
+  ],
+  [
+   644.061,
+   2.13063e-05
+  ],
+  [
+   944.775,
+   1.94731e-05
+  ],
+  [
+   1385.89,
+   1.88978e-05
+  ],
+  [
+   2032.97,
+   1.6512e-05
+  ],
+  [
+   2982.17,
+   1.57857e-05
+  ],
+  [
+   4374.56,
+   1.60241e-05
+  ],
+  [
+   6417.05,
+   2.70835e-05
+  ],
+  [
+   9413.2,
+   1.83394e-05
+  ],
+  [
+   13808.2,
+   2.29652e-05
+  ],
+  [
+   20255.4,
+   2.96333e-05
+  ],
+  [
+   29712.7,
+   3.88151e-05
+  ],
+  [
+   43585.6,
+   5.31813e-05
+  ],
+  [
+   63935.8,
+   7.39656e-05
+  ],
+  [
+   93787.7,
+   0.000106005
+  ],
+  [
+   137577.0,
+   0.000151922
+  ],
+  [
+   201813.0,
+   0.000217729
+  ],
+  [
+   296040.0,
+   0.00031204
+  ],
+  [
+   434262.0,
+   0.000460819
+  ],
+  [
+   637020.0,
+   0.000660429
+  ],
+  [
+   934446.0,
+   0.000975317
+  ],
+  [
+   1370740.0,
+   0.00139779
+  ],
+  [
+   2010750.0,
+   0.00206424
+  ],
+  [
+   2949570.0,
+   0.00304846
+  ],
+  [
+   4326730.0,
+   0.00450195
+  ],
+  [
+   6346900.0,
+   0.00645202
+  ],
+  [
+   9310290.0,
+   0.0095283
+  ],
+  [
+   13657300.0,
+   0.0140713
+  ],
+  [
+   20033900.0,
+   0.0204712
+  ],
+  [
+   29387800.0,
+   0.0297818
+  ],
+  [
+   43109100.0,
+   0.0439815
+  ],
+  [
+   63236900.0,
+   0.0649517
+  ],
+  [
+   92762400.0,
+   0.0944926
+  ],
+  [
+   136073000.0,
+   0.137469
+  ],
+  [
+   199606000.0,
+   0.203014
+  ],
+  [
+   292803000.0,
+   0.299809
+  ],
+  [
+   429514000.0,
+   0.436167
+  ],
+  [
+   630056000.0,
+   0.634542
+  ],
+  [
+   924231000.0,
+   0.882533
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "Spectroscopy_2010",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Envelope (pointwise minimum) of the blue (2s1/2-2p1/2 Lamb shift, DeltaM*=2e-10 eV at 2 sigma) and green (1s1/2-2s1/2 renormalised with 2s1/2-8s1/2) hydrogen bounds in Fig. 3 (combinedhydrogen.eps), which the paper states are 'the best ones that we can derive from atomic spectra' and combines in the Fig. 1 summary. Curves extracted by color thresholding of the 600 dpi raster EPS with axis calibration from major ticks (x: Log10 m/eV = 0..12, y: Log10 chi = 0..-8). He+ Lamb-shift bound (Fig. 4, Z=2) checked and never dips below the hydrogen envelope. Below 1 eV (Fig. 3 left edge) the curve is extended with the chi ~ 1/m slope of the same-n/renormalised bound, consistent with Fig. 1 where the dotted black line reaches chi=1 at m ~ 10^-2.5 eV. Bounds quoted at 2 sigma (95% CL). Not a dark-matter search; no rho_DM dependence.",
+ "num_points": 70,
+ "arxiv_id": "1008.3536",
+ "elapsed_s": 380.27657198905945,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 379746,
+  "duration_api_ms": 243147,
+  "total_cost_usd": 2.084438,
+  "usage": {
+   "input_tokens": 562,
+   "output_tokens": 17287,
+   "cache_creation_input_tokens": 36351,
+   "cache_read_input_tokens": 487448
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1008.3536.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:41:52-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

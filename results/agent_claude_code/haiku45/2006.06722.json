@@ -1,0 +1,98 @@
+{
+ "paper_title": "Search for Axionlike-Particle-Induced Prompt \u03b3-Ray Emission from Extragalactic Core-Collapse Supernovae with the Fermi Large Area Telescope",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.000000040665117e-10,
+   5.8313625481461345e-12
+  ],
+  [
+   1.359356324544465e-10,
+   5.8313625481461345e-12
+  ],
+  [
+   1.8478497297935686e-10,
+   5.8313625481461345e-12
+  ],
+  [
+   2.5118863702218896e-10,
+   5.715817136917529e-12
+  ],
+  [
+   3.4145491793102736e-10,
+   5.4915493661639755e-12
+  ],
+  [
+   4.64158883361278e-10,
+   4.942983575460736e-12
+  ],
+  [
+   6.309572880326979e-10,
+   3.4311403337967355e-12
+  ],
+  [
+   8.576959195178764e-10,
+   2.4416228707703346e-12
+  ],
+  [
+   1.1659143253205634e-09,
+   1.8084317440797738e-12
+  ],
+  [
+   1.5848932698009543e-09,
+   1.2613928550140756e-12
+  ],
+  [
+   2.154435040473259e-09,
+   8.798302590815021e-13
+  ],
+  [
+   2.6268056536621215e-09,
+   7.201242027172974e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "FermiLAT_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Observed median limit (blue solid line) from Figure 2. Combined likelihood limit from 20 extragalactic core-collapse SNe (Ib/c) observed with Fermi-LAT. Paper reports g_a\u03b3 > (2.6+0.9-0.7) \u00d7 10^-11 GeV^-1 is excluded below m_a < 3\u00d710^-10 eV at 95% CL. Curve extracted from vector PDF figure with axes calibrated: x-axis m_a in neV (10^-1 to 10^1), y-axis g_a\u03b3/(10^-11) (dimensionless, 10^-1 to 10^1). Y-axis label indicates values are in units of 10^-11 GeV^-1.",
+ "num_points": 12,
+ "arxiv_id": "2006.06722",
+ "elapsed_s": 306.02424597740173,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 33,
+  "duration_ms": 304984,
+  "duration_api_ms": 290055,
+  "total_cost_usd": 0.44187610000000005,
+  "usage": {
+   "input_tokens": 256,
+   "output_tokens": 25216,
+   "cache_creation_input_tokens": 75009,
+   "cache_read_input_tokens": 1655221
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2006.06722.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:18:22-0500"
+ }
+}

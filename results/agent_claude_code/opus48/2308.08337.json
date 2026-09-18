@@ -1,0 +1,54 @@
+{
+ "paper_title": "First results of the SUPAX Experiment: Probing Dark Photons",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.434e-05,
+   6.2e-14
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "SUPAX_2023",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "SUPAX cavity haloscope, single-frequency proof-of-concept limit. Headline result (Eq. 18 and conclusion): chi < (6.20 +- 3.15(exp) +- 9.65(SG)) x 10^-14 at 95% CL, at cavity resonance f0 = 8303.06 MHz = 34.34 ueV (m = 3.434e-5 eV), for a randomly polarised dark photon field. A single point (single frequency). The fixed-polarisation scenario gives chi_pol < 38e-14 (factor ~6 weaker); the randomised-polarisation value is the paper's stated main claim. rho_DM = 0.45 GeV/cm^3 (Table II). Figure 9 is adapted from an external compilation (Ref. [15]) and was not used as the source.",
+ "num_points": 1,
+ "arxiv_id": "2308.08337",
+ "elapsed_s": 39.723045110702515,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 8,
+  "duration_ms": 39395,
+  "duration_api_ms": 37706,
+  "total_cost_usd": 0.35170450000000003,
+  "usage": {
+   "input_tokens": 172,
+   "output_tokens": 2936,
+   "cache_creation_input_tokens": 21935,
+   "cache_read_input_tokens": 116189
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2308.08337.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:45:56-0500"
+ }
+}

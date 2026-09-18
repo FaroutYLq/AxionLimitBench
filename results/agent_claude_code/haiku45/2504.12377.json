@@ -1,0 +1,82 @@
+{
+ "paper_title": "Search for Axions in Magnetic White Dwarf Polarization at Lick and Keck Observatories",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-14,
+   1.7e-12
+  ],
+  [
+   1e-12,
+   1.7e-12
+  ],
+  [
+   1e-11,
+   1.7e-12
+  ],
+  [
+   1e-10,
+   1.7e-12
+  ],
+  [
+   1e-09,
+   1.7e-12
+  ],
+  [
+   1e-08,
+   1.7e-12
+  ],
+  [
+   1e-07,
+   1.7e-12
+  ],
+  [
+   2e-07,
+   1.7e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "MWD_2025",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline limit of |g_a\u03b3\u03b3| \u2264 1.7 \u00d7 10^-12 GeV^-1 at 95% confidence for m_a \u2264 2 \u00d7 10^-7 eV from spectropolarimetric observations of 4 magnetic white dwarfs (5 dedicated observations) at Lick and Keck Observatories. Best individual limit from SDSS J033320+000720 (Kast). Constraint is approximately flat across the stated mass range as the axion-induced polarization signal is roughly independent of mass for m_a \u226a 10^-6 eV. Data points extracted from Figure 1, representing the flat constraint region.",
+ "num_points": 8,
+ "arxiv_id": "2504.12377",
+ "elapsed_s": 167.26622581481934,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 26,
+  "duration_ms": 166951,
+  "duration_api_ms": 158681,
+  "total_cost_usd": 0.2595607000000001,
+  "usage": {
+   "input_tokens": 180,
+   "output_tokens": 13447,
+   "cache_creation_input_tokens": 52925,
+   "cache_read_input_tokens": 862957
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2504.12377.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:55:55-0500"
+ }
+}

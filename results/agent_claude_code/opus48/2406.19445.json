@@ -1,0 +1,210 @@
+{
+ "paper_title": "X-Ray Constraints on Dark Photon Tridents",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   60938.53129585148,
+   1.69583015646511e-12
+  ],
+  [
+   64545.34787763252,
+   6.72784488695617e-13
+  ],
+  [
+   72412.09690489888,
+   2.6401228336989327e-13
+  ],
+  [
+   76698.05294250336,
+   1.829121493002379e-13
+  ],
+  [
+   81237.64067559621,
+   1.4202045783487373e-13
+  ],
+  [
+   86045.96651363387,
+   1.1444014694868665e-13
+  ],
+  [
+   96533.19829143173,
+   7.070667258129119e-14
+  ],
+  [
+   102246.78430812644,
+   5.2994518958083577e-14
+  ],
+  [
+   108298.60770866404,
+   4.177777063954767e-14
+  ],
+  [
+   114708.5622277681,
+   3.2503705883642924e-14
+  ],
+  [
+   128689.249043725,
+   1.8091198213644218e-14
+  ],
+  [
+   136306.0804224531,
+   1.4207853250138488e-14
+  ],
+  [
+   144373.81900922643,
+   1.1017551370110378e-14
+  ],
+  [
+   152918.98531540844,
+   8.805424243764967e-15
+  ],
+  [
+   171556.6612833372,
+   5.326499472801813e-15
+  ],
+  [
+   181710.82529248408,
+   4.177873990455664e-15
+  ],
+  [
+   192465.88623368324,
+   3.2944923222641736e-15
+  ],
+  [
+   203857.63377856536,
+   2.6255802624557377e-15
+  ],
+  [
+   228703.68225395208,
+   1.6239017680153797e-15
+  ],
+  [
+   242240.14622718352,
+   1.2807484109060555e-15
+  ],
+  [
+   256577.95250057627,
+   1.0171386294715064e-15
+  ],
+  [
+   271764.2327393571,
+   8.37905658535051e-16
+  ],
+  [
+   304886.69754659996,
+   4.93707220321849e-16
+  ],
+  [
+   322932.4528552925,
+   3.8819137014993436e-16
+  ],
+  [
+   342046.3075178816,
+   3.0317219778653046e-16
+  ],
+  [
+   362291.2702279769,
+   2.3673214448797293e-16
+  ],
+  [
+   406447.1171072323,
+   1.4457299517793993e-16
+  ],
+  [
+   430504.0709863686,
+   1.1244506730289177e-16
+  ],
+  [
+   455984.65262722556,
+   8.741228489673472e-17
+  ],
+  [
+   482973.65389243286,
+   6.743028010246786e-17
+  ],
+  [
+   541838.1986952077,
+   3.990769772075052e-17
+  ],
+  [
+   573908.4005549836,
+   3.031789958139811e-17
+  ],
+  [
+   607877.1195885044,
+   2.34992579983429e-17
+  ],
+  [
+   643856.0187840346,
+   1.708478130905726e-17
+  ],
+  [
+   722328.8115726246,
+   9.352901211264645e-18
+  ],
+  [
+   765082.2970180364,
+   6.73228836204767e-18
+  ],
+  [
+   810366.2927912191,
+   4.720160425645246e-18
+  ],
+  [
+   858330.0772803081,
+   3.186675953128204e-18
+  ],
+  [
+   962942.8421432313,
+   1.170533211525012e-18
+  ],
+  [
+   1019937.8866807768,
+   3.198570362521562e-19
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.42,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "INTEGRAL_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline blue INTEGRAL 95% C.L. curve from Fig.4 (Constraints.pdf), the boundary of the excluded (upper) region in the epsilon vs m_A prime plane; extracted as thick solid blue vector line (drawing idx 211), calibrated on log tick marks (x: 105.1px=1keV,121px/decade; y: 358.7px=1e-19,45.19px/decade). Curve spans 61-1022 keV (6.1e4-1.02e6 eV), epsilon from ~1.7e-12 down to ~3.2e-19, matching text. This work uses the full one-loop dark photon trident (A prime -> 3 gamma) decay amplitude; reported chi=epsilon directly (not epsilon^2). DM decay search assuming NFW with local density rho=0.42 GeV/cm^3, effective D-factor 1.2e23 GeV/cm^2 (isotropic-removed).",
+ "num_points": 40,
+ "arxiv_id": "2406.19445",
+ "elapsed_s": 159.07740592956543,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 158509,
+  "duration_api_ms": 156051,
+  "total_cost_usd": 0.9876630000000002,
+  "usage": {
+   "input_tokens": 470,
+   "output_tokens": 11362,
+   "cache_creation_input_tokens": 43042,
+   "cache_read_input_tokens": 541686
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2406.19445.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:26:49-0500"
+ }
+}

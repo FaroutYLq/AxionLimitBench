@@ -1,0 +1,419 @@
+{
+ "paper_title": "Deepest sensitivity to wavelike dark photon dark matter with superconducting radio frequency cavities",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.3540418154e-06,
+   1.6607e-15
+  ],
+  [
+   5.3540419939e-06,
+   1.606e-15
+  ],
+  [
+   5.3540421723e-06,
+   1.5532e-15
+  ],
+  [
+   5.3540423508e-06,
+   1.5021e-15
+  ],
+  [
+   5.3540425293e-06,
+   1.4527e-15
+  ],
+  [
+   5.3540427077e-06,
+   1.405e-15
+  ],
+  [
+   5.3540428862e-06,
+   1.359e-15
+  ],
+  [
+   5.3540430647e-06,
+   1.3144e-15
+  ],
+  [
+   5.3540432432e-06,
+   1.2714e-15
+  ],
+  [
+   5.3540434216e-06,
+   1.2299e-15
+  ],
+  [
+   5.3540436001e-06,
+   1.1897e-15
+  ],
+  [
+   5.3540437786e-06,
+   1.1509e-15
+  ],
+  [
+   5.3540439571e-06,
+   1.1134e-15
+  ],
+  [
+   5.3540441355e-06,
+   1.0772e-15
+  ],
+  [
+   5.354044314e-06,
+   1.0422e-15
+  ],
+  [
+   5.3540444925e-06,
+   1.0083e-15
+  ],
+  [
+   5.3540446709e-06,
+   9.7564e-16
+  ],
+  [
+   5.3540448494e-06,
+   9.4405e-16
+  ],
+  [
+   5.3540450279e-06,
+   9.1353e-16
+  ],
+  [
+   5.3540452064e-06,
+   8.8404e-16
+  ],
+  [
+   5.3540453848e-06,
+   8.5554e-16
+  ],
+  [
+   5.3540455633e-06,
+   8.2799e-16
+  ],
+  [
+   5.3540457418e-06,
+   8.0138e-16
+  ],
+  [
+   5.3540459202e-06,
+   7.7566e-16
+  ],
+  [
+   5.3540460987e-06,
+   7.5081e-16
+  ],
+  [
+   5.3540462772e-06,
+   7.268e-16
+  ],
+  [
+   5.3540464557e-06,
+   7.0359e-16
+  ],
+  [
+   5.3540466341e-06,
+   6.8117e-16
+  ],
+  [
+   5.3540468126e-06,
+   6.595e-16
+  ],
+  [
+   5.3540469911e-06,
+   6.3856e-16
+  ],
+  [
+   5.3540471696e-06,
+   6.1832e-16
+  ],
+  [
+   5.354047348e-06,
+   5.9877e-16
+  ],
+  [
+   5.3540475265e-06,
+   5.7987e-16
+  ],
+  [
+   5.354047705e-06,
+   5.6162e-16
+  ],
+  [
+   5.3540478834e-06,
+   5.4397e-16
+  ],
+  [
+   5.3540480619e-06,
+   5.2692e-16
+  ],
+  [
+   5.3540482404e-06,
+   5.1045e-16
+  ],
+  [
+   5.3540484189e-06,
+   4.9453e-16
+  ],
+  [
+   5.3540485973e-06,
+   4.7915e-16
+  ],
+  [
+   5.3540487758e-06,
+   4.6429e-16
+  ],
+  [
+   5.3540489543e-06,
+   4.4994e-16
+  ],
+  [
+   5.3540491328e-06,
+   4.3606e-16
+  ],
+  [
+   5.3540493112e-06,
+   4.2266e-16
+  ],
+  [
+   5.3540494897e-06,
+   4.0971e-16
+  ],
+  [
+   5.3540496682e-06,
+   3.9721e-16
+  ],
+  [
+   5.3540498466e-06,
+   3.8512e-16
+  ],
+  [
+   5.3540500251e-06,
+   3.7345e-16
+  ],
+  [
+   5.3540502036e-06,
+   3.6218e-16
+  ],
+  [
+   5.3540503821e-06,
+   3.513e-16
+  ],
+  [
+   5.3540505605e-06,
+   3.4078e-16
+  ],
+  [
+   5.354050739e-06,
+   3.3063e-16
+  ],
+  [
+   5.3540509175e-06,
+   3.2083e-16
+  ],
+  [
+   5.3540510959e-06,
+   3.1137e-16
+  ],
+  [
+   5.3540512744e-06,
+   3.0223e-16
+  ],
+  [
+   5.3540514529e-06,
+   2.9342e-16
+  ],
+  [
+   5.3540516314e-06,
+   2.8491e-16
+  ],
+  [
+   5.3540518098e-06,
+   2.7671e-16
+  ],
+  [
+   5.3540519883e-06,
+   2.6879e-16
+  ],
+  [
+   5.3540521668e-06,
+   2.6116e-16
+  ],
+  [
+   5.3540523453e-06,
+   2.538e-16
+  ],
+  [
+   5.3540525237e-06,
+   2.4672e-16
+  ],
+  [
+   5.3540527022e-06,
+   2.3989e-16
+  ],
+  [
+   5.3540528807e-06,
+   2.3331e-16
+  ],
+  [
+   5.3540530591e-06,
+   2.2698e-16
+  ],
+  [
+   5.3540532376e-06,
+   2.209e-16
+  ],
+  [
+   5.3540534161e-06,
+   2.1505e-16
+  ],
+  [
+   5.3540535946e-06,
+   2.0944e-16
+  ],
+  [
+   5.354053773e-06,
+   2.0405e-16
+  ],
+  [
+   5.3540539515e-06,
+   1.9889e-16
+  ],
+  [
+   5.35405413e-06,
+   1.9395e-16
+  ],
+  [
+   5.3540543085e-06,
+   1.8923e-16
+  ],
+  [
+   5.3540544869e-06,
+   1.8473e-16
+  ],
+  [
+   5.3540546654e-06,
+   1.8045e-16
+  ],
+  [
+   5.3540548439e-06,
+   1.7639e-16
+  ],
+  [
+   5.3540550223e-06,
+   1.7255e-16
+  ],
+  [
+   5.3540552008e-06,
+   1.6895e-16
+  ],
+  [
+   5.3540553793e-06,
+   1.6558e-16
+  ],
+  [
+   5.3540555578e-06,
+   1.6246e-16
+  ],
+  [
+   5.3540557362e-06,
+   1.5961e-16
+  ],
+  [
+   5.3540559147e-06,
+   1.5703e-16
+  ],
+  [
+   5.3540560932e-06,
+   1.5477e-16
+  ],
+  [
+   5.3540562717e-06,
+   1.5286e-16
+  ],
+  [
+   5.3540564501e-06,
+   1.5135e-16
+  ],
+  [
+   5.3540566286e-06,
+   1.5032e-16
+  ],
+  [
+   5.3540568071e-06,
+   1.4989e-16
+  ],
+  [
+   5.3540569855e-06,
+   1.5023e-16
+  ],
+  [
+   5.354057164e-06,
+   1.5164e-16
+  ],
+  [
+   5.3540573425e-06,
+   1.5463e-16
+  ],
+  [
+   5.354057521e-06,
+   1.6024e-16
+  ],
+  [
+   5.3540576994e-06,
+   1.7103e-16
+  ],
+  [
+   5.3540578779e-06,
+   1.9615e-16
+  ],
+  [
+   5.3540580118e-06,
+   2.6997e-16
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "SQMS_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "90% CL exclusion from Fig. 3 (top panel), recovered from the vector paths of chi_exclusion_publication.pdf in the arXiv e-print (fill_between boundary of the orange excluded region; axes calibrated against the figure's tick marks). Fixed-frequency SRF cavity at f0=1.294605478 GHz, i.e. mA'=5.354056807e-6 eV; the exclusion spans mass offsets ~-14.9 to +1.2 peV about that value (masses below the cavity frequency are probed through the upward tail of the SHM lineshape, QL>>QDM). Deepest point chi=1.50e-16 at zero offset (on the cavity resonance), matching the paper's quoted chi_90%=1.5e-16 at mA'=5.354 ueV. Scenario: randomly polarized dark photon DM, standard halo model, rho_DM=0.45 GeV/cm^3 (already the canonical density, no rescaling). Curve reported down to the figure's y-axis top (chi ~2e-15); masses differ only at the ~1e-12 eV level so many digits are retained.",
+ "num_points": 92,
+ "arxiv_id": "2208.03183",
+ "elapsed_s": 274.1976809501648,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 273889,
+  "duration_api_ms": 239388,
+  "total_cost_usd": 1.9701925,
+  "usage": {
+   "input_tokens": 600,
+   "output_tokens": 15930,
+   "cache_creation_input_tokens": 44394,
+   "cache_read_input_tokens": 557740
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2208.03183.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:31:47-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

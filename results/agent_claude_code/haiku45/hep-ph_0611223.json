@@ -1,0 +1,58 @@
+{
+ "paper_title": "Particle Physics Implications of a Recent Test of the Gravitational Inverse-Square Law",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0001,
+   1.6e-17
+  ],
+  [
+   0.02,
+   1.6e-17
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "WashingtonISLTest_2006",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Constraint inferred from inverse-square law test data via scalar-photon coupling interpretation (Eq. 13-14). Bound applies for scalar photon mass up to 20 meV. Authors' own experimental data from torsion-balance ISL test reinterpreted to constrain g_a\u03b3\u03b3 through assumed second-order coupling to photons. Improves on astrophysical constraints by factor ~10^8 in the meV mass range.",
+ "num_points": 2,
+ "arxiv_id": "hep-ph/0611223",
+ "elapsed_s": 125.4329161643982,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 8,
+  "duration_ms": 125144,
+  "duration_api_ms": 124151,
+  "total_cost_usd": 0.1647854,
+  "usage": {
+   "input_tokens": 60,
+   "output_tokens": 14549,
+   "cache_creation_input_tokens": 35790,
+   "cache_read_input_tokens": 204004
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "hep-ph_0611223.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:01:25-0500"
+ }
+}

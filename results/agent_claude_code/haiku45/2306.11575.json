@@ -1,0 +1,102 @@
+{
+ "paper_title": "A Hunt for Magnetic Signatures of Hidden-Photon and Axion Dark Matter in the Wilderness",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.067833848e-15,
+   1.6e-08
+  ],
+  [
+   3.101750772e-15,
+   1.4e-08
+  ],
+  [
+   4.135667696e-15,
+   1.2e-08
+  ],
+  [
+   5.169584620000001e-15,
+   1.1e-08
+  ],
+  [
+   6.203501544e-15,
+   1e-08
+  ],
+  [
+   7.237418468000001e-15,
+   9.5e-09
+  ],
+  [
+   8.271335392e-15,
+   9e-09
+  ],
+  [
+   1.0339169240000001e-14,
+   8.5e-09
+  ],
+  [
+   1.2407003088e-14,
+   8e-09
+  ],
+  [
+   1.4474836936000002e-14,
+   7.8e-09
+  ],
+  [
+   1.6542670784e-14,
+   7.6e-09
+  ],
+  [
+   1.8610504632e-14,
+   7.5e-09
+  ],
+  [
+   2.0678338480000003e-14,
+   7.3e-09
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "SNIPEHunt_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% CL upper limit on axion-photon coupling g_a\u03b3\u03b3 from SNIPE Hunt 2022 experiment, extracted from Figure 9 (Scan-1 Averaged curve). Frequency range 0.5-5 Hz corresponds to axion mass 2.1\u00d710^-15 to 2.1\u00d710^-14 eV. Curve extracted by visual inspection of published limit plot. This is the main reported limit for axions; a parallel limit on hidden-photon kinetic mixing (\u03b5) is also reported but axion-photon coupling is the primary result.",
+ "num_points": 13,
+ "arxiv_id": "2306.11575",
+ "elapsed_s": 221.990971326828,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 221697,
+  "duration_api_ms": 207321,
+  "total_cost_usd": 0.31039039999999996,
+  "usage": {
+   "input_tokens": 142,
+   "output_tokens": 18763,
+   "cache_creation_input_tokens": 64999,
+   "cache_read_input_tokens": 864354
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2306.11575.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:36:25-0500"
+ }
+}

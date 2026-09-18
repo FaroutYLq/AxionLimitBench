@@ -1,0 +1,150 @@
+{
+ "paper_title": "Torsion-balance tests of the weak equivalence principle",
+ "coupling_type": "VectorBL",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.986e-19,
+   1.481e-24
+  ],
+  [
+   2.15e-14,
+   1.494e-24
+  ],
+  [
+   4.123e-14,
+   1.525e-24
+  ],
+  [
+   8.653e-14,
+   1.657e-24
+  ],
+  [
+   1.266e-13,
+   1.829e-24
+  ],
+  [
+   1.852e-13,
+   2.166e-24
+  ],
+  [
+   2.412e-13,
+   2.587e-24
+  ],
+  [
+   6.723e-13,
+   6.329e-24
+  ],
+  [
+   1.585e-12,
+   9.018e-24
+  ],
+  [
+   2.064e-12,
+   9.646e-24
+  ],
+  [
+   5.754e-12,
+   8.116e-24
+  ],
+  [
+   9.272e-12,
+   8.563e-24
+  ],
+  [
+   2.585e-11,
+   1.237e-23
+  ],
+  [
+   1.161e-10,
+   1.554e-23
+  ],
+  [
+   4.673e-10,
+   2.116e-23
+  ],
+  [
+   1.303e-09,
+   2.507e-23
+  ],
+  [
+   3.631e-09,
+   3.214e-23
+  ],
+  [
+   1.631e-08,
+   5.159e-23
+  ],
+  [
+   7.278e-08,
+   8.707e-23
+  ],
+  [
+   1.396e-07,
+   1.156e-22
+  ],
+  [
+   2.659e-07,
+   1.719e-22
+  ],
+  [
+   3.269e-07,
+   2.036e-22
+  ],
+  [
+   6.269e-07,
+   4.07e-22
+  ],
+  [
+   8.166e-07,
+   6.192e-22
+  ],
+  [
+   9.349e-07,
+   8.553e-22
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.78,
+ "suggested_experiment_name": "EotWash_2012",
+ "coupling_convention": "g_BL (dimensionless)",
+ "notes": "Eot-Wash rotating torsion balance (Be-Ti, Be-Al) WEP test. Headline exotic-force result is Figure 6 left panel: the 95% CL curve labeled 'EW' (this paper's lab-fixed result from Table 3, propagated through a geophysical Earth model), the deepest/lowest blue curve; the EW94, EW99, Princeton, Moscow and LLR curves are prior experiments and were not used. The plane is a vector Yukawa force coupled to q=N=B-L (i.e. U(1)_{B-L} boson), so reported as VectorBL. Extracted by parsing the vector EPS (WEP_figure6.eps) into colored polylines; axes calibrated from the frame box x=[1e-2,1e12] m (log) and y=|alpha|=[1e-11,1e-5] (log). The paper plots the Yukawa strength relative to gravity alpha_tilde = g^2/(4*pi*G*u^2) (eqs 2,4). Converted to the gauge coupling via g_BL = sqrt(4*pi*alpha_tilde)*u/M_Pl with u=0.931494 GeV, M_Pl=1.2209e19 GeV (G=1/M_Pl^2 natural units); K=sqrt(4pi)*u/M_Pl=2.705e-19, so g_BL=K*sqrt(alpha_tilde). x converted from range lambda via m=1.97327e-7 eV*m/lambda. Flat long-range (small mass) plateau alpha~3e-11 gives g_BL~1.48e-24; limit weakens (g_BL up to ~9e-22) at short range (large mass, lambda~0.2 m) where the curve exits the top of the plot at alpha=1e-5. Curve collapsed with RDP in log-log; the large mass gap between the first two points is the genuine flat plateau. Limit is not dark-matter-density dependent.",
+ "num_points": 25,
+ "arxiv_id": "1207.2442",
+ "elapsed_s": 327.6664161682129,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 327344,
+  "duration_api_ms": 323835,
+  "total_cost_usd": 1.5311704999999998,
+  "usage": {
+   "input_tokens": 480,
+   "output_tokens": 22206,
+   "cache_creation_input_tokens": 62717,
+   "cache_read_input_tokens": 692901
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1207.2442.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:22:40-0500"
+ }
+}

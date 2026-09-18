@@ -1,0 +1,230 @@
+{
+ "paper_title": "Search for sub-eV axion-like particles in a quasi-parallel stimulated resonant photon-photon collider with \"coronagraphy\"",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.002371374,
+   0.09019619
+  ],
+  [
+   0.00273842,
+   0.05849639
+  ],
+  [
+   0.003162278,
+   0.03793761
+  ],
+  [
+   0.003651741,
+   0.02460429
+  ],
+  [
+   0.004216965,
+   0.01595701
+  ],
+  [
+   0.004869675,
+   0.01034886
+  ],
+  [
+   0.005623413,
+   0.006574734
+  ],
+  [
+   0.006493816,
+   0.004264018
+  ],
+  [
+   0.007498942,
+   0.002765412
+  ],
+  [
+   0.008659643,
+   0.001756894
+  ],
+  [
+   0.01,
+   0.001116172
+  ],
+  [
+   0.01154782,
+   0.0007091153
+  ],
+  [
+   0.01333521,
+   0.000450508
+  ],
+  [
+   0.01539927,
+   0.0002862122
+  ],
+  [
+   0.01778279,
+   0.0001781224
+  ],
+  [
+   0.02053525,
+   0.000113163
+  ],
+  [
+   0.02371374,
+   6.898896e-05
+  ],
+  [
+   0.0273842,
+   4.293486e-05
+  ],
+  [
+   0.03162278,
+   2.617492e-05
+  ],
+  [
+   0.03651741,
+   1.62898e-05
+  ],
+  [
+   0.04216965,
+   1.013786e-05
+  ],
+  [
+   0.04869675,
+   6.309235e-06
+  ],
+  [
+   0.05623413,
+   4.00832e-06
+  ],
+  [
+   0.06493816,
+   2.59958e-06
+  ],
+  [
+   0.07498942,
+   1.75693e-06
+  ],
+  [
+   0.08659643,
+   1.237417e-06
+  ],
+  [
+   0.1,
+   9.08214e-07
+  ],
+  [
+   0.1131283,
+   7.38986e-07
+  ],
+  [
+   0.1286397,
+   6.138177e-07
+  ],
+  [
+   0.1462779,
+   5.536859e-07
+  ],
+  [
+   0.168919,
+   5.536859e-07
+  ],
+  [
+   0.189141,
+   6.266061e-07
+  ],
+  [
+   0.2053525,
+   7.543822e-07
+  ],
+  [
+   0.2311209,
+   1.16319e-06
+  ],
+  [
+   0.2535233,
+   1.830901e-06
+  ],
+  [
+   0.273842,
+   2.941944e-06
+  ],
+  [
+   0.3003852,
+   5.930771e-06
+  ],
+  [
+   0.3329059,
+   1.595734e-05
+  ],
+  [
+   0.3651741,
+   5.276695e-05
+  ],
+  [
+   0.3964736,
+   0.0001781224
+  ],
+  [
+   0.4238695,
+   0.0005652098
+  ],
+  [
+   0.4508352,
+   0.002204209
+  ],
+  [
+   0.4770583,
+   0.009144528
+  ],
+  [
+   0.5022187,
+   0.03640487
+  ],
+  [
+   0.5206164,
+   0.09999175
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.83,
+ "suggested_experiment_name": "SAPPHIRES_2025",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "SAPPHIRES02 stimulated resonant photon-photon collider (light-by-light/vacuum FWM), null result. Headline pseudoscalar exclusion from Fig.11 (m_sigma - g/M plane), red 'This work' region lower boundary extracted from vector EPS (Fig11.eps, 0.8 0 0 c thick stroke). The paper's coupling is g/M with -L_sigma = (g/M)(1/4)F Ftilde sigma (Eq.1), which is identical to the canonical g_agamma so g_agamma = g/M directly, no conversion. Axes: x=10^-3..1 eV (px 631..1976 per decade 448), y=10^-13..10^-1 GeV^-1 (px 212..1552). Resonant valley shape; minimum g/M=5.5e-7 at m=0.157 eV matches abstract's 5.45e-7 at 0.15 eV. Curve is the lower reach boundary; endpoints hit the 10^-1 top frame. 95% CL (1.64 sigma). Model-independent (no DM assumption). Pseudoscalar chosen as headline per abstract; scalar version in Fig.10 not reported.",
+ "num_points": 45,
+ "arxiv_id": "2409.01805",
+ "elapsed_s": 173.46936202049255,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 173160,
+  "duration_api_ms": 170946,
+  "total_cost_usd": 1.3421685000000003,
+  "usage": {
+   "input_tokens": 531,
+   "output_tokens": 12106,
+   "cache_creation_input_tokens": 61264,
+   "cache_read_input_tokens": 848447
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2409.01805.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:40:20-0500"
+ }
+}

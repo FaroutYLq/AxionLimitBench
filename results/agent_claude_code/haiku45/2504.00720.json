@@ -1,0 +1,190 @@
+{
+ "paper_title": "Search for QCD coupled axion dark matter with the MICROSCOPE space experiment",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.0259143654700139e-19,
+   1.1031737601092044e-10
+  ],
+  [
+   1.5379000270557662e-19,
+   1.1031737601092089e-10
+  ],
+  [
+   2.305393678871569e-19,
+   1.1031737601092044e-10
+  ],
+  [
+   3.45590735488576e-19,
+   1.1031737601092134e-10
+  ],
+  [
+   5.18058835460997e-19,
+   1.1031737601092044e-10
+  ],
+  [
+   7.7659766144996695e-19,
+   1.1031737601092044e-10
+  ],
+  [
+   1.1641610691435995e-18,
+   1.1031737601092044e-10
+  ],
+  [
+   1.7451391655998224e-18,
+   1.1031737601092044e-10
+  ],
+  [
+   2.616056135214014e-18,
+   1.1031737601092089e-10
+  ],
+  [
+   3.921606848035339e-18,
+   1.1031737936512951e-10
+  ],
+  [
+   5.878696585881762e-18,
+   1.1045378440520342e-10
+  ],
+  [
+   8.812477866354996e-18,
+   1.1031737601095518e-10
+  ],
+  [
+   1.321037155268474e-17,
+   1.1031737601092044e-10
+  ],
+  [
+   1.9803047361543552e-17,
+   1.1031737601092044e-10
+  ],
+  [
+   2.968581793778806e-17,
+   1.1031737601092089e-10
+  ],
+  [
+   4.4500615008720447e-17,
+   1.1031737601092044e-10
+  ],
+  [
+   6.670878128756424e-17,
+   1.1031737601091998e-10
+  ],
+  [
+   1e-16,
+   1.1031737601092044e-10
+  ],
+  [
+   1.4990530192558424e-16,
+   1.1031737601092044e-10
+  ],
+  [
+   2.247159954540048e-16,
+   1.1031737601092089e-10
+  ],
+  [
+   3.368611914604067e-16,
+   1.1031737601091998e-10
+  ],
+  [
+   5.049727861288431e-16,
+   1.1031737601091998e-10
+  ],
+  [
+   7.569809796884738e-16,
+   1.1031737601092044e-10
+  ],
+  [
+   1.1347546231212476e-15,
+   1.103173760109245e-10
+  ],
+  [
+   1.701057343904432e-15,
+   1.1033416508637092e-10
+  ],
+  [
+   2.5499751473072522e-15,
+   1.1025631438753538e-10
+  ],
+  [
+   3.822547943598283e-15,
+   1.0503187419480819e-10
+  ],
+  [
+   5.730202036101217e-15,
+   1.0503207891445333e-10
+  ],
+  [
+   8.58987666316347e-15,
+   1.0503207891445463e-10
+  ],
+  [
+   1.2876680546950447e-14,
+   1.0503090700089616e-10
+  ],
+  [
+   1.9302826851899042e-14,
+   1.0503083949778577e-10
+  ],
+  [
+   2.893596087251189e-14,
+   1.0475602269803884e-10
+  ],
+  [
+   4.337653951100769e-14,
+   1.0503268266328897e-10
+  ],
+  [
+   6.502373251884642e-14,
+   1.0503207891445333e-10
+  ],
+  [
+   9.747402255566064e-14,
+   1.0503207891445376e-10
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "MICROSCOPE_2025",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "95% confidence exclusion limit on the axion decay constant inverse (1/f_a) from MICROSCOPE spacecraft measurements of equivalence principle violations induced by QCD axion coupling to gluons. Extracted from Figure 2 of the paper showing the exclusion region in (m_a, 1/f_a) space using visual figure reading and calibration against reference points stated in text. The extracted points show a nearly-constant limit around 1-1.1 \u00d7 10^-10 GeV^-1 across the measured mass range, with some curvature at higher masses. The calibration matches the reference point at m_a \u2248 7.7\u00d710^-14 eV within 20%. Coverage approximately 10^-19 to 10^-13 eV for mass range.",
+ "num_points": 35,
+ "arxiv_id": "2504.00720",
+ "elapsed_s": 258.85261392593384,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 33,
+  "duration_ms": 258514,
+  "duration_api_ms": 251355,
+  "total_cost_usd": 0.44747509999999996,
+  "usage": {
+   "input_tokens": 236,
+   "output_tokens": 29527,
+   "cache_creation_input_tokens": 76067,
+   "cache_read_input_tokens": 1474701
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2504.00720.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:54:00-0500"
+ }
+}

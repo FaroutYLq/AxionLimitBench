@@ -1,0 +1,66 @@
+{
+ "paper_title": "Constraints on dark photon dark matter from Lyman-\u03b1 forest simulations and an ultra-high signal-to-noise quasar spectrum",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   7.943282347242822e-14,
+   1.4125375446227555e-14
+  ],
+  [
+   2.511886431509582e-13,
+   8.91250938133744e-15
+  ],
+  [
+   7.943282347242822e-13,
+   7.079457843841374e-15
+  ],
+  [
+   2.5118864315095823e-12,
+   1e-14
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "Lyman-alpha_Quasar_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "95% confidence limits on dark photon kinetic mixing parameter \u03b5 at fixed dark photon mass m_A', derived from analysis of Lyman-\u03b1 forest transmitted flux at z ~ 2.7 using HE0940-1050 quasar spectrum. Blue error bar upper bounds extracted from Figure 7. Four data points at masses 10^-13.1, 10^-12.6, 10^-12.1, 10^-11.6 eV. Coupling type is DarkPhoton with kinetic mixing parameter \u03c7 (also written \u03b5), which appears in the Lagrangian as L \u2283 -(\u03c7/2) F_\u03bc\u03bd F'^\u03bc\u03bd.",
+ "num_points": 4,
+ "arxiv_id": "2410.02858",
+ "elapsed_s": 184.5845959186554,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 24,
+  "duration_ms": 184144,
+  "duration_api_ms": 178789,
+  "total_cost_usd": 0.27548999999999996,
+  "usage": {
+   "input_tokens": 178,
+   "output_tokens": 15394,
+   "cache_creation_input_tokens": 54377,
+   "cache_read_input_tokens": 895880
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2410.02858.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:29:23-0500"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "paper_title": "Spectrum of global string networks and the axion dark matter mass",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "Saikawa_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Theory/numerical paper: predicts the post-inflationary QCD axion dark matter mass m_a in (95-450) ueV (Eq. 1.2) from large-scale simulations of global string network axion radiation spectra. It does not report a new experimental or observational exclusion on any axion coupling. Figure 1 shows the axion-photon coupling plane (C_agamma vs m_a) with mass estimates from prior works and existing/future experimental constraints, but that figure is explicitly adapted from Ref. [76] and is not a new limit derived here. No coupling exclusion curve is produced. is_new_limit=false, is_projection=false (mass prediction, not a coupling sensitivity forecast).",
+ "num_points": 0,
+ "arxiv_id": "2401.17253",
+ "elapsed_s": 17.990696907043457,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 4,
+  "duration_ms": 17685,
+  "duration_api_ms": 17161,
+  "total_cost_usd": 0.264055,
+  "usage": {
+   "input_tokens": 79,
+   "output_tokens": 1137,
+   "cache_creation_input_tokens": 21191,
+   "cache_read_input_tokens": 46650
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2401.17253.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:06:03-0500"
+ }
+}

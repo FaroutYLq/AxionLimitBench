@@ -1,0 +1,190 @@
+{
+ "paper_title": "Searches for signatures of ultra-light axion dark matter in polarimetry data of the European Pulsar Timing Array",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.136e-24,
+   2e-13
+  ],
+  [
+   5.067757490135525e-24,
+   2.0750932857942882e-13
+  ],
+  [
+   6.209421174764196e-24,
+   2.1671035763027237e-13
+  ],
+  [
+   7.608278691445241e-24,
+   2.279841931934659e-13
+  ],
+  [
+   9.322270629983105e-24,
+   2.4179779682449314e-13
+  ],
+  [
+   1.1422390427990162e-23,
+   2.5872332711146165e-13
+  ],
+  [
+   1.3995624914579172e-23,
+   2.7946183844760774e-13
+  ],
+  [
+   1.7148557299319624e-23,
+   3.0487231865989383e-13
+  ],
+  [
+   2.101178184203222e-23,
+   3.360072682304338e-13
+  ],
+  [
+   2.5745313058765193e-23,
+   3.7415629479984843e-13
+  ],
+  [
+   3.1545213512920994e-23,
+   2.0050512455913268e-13
+  ],
+  [
+   3.865171471422383e-23,
+   2.0188937937208893e-13
+  ],
+  [
+   4.735916749264731e-23,
+   2.035854789118895e-13
+  ],
+  [
+   5.802823399116217e-23,
+   2.0566367551412348e-13
+  ],
+  [
+   7.110082626887064e-23,
+   2.0821004795052226e-13
+  ],
+  [
+   8.711841027052578e-23,
+   2.1133006680623667e-13
+  ],
+  [
+   1.0674443331169165e-22,
+   2.151529630647982e-13
+  ],
+  [
+   1.3079180402456418e-22,
+   2.1983708084727798e-13
+  ],
+  [
+   1.6025656298206547e-22,
+   2.2557643601575934e-13
+  ],
+  [
+   1.9635913863533352e-22,
+   2.3260875229806586e-13
+  ],
+  [
+   2.4059489738292343e-22,
+   2.4122530778952155e-13
+  ],
+  [
+   2.947960815523938e-22,
+   2.5178299967322395e-13
+  ],
+  [
+   3.612077007615442e-22,
+   2.6471912687877896e-13
+  ],
+  [
+   4.42580520074697e-22,
+   2.8056950297628803e-13
+  ],
+  [
+   5.422849965175585e-22,
+   2.9999064954050863e-13
+  ],
+  [
+   6.644508831939022e-22,
+   3.237869892329288e-13
+  ],
+  [
+   8.141382833977442e-22,
+   3.5294416493749173e-13
+  ],
+  [
+   9.975472397715174e-22,
+   3.886698650264653e-13
+  ],
+  [
+   1.2222745396799144e-21,
+   4.3244384573638576e-13
+  ],
+  [
+   1.4976283736617112e-21,
+   4.860792225777173e-13
+  ],
+  [
+   1.8350138800927556e-21,
+   5.517975694645412e-13
+  ],
+  [
+   2.248405545295627e-21,
+   6.323209361654653e-13
+  ],
+  [
+   2.7549260258786717e-21,
+   7.309845954327629e-13
+  ],
+  [
+   3.375555368088959e-21,
+   8.518751897886676e-13
+  ],
+  [
+   4.136e-21,
+   1e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "EPTA_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Bayesian analysis results from Figure 7. The solid curve shows upper limits on g_a\u03b3\u03b3 from ultra-light axion-photon coupling searches using EPTA pulsar polarimetry data. Key reference points: at m_a \u2248 8\u00d710^-24 eV (f \u2248 1.93\u00d710^-9 Hz), g_a\u03b3\u03b3 \u2248 4\u00d710^-13 GeV^-1; minimum at m_a \u2248 3\u00d710^-23 eV (f \u2248 7.25\u00d710^-9 Hz), g_a\u03b3\u03b3 \u2248 2\u00d710^-13 GeV^-1. Curve extracted by visual reading of Figure 7 (Bayesian conservative approach, solid line). Extraction confidence is moderate due to reliance on visual reading without access to raw data tables.",
+ "num_points": 35,
+ "arxiv_id": "2412.02232",
+ "elapsed_s": 267.6272189617157,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 267302,
+  "duration_api_ms": 260619,
+  "total_cost_usd": 0.3697249,
+  "usage": {
+   "input_tokens": 178,
+   "output_tokens": 24232,
+   "cache_creation_input_tokens": 70571,
+   "cache_read_input_tokens": 1072449
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2412.02232.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:39:01-0500"
+ }
+}

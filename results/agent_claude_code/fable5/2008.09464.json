@@ -1,0 +1,371 @@
+{
+ "paper_title": "Limits on axion-like particles from Mrk 421 with 4.5-year period observations by ARGO-YBJ and Fermi-LAT",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.0112e-10,
+   6.6e-11
+  ],
+  [
+   4.0158e-10,
+   6.5761e-11
+  ],
+  [
+   4.4252e-10,
+   4.8498e-11
+  ],
+  [
+   4.8176e-10,
+   2.4424e-11
+  ],
+  [
+   5.3088e-10,
+   2.0119e-11
+  ],
+  [
+   5.7796e-10,
+   1.5444e-11
+  ],
+  [
+   6.3689e-10,
+   1.3499e-11
+  ],
+  [
+   6.9336e-10,
+   1.2479e-11
+  ],
+  [
+   7.6406e-10,
+   1.1836e-11
+  ],
+  [
+   8.318e-10,
+   1.1537e-11
+  ],
+  [
+   9.1662e-10,
+   1.1371e-11
+  ],
+  [
+   1.0101e-09,
+   1.1611e-11
+  ],
+  [
+   1.0996e-09,
+   1.2968e-11
+  ],
+  [
+   1.2118e-09,
+   2.2871e-11
+  ],
+  [
+   1.3192e-09,
+   2.4036e-11
+  ],
+  [
+   1.4537e-09,
+   2.5059e-11
+  ],
+  [
+   1.5826e-09,
+   2.5792e-11
+  ],
+  [
+   1.744e-09,
+   2.5504e-11
+  ],
+  [
+   1.8986e-09,
+   2.522e-11
+  ],
+  [
+   2.0922e-09,
+   2.4621e-11
+  ],
+  [
+   2.3055e-09,
+   2.3882e-11
+  ],
+  [
+   2.51e-09,
+   2.324e-11
+  ],
+  [
+   2.7659e-09,
+   2.2652e-11
+  ],
+  [
+   3.0111e-09,
+   2.2256e-11
+  ],
+  [
+   3.3182e-09,
+   2.2078e-11
+  ],
+  [
+   3.6124e-09,
+   2.2078e-11
+  ],
+  [
+   3.9807e-09,
+   2.222e-11
+  ],
+  [
+   4.3866e-09,
+   2.3692e-11
+  ],
+  [
+   4.7756e-09,
+   2.522e-11
+  ],
+  [
+   5.2625e-09,
+   2.7899e-11
+  ],
+  [
+   5.7291e-09,
+   2.9273e-11
+  ],
+  [
+   6.3133e-09,
+   3.0913e-11
+  ],
+  [
+   6.8731e-09,
+   3.0372e-11
+  ],
+  [
+   7.5739e-09,
+   2.9414e-11
+  ],
+  [
+   8.2454e-09,
+   2.8947e-11
+  ],
+  [
+   9.0862e-09,
+   2.9133e-11
+  ],
+  [
+   1.0013e-08,
+   2.9367e-11
+  ],
+  [
+   1.09e-08,
+   3.0962e-11
+  ],
+  [
+   1.2012e-08,
+   3.2696e-11
+  ],
+  [
+   1.3077e-08,
+   3.3815e-11
+  ],
+  [
+   1.441e-08,
+   3.4638e-11
+  ],
+  [
+   1.5688e-08,
+   3.5311e-11
+  ],
+  [
+   1.7288e-08,
+   3.5709e-11
+  ],
+  [
+   1.8821e-08,
+   3.6054e-11
+  ],
+  [
+   2.074e-08,
+   3.6112e-11
+  ],
+  [
+   2.2854e-08,
+   3.5939e-11
+  ],
+  [
+   2.4881e-08,
+   3.5652e-11
+  ],
+  [
+   2.7418e-08,
+   3.8134e-11
+  ],
+  [
+   2.9849e-08,
+   4.0077e-11
+  ],
+  [
+   3.2892e-08,
+   4.2118e-11
+  ],
+  [
+   3.5809e-08,
+   4.5632e-11
+  ],
+  [
+   3.946e-08,
+   4.9997e-11
+  ],
+  [
+   4.2959e-08,
+   5.0399e-11
+  ],
+  [
+   4.7339e-08,
+   5.0561e-11
+  ],
+  [
+   5.2166e-08,
+   3.1211e-11
+  ],
+  [
+   5.6791e-08,
+   3.0568e-11
+  ],
+  [
+   6.2582e-08,
+   3.0178e-11
+  ],
+  [
+   6.8131e-08,
+   3.0372e-11
+  ],
+  [
+   7.5078e-08,
+   3.0764e-11
+  ],
+  [
+   8.1735e-08,
+   3.1012e-11
+  ],
+  [
+   9.0069e-08,
+   3.1211e-11
+  ],
+  [
+   9.9252e-08,
+   3.1513e-11
+  ],
+  [
+   1.0805e-07,
+   3.1971e-11
+  ],
+  [
+   1.1907e-07,
+   3.2539e-11
+  ],
+  [
+   1.2963e-07,
+   3.3171e-11
+  ],
+  [
+   1.4285e-07,
+   3.4142e-11
+  ],
+  [
+   1.5551e-07,
+   3.5141e-11
+  ],
+  [
+   1.7137e-07,
+   3.6228e-11
+  ],
+  [
+   1.8656e-07,
+   3.7228e-11
+  ],
+  [
+   2.0559e-07,
+   3.838e-11
+  ],
+  [
+   2.2655e-07,
+   3.963e-11
+  ],
+  [
+   2.4664e-07,
+   4.079e-11
+  ],
+  [
+   2.7178e-07,
+   4.2457e-11
+  ],
+  [
+   2.9588e-07,
+   4.4122e-11
+  ],
+  [
+   3.2605e-07,
+   4.6221e-11
+  ],
+  [
+   3.5496e-07,
+   4.8575e-11
+  ],
+  [
+   3.9115e-07,
+   5.1378e-11
+  ],
+  [
+   4.2584e-07,
+   5.4082e-11
+  ],
+  [
+   4.6926e-07,
+   5.7294e-11
+  ],
+  [
+   5.7745e-07,
+   6.6e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "Mrk421_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% C.L. combined exclusion (ten phases, benchmark BJMF parameters of Table I) from Fig. 6, extracted from the vector PDF fig_compare_contour_421-eps-converted-to.pdf in the e-print (red filled 'Mrk 421' region). Axis calibration verified against the CAST line drawn at g=6.6e-11 GeV^-1. Reported curve is the lower envelope of the excluded region (minimum excluded g_agamma vs mass, nonzero-winding fill), running from ma~4.0e-10 eV to ~5.8e-7 eV where the contour meets the CAST line; endpoints placed on g=6.6e-11. Astrophysical (ALP-photon oscillation in blazar spectra) limit, no dark-matter density assumption, so no rho_DM rescaling. Lagrangian convention of Eq. (1) matches the canonical g_agamma definition.",
+ "num_points": 80,
+ "arxiv_id": "2008.09464",
+ "elapsed_s": 155.3779489994049,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 155102,
+  "duration_api_ms": 151824,
+  "total_cost_usd": 1.483377,
+  "usage": {
+   "input_tokens": 327,
+   "output_tokens": 12118,
+   "cache_creation_input_tokens": 38560,
+   "cache_read_input_tokens": 332237
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.09464.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T23:11:24-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

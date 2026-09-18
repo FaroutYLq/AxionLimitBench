@@ -1,0 +1,151 @@
+{
+ "paper_title": "Lattice QCD input for axion cosmology",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-08,
+   1.670564650851988e-15
+  ],
+  [
+   1.3547152998533119e-08,
+   2.2631394919032946e-15
+  ],
+  [
+   1.8352535436566525e-08,
+   3.0659096953836493e-15
+  ],
+  [
+   2.486246054701675e-08,
+   4.153434772304837e-15
+  ],
+  [
+   3.368155569504301e-08,
+   5.6267216329841304e-15
+  ],
+  [
+   4.562891882293621e-08,
+   7.622605884219212e-15
+  ],
+  [
+   6.181419444519646e-08,
+   1.0326460816103652e-14
+  ],
+  [
+   8.374063496301541e-08,
+   1.3989414460911363e-14
+  ],
+  [
+   1.1344471940382817e-07,
+   1.8951673806185795e-14
+  ],
+  [
+   1.536852970639322e-07,
+   2.5674122463069195e-14
+  ],
+  [
+   2.0819982329501024e-07,
+   3.4781126511027436e-14
+  ],
+  [
+   2.8205148604450635e-07,
+   4.711852423062251e-14
+  ],
+  [
+   3.820994634908556e-07,
+   6.383218568173331e-14
+  ],
+  [
+   5.176359892568052e-07,
+   8.647443856612182e-14
+  ],
+  [
+   7.012493944008986e-07,
+   1.1714824497175052e-13
+  ],
+  [
+   9.499932836077686e-07,
+   1.5870251981419455e-13
+  ],
+  [
+   1.2869704360613305e-06,
+   2.1499673171756273e-13
+  ],
+  [
+   1.743478540191173e-06,
+   2.912593618762401e-13
+  ],
+  [
+   2.361917053362904e-06,
+   3.945735137592556e-13
+  ],
+  [
+   3.1997251691751776e-06,
+   5.345347760065449e-13
+  ],
+  [
+   4.334716642007349e-06,
+   7.241424393597309e-13
+  ],
+  [
+   5.872306955456127e-06,
+   9.810068418737264e-13
+  ],
+  [
+   7.955304077991435e-06,
+   1.3289849779471158e-12
+  ],
+  [
+   1.0777172149440443e-05,
+   1.8003962829001742e-12
+  ],
+  [
+   1.4600000000000003e-05,
+   2.4390243902439026e-12
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "Berkowitz_2015",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Headline bound from Eq.(39): post-inflation PQ-breaking misalignment overclosure bound fa <= (4.10 +/- 0.04)e11 GeV, equivalently ma >= (14.6 +/- 0.1) ueV, derived from the paper's pure-glue SU(3) lattice topological susceptibility fitted to the DIGM and Planck Omega_DM h^2 = 0.1199 (Eq.38). Curve is the QCD-axion line segment (paper's Eq.(3) relation, m_a*f_a = sqrt(mu*md)/(mu+md)*m_pi*f_pi, so 1/fa = 2.439e-12 GeV^-1 x (m/14.6 ueV)) over the excluded masses m <= 14.6 ueV, ending exactly at the quoted bound point (1.46e-5 eV, 2.439e-12 GeV^-1); the low-mass end at 1e-8 eV is an arbitrary plotting cutoff. Cosmological (relic-density) bound, so no local DM density rescaling applied. The paper quotes 1-sigma-style errors and states no explicit CL; 0.95 entered as schema default. Caveat noted by the authors: pure Yang-Mills (no dynamical quarks), misalignment only (strings/domain walls would tighten it).",
+ "num_points": 25,
+ "arxiv_id": "1505.07455",
+ "elapsed_s": 148.87986707687378,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 5,
+  "duration_ms": 148537,
+  "duration_api_ms": 147144,
+  "total_cost_usd": 1.137393,
+  "usage": {
+   "input_tokens": 133,
+   "output_tokens": 11436,
+   "cache_creation_input_tokens": 24503,
+   "cache_read_input_tokens": 74203
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1505.07455.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:00:30-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

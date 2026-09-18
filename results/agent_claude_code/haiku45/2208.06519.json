@@ -1,0 +1,54 @@
+{
+ "paper_title": "One-Electron Quantum Cyclotron as a Milli-eV Dark-Photon Detector",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.000612276,
+   3.2e-11
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": "QuantumCyclotron_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Limit \u03b5 < 3.2 \u00d7 10^-11 from Eq. (8) at cyclotron resonance 148 GHz (0.612276 meV). Proof-of-principle measurement with one electron over 7.4 days. 90% CL from Eq. (7). Narrow-band search (33 kHz bandwidth) covers only single frequency. DM density 0.3 GeV/cm\u00b3 from Eq. (4).",
+ "num_points": 1,
+ "arxiv_id": "2208.06519",
+ "elapsed_s": 57.050650119781494,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 5,
+  "duration_ms": 56707,
+  "duration_api_ms": 55665,
+  "total_cost_usd": 0.10162449999999999,
+  "usage": {
+   "input_tokens": 36,
+   "output_tokens": 5063,
+   "cache_creation_input_tokens": 34031,
+   "cache_read_input_tokens": 82115
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2208.06519.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:42:57-0500"
+ }
+}

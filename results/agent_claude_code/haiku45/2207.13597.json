@@ -1,0 +1,62 @@
+{
+ "paper_title": "Near-Quantum-Noise Axion Dark Matter Search at CAPP around 9.5 \u00b5eV",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   9.39e-06,
+   1.5e-12
+  ],
+  [
+   9.45e-06,
+   1.5e-12
+  ],
+  [
+   9.51e-06,
+   1.5e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "CAPP_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Exclusion limit extracted from Figure 4, inset panel showing extended axion mass range. Red excluded region is approximately flat across the 9.39-9.51 \u00b5eV mass range. 90% confidence level explicitly stated in text and figure caption. Dark matter halo density: \u03c1a = 0.45 GeV/cm\u00b3. Haloscope cavity experiment searching via two-photon (g_a\u03b3\u03b3) coupling. Sensitivity ~2.7-fold above KSVZ level as stated in conclusion.",
+ "num_points": 3,
+ "arxiv_id": "2207.13597",
+ "elapsed_s": 50.22911596298218,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 4,
+  "duration_ms": 49710,
+  "duration_api_ms": 49580,
+  "total_cost_usd": 0.0933936,
+  "usage": {
+   "input_tokens": 28,
+   "output_tokens": 4507,
+   "cache_creation_input_tokens": 32266,
+   "cache_read_input_tokens": 62986
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2207.13597.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:42:31-0500"
+ }
+}

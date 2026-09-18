@@ -1,0 +1,270 @@
+{
+ "paper_title": "Production rates of dark photons and Z' in the Sun and stellar cooling bounds",
+ "coupling_type": "VectorBL",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.00010004,
+   4.1316e-10
+  ],
+  [
+   0.00016989,
+   4.1316e-10
+  ],
+  [
+   0.00028851,
+   4.1316e-10
+  ],
+  [
+   0.00048996,
+   4.1316e-10
+  ],
+  [
+   0.00083207,
+   4.1315e-10
+  ],
+  [
+   0.0014131,
+   4.1309e-10
+  ],
+  [
+   0.0023997,
+   4.1254e-10
+  ],
+  [
+   0.0040753,
+   4.0805e-10
+  ],
+  [
+   0.0069209,
+   3.7571e-10
+  ],
+  [
+   0.011753,
+   2.4982e-10
+  ],
+  [
+   0.01996,
+   1.0613e-10
+  ],
+  [
+   0.033897,
+   3.9541e-11
+  ],
+  [
+   0.057565,
+   1.5602e-11
+  ],
+  [
+   0.09776,
+   6.8803e-12
+  ],
+  [
+   0.16602,
+   3.3287e-12
+  ],
+  [
+   0.28194,
+   1.7043e-12
+  ],
+  [
+   0.47881,
+   8.9814e-13
+  ],
+  [
+   0.81313,
+   4.7973e-13
+  ],
+  [
+   1.3809,
+   2.6039e-13
+  ],
+  [
+   2.3451,
+   1.4771e-13
+  ],
+  [
+   3.9825,
+   9.1234e-14
+  ],
+  [
+   4.2674,
+   8.6291e-14
+  ],
+  [
+   5.4785,
+   7.1147e-14
+  ],
+  [
+   7.0333,
+   5.4645e-14
+  ],
+  [
+   9.0294,
+   4.0892e-14
+  ],
+  [
+   11.592,
+   2.3032e-14
+  ],
+  [
+   14.882,
+   1.6521e-14
+  ],
+  [
+   19.106,
+   1.1222e-14
+  ],
+  [
+   24.528,
+   8.3946e-15
+  ],
+  [
+   31.489,
+   5.8295e-15
+  ],
+  [
+   40.426,
+   4.529e-15
+  ],
+  [
+   51.899,
+   3.2965e-15
+  ],
+  [
+   66.629,
+   2.4271e-15
+  ],
+  [
+   85.538,
+   1.8003e-15
+  ],
+  [
+   109.81,
+   1.3253e-15
+  ],
+  [
+   140.98,
+   9.5977e-16
+  ],
+  [
+   180.99,
+   7.0791e-16
+  ],
+  [
+   232.36,
+   5.8842e-16
+  ],
+  [
+   298.3,
+   6.9684e-16
+  ],
+  [
+   382.97,
+   1.5357e-14
+  ],
+  [
+   491.65,
+   2.1296e-14
+  ],
+  [
+   631.19,
+   2.6126e-14
+  ],
+  [
+   794.62,
+   3.0885e-14
+  ],
+  [
+   1096.9,
+   3.94e-14
+  ],
+  [
+   1514.1,
+   5.2155e-14
+  ],
+  [
+   2090.1,
+   7.298e-14
+  ],
+  [
+   2885.1,
+   1.0946e-13
+  ],
+  [
+   3982.5,
+   1.7801e-13
+  ],
+  [
+   5497.4,
+   3.2029e-13
+  ],
+  [
+   7588.5,
+   6.6945e-13
+  ],
+  [
+   10475.0,
+   1.7836e-12
+  ],
+  [
+   14460.0,
+   6.9313e-12
+  ],
+  [
+   19960.0,
+   4.678e-11
+  ],
+  [
+   27552.0,
+   6.8796e-10
+  ],
+  [
+   38033.0,
+   2.9895e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "Solar_2023",
+ "coupling_convention": "g_BL (dimensionless)",
+ "notes": "Solar cooling bound on the U(1)_{B-L} gauge coupling g_Z'=g_{B-L} (the paper's headline novel result; conclusion quotes g_Z' < 4.1e-10 for m_Z' <~ 10 keV, which the extracted low-mass plateau reproduces at 4.13e-10). Curve is the 'solar' (blue) exclusion lower boundary of the B-L panel (top-right) of Fig.4, extracted from the vector figure fig/bounds.pdf (drawing idx 63), calibrated against axis tick marks. Bound = requiring dE_loss/dt < 10% L_sun (not a statistical CL). g reported directly as the gauge coupling (not alpha=g^2/4pi). The dip near m~230 eV is the resonant-production region; the steep rise above ~10 keV is the thermal (T_core~keV) cutoff. HB/RG bands (more model-dependent) and the dark-photon/L_mu-L_tau/L_e-L_mu panels are not reported. Bound is astrophysical, independent of DM density.",
+ "num_points": 55,
+ "arxiv_id": "2304.12907",
+ "elapsed_s": 233.9603841304779,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 233649,
+  "duration_api_ms": 230664,
+  "total_cost_usd": 1.1276735,
+  "usage": {
+   "input_tokens": 419,
+   "output_tokens": 16395,
+   "cache_creation_input_tokens": 46292,
+   "cache_read_input_tokens": 505567
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2304.12907.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:28:00-0500"
+ }
+}

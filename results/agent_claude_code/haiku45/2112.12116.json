@@ -1,0 +1,49 @@
+{
+ "paper_title": "Emission of Single and Few Electrons in XENON1T and Limits on Light Dark Matter",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.5,
+ "suggested_experiment_name": "XENON1T_2021",
+ "coupling_convention": null,
+ "notes": "Paper presents 90% CL upper limits on ALPs via the axioelectric effect (electron coupling through bound-electron absorption, Figure 15), dark photons, and DM-electron scattering with various mediators. ALP limits are on non-standard electron coupling through axioelectric absorption mechanism, not on canonical AxionLimitBench couplings (AxionPhoton, AxionElectron, etc.). No constraints reported on canonical axion couplings.",
+ "num_points": 0,
+ "arxiv_id": "2112.12116",
+ "elapsed_s": 65.43269991874695,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 65113,
+  "duration_api_ms": 63935,
+  "total_cost_usd": 0.12592,
+  "usage": {
+   "input_tokens": 66,
+   "output_tokens": 5157,
+   "cache_creation_input_tokens": 40879,
+   "cache_read_input_tokens": 183110
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2112.12116.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:19:34-0500"
+ }
+}

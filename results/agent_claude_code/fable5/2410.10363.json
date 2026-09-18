@@ -1,0 +1,287 @@
+{
+ "paper_title": "Shining Light on the Dark Sector: Search for Axion-like Particles and Other New Physics in Photonic Final States with FASER",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   10080000.0,
+   0.0005844
+  ],
+  [
+   10790000.0,
+   0.0005488
+  ],
+  [
+   11550000.0,
+   0.0005096
+  ],
+  [
+   12360000.0,
+   0.0004776
+  ],
+  [
+   13230000.0,
+   0.0004465
+  ],
+  [
+   14160000.0,
+   0.000418
+  ],
+  [
+   15150000.0,
+   0.0003923
+  ],
+  [
+   16220000.0,
+   0.0003658
+  ],
+  [
+   17360000.0,
+   0.0003416
+  ],
+  [
+   18580000.0,
+   0.0003181
+  ],
+  [
+   19890000.0,
+   0.0002998
+  ],
+  [
+   21290000.0,
+   0.0002816
+  ],
+  [
+   22780000.0,
+   0.0002625
+  ],
+  [
+   24390000.0,
+   0.0002469
+  ],
+  [
+   26100000.0,
+   0.0002312
+  ],
+  [
+   27940000.0,
+   0.000216
+  ],
+  [
+   29900000.0,
+   0.0002022
+  ],
+  [
+   32010000.0,
+   0.0001904
+  ],
+  [
+   34260000.0,
+   0.0001793
+  ],
+  [
+   36670000.0,
+   0.000169
+  ],
+  [
+   39250000.0,
+   0.0001591
+  ],
+  [
+   42010000.0,
+   0.0001504
+  ],
+  [
+   44960000.0,
+   0.0001421
+  ],
+  [
+   48130000.0,
+   0.0001348
+  ],
+  [
+   51510000.0,
+   0.0001288
+  ],
+  [
+   55140000.0,
+   0.000123
+  ],
+  [
+   59010000.0,
+   0.0001184
+  ],
+  [
+   63170000.0,
+   0.0001158
+  ],
+  [
+   67610000.0,
+   0.0001165
+  ],
+  [
+   72370000.0,
+   0.0001377
+  ],
+  [
+   68490000.0,
+   0.0001923
+  ],
+  [
+   64820000.0,
+   0.0002352
+  ],
+  [
+   61350000.0,
+   0.0002829
+  ],
+  [
+   58060000.0,
+   0.0003356
+  ],
+  [
+   54950000.0,
+   0.0003938
+  ],
+  [
+   52000000.0,
+   0.000457
+  ],
+  [
+   49220000.0,
+   0.0005293
+  ],
+  [
+   46580000.0,
+   0.0006103
+  ],
+  [
+   44090000.0,
+   0.0007088
+  ],
+  [
+   41720000.0,
+   0.0008174
+  ],
+  [
+   39490000.0,
+   0.0009425
+  ],
+  [
+   37370000.0,
+   0.001087
+  ],
+  [
+   35370000.0,
+   0.001249
+  ],
+  [
+   33470000.0,
+   0.00143
+  ],
+  [
+   31680000.0,
+   0.001626
+  ],
+  [
+   29980000.0,
+   0.001875
+  ],
+  [
+   28380000.0,
+   0.002151
+  ],
+  [
+   26860000.0,
+   0.002452
+  ],
+  [
+   25420000.0,
+   0.002737
+  ],
+  [
+   24060000.0,
+   0.003202
+  ],
+  [
+   22770000.0,
+   0.003639
+  ],
+  [
+   21550000.0,
+   0.00413
+  ],
+  [
+   20390000.0,
+   0.004722
+  ],
+  [
+   19300000.0,
+   0.00535
+  ],
+  [
+   18270000.0,
+   0.00604
+  ],
+  [
+   17290000.0,
+   0.006867
+  ],
+  [
+   16360000.0,
+   0.007808
+  ],
+  [
+   15480000.0,
+   0.008941
+  ],
+  [
+   14660000.0,
+   0.009953
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "FASER_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "FASER search for a->gamma gamma with 57.7 fb^-1 at sqrt(s)=13.6 TeV; 1 event observed vs 0.44+-0.39 expected. The paper's primary model is the ALP-W coupling g_aWW (Fig. 10), which has no canonical plane here; reported instead is the paper's own ALP-photon interpretation (observed 90% CL limit, blue curve in Fig. 11 left / Fig. 17b), which is natively in the g_agamma vs m_a plane. The excluded region is a closed band: points trace the lower boundary from the plot's left edge (m_a~10 MeV, g~5.8e-4 GeV^-1) with increasing mass to the tip at ~72 MeV (g~1.2e-4 GeV^-1), then the upper boundary back with decreasing mass to the top of the frame (~14.7 MeV, g~1e-2 GeV^-1); mass is therefore not monotonic over the full list. Extracted programmatically by colour from the e-print raster figure figs/alpphoton_final_col.png with log-axis tick calibration (~1% accuracy). Collider/beam-dump-type limit: no dark-matter density assumption.",
+ "num_points": 59,
+ "arxiv_id": "2410.10363",
+ "elapsed_s": 225.68125319480896,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 225313,
+  "duration_api_ms": 218319,
+  "total_cost_usd": 2.1013290000000002,
+  "usage": {
+   "input_tokens": 460,
+   "output_tokens": 15911,
+   "cache_creation_input_tokens": 51977,
+   "cache_read_input_tokens": 593094
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2410.10363.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:21:03-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

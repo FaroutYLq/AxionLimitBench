@@ -1,0 +1,371 @@
+{
+ "paper_title": "Constraining hidden photons via atomic force microscope measurements and the Plimpton-Lawton experiment",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.7391e-11,
+   1.00012
+  ],
+  [
+   4.0193e-11,
+   0.55011
+  ],
+  [
+   5.8979e-11,
+   0.347739
+  ],
+  [
+   8.6545e-11,
+   0.229668
+  ],
+  [
+   1.26996e-10,
+   0.154362
+  ],
+  [
+   1.86353e-10,
+   0.104542
+  ],
+  [
+   2.73454e-10,
+   0.0710477
+  ],
+  [
+   4.01265e-10,
+   0.0483642
+  ],
+  [
+   5.88814e-10,
+   0.0329505
+  ],
+  [
+   8.64023e-10,
+   0.0224605
+  ],
+  [
+   1.26786e-09,
+   0.0153162
+  ],
+  [
+   1.86046e-09,
+   0.0104489
+  ],
+  [
+   2.73003e-09,
+   0.00713244
+  ],
+  [
+   4.00603e-09,
+   0.00487248
+  ],
+  [
+   5.87843e-09,
+   0.00333243
+  ],
+  [
+   8.62598e-09,
+   0.00228297
+  ],
+  [
+   1.26577e-08,
+   0.00156784
+  ],
+  [
+   1.85739e-08,
+   0.00108057
+  ],
+  [
+   2.72552e-08,
+   0.000748619
+  ],
+  [
+   3.99942e-08,
+   0.000522566
+  ],
+  [
+   5.86874e-08,
+   0.000368756
+  ],
+  [
+   8.61176e-08,
+   0.000264292
+  ],
+  [
+   1.26369e-07,
+   0.000193617
+  ],
+  [
+   1.85433e-07,
+   0.000146203
+  ],
+  [
+   2.72103e-07,
+   0.000114969
+  ],
+  [
+   3.99283e-07,
+   9.51956e-05
+  ],
+  [
+   5.85906e-07,
+   8.37654e-05
+  ],
+  [
+   8.59755e-07,
+   7.86011e-05
+  ],
+  [
+   1.2616e-06,
+   7.83346e-05
+  ],
+  [
+   1.85127e-06,
+   8.2287e-05
+  ],
+  [
+   2.71654e-06,
+   9.05604e-05
+  ],
+  [
+   3.98624e-06,
+   0.000103836
+  ],
+  [
+   5.84939e-06,
+   0.000122839
+  ],
+  [
+   8.58337e-06,
+   0.000147847
+  ],
+  [
+   1.25952e-05,
+   0.00017894
+  ],
+  [
+   1.84821e-05,
+   0.000216751
+  ],
+  [
+   2.71206e-05,
+   0.000262564
+  ],
+  [
+   3.97967e-05,
+   0.00031806
+  ],
+  [
+   5.83975e-05,
+   0.000385285
+  ],
+  [
+   8.56922e-05,
+   0.00046672
+  ],
+  [
+   0.000125744,
+   0.000565366
+  ],
+  [
+   0.000184517,
+   0.000684862
+  ],
+  [
+   0.000270759,
+   0.000829616
+  ],
+  [
+   0.00039731,
+   0.00100496
+  ],
+  [
+   0.000583012,
+   0.00121737
+  ],
+  [
+   0.000855509,
+   0.00147468
+  ],
+  [
+   0.00125537,
+   0.00178637
+  ],
+  [
+   0.00184212,
+   0.00216394
+  ],
+  [
+   0.00270312,
+   0.00262131
+  ],
+  [
+   0.00396655,
+   0.00317535
+  ],
+  [
+   0.0058205,
+   0.0038465
+  ],
+  [
+   0.00854098,
+   0.0046595
+  ],
+  [
+   0.012533,
+   0.00564434
+  ],
+  [
+   0.0183909,
+   0.00683733
+  ],
+  [
+   0.0269867,
+   0.00828247
+  ],
+  [
+   0.0396001,
+   0.0100331
+  ],
+  [
+   0.058109,
+   0.0121537
+  ],
+  [
+   0.0852689,
+   0.0147225
+  ],
+  [
+   0.125123,
+   0.0178342
+  ],
+  [
+   0.183605,
+   0.0216037
+  ],
+  [
+   0.269422,
+   0.0261699
+  ],
+  [
+   0.395348,
+   0.0317012
+  ],
+  [
+   0.580132,
+   0.0384016
+  ],
+  [
+   0.851283,
+   0.0465182
+  ],
+  [
+   1.24917,
+   0.0563503
+  ],
+  [
+   1.83302,
+   0.0682605
+  ],
+  [
+   2.68977,
+   0.0826881
+  ],
+  [
+   3.94696,
+   0.100165
+  ],
+  [
+   5.79175,
+   0.121336
+  ],
+  [
+   8.49879,
+   0.146982
+  ],
+  [
+   12.4711,
+   0.178048
+  ],
+  [
+   18.3,
+   0.215681
+  ],
+  [
+   26.8534,
+   0.261267
+  ],
+  [
+   39.4045,
+   0.316489
+  ],
+  [
+   57.822,
+   0.383382
+  ],
+  [
+   84.8477,
+   0.464414
+  ],
+  [
+   124.505,
+   0.562573
+  ],
+  [
+   182.698,
+   0.68148
+  ],
+  [
+   268.091,
+   0.825518
+  ],
+  [
+   393.395,
+   1.0
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "PlimptonLawton_2020",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Main result chosen: Plimpton-Lawton Coulomb-law bound (purple curve in Figs. 1 and 7), which the paper highlights as extending beyond Cavendish-like laboratory limits; the paper's other bound (AFM/Casimir, red curve, chi>~0.3 over 0.1-10 eV) is much weaker and entirely inside existing exclusions. Curve computed analytically from Eq. (26): chi = sqrt(gamma/((1-gamma)g(m)-h(m))) with h,g from Eqs. (25a,b), R*=0.61 m, R=0.76 m, sensitivity gamma=3.3e-10 (1 uV galvanometer accuracy / 3 kV). Verified against the vector Fig. 7 (purple region boundary agrees to <0.03 dex over the full plotted range). Points span the chi=1 crossings (2.74e-11 eV to 3.93e+02 eV); the bound diverges below m~0.02 neV as stated in the text. Not a dark-matter search, so no rho_DM dependence. No statistical confidence level is stated (bound from instrument sensitivity); 0.95 entered as default.",
+ "num_points": 80,
+ "arxiv_id": "2008.02209",
+ "elapsed_s": 205.9540638923645,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 205659,
+  "duration_api_ms": 202208,
+  "total_cost_usd": 1.7867084999999998,
+  "usage": {
+   "input_tokens": 350,
+   "output_tokens": 15923,
+   "cache_creation_input_tokens": 45297,
+   "cache_read_input_tokens": 360876
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.02209.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T23:09:00-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

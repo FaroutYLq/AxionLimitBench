@@ -1,0 +1,299 @@
+{
+ "paper_title": "Do direct detection experiments constrain axionlike particles coupled to electrons?",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4963.0,
+   3.187e-13
+  ],
+  [
+   5088.0,
+   1.259e-13
+  ],
+  [
+   5256.0,
+   5.5e-13
+  ],
+  [
+   5304.0,
+   1.064e-13
+  ],
+  [
+   6043.0,
+   3.435e-14
+  ],
+  [
+   6282.0,
+   3.902e-13
+  ],
+  [
+   6406.0,
+   2.923e-14
+  ],
+  [
+   6737.0,
+   4.441e-14
+  ],
+  [
+   7691.0,
+   1.374e-14
+  ],
+  [
+   7850.0,
+   2.489e-13
+  ],
+  [
+   7912.0,
+   1.706e-14
+  ],
+  [
+   8160.0,
+   2.294e-14
+  ],
+  [
+   8440.0,
+   1.176e-14
+  ],
+  [
+   8969.0,
+   1.463e-14
+  ],
+  [
+   10040.0,
+   7.151e-15
+  ],
+  [
+   10880.0,
+   1.291e-13
+  ],
+  [
+   11250.0,
+   4.315e-15
+  ],
+  [
+   11890.0,
+   1.08e-13
+  ],
+  [
+   11950.0,
+   8.601e-15
+  ],
+  [
+   13360.0,
+   2.983e-15
+  ],
+  [
+   16080.0,
+   3.153e-15
+  ],
+  [
+   19160.0,
+   9.222e-16
+  ],
+  [
+   20460.0,
+   1.805e-15
+  ],
+  [
+   24740.0,
+   4.659e-16
+  ],
+  [
+   25780.0,
+   5.566e-16
+  ],
+  [
+   26990.0,
+   4.221e-16
+  ],
+  [
+   28050.0,
+   1.05e-15
+  ],
+  [
+   29620.0,
+   7.57e-16
+  ],
+  [
+   31220.0,
+   8.536e-16
+  ],
+  [
+   39700.0,
+   1.704e-16
+  ],
+  [
+   42740.0,
+   2.53e-16
+  ],
+  [
+   43670.0,
+   1.016e-16
+  ],
+  [
+   44480.0,
+   2.41e-16
+  ],
+  [
+   46700.0,
+   1.056e-16
+  ],
+  [
+   47770.0,
+   1.727e-16
+  ],
+  [
+   50140.0,
+   1.494e-16
+  ],
+  [
+   53610.0,
+   3.576e-17
+  ],
+  [
+   55170.0,
+   1.473e-16
+  ],
+  [
+   62880.0,
+   2.794e-17
+  ],
+  [
+   63750.0,
+   5.601e-17
+  ],
+  [
+   76140.0,
+   1.428e-17
+  ],
+  [
+   78180.0,
+   3.035e-17
+  ],
+  [
+   90880.0,
+   1.334e-17
+  ],
+  [
+   93230.0,
+   1.759e-17
+  ],
+  [
+   98060.0,
+   8.491e-18
+  ],
+  [
+   98740.0,
+   1.406e-17
+  ],
+  [
+   114300.0,
+   6.15e-18
+  ],
+  [
+   121500.0,
+   7.121e-18
+  ],
+  [
+   126700.0,
+   6.272e-18
+  ],
+  [
+   128700.0,
+   4.204e-18
+  ],
+  [
+   130700.0,
+   5.707e-18
+  ],
+  [
+   144800.0,
+   4.194e-18
+  ],
+  [
+   147400.0,
+   2.664e-18
+  ],
+  [
+   152400.0,
+   3.586e-18
+  ],
+  [
+   181800.0,
+   1.577e-18
+  ],
+  [
+   181900.0,
+   2.101e-18
+  ],
+  [
+   189700.0,
+   1.462e-18
+  ],
+  [
+   189800.0,
+   1.758e-18
+  ],
+  [
+   207700.0,
+   1.446e-18
+  ],
+  [
+   409200.0,
+   1.92e-19
+  ],
+  [
+   758700.0,
+   2.24e-20
+  ],
+  [
+   982400.0,
+   5.595e-21
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.88,
+ "suggested_experiment_name": "Ferreira_2022",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Headline result: X-ray/gamma-ray exclusion on the ALP-electron coupling g_ae (light grey region of Fig. 2), derived by the authors from null results of NuSTAR M31, XMM-Newton blank-sky and INTEGRAL decaying-dark-matter line searches via the one-loop a->gamma gamma decay (Eqs. 2-4). Lagrangian Eq. (1) uses the canonical derivative coupling g_ae/(2 m_e) da ebar gamma^mu gamma5 e, so no conversion needed. Curve extracted from the vector PDF of Fig. 2 (combplDM.pdf in the e-print): lower boundary of the 30%-opacity grey polygon whose shape does NOT follow the tau=13.8 Gyr lifetime line (the other grey polygon follows g ~ m^-3.5 of Eq. 5 and is the dark-grey lifetime region). Axes calibrated from tick labels (x: 0.005-1 MeV log, y: 1e-21-1e-11 log); boundary path simplified with Douglas-Peucker (0.03 dex tolerance), preserving the narrow weak-limit notches near 5-12 keV visible in the figure. Curve spans the plotted range 4.96 keV to 0.98 MeV; paper quotes validity for m_a > 6 keV. Confidence level not stated in the paper; 95% assumed from the underlying telescope analyses. Limit assumes ALPs are all of the dark matter (galactic/M31 decay flux); no local-density rescaling applied.",
+ "num_points": 62,
+ "arxiv_id": "2202.08858",
+ "elapsed_s": 288.33005118370056,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 287688,
+  "duration_api_ms": 264015,
+  "total_cost_usd": 2.11402,
+  "usage": {
+   "input_tokens": 566,
+   "output_tokens": 19769,
+   "cache_creation_input_tokens": 44720,
+   "cache_read_input_tokens": 507930
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2202.08858.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:14:06-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "paper_title": "Seeking dark matter with gamma-ray attenuation",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.6309573444801932,
+   2.8311974709772237e-09
+  ],
+  [
+   0.7100940802737231,
+   2.5248116448748446e-09
+  ],
+  [
+   0.7876164246285206,
+   2.2811099968092817e-09
+  ],
+  [
+   0.8439448391245268,
+   2.1173921741749483e-09
+  ],
+  [
+   0.9200536371710366,
+   1.9058093010228517e-09
+  ],
+  [
+   1.003026093683772,
+   1.6960036424787083e-09
+  ],
+  [
+   1.2554801103927309,
+   1.2159110397490965e-09
+  ],
+  [
+   1.5445702132086694,
+   8.91826896759563e-10
+  ],
+  [
+   2.25841444661823,
+   5.289366268213246e-10
+  ],
+  [
+   2.504969920449388,
+   4.569326922980565e-10
+  ],
+  [
+   2.684119287535849,
+   4.1111834194586476e-10
+  ],
+  [
+   2.926178806006512,
+   3.559801370863024e-10
+  ],
+  [
+   3.1691002701778506,
+   3.07631333961693e-10
+  ],
+  [
+   3.5999683187863076,
+   2.3967557055823386e-10
+  ],
+  [
+   4.062538124238737,
+   1.8986400167447525e-10
+  ],
+  [
+   4.426943532011096,
+   1.6227201367316074e-10
+  ],
+  [
+   4.997987821880626,
+   1.3122619219871375e-10
+  ],
+  [
+   8.24688384984667,
+   5.83722456858859e-11
+  ],
+  [
+   9.147213678730134,
+   4.909851021252207e-11
+  ],
+  [
+   10.145834427618784,
+   4.088818815576772e-11
+  ],
+  [
+   11.25347287146996,
+   3.361216391603793e-11
+  ],
+  [
+   12.058293929795013,
+   2.9281895976055484e-11
+  ],
+  [
+   12.920673836248241,
+   2.5292163076507184e-11
+  ],
+  [
+   13.607697197619881,
+   2.2424330898414787e-11
+  ],
+  [
+   14.085889769483249,
+   2.0490464470553845e-11
+  ],
+  [
+   14.580886664110748,
+   1.8525296818083353e-11
+  ],
+  [
+   15.04998754429498,
+   1.6709770018264613e-11
+  ],
+  [
+   15.884490074709614,
+   1.3734252284671359e-11
+  ],
+  [
+   16.937448852902023,
+   1.0616468996687935e-11
+  ],
+  [
+   18.250783052209822,
+   7.874496468208748e-12
+  ],
+  [
+   19.40717479965502,
+   6.270208839167027e-12
+  ],
+  [
+   20.243259808468597,
+   5.423218599112214e-12
+  ],
+  [
+   20.595876235880237,
+   5.123670534126197e-12
+  ],
+  [
+   20.910665968124782,
+   4.8827057828400274e-12
+  ],
+  [
+   21.520819131473598,
+   4.46601235752392e-12
+  ],
+  [
+   22.84436397401652,
+   3.757468427286718e-12
+  ],
+  [
+   23.93939756545297,
+   3.3152997767057685e-12
+  ],
+  [
+   25.338331717731055,
+   2.872677261532556e-12
+  ],
+  [
+   31.715804676031517,
+   1.693605209955164e-12
+  ],
+  [
+   36.155173205106564,
+   1.2356197697515988e-12
+  ],
+  [
+   39.810717055349734,
+   9.797060597832846e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.99,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "GammaRayAttenuation_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Curve traced from vector paths of Fig. 3 (bottom/right panel, file constraints_zoom_3sigma.pdf in the e-print): the opaque dark-blue 'This work' line, i.e. the outermost (99% CL / '3sigma' per Sec. IV: 'strongest 3sigma bound to date on the effective ALP-photon coupling on the 8-25 eV mass range') upper bound on g_agamma from gamma-ray optical-depth measurements. Includes the dashed high-mass continuation (log10 m/eV > ~1.31, masses affected by neutral-hydrogen absorption), clipped to the plotted range -0.2 <= log10(m c^2/eV) <= 1.6 (0.63-40 eV). The 68% and 95% contours are closed credible regions (a 2.1 sigma preference for an ALP signal exists), so the exclusion curve is the 99% boundary; the paper explicitly prefers to interpret the result as an upper bound. Axis calibration from tick-label positions; g = 10^logg GeV^-1, m = 10^logm eV. Bound assumes ALPs are all of the (cosmological) dark matter; it depends on the mean cosmic DM abundance, not the local halo density, so no rho_DM rescaling applied.",
+ "num_points": 41,
+ "arxiv_id": "2208.13794",
+ "elapsed_s": 337.2436411380768,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 336953,
+  "duration_api_ms": 333187,
+  "total_cost_usd": 2.4321750000000004,
+  "usage": {
+   "input_tokens": 554,
+   "output_tokens": 21693,
+   "cache_creation_input_tokens": 52021,
+   "cache_read_input_tokens": 636305
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2208.13794.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:37:52-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

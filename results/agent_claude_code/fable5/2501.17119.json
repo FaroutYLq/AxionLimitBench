@@ -1,0 +1,451 @@
+{
+ "paper_title": "First Axion-Like Particle Results from a Broadband Search for Wave-Like Dark Matter in the 44 to 52 ueV Range with a Coaxial Dish Antenna",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.43072e-05,
+   3.785e-11
+  ],
+  [
+   4.43868e-05,
+   3.745e-11
+  ],
+  [
+   4.44608e-05,
+   4.27e-11
+  ],
+  [
+   4.45347e-05,
+   4.316e-11
+  ],
+  [
+   4.46086e-05,
+   3.95e-11
+  ],
+  [
+   4.46826e-05,
+   3.859e-11
+  ],
+  [
+   4.47509e-05,
+   4.139e-11
+  ],
+  [
+   4.48419e-05,
+   4.316e-11
+  ],
+  [
+   4.49044e-05,
+   3.982e-11
+  ],
+  [
+   4.49784e-05,
+   3.647e-11
+  ],
+  [
+   4.50523e-05,
+   3.864e-11
+  ],
+  [
+   4.51263e-05,
+   3.765e-11
+  ],
+  [
+   4.52002e-05,
+   3.777e-11
+  ],
+  [
+   4.52742e-05,
+   3.736e-11
+  ],
+  [
+   4.53481e-05,
+   3.553e-11
+  ],
+  [
+   4.54221e-05,
+   3.657e-11
+  ],
+  [
+   4.5496e-05,
+   4.041e-11
+  ],
+  [
+   4.557e-05,
+   4.006e-11
+  ],
+  [
+   4.56439e-05,
+   3.75e-11
+  ],
+  [
+   4.57179e-05,
+   3.839e-11
+  ],
+  [
+   4.57918e-05,
+   4.193e-11
+  ],
+  [
+   4.58658e-05,
+   4.149e-11
+  ],
+  [
+   4.59397e-05,
+   3.888e-11
+  ],
+  [
+   4.60137e-05,
+   4.06e-11
+  ],
+  [
+   4.60876e-05,
+   4.184e-11
+  ],
+  [
+   4.61615e-05,
+   4.174e-11
+  ],
+  [
+   4.62355e-05,
+   4.203e-11
+  ],
+  [
+   4.63094e-05,
+   4.09e-11
+  ],
+  [
+   4.63834e-05,
+   3.903e-11
+  ],
+  [
+   4.64573e-05,
+   4.1e-11
+  ],
+  [
+   4.65313e-05,
+   4.38e-11
+  ],
+  [
+   4.66052e-05,
+   4.144e-11
+  ],
+  [
+   4.66792e-05,
+   3.807e-11
+  ],
+  [
+   4.67446e-05,
+   4.238e-11
+  ],
+  [
+   4.68271e-05,
+   4.735e-11
+  ],
+  [
+   4.6901e-05,
+   4.449e-11
+  ],
+  [
+   4.6975e-05,
+   4.193e-11
+  ],
+  [
+   4.70489e-05,
+   4.449e-11
+  ],
+  [
+   4.71229e-05,
+   4.575e-11
+  ],
+  [
+   4.71968e-05,
+   4.597e-11
+  ],
+  [
+   4.72708e-05,
+   4.265e-11
+  ],
+  [
+   4.73447e-05,
+   3.982e-11
+  ],
+  [
+   4.74187e-05,
+   4.203e-11
+  ],
+  [
+   4.74926e-05,
+   4.223e-11
+  ],
+  [
+   4.75666e-05,
+   4.43e-11
+  ],
+  [
+   4.76405e-05,
+   4.011e-11
+  ],
+  [
+   4.77144e-05,
+   3.969e-11
+  ],
+  [
+   4.77884e-05,
+   4.641e-11
+  ],
+  [
+   4.78623e-05,
+   4.905e-11
+  ],
+  [
+   4.79363e-05,
+   4.385e-11
+  ],
+  [
+   4.80159e-05,
+   4.39e-11
+  ],
+  [
+   4.80899e-05,
+   4.671e-11
+  ],
+  [
+   4.81638e-05,
+   4.577e-11
+  ],
+  [
+   4.82378e-05,
+   4.422e-11
+  ],
+  [
+   4.83117e-05,
+   4.085e-11
+  ],
+  [
+   4.83857e-05,
+   3.977e-11
+  ],
+  [
+   4.84596e-05,
+   3.873e-11
+  ],
+  [
+   4.85336e-05,
+   4.102e-11
+  ],
+  [
+   4.86075e-05,
+   4.277e-11
+  ],
+  [
+   4.86815e-05,
+   3.836e-11
+  ],
+  [
+   4.87497e-05,
+   4.085e-11
+  ],
+  [
+   4.8835e-05,
+   4.592e-11
+  ],
+  [
+   4.89033e-05,
+   4.577e-11
+  ],
+  [
+   4.89772e-05,
+   4.368e-11
+  ],
+  [
+   4.90512e-05,
+   4.287e-11
+  ],
+  [
+   4.91251e-05,
+   4.555e-11
+  ],
+  [
+   4.91991e-05,
+   4.459e-11
+  ],
+  [
+   4.9273e-05,
+   4.302e-11
+  ],
+  [
+   4.9347e-05,
+   3.908e-11
+  ],
+  [
+   4.94209e-05,
+   3.731e-11
+  ],
+  [
+   4.94949e-05,
+   4.085e-11
+  ],
+  [
+   4.95688e-05,
+   4.383e-11
+  ],
+  [
+   4.96451e-05,
+   4.184e-11
+  ],
+  [
+   4.97167e-05,
+   3.94e-11
+  ],
+  [
+   4.97907e-05,
+   4.341e-11
+  ],
+  [
+   4.98646e-05,
+   4.929e-11
+  ],
+  [
+   4.99386e-05,
+   4.892e-11
+  ],
+  [
+   5.00125e-05,
+   4.494e-11
+  ],
+  [
+   5.00865e-05,
+   4.277e-11
+  ],
+  [
+   5.01604e-05,
+   4.435e-11
+  ],
+  [
+   5.02344e-05,
+   4.444e-11
+  ],
+  [
+   5.03083e-05,
+   4.139e-11
+  ],
+  [
+   5.03823e-05,
+   3.775e-11
+  ],
+  [
+   5.04562e-05,
+   3.615e-11
+  ],
+  [
+   5.05301e-05,
+   4.06e-11
+  ],
+  [
+   5.06041e-05,
+   4.341e-11
+  ],
+  [
+   5.0678e-05,
+   4.203e-11
+  ],
+  [
+   5.0752e-05,
+   3.977e-11
+  ],
+  [
+   5.08259e-05,
+   4.235e-11
+  ],
+  [
+   5.08999e-05,
+   4.38e-11
+  ],
+  [
+   5.09738e-05,
+   4.213e-11
+  ],
+  [
+   5.10478e-05,
+   4.184e-11
+  ],
+  [
+   5.11217e-05,
+   4.006e-11
+  ],
+  [
+   5.11957e-05,
+   3.935e-11
+  ],
+  [
+   5.12696e-05,
+   3.947e-11
+  ],
+  [
+   5.13436e-05,
+   3.841e-11
+  ],
+  [
+   5.14175e-05,
+   3.667e-11
+  ],
+  [
+   5.14915e-05,
+   3.677e-11
+  ],
+  [
+   5.15654e-05,
+   3.854e-11
+  ],
+  [
+   5.16451e-05,
+   4.09e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "GigaBREAD_2025",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "GigaBREAD ALP search with BREAD coaxial dish antenna in a 3.9 T solenoid, 44-52 ueV (10.7-12.5 GHz). 90% CL observed upper limit on |g_agamma| digitised from Fig. 3(a) of the e-print (fig/limit.png): the limit curve is the lower boundary of the green excluded region; linear y-axis calibrated on the 2.5-6.0 x10^-11 GeV^-1 ticks, x-axis on the 44-54 ueV ticks. Paper assumes rho_DM = 0.45 GeV/cm^3 (Eq. 2 and figure label rho_0 = 0.45 GeV cm^-3), matching the compilation convention, so no rescaling applied. Curve is jagged (per-bin limits, ~3.5-5.6 x10^-11 GeV^-1); points are medians in 100 mass bins over 44.27-51.68 ueV. A few masked bins where the limit spikes to the CAST level are smoothed over by the binning.",
+ "num_points": 100,
+ "arxiv_id": "2501.17119",
+ "elapsed_s": 109.68841481208801,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 108977,
+  "duration_api_ms": 104996,
+  "total_cost_usd": 1.2140814999999998,
+  "usage": {
+   "input_tokens": 381,
+   "output_tokens": 7700,
+   "cache_creation_input_tokens": 33046,
+   "cache_read_input_tokens": 353824
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2501.17119.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:30:03-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

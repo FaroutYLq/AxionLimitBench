@@ -1,0 +1,186 @@
+{
+ "paper_title": "Search for axion-like dark matter through nuclear spin precession in electric and magnetic fields",
+ "coupling_type": "AxionEDM",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.012e-25,
+   3.684e-24
+  ],
+  [
+   8.44e-25,
+   3.781e-24
+  ],
+  [
+   1.421e-24,
+   3.697e-24
+  ],
+  [
+   2.394e-24,
+   3.785e-24
+  ],
+  [
+   4.031e-24,
+   3.841e-24
+  ],
+  [
+   6.789e-24,
+   4.668e-24
+  ],
+  [
+   1.143e-23,
+   6.182e-24
+  ],
+  [
+   1.926e-23,
+   1.005e-23
+  ],
+  [
+   3.243e-23,
+   1.634e-23
+  ],
+  [
+   5.461e-23,
+   2.707e-23
+  ],
+  [
+   9.197e-23,
+   4.562e-23
+  ],
+  [
+   1.549e-22,
+   7.917e-23
+  ],
+  [
+   2.608e-22,
+   1.407e-22
+  ],
+  [
+   4.393e-22,
+   2.198e-22
+  ],
+  [
+   7.398e-22,
+   3.599e-22
+  ],
+  [
+   1.246e-21,
+   5.973e-22
+  ],
+  [
+   2.098e-21,
+   1.256e-21
+  ],
+  [
+   3.533e-21,
+   1.948e-21
+  ],
+  [
+   5.95e-21,
+   3.199e-21
+  ],
+  [
+   1.002e-20,
+   6.076e-21
+  ],
+  [
+   1.688e-20,
+   9.293e-21
+  ],
+  [
+   2.842e-20,
+   1.234e-20
+  ],
+  [
+   4.786e-20,
+   2.022e-20
+  ],
+  [
+   8.061e-20,
+   3.302e-20
+  ],
+  [
+   1.357e-19,
+   5.838e-20
+  ],
+  [
+   2.286e-19,
+   8.344e-20
+  ],
+  [
+   3.85e-19,
+   1.291e-19
+  ],
+  [
+   6.484e-19,
+   2.235e-19
+  ],
+  [
+   1.092e-18,
+   3.876e-19
+  ],
+  [
+   1.839e-18,
+   6.644e-19
+  ],
+  [
+   3.097e-18,
+   1.087e-18
+  ],
+  [
+   5.215e-18,
+   2.058e-18
+  ],
+  [
+   8.783e-18,
+   4.401e-18
+  ],
+  [
+   1.479e-17,
+   1.701e-17
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "nEDM_2017",
+ "coupling_convention": "g_d [GeV^-2]",
+ "notes": "Headline result = first laboratory limit on the axion-gluon coupling (oscillating neutron EDM), Fig.4 top panel (psi_ill_axion_limits_v7.pdf), plotted natively as C_G/f_a [GeV^-1] vs axion mass. Vector paths extracted with pymupdf: red = long time-base (ILL), blue = short time-base (PSI). Excluded region is above both curves; reported curve = lower envelope (min coupling) combining both branches. Axis calibration from tick strokes (17.13 px/decade in mass anchored at x=75.1->1e-24 eV; 11.83 px/decade in coupling anchored at y=308.6->1e-24 GeV^-1); cross-checked: red plateau -> C_G/f_a~1e-21 GeV^-1 i.e. f_a/C_G~1e21 GeV at m<1e-23 eV, matching the paper text. Converted to canonical AxionEDM g_d via the paper Eq.(2) d_n=2.4e-16 (C_G/f_a) a_0 e.cm and d_n=g_d a_0, giving g_d[GeV^-2]=2.4e-16 x (C_G/f_a)[GeV^-1] x (1 e.cm=1.535e13 GeV^-1)=3.683e-3 x (C_G/f_a). The e.cm->GeV^-1 factor includes e=0.303; if the compilation drops the e the values scale up by ~3.3. Density rho_DM^local=0.4 GeV/cm^3 assumed (axions saturate DM); not rescaled per task card. Mass range ~5e-25 to 1.5e-17 eV. 95% C.L.",
+ "num_points": 34,
+ "arxiv_id": "1708.06367",
+ "elapsed_s": 474.611652135849,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 474302,
+  "duration_api_ms": 470599,
+  "total_cost_usd": 1.8918225,
+  "usage": {
+   "input_tokens": 426,
+   "output_tokens": 35075,
+   "cache_creation_input_tokens": 64791,
+   "cache_read_input_tokens": 729815
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1708.06367.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:00:45-0500"
+ }
+}

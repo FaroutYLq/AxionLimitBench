@@ -1,0 +1,162 @@
+{
+ "paper_title": "Axion-sourced fireballs from supernovae",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2010650.469948443,
+   9.877861267485611e-10
+  ],
+  [
+   2208871.0890714885,
+   9.086568945156863e-10
+  ],
+  [
+   2459447.2986965217,
+   8.271877308915099e-10
+  ],
+  [
+   2738449.0860479767,
+   7.452043757504973e-10
+  ],
+  [
+   3132121.554512848,
+   6.643757716030878e-10
+  ],
+  [
+   3394994.2321025636,
+   6.111542926592561e-10
+  ],
+  [
+   3780125.256990353,
+   5.621961542076288e-10
+  ],
+  [
+   4097382.924022779,
+   5.171600284752476e-10
+  ],
+  [
+   4623885.772767781,
+   4.659037289954882e-10
+  ],
+  [
+   5360118.956129232,
+   4.067887040040445e-10
+  ],
+  [
+   6048881.015065618,
+   3.7420181403141403e-10
+  ],
+  [
+   7012007.516097385,
+   3.3015015760131677e-10
+  ],
+  [
+   8128486.786786773,
+   2.912842837917191e-10
+  ],
+  [
+   9172975.80052718,
+   2.6241477791015586e-10
+  ],
+  [
+   10213565.954678934,
+   2.388870036413864e-10
+  ],
+  [
+   11681845.962109243,
+   2.1297612109477626e-10
+  ],
+  [
+   12833501.373424629,
+   1.9797066374804087e-10
+  ],
+  [
+   14289344.652953528,
+   1.8402243173261225e-10
+  ],
+  [
+   15698065.52844772,
+   1.7285165308832766e-10
+  ],
+  [
+   17245660.161321655,
+   1.640624358270869e-10
+  ],
+  [
+   19202028.672061365,
+   1.5572013555324583e-10
+  ],
+  [
+   21669434.979714017,
+   1.4780202728599106e-10
+  ],
+  [
+   24453903.901910093,
+   1.432457855397289e-10
+  ],
+  [
+   26864693.33088971,
+   1.4028656624497195e-10
+  ],
+  [
+   28730879.85957681,
+   1.3882994864077817e-10
+  ],
+  [
+   31142199.934006173,
+   1.4175846682568152e-10
+  ],
+  [
+   32422727.02362303,
+   1.462674011863245e-10
+  ],
+  [
+   33305528.332164288,
+   1.52503243790205e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "SN1987A_PVO_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "PVO exclusion region from SN 1987A observations. The paper finds that the entire fireball formation region is excluded by non-observation of sub-MeV photons in the Pioneer Venus Orbiter (PVO) 0.2-2 MeV energy window. This represents a reinterpretation of existing PVO data accounting for fireball formation from axion decay. The boundary shown separates excluded (inside curve) from allowed regions. Mass range: 2-33 MeV.",
+ "num_points": 28,
+ "arxiv_id": "2303.11395",
+ "elapsed_s": 147.3139579296112,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 147006,
+  "duration_api_ms": 142096,
+  "total_cost_usd": 0.2846987999999999,
+  "usage": {
+   "input_tokens": 188,
+   "output_tokens": 15858,
+   "cache_creation_input_tokens": 57289,
+   "cache_read_input_tokens": 906428
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2303.11395.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:21:33-0500"
+ }
+}

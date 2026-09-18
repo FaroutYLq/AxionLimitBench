@@ -1,0 +1,451 @@
+{
+ "paper_title": "Search for 70 \u03bceV Dark Photon Dark Matter with a Dielectrically-Loaded Multi-Wavelength Microwave Cavity",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   6.54654e-05,
+   1.627e-13
+  ],
+  [
+   6.55236e-05,
+   1.1866e-13
+  ],
+  [
+   6.5562e-05,
+   1.032e-13
+  ],
+  [
+   6.56005e-05,
+   8.9642e-14
+  ],
+  [
+   6.56394e-05,
+   7.7946e-14
+  ],
+  [
+   6.56784e-05,
+   8.357e-14
+  ],
+  [
+   6.57169e-05,
+   9.2839e-14
+  ],
+  [
+   6.57553e-05,
+   9.2283e-14
+  ],
+  [
+   6.57943e-05,
+   8.1888e-14
+  ],
+  [
+   6.58208e-05,
+   1.7274e-13
+  ],
+  [
+   6.58862e-05,
+   2.6972e-13
+  ],
+  [
+   6.591e-05,
+   8.7166e-14
+  ],
+  [
+   6.59488e-05,
+   8.3114e-14
+  ],
+  [
+   6.59876e-05,
+   8.1726e-14
+  ],
+  [
+   6.60264e-05,
+   4.193e-14
+  ],
+  [
+   6.60652e-05,
+   5.3628e-14
+  ],
+  [
+   6.61035e-05,
+   5.5173e-14
+  ],
+  [
+   6.61422e-05,
+   5.7305e-14
+  ],
+  [
+   6.6181e-05,
+   5.6888e-14
+  ],
+  [
+   6.62198e-05,
+   5.6262e-14
+  ],
+  [
+   6.62586e-05,
+   5.7196e-14
+  ],
+  [
+   6.62969e-05,
+   5.5736e-14
+  ],
+  [
+   6.63357e-05,
+   5.7264e-14
+  ],
+  [
+   6.63745e-05,
+   5.5503e-14
+  ],
+  [
+   6.64133e-05,
+   5.2132e-14
+  ],
+  [
+   6.64521e-05,
+   5.1936e-14
+  ],
+  [
+   6.64903e-05,
+   5.1598e-14
+  ],
+  [
+   6.65291e-05,
+   5.3233e-14
+  ],
+  [
+   6.65679e-05,
+   5.5601e-14
+  ],
+  [
+   6.66067e-05,
+   5.7478e-14
+  ],
+  [
+   6.66455e-05,
+   5.6093e-14
+  ],
+  [
+   6.66838e-05,
+   5.5197e-14
+  ],
+  [
+   6.67226e-05,
+   5.5051e-14
+  ],
+  [
+   6.67614e-05,
+   5.3314e-14
+  ],
+  [
+   6.68002e-05,
+   5.5743e-14
+  ],
+  [
+   6.68389e-05,
+   5.4142e-14
+  ],
+  [
+   6.68772e-05,
+   5.5503e-14
+  ],
+  [
+   6.6916e-05,
+   5.594e-14
+  ],
+  [
+   6.69548e-05,
+   5.4958e-14
+  ],
+  [
+   6.69936e-05,
+   5.6266e-14
+  ],
+  [
+   6.70324e-05,
+   6.0994e-14
+  ],
+  [
+   6.70707e-05,
+   6.4723e-14
+  ],
+  [
+   6.71095e-05,
+   6.4926e-14
+  ],
+  [
+   6.71482e-05,
+   5.4476e-14
+  ],
+  [
+   6.7187e-05,
+   6.2991e-14
+  ],
+  [
+   6.72258e-05,
+   8.2991e-14
+  ],
+  [
+   6.72641e-05,
+   8.6667e-14
+  ],
+  [
+   6.73029e-05,
+   8.4487e-14
+  ],
+  [
+   6.73417e-05,
+   8.019e-14
+  ],
+  [
+   6.73805e-05,
+   7.2883e-14
+  ],
+  [
+   6.74193e-05,
+   7.4736e-14
+  ],
+  [
+   6.74575e-05,
+   8.6855e-14
+  ],
+  [
+   6.74963e-05,
+   9.5251e-14
+  ],
+  [
+   6.75351e-05,
+   1.02e-13
+  ],
+  [
+   6.75739e-05,
+   9.957e-14
+  ],
+  [
+   6.76127e-05,
+   8.4534e-14
+  ],
+  [
+   6.7651e-05,
+   9.5542e-14
+  ],
+  [
+   6.76898e-05,
+   9.8053e-14
+  ],
+  [
+   6.77286e-05,
+   9.5395e-14
+  ],
+  [
+   6.77674e-05,
+   9.3729e-14
+  ],
+  [
+   6.78061e-05,
+   9.2654e-14
+  ],
+  [
+   6.78444e-05,
+   9.2975e-14
+  ],
+  [
+   6.78832e-05,
+   8.7252e-14
+  ],
+  [
+   6.7922e-05,
+   8.6572e-14
+  ],
+  [
+   6.79608e-05,
+   8.8553e-14
+  ],
+  [
+   6.79996e-05,
+   9.0482e-14
+  ],
+  [
+   6.80379e-05,
+   9.2076e-14
+  ],
+  [
+   6.80767e-05,
+   8.8414e-14
+  ],
+  [
+   6.81154e-05,
+   8.8761e-14
+  ],
+  [
+   6.81542e-05,
+   9.3286e-14
+  ],
+  [
+   6.8193e-05,
+   1.0592e-13
+  ],
+  [
+   6.82313e-05,
+   1.0662e-13
+  ],
+  [
+   6.82701e-05,
+   8.7026e-14
+  ],
+  [
+   6.83089e-05,
+   8.3483e-14
+  ],
+  [
+   6.83477e-05,
+   7.8344e-14
+  ],
+  [
+   6.83865e-05,
+   1.0049e-13
+  ],
+  [
+   6.84247e-05,
+   1.0642e-13
+  ],
+  [
+   6.84635e-05,
+   1.0577e-13
+  ],
+  [
+   6.85023e-05,
+   1.0235e-13
+  ],
+  [
+   6.85411e-05,
+   9.7161e-14
+  ],
+  [
+   6.85799e-05,
+   9.787e-14
+  ],
+  [
+   6.86182e-05,
+   1.0004e-13
+  ],
+  [
+   6.8657e-05,
+   1.0209e-13
+  ],
+  [
+   6.86958e-05,
+   1.0202e-13
+  ],
+  [
+   6.87346e-05,
+   9.7782e-14
+  ],
+  [
+   6.87734e-05,
+   9.806e-14
+  ],
+  [
+   6.88116e-05,
+   1.0263e-13
+  ],
+  [
+   6.88504e-05,
+   1.0431e-13
+  ],
+  [
+   6.88892e-05,
+   1.0365e-13
+  ],
+  [
+   6.8928e-05,
+   1.0202e-13
+  ],
+  [
+   6.89668e-05,
+   1.0243e-13
+  ],
+  [
+   6.90051e-05,
+   1.0632e-13
+  ],
+  [
+   6.90439e-05,
+   1.0615e-13
+  ],
+  [
+   6.90826e-05,
+   1.0812e-13
+  ],
+  [
+   6.91214e-05,
+   1.0954e-13
+  ],
+  [
+   6.91602e-05,
+   1.0783e-13
+  ],
+  [
+   6.91985e-05,
+   1.0802e-13
+  ],
+  [
+   6.92373e-05,
+   1.0763e-13
+  ],
+  [
+   6.92761e-05,
+   9.1608e-14
+  ],
+  [
+   6.9334e-05,
+   9.2356e-14
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "ADMX-Orpheus_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "ADMX-Orpheus dark photon search. 90% CL exclusion on kinetic mixing chi from Fig. 5 (top), extracted from the vector figure MixingAngleExclusion_v_mass_publication_downsampled.pdf in the arXiv e-print (lower envelope of the blue excluded fill region). Randomly polarized dark photon scenario, <cos^2 theta>=1/3, the paper's main result; polarized-scenario rescaling mentioned but not plotted. rho_DM = 0.45 GeV/cm^3 as labeled in Fig. 5, so no density rescaling applied. Mass from frequency via m = h f, covering 15.8-16.8 GHz (65.5-69.3 ueV). The full extracted curve (3687 points) was downsampled to 100 points by taking the median chi in equal mass bins; narrow upward spikes (up to ~5e-13 at tuning-step edges) and a narrow gap near 65.85-65.88 ueV where the limit exits the plotted range are smoothed over by the median.",
+ "num_points": 100,
+ "arxiv_id": "2204.03818",
+ "elapsed_s": 137.89806818962097,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 137246,
+  "duration_api_ms": 134283,
+  "total_cost_usd": 1.2900935000000002,
+  "usage": {
+   "input_tokens": 419,
+   "output_tokens": 10337,
+   "cache_creation_input_tokens": 28371,
+   "cache_read_input_tokens": 414416
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2204.03818.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:17:40-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "paper_title": "Anisotropic cosmic optical background bound for decaying dark matter in light of the LORRI anomaly",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.0,
+   3.48e-11
+  ],
+  [
+   6.0,
+   2.38e-11
+  ],
+  [
+   8.0,
+   1.8e-11
+  ],
+  [
+   10.0,
+   1.7e-11
+  ],
+  [
+   12.0,
+   1.7e-11
+  ],
+  [
+   14.0,
+   1.72e-11
+  ],
+  [
+   16.0,
+   1.74e-11
+  ],
+  [
+   18.0,
+   1.8e-11
+  ],
+  [
+   20.0,
+   1.86e-11
+  ],
+  [
+   22.0,
+   1.95e-11
+  ],
+  [
+   24.0,
+   2.06e-11
+  ],
+  [
+   26.0,
+   2.16e-11
+  ],
+  [
+   28.0,
+   2.26e-11
+  ],
+  [
+   30.0,
+   2.35e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.5,
+ "suggested_experiment_name": "HST-COB-anisotropy_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline curve is the 'HST 0.606um (this work)' exclusion in Fig. 3 (ALP2-crop.pdf in the e-print), the ALP-photon coupling plane for ALP dominant DM (R=1, q_gamma=2). Extracted by vector-drawing recovery of the purple filled region's lower boundary; axis calibration from tick labels (x: m=5..30 eV linear; y: log g, 1e-12 at y=381.25px, 136.15 px/decade). The paper's g_chi_gamma_gamma equals the canonical g_agamma exactly: Eq.(3) gives Gamma = g^2 m^3/(64*pi), the standard a->2gamma decay rate for L=-(g/4) a F Ftilde, so no conversion is applied. The 'HST 0.85um (this work)' region (blue) is a second, weaker bound (g ~ 3.5e-11 at m=10 eV, min mass ~4 eV) shown in the same figure; the 0.606um curve is more stringent everywhere and matches the LORRI-anomaly wavelength, so it is reported as the main result. Bound is a new limit derived by this paper from HST COB anisotropy data (Ref. 45) via a chi^2 test; 95% CL. Left edge at m=5 eV is a genuine applicability cutoff; right edge at 30 eV is the plot boundary. Excluded region lies above the reported curve. dm_density set null: this is a cosmological decaying-DM / EBL-anisotropy bound depending on the mean DM density (Planck), not a local halo density.",
+ "num_points": 14,
+ "arxiv_id": "2205.01079",
+ "elapsed_s": 136.5826940536499,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 136286,
+  "duration_api_ms": 134228,
+  "total_cost_usd": 0.6537245,
+  "usage": {
+   "input_tokens": 347,
+   "output_tokens": 9744,
+   "cache_creation_input_tokens": 35308,
+   "cache_read_input_tokens": 310164
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2205.01079.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:16:18-0500"
+ }
+}

@@ -1,0 +1,331 @@
+{
+ "paper_title": "NuSTAR as an Axion Helioscope",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-11,
+   7.3e-12
+  ],
+  [
+   1.1306e-07,
+   7.3002e-12
+  ],
+  [
+   1.441e-07,
+   7.3002e-12
+  ],
+  [
+   1.8365e-07,
+   7.3002e-12
+  ],
+  [
+   2.3405e-07,
+   7.3078e-12
+  ],
+  [
+   2.9829e-07,
+   7.3153e-12
+  ],
+  [
+   3.8015e-07,
+   7.3533e-12
+  ],
+  [
+   4.8449e-07,
+   7.4453e-12
+  ],
+  [
+   5.4695e-07,
+   7.5229e-12
+  ],
+  [
+   6.1746e-07,
+   7.6328e-12
+  ],
+  [
+   6.9707e-07,
+   7.7685e-12
+  ],
+  [
+   7.8693e-07,
+   7.9147e-12
+  ],
+  [
+   8.8839e-07,
+   8.0721e-12
+  ],
+  [
+   1.0029e-06,
+   8.2668e-12
+  ],
+  [
+   1.1322e-06,
+   8.519e-12
+  ],
+  [
+   1.2782e-06,
+   8.8153e-12
+  ],
+  [
+   1.443e-06,
+   9.1409e-12
+  ],
+  [
+   1.629e-06,
+   9.5179e-12
+  ],
+  [
+   1.839e-06,
+   9.9309e-12
+  ],
+  [
+   2.0761e-06,
+   1.0351e-11
+  ],
+  [
+   2.3437e-06,
+   1.0722e-11
+  ],
+  [
+   2.6459e-06,
+   1.1049e-11
+  ],
+  [
+   2.987e-06,
+   1.1293e-11
+  ],
+  [
+   3.3721e-06,
+   1.1493e-11
+  ],
+  [
+   3.8068e-06,
+   1.171e-11
+  ],
+  [
+   4.2976e-06,
+   1.198e-11
+  ],
+  [
+   4.8516e-06,
+   1.2269e-11
+  ],
+  [
+   5.4771e-06,
+   1.2577e-11
+  ],
+  [
+   6.1832e-06,
+   1.2867e-11
+  ],
+  [
+   6.9803e-06,
+   1.3178e-11
+  ],
+  [
+   7.8802e-06,
+   1.3552e-11
+  ],
+  [
+   8.8961e-06,
+   1.3879e-11
+  ],
+  [
+   1.0043e-05,
+   1.4228e-11
+  ],
+  [
+   1.1338e-05,
+   1.4617e-11
+  ],
+  [
+   1.2799e-05,
+   1.5094e-11
+  ],
+  [
+   1.445e-05,
+   1.5635e-11
+  ],
+  [
+   1.6312e-05,
+   1.6246e-11
+  ],
+  [
+   1.8415e-05,
+   1.6899e-11
+  ],
+  [
+   2.0789e-05,
+   1.7595e-11
+  ],
+  [
+   2.347e-05,
+   1.8397e-11
+  ],
+  [
+   2.6495e-05,
+   1.9275e-11
+  ],
+  [
+   2.9911e-05,
+   2.0237e-11
+  ],
+  [
+   3.3767e-05,
+   2.1291e-11
+  ],
+  [
+   3.8121e-05,
+   2.247e-11
+  ],
+  [
+   4.3035e-05,
+   2.3763e-11
+  ],
+  [
+   4.8583e-05,
+   2.5157e-11
+  ],
+  [
+   5.4846e-05,
+   2.666e-11
+  ],
+  [
+   6.1917e-05,
+   2.8282e-11
+  ],
+  [
+   6.99e-05,
+   2.9971e-11
+  ],
+  [
+   7.8911e-05,
+   3.1762e-11
+  ],
+  [
+   8.9084e-05,
+   3.3625e-11
+  ],
+  [
+   0.00010057,
+   3.556e-11
+  ],
+  [
+   0.00011353,
+   3.7529e-11
+  ],
+  [
+   0.00012817,
+   3.9524e-11
+  ],
+  [
+   0.00014469,
+   4.1454e-11
+  ],
+  [
+   0.00016335,
+   4.3208e-11
+  ],
+  [
+   0.00018441,
+   4.4897e-11
+  ],
+  [
+   0.00020818,
+   4.6555e-11
+  ],
+  [
+   0.00023502,
+   4.8425e-11
+  ],
+  [
+   0.00026532,
+   5.0894e-11
+  ],
+  [
+   0.00029952,
+   5.4215e-11
+  ],
+  [
+   0.00033814,
+   5.7752e-11
+  ],
+  [
+   0.00038173,
+   6.0886e-11
+  ],
+  [
+   0.00043095,
+   6.3793e-11
+  ],
+  [
+   0.0004865,
+   6.6217e-11
+  ],
+  [
+   0.00054922,
+   6.9738e-11
+  ],
+  [
+   0.00062003,
+   7.4985e-11
+  ],
+  [
+   0.0007902,
+   7.9054e-11
+  ],
+  [
+   0.00089207,
+   8.9336e-11
+  ],
+  [
+   0.001,
+   9.4711e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "NuSTAR_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% CL upper limit on g_agamma from NuSTAR solar observations (axions produced in solar core, reconverted in solar atmospheric magnetic field). Curve traced from the vector paths of Fig. 1 (figures/bound_main_new_data.pdf in the e-print), the blue 'This work' line. Log-axis calibration from tick-label positions (uniform 88.325 pt/decade in mass, 153.69 pt/decade in coupling); vertical offset anchored to the paper's quoted flat limit g_agamma = 7.3e-12 GeV^-1 for m_a <~ 4e-7 eV (label-center calibration independently gives 7.4e-12, <1% difference). Limit is flat at 7.3e-12 from the low-mass end (plotted axis starts at 1e-11 eV; limit is mass-independent below ~2e-7 eV) and rises at higher mass; curve truncated at the plotted axis edge m_a = 1e-3 eV. Not a dark-matter search, so no local DM density assumption or rescaling.",
+ "num_points": 70,
+ "arxiv_id": "2407.03828",
+ "elapsed_s": 171.74144792556763,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 171380,
+  "duration_api_ms": 167288,
+  "total_cost_usd": 1.4775449999999999,
+  "usage": {
+   "input_tokens": 379,
+   "output_tokens": 11939,
+   "cache_creation_input_tokens": 40649,
+   "cache_read_input_tokens": 310320
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2407.03828.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:03:59-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "paper_title": "Do direct detection experiments constrain axionlike particles coupled to electrons?",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.0,
+ "suggested_experiment_name": null,
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "This is a theoretical analysis paper that reinterprets existing experimental limits from GERDA, XENON1T, XMASS, LUX, PandaX-II, Majorana, SuperCDMS, and EDELWEISS-III. The paper does not report new experimental measurements from the authors. Instead, it shows that radiative ALP decay (a\u2192\u03b3\u03b3) makes many published dark matter limits self-inconsistent in the keV-MeV mass range. Figure 2 displays constraints from X-ray/gamma-ray astronomy (NuStar, XMM-Newton, INTEGRAL), but these are indirect constraints cited from other works, not new direct detection results from this paper.",
+ "num_points": 0,
+ "arxiv_id": "2202.08858",
+ "elapsed_s": 29.79136300086975,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 5,
+  "duration_ms": 29357,
+  "duration_api_ms": 28469,
+  "total_cost_usd": 0.0665613,
+  "usage": {
+   "input_tokens": 36,
+   "output_tokens": 2482,
+   "cache_creation_input_tokens": 23352,
+   "cache_read_input_tokens": 74113
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2202.08858.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:21:53-0500"
+ }
+}

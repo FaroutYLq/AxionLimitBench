@@ -1,0 +1,103 @@
+{
+ "paper_title": "Experimental Search for Hidden Photon CDM in the eV mass range with a Dish Antenna",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.8785,
+   1.534e-11
+  ],
+  [
+   1.8987,
+   1.446e-11
+  ],
+  [
+   1.9837,
+   1.131e-11
+  ],
+  [
+   1.9933,
+   1.108e-11
+  ],
+  [
+   2.0943,
+   8.885e-12
+  ],
+  [
+   2.3349,
+   6.711e-12
+  ],
+  [
+   2.8502,
+   5.095e-12
+  ],
+  [
+   3.123,
+   4.983e-12
+  ],
+  [
+   3.3691,
+   5.246e-12
+  ],
+  [
+   3.6147,
+   5.759e-12
+  ],
+  [
+   3.9235,
+   6.863e-12
+  ],
+  [
+   4.1887,
+   9.137e-12
+  ],
+  [
+   4.2753,
+   1.286e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "TokyoDishAntenna_2015",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Red solid 95% CL upper-limit curve ('Result') digitised from the vector paths of Fig. 5 (e-print file img/result20150309.pdf), axes calibrated against the tick labels (x: 1e-12..1e6 eV, y: 1e-16..1e-5). Curve spans 1.88-4.28 eV (PMT sensitivity 300-650 nm), minimum chi ~5.0e-12 at ~3 eV, consistent with the abstract's chi ~6e-12 at m=3.1+/-1.2 eV. Limit assumes HP dark matter with rho_CDM = 0.3 GeV/cm^3, unpolarised/isotropic HP direction (alpha = sqrt(2/3)), via eq. (1.1) with N_UL95 = 6.4e-3 Hz.",
+ "num_points": 13,
+ "arxiv_id": "1504.00118",
+ "elapsed_s": 75.09395003318787,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 10,
+  "duration_ms": 74650,
+  "duration_api_ms": 72440,
+  "total_cost_usd": 1.021836,
+  "usage": {
+   "input_tokens": 298,
+   "output_tokens": 5885,
+   "cache_creation_input_tokens": 32868,
+   "cache_read_input_tokens": 216661
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1504.00118.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T20:49:19-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

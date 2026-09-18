@@ -1,0 +1,250 @@
+{
+ "paper_title": "Constraining dark photon parameters based on the very high energy observations of blazars",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.02363,
+   2.24e-07
+  ],
+  [
+   0.02897,
+   1.27e-07
+  ],
+  [
+   0.03316,
+   6.89e-08
+  ],
+  [
+   0.04129,
+   4.43e-08
+  ],
+  [
+   0.04507,
+   3.82e-08
+  ],
+  [
+   0.05884,
+   2.56e-08
+  ],
+  [
+   0.07166,
+   3.82e-08
+  ],
+  [
+   0.08138,
+   6.89e-08
+  ],
+  [
+   0.08385,
+   7.46e-08
+  ],
+  [
+   0.09486,
+   1.24e-07
+  ],
+  [
+   0.1195,
+   1.5e-07
+  ],
+  [
+   0.17029,
+   1.64e-07
+  ],
+  [
+   0.23508,
+   1.24e-07
+  ],
+  [
+   0.24269,
+   9.31e-08
+  ],
+  [
+   0.30307,
+   6.89e-08
+  ],
+  [
+   0.34585,
+   5.23e-08
+  ],
+  [
+   0.49286,
+   5.55e-08
+  ],
+  [
+   0.59126,
+   6.89e-08
+  ],
+  [
+   0.70236,
+   9.01e-08
+  ],
+  [
+   0.85365,
+   1.24e-07
+  ],
+  [
+   1.00096,
+   1.95e-07
+  ],
+  [
+   1.08921,
+   2.24e-07
+  ],
+  [
+   1.37348,
+   4.04e-07
+  ],
+  [
+   1.42644,
+   4.23e-07
+  ],
+  [
+   1.94341,
+   7.28e-07
+  ],
+  [
+   2.89686,
+   7.58e-07
+  ],
+  [
+   4.0384,
+   1.31e-06
+  ],
+  [
+   5.88331,
+   1.37e-06
+  ],
+  [
+   8.21275,
+   2.37e-06
+  ],
+  [
+   11.94798,
+   2.5e-06
+  ],
+  [
+   16.56347,
+   4.27e-06
+  ],
+  [
+   24.26548,
+   4.7e-06
+  ],
+  [
+   32.9246,
+   7.69e-06
+  ],
+  [
+   49.279,
+   1.01e-05
+  ],
+  [
+   60.93158,
+   1.39e-05
+  ],
+  [
+   70.22949,
+   1.4e-05
+  ],
+  [
+   99.79321,
+   2.5e-05
+  ],
+  [
+   142.62378,
+   2.54e-05
+  ],
+  [
+   201.93229,
+   4.51e-05
+  ],
+  [
+   289.64432,
+   4.63e-05
+  ],
+  [
+   408.19865,
+   8.13e-05
+  ],
+  [
+   588.24622,
+   8.59e-05
+  ],
+  [
+   818.198,
+   0.000147
+  ],
+  [
+   1194.68289,
+   0.000178
+  ],
+  [
+   1544.89148,
+   0.000264
+  ],
+  [
+   2426.19511,
+   0.000478
+  ],
+  [
+   3457.50059,
+   0.000485
+  ],
+  [
+   4927.18425,
+   0.000862
+  ],
+  [
+   7021.92842,
+   0.000893
+  ],
+  [
+   10006.74742,
+   0.00156
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.78,
+ "suggested_experiment_name": "Blazar_VHE_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Dark-photon dark matter (DPDM) kinetic-mixing limit from VHE (HEGRA) spectra of Mrk 421 and Mrk 501 via photon-dark-photon scattering, with a dense DM spike around the host SMBH. Headline curve = Fig. 4 (figure/NFW_HEGRA_2.3_4.pdf), NFW host profile with gamma_sp=(9-2gamma)/(4-gamma), R_em=4R_s, ECPL null model, Dominguez EBL. Y-axis is plotted directly as epsilon (=chi), so no chi->chi^2 conversion needed. Vector paths extracted: Mrk 501 = black solid (drawing 74), Mrk 421 = red solid (drawing 73). I report the MAIN (more stringent) Mrk 501 lower-boundary curve; Mrk 421 (drawing 73) is nearly identical and lies slightly above. Region above the curve is excluded. The near-vertical left wall at m~0.022 eV (mass threshold ~10^-2 eV where photon-DPDM scattering opens up) was dropped, leaving the lower exclusion envelope. Minimum epsilon ~2.6e-8 at m~0.06 eV; plateau ~1e-7 over m~0.03-1 eV matching the abstract (epsilon~10^-7). x-axis calibrated on decade ticks (10^-3..10^4 eV), y-axis on epsilon decade labels (10^-12..10^0). CL: paper states 95% C.L. corresponding to Delta chi^2 >= 2.71. Assumed Milky Way local density rho_DM=0.4 GeV/cm^3; the dominant absorption is from the host-galaxy DM spike (density-dependent search, DM = dark photon itself); reported at paper-native values, no rescaling.",
+ "num_points": 50,
+ "arxiv_id": "2407.16628",
+ "elapsed_s": 212.59263801574707,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 212268,
+  "duration_api_ms": 209577,
+  "total_cost_usd": 1.1721089999999998,
+  "usage": {
+   "input_tokens": 452,
+   "output_tokens": 14957,
+   "cache_creation_input_tokens": 49995,
+   "cache_read_input_tokens": 591948
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2407.16628.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:31:15-0500"
+ }
+}

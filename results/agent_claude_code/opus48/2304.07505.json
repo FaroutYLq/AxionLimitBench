@@ -1,0 +1,178 @@
+{
+ "paper_title": "Search for galactic axions with a traveling wave parametric amplifier",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.281783390287918e-05,
+   2.8278594185532905e-13
+  ],
+  [
+   4.281787063891214e-05,
+   2.9361439648286824e-13
+  ],
+  [
+   4.281790737696715e-05,
+   7.95222543005292e-14
+  ],
+  [
+   4.281794411293271e-05,
+   1.8006829393680141e-13
+  ],
+  [
+   4.2817980848864566e-05,
+   4.481152232983552e-14
+  ],
+  [
+   4.281801758681847e-05,
+   7.272246115667271e-14
+  ],
+  [
+   4.281805432268293e-05,
+   3.292916045700417e-14
+  ],
+  [
+   4.2818091058513684e-05,
+   8.909934316461653e-14
+  ],
+  [
+   4.281812779636649e-05,
+   7.609728977862851e-14
+  ],
+  [
+   4.281816453212984e-05,
+   6.642134693822683e-14
+  ],
+  [
+   4.281820126785949e-05,
+   2.1001820354915753e-14
+  ],
+  [
+   4.28182380056449e-05,
+   5.461479363866403e-14
+  ],
+  [
+   4.2818274741340845e-05,
+   8.92962057677317e-14
+  ],
+  [
+   4.28183114770031e-05,
+   2.664451093478204e-14
+  ],
+  [
+   4.2818348212597946e-05,
+   2.861387172190547e-14
+  ],
+  [
+   4.281838494819279e-05,
+   3.0742239266472e-14
+  ],
+  [
+   4.28184216858434e-05,
+   7.069659144354176e-14
+  ],
+  [
+   4.281845842133714e-05,
+   8.176467222464868e-14
+  ],
+  [
+   4.2818495156830884e-05,
+   7.743637641598138e-14
+  ],
+  [
+   4.2818531894346685e-05,
+   8.283066349389192e-14
+  ],
+  [
+   4.2818568629773024e-05,
+   4.6093127499073206e-14
+  ],
+  [
+   4.281860536519937e-05,
+   6.533651974961103e-14
+  ],
+  [
+   4.2818642102580364e-05,
+   4.440887094506063e-14
+  ],
+  [
+   4.2818678837871903e-05,
+   6.36595535753996e-14
+  ],
+  [
+   4.281871557316344e-05,
+   1.0602923774685677e-13
+  ],
+  [
+   4.2818752310544436e-05,
+   7.681204066406133e-14
+  ],
+  [
+   4.281878904583598e-05,
+   7.96207882337135e-14
+  ],
+  [
+   4.2818825780992715e-05,
+   1.361229420688044e-13
+  ],
+  [
+   4.281886251823891e-05,
+   1.4195055754390943e-13
+  ],
+  [
+   4.281889925339564e-05,
+   1.2888697908206323e-13
+  ],
+  [
+   4.2818935988484976e-05,
+   1.4441287103395935e-13
+  ],
+  [
+   4.281897272559637e-05,
+   1.83520008108802e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "QUAX_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "QUAX-agamma haloscope, TM030 dielectric cavity, 8T, nu_c=10.353 GHz. Headline observed 90% single-sided C.L. upper limit on g_agamma vs axion mass from Fig.7 (solid blue bars, e-print Quax_twpa_33.pdf), extracted as vector staircase (drawing fill dodgerblue). 32 bars over 33 declared intervals. Mass range 42.8178-42.8190 ueV matches paper text; extracted minimum 2.10e-14 GeV^-1 vs paper-quoted 2.05e-14 GeV^-1 (calibration-level agreement). Log-y axis calibrated on 10^-12/-13/-14 ticks; x-axis on labeled mass ticks. rho_a=0.45 GeV/cm^3 (paper Eq.10). Power-constrained limit; values below -sigma floored per paper procedure.",
+ "num_points": 32,
+ "arxiv_id": "2304.07505",
+ "elapsed_s": 162.3462200164795,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 162037,
+  "duration_api_ms": 158072,
+  "total_cost_usd": 0.9413475,
+  "usage": {
+   "input_tokens": 470,
+   "output_tokens": 11377,
+   "cache_creation_input_tokens": 41113,
+   "cache_read_input_tokens": 486885
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2304.07505.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:25:20-0500"
+ }
+}

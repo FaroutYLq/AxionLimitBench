@@ -1,0 +1,186 @@
+{
+ "paper_title": "Exclusion Limits on Hidden-Photon Dark Matter near 2 neV from a Fixed-Frequency Superconducting Lumped-Element Resonator",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.02913e-09,
+   4.9876e-09
+  ],
+  [
+   2.02947e-09,
+   4.7276e-09
+  ],
+  [
+   2.02983e-09,
+   4.4551e-09
+  ],
+  [
+   2.03017e-09,
+   4.2074e-09
+  ],
+  [
+   2.03053e-09,
+   3.935e-09
+  ],
+  [
+   2.03089e-09,
+   3.6749e-09
+  ],
+  [
+   2.03123e-09,
+   3.4272e-09
+  ],
+  [
+   2.03159e-09,
+   3.1672e-09
+  ],
+  [
+   2.03193e-09,
+   2.9319e-09
+  ],
+  [
+   2.03229e-09,
+   2.6904e-09
+  ],
+  [
+   2.03265e-09,
+   2.4551e-09
+  ],
+  [
+   2.033e-09,
+   2.2508e-09
+  ],
+  [
+   2.03336e-09,
+   2.0464e-09
+  ],
+  [
+   2.03371e-09,
+   1.8607e-09
+  ],
+  [
+   2.03406e-09,
+   1.7121e-09
+  ],
+  [
+   2.03442e-09,
+   1.6006e-09
+  ],
+  [
+   2.03476e-09,
+   1.5263e-09
+  ],
+  [
+   2.03512e-09,
+   1.5015e-09
+  ],
+  [
+   2.03548e-09,
+   1.5263e-09
+  ],
+  [
+   2.03582e-09,
+   1.6006e-09
+  ],
+  [
+   2.03618e-09,
+   1.7245e-09
+  ],
+  [
+   2.03652e-09,
+   1.8731e-09
+  ],
+  [
+   2.03688e-09,
+   2.0526e-09
+  ],
+  [
+   2.03724e-09,
+   2.257e-09
+  ],
+  [
+   2.03758e-09,
+   2.4613e-09
+  ],
+  [
+   2.03794e-09,
+   2.6904e-09
+  ],
+  [
+   2.0383e-09,
+   2.9319e-09
+  ],
+  [
+   2.03864e-09,
+   3.1672e-09
+  ],
+  [
+   2.039e-09,
+   3.4149e-09
+  ],
+  [
+   2.03934e-09,
+   3.6563e-09
+  ],
+  [
+   2.0397e-09,
+   3.9102e-09
+  ],
+  [
+   2.04006e-09,
+   4.1703e-09
+  ],
+  [
+   2.0404e-09,
+   4.4241e-09
+  ],
+  [
+   2.04076e-09,
+   4.6904e-09
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "DMRadio_2019",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Hidden-photon (dark photon) dark matter search with a fixed-frequency superconducting lumped-element resonator (DM Radio test device). Headline result is the 90% C.L. exclusion on kinetic mixing angle epsilon vs hidden photon mass, Fig. 3a. Curve traced by pixel analysis of the embedded raster image of panel a (axes calibrated from tick marks: x = 2.031/2.035/2.039 neV, y = 1..5 in units of 1e-9). V-shaped curve minimum epsilon ~ 1.5e-9 at 2.035 neV, consistent with the text statement 'excluding kinetic mixing angles of epsilon >~ 1.5e-9 in a band around 2.035 neV'. Mass converted neV->eV (x1e-9); coupling reported as chi (=epsilon), not chi^2. Normalized to local DM density rho_DM = 0.45 GeV/cm^3 (paper's assumption, not rescaled). Limit assumes hidden-photon effective current along the shield longitudinal axis; field disalignment would weaken it.",
+ "num_points": 34,
+ "arxiv_id": "1906.08814",
+ "elapsed_s": 115.87180089950562,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 115525,
+  "duration_api_ms": 112865,
+  "total_cost_usd": 0.7065834999999999,
+  "usage": {
+   "input_tokens": 464,
+   "output_tokens": 8410,
+   "cache_creation_input_tokens": 30040,
+   "cache_read_input_tokens": 387227
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1906.08814.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:24:03-0500"
+ }
+}

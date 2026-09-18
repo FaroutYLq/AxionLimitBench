@@ -1,0 +1,411 @@
+{
+ "paper_title": "The Fermionic Axion Interferometer",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-11,
+   0.000330333
+  ],
+  [
+   1.29896e-11,
+   0.000197989
+  ],
+  [
+   1.6977e-11,
+   0.000177363
+  ],
+  [
+   2.09645e-11,
+   0.000269565
+  ],
+  [
+   2.49519e-11,
+   0.000705221
+  ],
+  [
+   2.89393e-11,
+   0.00052912
+  ],
+  [
+   3.29267e-11,
+   1.31457e-06
+  ],
+  [
+   3.69141e-11,
+   3.48695e-05
+  ],
+  [
+   4.09016e-11,
+   6.32101e-05
+  ],
+  [
+   4.4889e-11,
+   4.03478e-05
+  ],
+  [
+   4.88764e-11,
+   6.77664e-05
+  ],
+  [
+   5.28638e-11,
+   0.000119437
+  ],
+  [
+   5.68512e-11,
+   0.000150383
+  ],
+  [
+   6.08387e-11,
+   2.29784e-05
+  ],
+  [
+   6.48261e-11,
+   2.93056e-06
+  ],
+  [
+   6.88135e-11,
+   7.44233e-05
+  ],
+  [
+   7.28009e-11,
+   9.6204e-05
+  ],
+  [
+   7.67883e-11,
+   5.4959e-05
+  ],
+  [
+   8.07758e-11,
+   5.48413e-05
+  ],
+  [
+   8.47632e-11,
+   6.58148e-05
+  ],
+  [
+   8.87506e-11,
+   0.000103372
+  ],
+  [
+   9.2738e-11,
+   4.32172e-05
+  ],
+  [
+   9.67254e-11,
+   3.35971e-05
+  ],
+  [
+   1.00713e-10,
+   1.1421e-05
+  ],
+  [
+   1.047e-10,
+   5.86382e-05
+  ],
+  [
+   1.08688e-10,
+   6.0127e-05
+  ],
+  [
+   1.12675e-10,
+   2.72913e-05
+  ],
+  [
+   1.16663e-10,
+   4.35708e-05
+  ],
+  [
+   1.2065e-10,
+   3.55036e-05
+  ],
+  [
+   1.24637e-10,
+   1.98042e-05
+  ],
+  [
+   1.28625e-10,
+   4.11095e-05
+  ],
+  [
+   1.32612e-10,
+   6.04941e-05
+  ],
+  [
+   1.366e-10,
+   9.74401e-05
+  ],
+  [
+   1.40587e-10,
+   9.89613e-05
+  ],
+  [
+   1.44574e-10,
+   7.36328e-05
+  ],
+  [
+   1.48562e-10,
+   9.37637e-05
+  ],
+  [
+   1.52549e-10,
+   5.3492e-05
+  ],
+  [
+   1.56537e-10,
+   6.62748e-06
+  ],
+  [
+   1.60524e-10,
+   1.89368e-05
+  ],
+  [
+   1.64512e-10,
+   4.57322e-05
+  ],
+  [
+   1.68499e-10,
+   3.84165e-05
+  ],
+  [
+   1.72486e-10,
+   7.37154e-06
+  ],
+  [
+   1.76474e-10,
+   9.09346e-06
+  ],
+  [
+   1.80461e-10,
+   5.04625e-06
+  ],
+  [
+   1.84449e-10,
+   3.09706e-05
+  ],
+  [
+   1.88436e-10,
+   5.37028e-06
+  ],
+  [
+   1.92424e-10,
+   6.20603e-05
+  ],
+  [
+   1.96411e-10,
+   2.64695e-05
+  ],
+  [
+   2.00398e-10,
+   0.000113086
+  ],
+  [
+   2.04386e-10,
+   6.86946e-05
+  ],
+  [
+   2.08373e-10,
+   2.60528e-05
+  ],
+  [
+   2.12361e-10,
+   2.34768e-05
+  ],
+  [
+   2.16348e-10,
+   9.41883e-06
+  ],
+  [
+   2.20336e-10,
+   1.32629e-05
+  ],
+  [
+   2.24323e-10,
+   8.1153e-05
+  ],
+  [
+   2.2831e-10,
+   2.9038e-05
+  ],
+  [
+   2.32298e-10,
+   3.74219e-05
+  ],
+  [
+   2.36285e-10,
+   8.50876e-05
+  ],
+  [
+   2.40273e-10,
+   0.000105213
+  ],
+  [
+   2.4426e-10,
+   4.55109e-05
+  ],
+  [
+   2.48247e-10,
+   4.09622e-05
+  ],
+  [
+   2.52235e-10,
+   2.1376e-05
+  ],
+  [
+   2.56222e-10,
+   9.64776e-06
+  ],
+  [
+   2.6021e-10,
+   4.40257e-06
+  ],
+  [
+   2.64197e-10,
+   1.42861e-05
+  ],
+  [
+   2.68185e-10,
+   1.59814e-05
+  ],
+  [
+   2.72172e-10,
+   2.58336e-06
+  ],
+  [
+   2.76159e-10,
+   7.94729e-06
+  ],
+  [
+   2.80147e-10,
+   6.46469e-06
+  ],
+  [
+   2.84134e-10,
+   5.5178e-05
+  ],
+  [
+   2.88122e-10,
+   6.43755e-05
+  ],
+  [
+   2.92109e-10,
+   8.37794e-05
+  ],
+  [
+   2.96097e-10,
+   4.89411e-05
+  ],
+  [
+   3.00084e-10,
+   2.59015e-05
+  ],
+  [
+   3.04071e-10,
+   1.86304e-05
+  ],
+  [
+   3.08059e-10,
+   2.66063e-06
+  ],
+  [
+   3.12046e-10,
+   1.76508e-05
+  ],
+  [
+   3.16034e-10,
+   2.49364e-05
+  ],
+  [
+   3.20021e-10,
+   1.85715e-05
+  ],
+  [
+   3.24008e-10,
+   1.66918e-05
+  ],
+  [
+   3.27996e-10,
+   3.20046e-05
+  ],
+  [
+   3.31983e-10,
+   4.73055e-07
+  ],
+  [
+   3.35971e-10,
+   3.89742e-06
+  ],
+  [
+   3.39958e-10,
+   6.70332e-06
+  ],
+  [
+   3.43946e-10,
+   2.78906e-06
+  ],
+  [
+   3.47933e-10,
+   4.75247e-06
+  ],
+  [
+   3.5192e-10,
+   3.99549e-06
+  ],
+  [
+   3.55908e-10,
+   1.20013e-07
+  ],
+  [
+   3.59895e-10,
+   1.56655e-05
+  ],
+  [
+   3.63883e-10,
+   2.11368e-06
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "FermionicAxionInterferometer_2023",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Curve traced from the vector exclusion figure (gp_exclusion_plot.pdf, Fig. 5 of arXiv:2311.16364v2): the dark-green boundary of the green excluded region, clipped to the plot frame at m_a=1e-11 eV. The paper's g_p is defined via Eq.(1) L=(g_p/2m_f) psi-bar gamma^mu gamma_5 (d_mu a) psi, identical to the canonical g_ae convention, so no conversion applied. Axis calibration from tick marks reproduces the quoted minimum |g_p|=1.2e-7 at m_a~0.36 neV exactly. Paper states 2-sigma (90% CL) upper limit; local DM density rho=0.4 GeV/cm^3 assumed (Eq. 5). Note: a later arXiv revision (2026) re-analyses at 95% CL; the provided paper is v2 and its curve is reported here.",
+ "num_points": 90,
+ "arxiv_id": "2311.16364",
+ "elapsed_s": 207.2260239124298,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 206858,
+  "duration_api_ms": 202549,
+  "total_cost_usd": 2.0338035,
+  "usage": {
+   "input_tokens": 466,
+   "output_tokens": 15781,
+   "cache_creation_input_tokens": 51068,
+   "cache_read_input_tokens": 545351
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2311.16364.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T22:20:01-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

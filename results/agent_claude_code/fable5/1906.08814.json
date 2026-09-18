@@ -1,0 +1,299 @@
+{
+ "paper_title": "Exclusion Limits on Hidden-Photon Dark Matter near 2 neV from a Fixed-Frequency Superconducting Lumped-Element Resonator",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.02913e-09,
+   4.9938e-09
+  ],
+  [
+   2.029328e-09,
+   4.839e-09
+  ],
+  [
+   2.029526e-09,
+   4.6904e-09
+  ],
+  [
+   2.029724e-09,
+   4.5418e-09
+  ],
+  [
+   2.029921e-09,
+   4.3932e-09
+  ],
+  [
+   2.030119e-09,
+   4.2446e-09
+  ],
+  [
+   2.030317e-09,
+   4.096e-09
+  ],
+  [
+   2.030515e-09,
+   3.9474e-09
+  ],
+  [
+   2.030712e-09,
+   3.805e-09
+  ],
+  [
+   2.03091e-09,
+   3.6563e-09
+  ],
+  [
+   2.031108e-09,
+   3.5139e-09
+  ],
+  [
+   2.031306e-09,
+   3.3715e-09
+  ],
+  [
+   2.031503e-09,
+   3.2353e-09
+  ],
+  [
+   2.031701e-09,
+   3.0929e-09
+  ],
+  [
+   2.031899e-09,
+   2.9567e-09
+  ],
+  [
+   2.032097e-09,
+   2.8204e-09
+  ],
+  [
+   2.032294e-09,
+   2.6904e-09
+  ],
+  [
+   2.032492e-09,
+   2.5604e-09
+  ],
+  [
+   2.03269e-09,
+   2.4303e-09
+  ],
+  [
+   2.032888e-09,
+   2.3127e-09
+  ],
+  [
+   2.033085e-09,
+   2.195e-09
+  ],
+  [
+   2.033283e-09,
+   2.0836e-09
+  ],
+  [
+   2.033481e-09,
+   1.9721e-09
+  ],
+  [
+   2.033679e-09,
+   1.8731e-09
+  ],
+  [
+   2.033876e-09,
+   1.7864e-09
+  ],
+  [
+   2.034074e-09,
+   1.7121e-09
+  ],
+  [
+   2.034272e-09,
+   1.6378e-09
+  ],
+  [
+   2.03447e-09,
+   1.582e-09
+  ],
+  [
+   2.034667e-09,
+   1.5387e-09
+  ],
+  [
+   2.034865e-09,
+   1.5139e-09
+  ],
+  [
+   2.035063e-09,
+   1.5015e-09
+  ],
+  [
+   2.035261e-09,
+   1.5015e-09
+  ],
+  [
+   2.035458e-09,
+   1.5263e-09
+  ],
+  [
+   2.035656e-09,
+   1.5635e-09
+  ],
+  [
+   2.035854e-09,
+   1.613e-09
+  ],
+  [
+   2.036052e-09,
+   1.6749e-09
+  ],
+  [
+   2.036249e-09,
+   1.7492e-09
+  ],
+  [
+   2.036447e-09,
+   1.8359e-09
+  ],
+  [
+   2.036645e-09,
+   1.935e-09
+  ],
+  [
+   2.036843e-09,
+   2.0341e-09
+  ],
+  [
+   2.03704e-09,
+   2.1455e-09
+  ],
+  [
+   2.037238e-09,
+   2.257e-09
+  ],
+  [
+   2.037436e-09,
+   2.3746e-09
+  ],
+  [
+   2.037634e-09,
+   2.4923e-09
+  ],
+  [
+   2.037831e-09,
+   2.6223e-09
+  ],
+  [
+   2.038029e-09,
+   2.7523e-09
+  ],
+  [
+   2.038227e-09,
+   2.8824e-09
+  ],
+  [
+   2.038425e-09,
+   3.0124e-09
+  ],
+  [
+   2.038622e-09,
+   3.1486e-09
+  ],
+  [
+   2.03882e-09,
+   3.2848e-09
+  ],
+  [
+   2.039018e-09,
+   3.4272e-09
+  ],
+  [
+   2.039216e-09,
+   3.5697e-09
+  ],
+  [
+   2.039413e-09,
+   3.7059e-09
+  ],
+  [
+   2.039611e-09,
+   3.8483e-09
+  ],
+  [
+   2.039809e-09,
+   3.9907e-09
+  ],
+  [
+   2.040007e-09,
+   4.1331e-09
+  ],
+  [
+   2.040204e-09,
+   4.2817e-09
+  ],
+  [
+   2.040402e-09,
+   4.4241e-09
+  ],
+  [
+   2.0406e-09,
+   4.5728e-09
+  ],
+  [
+   2.040798e-09,
+   4.7152e-09
+  ],
+  [
+   2.040996e-09,
+   4.8638e-09
+  ],
+  [
+   2.041103e-09,
+   4.9381e-09
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "DMRadio_2019",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Curve digitised pixel-by-pixel from panel (a) of Fig. 3 (file hplimit.pdf in the e-print; panel a is an embedded 800x600 raster with linear axes). 90% C.L. exclusion on kinetic mixing angle epsilon, assuming the hidden-photon field is aligned with the shield's longitudinal axis (paper's headline curve, 'Limit' line, not the +-1sigma systematic band). Paper already normalises to rho_DM = 0.45 GeV/cm^3, so no density rescaling applied. Minimum epsilon = 1.50e-9 at m = 2.035 neV (492.027 kHz resonance), rising to ~5e-9 at the edges of the 492.027 +- 1.5 kHz analysis band. Digitisation calibrated against axis ticks (2.031/2.035/2.039 neV; epsilon = 1..5 x 1e-9) and consistent with the quoted 1.5e-9 value.",
+ "num_points": 62,
+ "arxiv_id": "1906.08814",
+ "elapsed_s": 153.58209991455078,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 153278,
+  "duration_api_ms": 149849,
+  "total_cost_usd": 1.2263725,
+  "usage": {
+   "input_tokens": 432,
+   "output_tokens": 9703,
+   "cache_creation_input_tokens": 27797,
+   "cache_read_input_tokens": 329920
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1906.08814.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:43:04-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "paper_title": "NuSTAR as an Axion Helioscope",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-11,
+   7.566001451807932e-12
+  ],
+  [
+   1.0028919801861731e-08,
+   7.566001451807932e-12
+  ],
+  [
+   1.278233831133665e-08,
+   7.566001451807932e-12
+  ],
+  [
+   1.8392652231256723e-08,
+   7.566001451807932e-12
+  ],
+  [
+   2.987835329220455e-08,
+   7.566001451807932e-12
+  ],
+  [
+   4.8536556024078834e-08,
+   7.566001451807932e-12
+  ],
+  [
+   6.983980346241026e-08,
+   7.566001451807932e-12
+  ],
+  [
+   1.1345273291057692e-07,
+   7.566001451807932e-12
+  ],
+  [
+   1.8430081715499954e-07,
+   7.566001451807932e-12
+  ],
+  [
+   2.651927566693751e-07,
+   7.581697637336547e-12
+  ],
+  [
+   4.3079793327917665e-07,
+   7.660661355573375e-12
+  ],
+  [
+   6.998192912163449e-07,
+   8.05129686071055e-12
+  ],
+  [
+   1.0069779514950757e-06,
+   8.567715974668855e-12
+  ],
+  [
+   1.635807746155299e-06,
+   9.86423539839222e-12
+  ],
+  [
+   2.657324302293583e-06,
+   1.1451483632264454e-11
+  ],
+  [
+   3.823654214691326e-06,
+   1.2135590052007235e-11
+  ],
+  [
+   6.2114201941809e-06,
+   1.3335522816133854e-11
+  ],
+  [
+   1.0090279785352633e-05,
+   1.4745473441879106e-11
+  ],
+  [
+   1.4519018546354205e-05,
+   1.6203456673799886e-11
+  ],
+  [
+   2.358574283521917e-05,
+   1.9065840910154067e-11
+  ],
+  [
+   3.83143849092181e-05,
+   2.3286466396950576e-11
+  ],
+  [
+   5.5131004979328254e-05,
+   2.762813999479671e-11
+  ],
+  [
+   8.955878811905896e-05,
+   3.484566892645251e-11
+  ],
+  [
+   0.00014548576671805533,
+   4.295822376539974e-11
+  ],
+  [
+   0.00020934112731703464,
+   4.8244231336477155e-11
+  ],
+  [
+   0.0003400688536880666,
+   5.984706038530329e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "NuSTAR_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Blue \"This work\" 95% CL exclusion line from Fig.1 (figures/bound_main_new_data.pdf, vector drawing idx 96, pure-blue stroke). Solar axion helioscope: axions from solar core reconvert to X-rays in the solar atmospheric B-field; not dark-matter-density dependent (dm_density null). X-axis 1e-11..1e-3 eV, Y-axis g_agamma [GeV^-1] calibrated from log tick label centers (88.3 px/decade x; 153.7 px/decade y). Curve is flat at ~7.57e-12 GeV^-1 for m_a<~1.8e-7 eV (abstract quotes 7.3e-12 for m_a<~4e-7 eV; ~4%% calibration offset), rising to ~6e-11 at the stated max reach m_a<~3.4e-4 eV. Flat floor extends to left frame (1e-11 eV). No conversion needed: paper Lagrangian L=g_agamma E.B a matches canonical.",
+ "num_points": 26,
+ "arxiv_id": "2407.03828",
+ "elapsed_s": 166.6363639831543,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 166335,
+  "duration_api_ms": 162281,
+  "total_cost_usd": 0.8681185,
+  "usage": {
+   "input_tokens": 537,
+   "output_tokens": 9438,
+   "cache_creation_input_tokens": 35752,
+   "cache_read_input_tokens": 543927
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2407.03828.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:27:42-0500"
+ }
+}

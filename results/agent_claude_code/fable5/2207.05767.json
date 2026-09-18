@@ -1,0 +1,411 @@
+{
+ "paper_title": "Direct detection of dark photon dark matter using radio telescopes",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.14353e-06,
+   3.8282e-12
+  ],
+  [
+   4.16224e-06,
+   2.8128e-12
+  ],
+  [
+   4.18103e-06,
+   2.534e-12
+  ],
+  [
+   4.1999e-06,
+   2.3426e-12
+  ],
+  [
+   4.21887e-06,
+   2.3358e-12
+  ],
+  [
+   4.23791e-06,
+   2.607e-12
+  ],
+  [
+   4.25705e-06,
+   2.5457e-12
+  ],
+  [
+   4.27627e-06,
+   2.2404e-12
+  ],
+  [
+   4.29557e-06,
+   2.5085e-12
+  ],
+  [
+   4.31497e-06,
+   2.5529e-12
+  ],
+  [
+   4.33445e-06,
+   2.4736e-12
+  ],
+  [
+   4.35402e-06,
+   2.4003e-12
+  ],
+  [
+   4.37367e-06,
+   2.5459e-12
+  ],
+  [
+   4.39342e-06,
+   2.693e-12
+  ],
+  [
+   4.41326e-06,
+   2.3983e-12
+  ],
+  [
+   4.43318e-06,
+   2.5159e-12
+  ],
+  [
+   4.4532e-06,
+   2.3647e-12
+  ],
+  [
+   4.4733e-06,
+   2.6059e-12
+  ],
+  [
+   4.4935e-06,
+   3.0101e-12
+  ],
+  [
+   4.51378e-06,
+   3.6598e-12
+  ],
+  [
+   4.53416e-06,
+   2.5992e-12
+  ],
+  [
+   4.55463e-06,
+   2.6125e-12
+  ],
+  [
+   4.5752e-06,
+   2.5365e-12
+  ],
+  [
+   4.59585e-06,
+   2.6379e-12
+  ],
+  [
+   4.6166e-06,
+   2.5976e-12
+  ],
+  [
+   4.63745e-06,
+   2.6175e-12
+  ],
+  [
+   4.65838e-06,
+   2.6244e-12
+  ],
+  [
+   4.67941e-06,
+   2.4222e-12
+  ],
+  [
+   4.70054e-06,
+   2.2837e-12
+  ],
+  [
+   4.72176e-06,
+   2.5897e-12
+  ],
+  [
+   4.74308e-06,
+   4.2059e-12
+  ],
+  [
+   4.76449e-06,
+   3.1214e-12
+  ],
+  [
+   4.78601e-06,
+   3.2403e-12
+  ],
+  [
+   4.80761e-06,
+   4.5564e-12
+  ],
+  [
+   4.82932e-06,
+   6.2322e-12
+  ],
+  [
+   4.85112e-06,
+   2.2614e-11
+  ],
+  [
+   4.87302e-06,
+   2.2699e-11
+  ],
+  [
+   4.89502e-06,
+   8.3073e-12
+  ],
+  [
+   4.91712e-06,
+   5.6278e-12
+  ],
+  [
+   4.93932e-06,
+   4.1784e-12
+  ],
+  [
+   4.96162e-06,
+   6.2297e-12
+  ],
+  [
+   4.98403e-06,
+   1.5464e-11
+  ],
+  [
+   5.00653e-06,
+   1.0707e-11
+  ],
+  [
+   5.02913e-06,
+   3.3099e-12
+  ],
+  [
+   5.05184e-06,
+   4.4645e-12
+  ],
+  [
+   5.07464e-06,
+   5.5793e-12
+  ],
+  [
+   5.09756e-06,
+   4.2511e-12
+  ],
+  [
+   5.12057e-06,
+   3.7021e-12
+  ],
+  [
+   5.14369e-06,
+   3.7852e-12
+  ],
+  [
+   5.16691e-06,
+   3.5166e-12
+  ],
+  [
+   5.19024e-06,
+   3.2306e-12
+  ],
+  [
+   5.21367e-06,
+   4.6957e-12
+  ],
+  [
+   5.23721e-06,
+   1.4731e-11
+  ],
+  [
+   5.26086e-06,
+   9.8698e-12
+  ],
+  [
+   5.28461e-06,
+   1.0884e-11
+  ],
+  [
+   5.30847e-06,
+   5.1049e-12
+  ],
+  [
+   5.33243e-06,
+   5.4477e-12
+  ],
+  [
+   5.35651e-06,
+   2.9544e-12
+  ],
+  [
+   5.38069e-06,
+   2.7351e-12
+  ],
+  [
+   5.40498e-06,
+   2.6887e-12
+  ],
+  [
+   5.42939e-06,
+   2.6107e-12
+  ],
+  [
+   5.4539e-06,
+   2.7224e-12
+  ],
+  [
+   5.47852e-06,
+   2.5324e-12
+  ],
+  [
+   5.50326e-06,
+   2.4302e-12
+  ],
+  [
+   5.5281e-06,
+   2.8063e-12
+  ],
+  [
+   5.55306e-06,
+   2.6467e-12
+  ],
+  [
+   5.57813e-06,
+   2.7055e-12
+  ],
+  [
+   5.60332e-06,
+   3.054e-12
+  ],
+  [
+   5.62861e-06,
+   2.3003e-12
+  ],
+  [
+   5.65403e-06,
+   2.5286e-12
+  ],
+  [
+   5.67955e-06,
+   2.596e-12
+  ],
+  [
+   5.70519e-06,
+   2.4358e-12
+  ],
+  [
+   5.73095e-06,
+   2.4446e-12
+  ],
+  [
+   5.75683e-06,
+   2.4966e-12
+  ],
+  [
+   5.78282e-06,
+   2.5215e-12
+  ],
+  [
+   5.80893e-06,
+   2.5475e-12
+  ],
+  [
+   5.83515e-06,
+   2.6536e-12
+  ],
+  [
+   5.8615e-06,
+   2.4724e-12
+  ],
+  [
+   5.88796e-06,
+   2.332e-12
+  ],
+  [
+   5.91454e-06,
+   2.4599e-12
+  ],
+  [
+   5.94125e-06,
+   2.834e-12
+  ],
+  [
+   5.96807e-06,
+   2.5144e-12
+  ],
+  [
+   5.99501e-06,
+   2.6646e-12
+  ],
+  [
+   6.02208e-06,
+   2.4207e-12
+  ],
+  [
+   6.04927e-06,
+   2.7495e-12
+  ],
+  [
+   6.07658e-06,
+   9.6612e-12
+  ],
+  [
+   6.10401e-06,
+   3.4413e-12
+  ],
+  [
+   6.13157e-06,
+   1.2161e-11
+  ],
+  [
+   6.15926e-06,
+   1.4038e-11
+  ],
+  [
+   6.18706e-06,
+   2.4704e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "DPDM-FAST_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Observed 95% C.L. FAST exclusion on kinetic mixing epsilon, solid red curve of Fig. 1 (e-print final-plot.pdf), randomized polarization scheme (the paper's headline scenario). Vector paths extracted with pymupdf; axes calibrated from the frame rectangle (x: 70->580 pt = 1e-8->1e-4 eV; y: 412->55 pt = 1e-16->1e-8), which coincides with the 10^n tick-label centers. Curve covers 1.0-1.5 GHz (m_A' = 4.13e-6 to 6.20e-6 eV), consistent with the quoted observation band. The per-frequency limit is extremely jagged (RFI spikes up to ~1e-8); points are the log-median of the curve in 90 mass bins, tracing the visible curve floor/bulk (~2-7e-12). Figure y-axis is epsilon*(rho_A'/rho_DM)^0.5 with rho_DM = 0.3 GeV/cm^3 assumed, i.e. paper-native epsilon at 0.3 GeV/cm^3 (no rescaling applied). Cross-check: abstract states the limit reaches 1e-12 at 1-1.5 GHz; extracted minimum is 1.7e-12.",
+ "num_points": 90,
+ "arxiv_id": "2207.05767",
+ "elapsed_s": 119.87282013893127,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 119524,
+  "duration_api_ms": 115006,
+  "total_cost_usd": 1.2083265,
+  "usage": {
+   "input_tokens": 311,
+   "output_tokens": 9066,
+   "cache_creation_input_tokens": 33389,
+   "cache_read_input_tokens": 270504
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2207.05767.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:49:43-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

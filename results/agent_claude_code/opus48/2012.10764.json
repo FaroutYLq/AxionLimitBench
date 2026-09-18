@@ -1,0 +1,246 @@
+{
+ "paper_title": "First Results from Axion Haloscope at CAPP around 10.7 ueV",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.01725e-05,
+   3.266e-14
+  ],
+  [
+   1.01975e-05,
+   3.171e-14
+  ],
+  [
+   1.02225e-05,
+   3.079e-14
+  ],
+  [
+   1.02475e-05,
+   3.111e-14
+  ],
+  [
+   1.02725e-05,
+   3.021e-14
+  ],
+  [
+   1.02975e-05,
+   3.28e-14
+  ],
+  [
+   1.03225e-05,
+   3.341e-14
+  ],
+  [
+   1.03475e-05,
+   3.837e-14
+  ],
+  [
+   1.03725e-05,
+   3.785e-14
+  ],
+  [
+   1.03975e-05,
+   3.675e-14
+  ],
+  [
+   1.04225e-05,
+   3.64e-14
+  ],
+  [
+   1.04475e-05,
+   3.634e-14
+  ],
+  [
+   1.04725e-05,
+   3.585e-14
+  ],
+  [
+   1.04975e-05,
+   3.924e-14
+  ],
+  [
+   1.05225e-05,
+   3.779e-14
+  ],
+  [
+   1.05475e-05,
+   4.409e-14
+  ],
+  [
+   1.05725e-05,
+   4.826e-14
+  ],
+  [
+   1.05975e-05,
+   5.116e-14
+  ],
+  [
+   1.06225e-05,
+   4.585e-14
+  ],
+  [
+   1.06475e-05,
+   4.209e-14
+  ],
+  [
+   1.06725e-05,
+   4.053e-14
+  ],
+  [
+   1.06975e-05,
+   3.904e-14
+  ],
+  [
+   1.07134e-05,
+   4.736e-15
+  ],
+  [
+   1.07225e-05,
+   4.74e-15
+  ],
+  [
+   1.07475e-05,
+   3.316e-14
+  ],
+  [
+   1.07725e-05,
+   3.377e-14
+  ],
+  [
+   1.07975e-05,
+   3.495e-14
+  ],
+  [
+   1.08225e-05,
+   3.646e-14
+  ],
+  [
+   1.08475e-05,
+   3.865e-14
+  ],
+  [
+   1.08725e-05,
+   3.843e-14
+  ],
+  [
+   1.08975e-05,
+   3.79e-14
+  ],
+  [
+   1.09225e-05,
+   3.769e-14
+  ],
+  [
+   1.09475e-05,
+   3.718e-14
+  ],
+  [
+   1.09725e-05,
+   3.696e-14
+  ],
+  [
+   1.09975e-05,
+   3.75e-14
+  ],
+  [
+   1.10225e-05,
+   3.758e-14
+  ],
+  [
+   1.10475e-05,
+   3.782e-14
+  ],
+  [
+   1.10725e-05,
+   3.79e-14
+  ],
+  [
+   1.10975e-05,
+   3.86e-14
+  ],
+  [
+   1.11225e-05,
+   3.994e-14
+  ],
+  [
+   1.11475e-05,
+   4.035e-14
+  ],
+  [
+   1.11725e-05,
+   4.243e-14
+  ],
+  [
+   1.11975e-05,
+   4.287e-14
+  ],
+  [
+   1.12225e-05,
+   4.262e-14
+  ],
+  [
+   1.12475e-05,
+   3.85e-14
+  ],
+  [
+   1.12725e-05,
+   3.797e-14
+  ],
+  [
+   1.12975e-05,
+   3.716e-14
+  ],
+  [
+   1.13225e-05,
+   3.754e-14
+  ],
+  [
+   1.13475e-05,
+   3.732e-14
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "CAPP-PACE_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "CAPP-PACE haloscope. Curve from Fig.4 (main panel), which plots |g_gamma/g_gamma^KSVZ| vs m_a. Recovered the bottom edge of the red excluded region by pixel/colour extraction (y-axis calibrated from major ticks 10^0-10^4 at rows 1354->202; ratio=1 dashed KSVZ line at y=1354). Converted to g_agamma via g_agamma = ratio * g_agamma^KSVZ, with g_agamma^KSVZ = g_gamma*alpha/(pi*f_a), g_gamma=0.97 (paper's value), f_a=5.7e12/m_a[ueV] GeV from m_a=5.7ueV*(1e12GeV/f_a). Excluded band 10.16-11.37 ueV at ~8-10x KSVZ (plateau ~9x), with a narrow notch reaching near-KSVZ sensitivity (ratio~1.1) at 10.7126-10.7186 ueV (KSVZ run); notch captured by min in 10.705-10.725 ueV bin plus explicit deep point at 10.7134 ueV. rho_a=0.45 GeV/cm^3 (paper). 90% CL. Small real gaps (bluetooth ~2.48GHz, TE crossings 2.5-2.6/2.74GHz) smoothed over.",
+ "num_points": 49,
+ "arxiv_id": "2012.10764",
+ "elapsed_s": 246.39851880073547,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 246112,
+  "duration_api_ms": 242131,
+  "total_cost_usd": 1.06666,
+  "usage": {
+   "input_tokens": 427,
+   "output_tokens": 17936,
+   "cache_creation_input_tokens": 39946,
+   "cache_read_input_tokens": 433330
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2012.10764.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:19:51-0500"
+ }
+}

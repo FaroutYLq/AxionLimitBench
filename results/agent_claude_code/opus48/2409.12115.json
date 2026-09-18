@@ -1,0 +1,230 @@
+{
+ "paper_title": "Revisiting Dark Photon Constraints from CMB Spectral Distortions",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.902242292133548e-12,
+   3.950715960790694e-06
+  ],
+  [
+   2.9997474187417802e-12,
+   3.5497950972465833e-06
+  ],
+  [
+   4.730461841511969e-12,
+   3.1782254835949146e-06
+  ],
+  [
+   7.459717806303399e-12,
+   2.8261691191490283e-06
+  ],
+  [
+   1.1763627234311222e-11,
+   2.4961492644489614e-06
+  ],
+  [
+   1.855069176891594e-11,
+   2.207960890924354e-06
+  ],
+  [
+   2.925357615052606e-11,
+   1.9361963623016284e-06
+  ],
+  [
+   4.613152588889358e-11,
+   1.6121097926713335e-06
+  ],
+  [
+   7.274726583468942e-11,
+   1.2250651013348023e-06
+  ],
+  [
+   1.1471904699551871e-10,
+   8.663317332593612e-07
+  ],
+  [
+   1.8090658930695565e-10,
+   5.869321506316481e-07
+  ],
+  [
+   2.852812580979147e-10,
+   3.8822071815003635e-07
+  ],
+  [
+   4.498752451953955e-10,
+   2.525505022999834e-07
+  ],
+  [
+   7.094322900460306e-10,
+   1.6204838843786614e-07
+  ],
+  [
+   1.11874165012427e-09,
+   1.016766271620479e-07
+  ],
+  [
+   1.7642034303817244e-09,
+   5.236237584832089e-08
+  ],
+  [
+   2.782066568653197e-09,
+   4.4892893278858347e-08
+  ],
+  [
+   4.3871892884502035e-09,
+   4.095096763570807e-08
+  ],
+  [
+   6.918392992303501e-09,
+   3.9063805870965194e-08
+  ],
+  [
+   1.0909983237322898e-08,
+   3.7858582323754006e-08
+  ],
+  [
+   1.720453497959444e-08,
+   3.5685320821894056e-08
+  ],
+  [
+   2.7130749646937106e-08,
+   3.457423891426307e-08
+  ],
+  [
+   4.278392745155911e-08,
+   3.3950299272769996e-08
+  ],
+  [
+   6.746825915246766e-08,
+   3.3436256101647757e-08
+  ],
+  [
+   1.0639429954667839e-07,
+   3.306306699621744e-08
+  ],
+  [
+   1.6777885065105178e-07,
+   3.275660952389836e-08
+  ],
+  [
+   2.645794262073011e-07,
+   3.2504914001388715e-08
+  ],
+  [
+   4.1722942135165944e-07,
+   3.2195018451784614e-08
+  ],
+  [
+   6.579513476797948e-07,
+   3.167066000085438e-08
+  ],
+  [
+   1.0375586038760937e-06,
+   3.103249715360717e-08
+  ],
+  [
+   1.6361815509210269e-06,
+   3.0355995909887225e-08
+  ],
+  [
+   2.5801820326806747e-06,
+   2.988620477870116e-08
+  ],
+  [
+   4.068826786379959e-06,
+   2.9625343617728243e-08
+  ],
+  [
+   6.416350167496871e-06,
+   2.966812141713519e-08
+  ],
+  [
+   1.011828510610198e-05,
+   2.9922604922555684e-08
+  ],
+  [
+   1.5956063932886167e-05,
+   3.045366883261142e-08
+  ],
+  [
+   2.5161969005677996e-05,
+   3.171605892591082e-08
+  ],
+  [
+   3.967925215803389e-05,
+   3.439757370412775e-08
+  ],
+  [
+   6.257233094379663e-05,
+   4.09738959169882e-08
+  ],
+  [
+   9.867364899283436e-05,
+   6.013822253734316e-08
+  ],
+  [
+   0.00015560374463765073,
+   1.29036888068179e-07
+  ],
+  [
+   0.0002453798515854777,
+   5.499387734463636e-07
+  ],
+  [
+   0.0003869525871907706,
+   2.151736118690677e-06
+  ],
+  [
+   0.0006102061916093078,
+   6.329238333332716e-06
+  ],
+  [
+   0.0009622667184668843,
+   1.910739022133022e-05
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.82,
+ "suggested_experiment_name": "COBE-FIRAS_CosmoTherm_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline measured limit = COBE/FIRAS constraint from Fig.8 (eps_limits_new.pdf), blue solid CosmoTherm curve labelled FIRAS (drawing idx615, vector). Constraint from photon->dark-photon conversion imprinting CMB spectral distortions; y-axis is kinetic mixing epsilon = chi directly (no conversion). Bathtub: floor ~3e-8 over m_d~1e-9..1e-4 eV, rising to ~4e-6 at 1e-12 eV and ~2e-5 near 1e-3 eV. PIXIE curves (black) are future-spectrometer projections and NOT reported. Also-shown Analytic (blue dashed) and McD&W2020 (red) are alternative/comparison estimates, not the headline. Curve clipped to plotted range [1e-12,1e-3] eV. FIRAS bound corresponds to |drho/rho|<6e-5 (95% c.l.). Not a DM-density-dependent search (primordial pre-recombination conversion), so dm_density null.",
+ "num_points": 45,
+ "arxiv_id": "2409.12115",
+ "elapsed_s": 172.43998003005981,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 172132,
+  "duration_api_ms": 168977,
+  "total_cost_usd": 1.1406364999999998,
+  "usage": {
+   "input_tokens": 573,
+   "output_tokens": 11811,
+   "cache_creation_input_tokens": 46301,
+   "cache_read_input_tokens": 758973
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2409.12115.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:45:18-0500"
+ }
+}

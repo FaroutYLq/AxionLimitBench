@@ -1,0 +1,159 @@
+{
+ "paper_title": "Gas-rich dwarf galaxies as a new probe of dark matter interactions with ordinary matter",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-20,
+   0.0078819
+  ],
+  [
+   3.1623e-20,
+   0.0024925
+  ],
+  [
+   1e-19,
+   0.00078819
+  ],
+  [
+   3.1623e-19,
+   0.00024925
+  ],
+  [
+   1e-18,
+   7.8819e-05
+  ],
+  [
+   3.1623e-18,
+   2.4925e-05
+  ],
+  [
+   1e-17,
+   7.8819e-06
+  ],
+  [
+   3.1623e-17,
+   2.4925e-06
+  ],
+  [
+   1e-16,
+   7.8819e-07
+  ],
+  [
+   3.1623e-16,
+   2.4925e-07
+  ],
+  [
+   1e-15,
+   7.8819e-08
+  ],
+  [
+   3.1623e-15,
+   2.4925e-08
+  ],
+  [
+   1e-14,
+   7.8819e-09
+  ],
+  [
+   3.1623e-14,
+   2.4925e-09
+  ],
+  [
+   1e-13,
+   7.8819e-10
+  ],
+  [
+   3.1623e-13,
+   2.4925e-10
+  ],
+  [
+   1e-12,
+   7.8819e-11
+  ],
+  [
+   1.3187e-12,
+   5.9773e-11
+  ],
+  [
+   3.1623e-12,
+   1.4334e-10
+  ],
+  [
+   1e-11,
+   4.5329e-10
+  ],
+  [
+   3.1623e-11,
+   1.4334e-09
+  ],
+  [
+   1e-10,
+   4.5329e-09
+  ],
+  [
+   3.1623e-10,
+   1.4334e-08
+  ],
+  [
+   1e-09,
+   4.5329e-08
+  ],
+  [
+   3.1623e-09,
+   1.4334e-07
+  ],
+  [
+   1e-08,
+   4.5329e-07
+  ],
+  [
+   1e-08,
+   4.5329e-07
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "LeoT_2019",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline curve: thick black 'Leo T gas temp.' bound in Fig. 2 (figs/ULDP.pdf of the e-print), the paper's main hidden-photon-DM result (stronger than all previous literature for m < 1e-10 eV). The paper's kinetic mixing parameter g is the standard dimensionless kinetic mixing (chi); formalism of Dubovsky & Hernandez adopted in Appendix E. Curve extracted from vector paths: two exact power-law segments in log-log, g \u221d 1/m below and g \u221d m above a vertex at m \u2248 1.32e-12 eV (Leo T plasma frequency), g_min \u2248 6.0e-11; reported over the plotted range 1e-20 to 1e-8 eV. Axis calibration from labeled decade ticks. Bound uses Leo T's own Burkert-profile DM density (not the local DM density), so no rescaling to rho=0.45 GeV/cm3 applies; dm_density_assumed set to null. The paper quotes no confidence level: the limit is the conservative requirement that DM heating not exceed the gas radiative cooling rate. The blue G33.4-8.0 MW-cloud curve and the DM Radio projection in the same figure were not used.",
+ "num_points": 27,
+ "arxiv_id": "1903.12190",
+ "elapsed_s": 168.8968379497528,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 168595,
+  "duration_api_ms": 166455,
+  "total_cost_usd": 1.54454,
+  "usage": {
+   "input_tokens": 368,
+   "output_tokens": 11450,
+   "cache_creation_input_tokens": 42318,
+   "cache_read_input_tokens": 379865
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1903.12190.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:39:32-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

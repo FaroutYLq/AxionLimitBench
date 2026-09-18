@@ -1,0 +1,49 @@
+{
+ "paper_title": "The topological susceptibility in finite temperature QCD and axion cosmology",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "Petreczky_2016",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Lattice QCD study of the finite-temperature topological susceptibility chi_t (2+1 flavor HISQ, continuum extrapolated, compared to DIGA). The only axion result is a cosmological upper bound on the axion decay constant: assuming the QCD axion via post-inflation misalignment (theta^2 = pi^2/3) saturates the Planck DM abundance Omega_DM h^2 = 0.1199, they estimate f_a <= 1.2e12 GeV (~10% error), i.e. a lower bound on the axion mass. This is a single cosmological constraint derived from lattice chi_t plus the DM relic density, not an experimental or observational exclusion of any coupling, and not a sensitivity projection. Fig. 6 shows allowed T_osc vs f_a bands, not an exclusion curve in a canonical coupling plane. Hence is_new_limit=false. No coupling curve to report.",
+ "num_points": 0,
+ "arxiv_id": "1606.03145",
+ "elapsed_s": 37.4500527381897,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 8,
+  "duration_ms": 37145,
+  "duration_api_ms": 35870,
+  "total_cost_usd": 0.365788,
+  "usage": {
+   "input_tokens": 141,
+   "output_tokens": 2432,
+   "cache_creation_input_tokens": 26260,
+   "cache_read_input_tokens": 83366
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1606.03145.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:42:08-0500"
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "paper_title": "Searching for Axion-Like Particles with the Blazar Observations of MAGIC and Fermi-LAT",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.79e-09,
+   2.574e-11
+  ],
+  [
+   6.158e-09,
+   2.212e-11
+  ],
+  [
+   6.549e-09,
+   1.987e-11
+  ],
+  [
+   6.965e-09,
+   1.827e-11
+  ],
+  [
+   7.408e-09,
+   1.699e-11
+  ],
+  [
+   7.916e-09,
+   1.593e-11
+  ],
+  [
+   8.42e-09,
+   1.511e-11
+  ],
+  [
+   8.955e-09,
+   1.446e-11
+  ],
+  [
+   9.524e-09,
+   1.39e-11
+  ],
+  [
+   1.013e-08,
+   1.351e-11
+  ],
+  [
+   1.082e-08,
+   1.32e-11
+  ],
+  [
+   1.151e-08,
+   1.309e-11
+  ],
+  [
+   1.224e-08,
+   1.309e-11
+  ],
+  [
+   1.302e-08,
+   1.333e-11
+  ],
+  [
+   1.392e-08,
+   1.394e-11
+  ],
+  [
+   1.48e-08,
+   1.462e-11
+  ],
+  [
+   1.574e-08,
+   1.544e-11
+  ],
+  [
+   1.674e-08,
+   1.628e-11
+  ],
+  [
+   1.781e-08,
+   1.719e-11
+  ],
+  [
+   1.903e-08,
+   1.83e-11
+  ],
+  [
+   2.024e-08,
+   1.866e-11
+  ],
+  [
+   2.152e-08,
+   1.794e-11
+  ],
+  [
+   2.289e-08,
+   1.727e-11
+  ],
+  [
+   2.446e-08,
+   1.669e-11
+  ],
+  [
+   2.602e-08,
+   1.625e-11
+  ],
+  [
+   2.767e-08,
+   1.593e-11
+  ],
+  [
+   2.943e-08,
+   1.575e-11
+  ],
+  [
+   3.13e-08,
+   1.57e-11
+  ],
+  [
+   3.345e-08,
+   1.719e-11
+  ],
+  [
+   3.557e-08,
+   1.929e-11
+  ],
+  [
+   3.783e-08,
+   3.148e-11
+  ],
+  [
+   4.024e-08,
+   3.205e-11
+  ],
+  [
+   4.3e-08,
+   3.275e-11
+  ],
+  [
+   4.573e-08,
+   3.346e-11
+  ],
+  [
+   4.864e-08,
+   3.429e-11
+  ],
+  [
+   5.173e-08,
+   3.515e-11
+  ],
+  [
+   5.502e-08,
+   3.627e-11
+  ],
+  [
+   5.879e-08,
+   3.749e-11
+  ],
+  [
+   6.253e-08,
+   3.893e-11
+  ],
+  [
+   6.65e-08,
+   4.051e-11
+  ],
+  [
+   7.073e-08,
+   4.235e-11
+  ],
+  [
+   7.558e-08,
+   4.45e-11
+  ],
+  [
+   8.039e-08,
+   4.606e-11
+  ],
+  [
+   8.55e-08,
+   4.531e-11
+  ],
+  [
+   9.093e-08,
+   4.457e-11
+  ],
+  [
+   9.671e-08,
+   4.391e-11
+  ],
+  [
+   1.033e-07,
+   4.334e-11
+  ],
+  [
+   1.099e-07,
+   4.284e-11
+  ],
+  [
+   1.169e-07,
+   4.32e-11
+  ],
+  [
+   1.243e-07,
+   4.399e-11
+  ],
+  [
+   1.329e-07,
+   4.591e-11
+  ],
+  [
+   1.413e-07,
+   4.888e-11
+  ],
+  [
+   1.503e-07,
+   5.136e-11
+  ],
+  [
+   1.598e-07,
+   5.334e-11
+  ],
+  [
+   1.7e-07,
+   5.37e-11
+  ],
+  [
+   1.817e-07,
+   5.405e-11
+  ],
+  [
+   1.932e-07,
+   5.441e-11
+  ],
+  [
+   2.055e-07,
+   5.614e-11
+  ],
+  [
+   2.186e-07,
+   5.802e-11
+  ],
+  [
+   2.336e-07,
+   6.096e-11
+  ],
+  [
+   2.544e-07,
+   6.598e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "Mrk421_MAGIC_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% C.L. combined limit from 15 phases of Mrk 421 (MAGIC + Fermi-LAT), red contour of Fig. 4, extracted from vector paths of eprint fig/fig_compare_contour_magic-eps-converted-to.pdf with gnuplot log-axis calibration (x: 1e-10 eV at 47.0pt, 73.867pt/decade; y: 1e-12 GeV^-1 at 169.2pt, 75.85pt/decade). Reported curve is the lower envelope of the excluded region (minimum excluded g_agamma per mass); the figure truncates the excluded region at the CAST level (~6.6e-11 GeV^-1), so the endpoints sit on that cap. Astrophysical photon-ALP propagation limit, no local DM density assumption. The PG 1553+113 analysis yields no limit per the paper. Fig. 4 uses the default source parameters (not the Fig. 6 rVHE=3e16 cm variant).",
+ "num_points": 61,
+ "arxiv_id": "2110.13636",
+ "elapsed_s": 165.6754240989685,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 165375,
+  "duration_api_ms": 161913,
+  "total_cost_usd": 1.4596765,
+  "usage": {
+   "input_tokens": 429,
+   "output_tokens": 13177,
+   "cache_creation_input_tokens": 30846,
+   "cache_read_input_tokens": 359054
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2110.13636.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T10:59:37-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,290 @@
+{
+ "paper_title": "The Irreducible Axion Background",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   110.0,
+   6.377e-11
+  ],
+  [
+   134.3,
+   5.435e-11
+  ],
+  [
+   166.8,
+   4.391e-11
+  ],
+  [
+   207.1,
+   3.364e-11
+  ],
+  [
+   252.9,
+   2.718e-11
+  ],
+  [
+   314.0,
+   2.082e-11
+  ],
+  [
+   389.9,
+   1.872e-11
+  ],
+  [
+   484.2,
+   1.682e-11
+  ],
+  [
+   591.2,
+   6.111e-12
+  ],
+  [
+   734.1,
+   4.438e-12
+  ],
+  [
+   911.6,
+   3.782e-12
+  ],
+  [
+   1132.0,
+   2.898e-12
+  ],
+  [
+   1382.0,
+   2.22e-12
+  ],
+  [
+   1716.0,
+   1.171e-12
+  ],
+  [
+   2131.0,
+   8.97e-13
+  ],
+  [
+   2646.0,
+   7.644e-13
+  ],
+  [
+   3231.0,
+   4.486e-13
+  ],
+  [
+   4012.0,
+   3.089e-13
+  ],
+  [
+   4982.0,
+   2.243e-13
+  ],
+  [
+   6186.0,
+   1.545e-13
+  ],
+  [
+   7555.0,
+   9.562e-14
+  ],
+  [
+   9381.0,
+   9.562e-14
+  ],
+  [
+   11650.0,
+   9.066e-14
+  ],
+  [
+   14460.0,
+   7.325e-14
+  ],
+  [
+   17660.0,
+   5.611e-14
+  ],
+  [
+   21930.0,
+   4.782e-14
+  ],
+  [
+   27230.0,
+   3.473e-14
+  ],
+  [
+   33810.0,
+   3.864e-14
+  ],
+  [
+   41290.0,
+   4.076e-14
+  ],
+  [
+   51270.0,
+   2.806e-14
+  ],
+  [
+   63660.0,
+   1.196e-14
+  ],
+  [
+   79050.0,
+   9.163e-15
+  ],
+  [
+   96530.0,
+   5.982e-15
+  ],
+  [
+   119900.0,
+   4.119e-15
+  ],
+  [
+   148800.0,
+   2.836e-15
+  ],
+  [
+   184800.0,
+   2.173e-15
+  ],
+  [
+   225700.0,
+   1.756e-15
+  ],
+  [
+   280200.0,
+   1.419e-15
+  ],
+  [
+   347900.0,
+   1.087e-15
+  ],
+  [
+   432000.0,
+   9.768e-16
+  ],
+  [
+   527600.0,
+   7.893e-16
+  ],
+  [
+   655100.0,
+   6.726e-16
+  ],
+  [
+   813400.0,
+   5.732e-16
+  ],
+  [
+   1010000.0,
+   4.163e-16
+  ],
+  [
+   1233000.0,
+   2.867e-16
+  ],
+  [
+   1532000.0,
+   2.577e-16
+  ],
+  [
+   1902000.0,
+   1.872e-16
+  ],
+  [
+   2361000.0,
+   4.583e-15
+  ],
+  [
+   2884000.0,
+   3.511e-15
+  ],
+  [
+   3581000.0,
+   2.836e-15
+  ],
+  [
+   4446000.0,
+   2.06e-15
+  ],
+  [
+   5520000.0,
+   1.578e-15
+  ],
+  [
+   6741000.0,
+   1.275e-15
+  ],
+  [
+   8371000.0,
+   9.768e-16
+  ],
+  [
+   10390000.0,
+   7.095e-16
+  ],
+  [
+   12910000.0,
+   5.435e-16
+  ],
+  [
+   15760000.0,
+   4.632e-16
+  ],
+  [
+   19570000.0,
+   4.163e-16
+  ],
+  [
+   24300000.0,
+   3.947e-16
+  ],
+  [
+   30170000.0,
+   5.153e-16
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "IrreducibleFreezeIn_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Photophilic (g_aee=0) result, Fig.1 (T_RH=5 MeV, g_agg_constraints.pdf), the headline result (abstract leads with g_agg<=8.1e-14 GeV^-1 at 10 keV; my envelope gives 8.15e-14 at 10 keV, calibration verified). Curve is the LOWER boundary (exclusion reach in coupling) of the union of the paper own irreducible-freeze-in constraints: CRB (green), X-ray (orange/mustard, recast local DM-decay searches), CMB anisotropies (velvet) and CMB spectral distortions SD (dark gray). Light-gray astrophysical regions (HB stars, SN1987A, Solar Basin) are NOT the paper own limits and are excluded. The disconnected dark-gray BBN blob (m~4e3-2e4 keV) is for T_RH=10 MeV, not 5 MeV, and does not affect the low-coupling reach; excluded. The excluded region is actually a band; only its lower edge (the strong new reach) is reported as g(m). X-ray tip reaches ~2e-16 near 1.6 MeV; CMB branch reaches ~4e-16 near 2e4 keV. Extracted from vector fills of the arXiv figure via pymupdf get_drawings with tick-calibrated log axes. Confidence level not stated by paper; 0.95 assumed. Density: relic freeze-in abundance argument, not a local-DM-density haloscope, so no dm_density rescaling applies (null).",
+ "num_points": 60,
+ "arxiv_id": "2209.06216",
+ "elapsed_s": 411.29032492637634,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 28,
+  "duration_ms": 410986,
+  "duration_api_ms": 404221,
+  "total_cost_usd": 1.672562,
+  "usage": {
+   "input_tokens": 733,
+   "output_tokens": 27748,
+   "cache_creation_input_tokens": 52023,
+   "cache_read_input_tokens": 909934
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2209.06216.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:42:34-0500"
+ }
+}

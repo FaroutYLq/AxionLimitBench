@@ -1,0 +1,162 @@
+{
+ "paper_title": "Search for ultralight axion dark matter in a side-band analysis of a 199Hg free-spin precession signal",
+ "coupling_type": "AxionNucleon",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.1360000000000005e-16,
+   2.817e-05
+  ],
+  [
+   6.204e-16,
+   2.6292e-05
+  ],
+  [
+   8.272000000000001e-16,
+   2.4413999999999997e-05
+  ],
+  [
+   1.2408e-15,
+   2.2536e-05
+  ],
+  [
+   2.068e-15,
+   2.0657999999999998e-05
+  ],
+  [
+   2.8951999999999998e-15,
+   1.878e-05
+  ],
+  [
+   4.136e-15,
+   1.878e-05
+  ],
+  [
+   6.204000000000001e-15,
+   1.878e-05
+  ],
+  [
+   8.272e-15,
+   1.878e-05
+  ],
+  [
+   1.2408000000000001e-14,
+   1.878e-05
+  ],
+  [
+   1.6544e-14,
+   1.878e-05
+  ],
+  [
+   2.068e-14,
+   1.878e-05
+  ],
+  [
+   2.8952e-14,
+   2.0657999999999998e-05
+  ],
+  [
+   4.136e-14,
+   2.4413999999999997e-05
+  ],
+  [
+   4.9632000000000005e-14,
+   2.817e-05
+  ],
+  [
+   6.204e-14,
+   3.3804e-05
+  ],
+  [
+   7.444800000000001e-14,
+   4.1315999999999995e-05
+  ],
+  [
+   8.272e-14,
+   4.695e-05
+  ],
+  [
+   9.0992e-14,
+   5.2584e-05
+  ],
+  [
+   1.034e-13,
+   6.0095999999999995e-05
+  ],
+  [
+   1.15808e-13,
+   6.7608e-05
+  ],
+  [
+   1.2408e-13,
+   7.512e-05
+  ],
+  [
+   1.4476e-13,
+   9.765599999999999e-05
+  ],
+  [
+   1.6544e-13,
+   0.00011268
+  ],
+  [
+   2.068e-13,
+   0.00015024
+  ],
+  [
+   2.4816e-13,
+   0.0001878
+  ],
+  [
+   2.8952e-13,
+   0.00022536
+  ],
+  [
+   3.3088e-13,
+   0.00028169999999999996
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "PSI-HgM_2022",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Exclusion limit extracted from Figure 4, red 'PSI-HgM-sideband' curve. 95% CL limit from null result of free-spin precession measurement of 199Hg in 1 \u03bcT magnetic field at PSI. Assumes equal axion-neutron and axion-proton couplings (g_ann=g_app) as stated in paper. Conversion from paper's g_aNn (GeV^-1, non-relativistic form L=g\u2202_\u03bca N\u0304\u03b3^\u03bc\u03b3_5 N) to canonical g_an (dimensionless) using g_an=2m_n g_paper with m_n=0.939 GeV. Search covers axion mass range 10^-16 eV \u2264 m_a \u2264 10^-13 eV (Compton frequencies 0.024-24.2 Hz). Peak sensitivity reported as 3.5\u00d710^-6 GeV^-1. Limit increases above ~30 Hz due to finite axion field coherence time (\u03c4_c\u224813.1 s for stated mass range). Dashed black curve shows expected future sensitivity (improvement factor of 10).",
+ "num_points": 28,
+ "arxiv_id": "2212.02403",
+ "elapsed_s": 244.62193989753723,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 29,
+  "duration_ms": 244220,
+  "duration_api_ms": 238644,
+  "total_cost_usd": 0.39027660000000003,
+  "usage": {
+   "input_tokens": 204,
+   "output_tokens": 26643,
+   "cache_creation_input_tokens": 68234,
+   "cache_read_input_tokens": 1203896
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2212.02403.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:01:19-0500"
+ }
+}

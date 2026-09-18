@@ -1,0 +1,230 @@
+{
+ "paper_title": "Constraints on axion-like particles with the Perseus Galaxy Cluster with MAGIC",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.313e-08,
+   3.668e-12
+  ],
+  [
+   4.62e-08,
+   3.032e-12
+  ],
+  [
+   4.95e-08,
+   3.136e-12
+  ],
+  [
+   5.303e-08,
+   3.243e-12
+  ],
+  [
+   5.682e-08,
+   3.354e-12
+  ],
+  [
+   6.087e-08,
+   3.469e-12
+  ],
+  [
+   6.522e-08,
+   3.587e-12
+  ],
+  [
+   6.987e-08,
+   3.752e-12
+  ],
+  [
+   7.486e-08,
+   3.968e-12
+  ],
+  [
+   8.02e-08,
+   4.244e-12
+  ],
+  [
+   8.593e-08,
+   4.59e-12
+  ],
+  [
+   9.206e-08,
+   4.964e-12
+  ],
+  [
+   9.863e-08,
+   5.369e-12
+  ],
+  [
+   1.057e-07,
+   5.808e-12
+  ],
+  [
+   1.132e-07,
+   6.281e-12
+  ],
+  [
+   1.213e-07,
+   7.859e-12
+  ],
+  [
+   1.299e-07,
+   1.028e-11
+  ],
+  [
+   1.392e-07,
+   1.456e-11
+  ],
+  [
+   1.492e-07,
+   2.014e-11
+  ],
+  [
+   1.598e-07,
+   2.52e-11
+  ],
+  [
+   1.712e-07,
+   2.982e-11
+  ],
+  [
+   1.834e-07,
+   3.189e-11
+  ],
+  [
+   1.965e-07,
+   3.449e-11
+  ],
+  [
+   2.105e-07,
+   3.689e-11
+  ],
+  [
+   2.256e-07,
+   3.815e-11
+  ],
+  [
+   2.417e-07,
+   3.946e-11
+  ],
+  [
+   2.589e-07,
+   4.035e-11
+  ],
+  [
+   2.774e-07,
+   4.173e-11
+  ],
+  [
+   2.972e-07,
+   4.267e-11
+  ],
+  [
+   3.184e-07,
+   4.364e-11
+  ],
+  [
+   3.411e-07,
+   4.463e-11
+  ],
+  [
+   3.655e-07,
+   4.564e-11
+  ],
+  [
+   3.916e-07,
+   4.72e-11
+  ],
+  [
+   4.195e-07,
+   4.827e-11
+  ],
+  [
+   4.495e-07,
+   7.557e-11
+  ],
+  [
+   4.815e-07,
+   2.291e-10
+  ],
+  [
+   5.159e-07,
+   2.423e-10
+  ],
+  [
+   5.527e-07,
+   2.592e-10
+  ],
+  [
+   5.922e-07,
+   2.803e-10
+  ],
+  [
+   6.344e-07,
+   3.101e-10
+  ],
+  [
+   6.797e-07,
+   3.43e-10
+  ],
+  [
+   7.282e-07,
+   3.794e-10
+  ],
+  [
+   7.802e-07,
+   4.15e-10
+  ],
+  [
+   8.359e-07,
+   4.59e-10
+  ],
+  [
+   8.475e-07,
+   4.694e-10
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.99,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "MAGIC_Perseus_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "MAGIC 41.3 hr of NGC 1275 (Perseus cluster) VHE gamma-ray spectrum; photon-ALP mixing in the cluster B-field (spectral-irregularity search, not a DM search, so dm_density=null). Coupling convention is exactly canonical, Eq.(1.1): L = -(g_ag/4) F F~ a. Curve is the LOWER boundary of the 99% CL excluded region (solid black contour) traced from the raster Fig.2 (Sigma_plot.png), extracted by pixel-detecting the largest connected black component (solid contour; dashed 95% contour is broken into fragments) and taking the bottom edge (smallest excluded g) per mass column. Axes calibrated from major log-decade tick pixels: x 10^-9..10^-6 at px 204/371/538/705, y 10^-10/-11/-12 at px 153/358.5/564. Deepest point g=3.0e-12 GeV^-1 near m_a=46 neV, matching the paper's stated best sensitivity g_ag=3.0e-12 at m_a=40 neV; most competitive over 40-90 neV. Points at m>~4.5e-7 eV (g rising from ~5e-11 to ~5e-10) are the near-vertical right/closing edge of the excluded island where only large couplings are excluded. Paper explicitly states the exclusion region is shown at 99% CL (Fig.2/Fig.5). Excluded region is a closed 2D island; only its lower-right envelope (the limit) is reported.",
+ "num_points": 45,
+ "arxiv_id": "2401.07798",
+ "elapsed_s": 271.23800778388977,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 27,
+  "duration_ms": 270953,
+  "duration_api_ms": 266912,
+  "total_cost_usd": 1.5406660000000003,
+  "usage": {
+   "input_tokens": 696,
+   "output_tokens": 18214,
+   "cache_creation_input_tokens": 56579,
+   "cache_read_input_tokens": 1032092
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2401.07798.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:05:45-0500"
+ }
+}

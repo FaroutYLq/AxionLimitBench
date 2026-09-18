@@ -1,0 +1,167 @@
+{
+ "paper_title": "3D template-based Fermi-LAT constraints on the diffuse supernova axion-like particle background",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-12,
+   3.765e-11
+  ],
+  [
+   5.992e-11,
+   3.758e-11
+  ],
+  [
+   1.005e-10,
+   3.757e-11
+  ],
+  [
+   1.165e-10,
+   3.858e-11
+  ],
+  [
+   1.35e-10,
+   3.977e-11
+  ],
+  [
+   1.565e-10,
+   4.114e-11
+  ],
+  [
+   1.814e-10,
+   4.272e-11
+  ],
+  [
+   2.102e-10,
+   4.456e-11
+  ],
+  [
+   2.437e-10,
+   4.669e-11
+  ],
+  [
+   2.722e-10,
+   4.852e-11
+  ],
+  [
+   3.041e-10,
+   5.054e-11
+  ],
+  [
+   3.397e-10,
+   5.282e-11
+  ],
+  [
+   3.795e-10,
+   5.535e-11
+  ],
+  [
+   4.239e-10,
+   5.819e-11
+  ],
+  [
+   4.736e-10,
+   6.135e-11
+  ],
+  [
+   5.29e-10,
+   6.489e-11
+  ],
+  [
+   5.91e-10,
+   6.883e-11
+  ],
+  [
+   6.602e-10,
+   7.325e-11
+  ],
+  [
+   7.375e-10,
+   7.818e-11
+  ],
+  [
+   8.239e-10,
+   8.369e-11
+  ],
+  [
+   9.549e-10,
+   9.204e-11
+  ],
+  [
+   9.909e-10,
+   9.433e-11
+  ],
+  [
+   1.028e-09,
+   9.778e-11
+  ],
+  [
+   1.331e-09,
+   1.286e-10
+  ],
+  [
+   1.789e-09,
+   1.752e-10
+  ],
+  [
+   2.588e-09,
+   2.565e-10
+  ],
+  [
+   4.03e-09,
+   4.033e-10
+  ],
+  [
+   7.01e-09,
+   7.067e-10
+  ],
+  [
+   9.896e-09,
+   1e-09
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.93,
+ "suggested_experiment_name": "DSNALP_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Observed 95% CL upper limit (solid crimson curve) from Fig. 10, extracted from the vector PDF in the arXiv e-print (ALP_joint_upper_limits_redshifted_DSNALPB_flux_w_HeavyNuclei_Mfail_20percent_statistical_uncertainty.pdf). Benchmark scenario: f_fail-CC=20%, Salpeter IMF, fiducial SFR, Jansson12c Galactic magnetic field model, Lorimer I interstellar emission model; 12-yr Fermi-LAT template analysis of the diffuse SN ALP background. Flat level g_agamma = 3.77e-11 GeV^-1 matches the quoted 3.76e-11 GeV^-1 for m_a << 1e-11 eV; flat limit extended to the figure's left edge at 1e-12 eV. Curve clipped at the figure's top frame (g=1e-9 GeV^-1) near m_a ~ 1e-8 eV. Astrophysical bound, no dark-matter density assumption. Systematic variations (Fig. 11) change the limit by up to ~factor 2; Fig. 10 benchmark is the headline result.",
+ "num_points": 29,
+ "arxiv_id": "2110.03679",
+ "elapsed_s": 144.09171509742737,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 143785,
+  "duration_api_ms": 139461,
+  "total_cost_usd": 1.468419,
+  "usage": {
+   "input_tokens": 456,
+   "output_tokens": 11688,
+   "cache_creation_input_tokens": 33806,
+   "cache_read_input_tokens": 405464
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2110.03679.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T10:53:02-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

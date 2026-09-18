@@ -1,0 +1,318 @@
+{
+ "paper_title": "Dark Photon Dark Matter in the Presence of Inhomogeneous Structure",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.5119e-22,
+   0.92154
+  ],
+  [
+   5.0119e-22,
+   0.46186
+  ],
+  [
+   1e-21,
+   0.23148
+  ],
+  [
+   1.9953e-21,
+   0.11602
+  ],
+  [
+   3.9811e-21,
+   0.058145
+  ],
+  [
+   7.9433e-21,
+   0.029142
+  ],
+  [
+   1.5849e-20,
+   0.014605
+  ],
+  [
+   3.1623e-20,
+   0.0073201
+  ],
+  [
+   6.3096e-20,
+   0.0036687
+  ],
+  [
+   1.2589e-19,
+   0.0018387
+  ],
+  [
+   2.5119e-19,
+   0.00092154
+  ],
+  [
+   5.0119e-19,
+   0.00046186
+  ],
+  [
+   1e-18,
+   0.00023148
+  ],
+  [
+   1.9953e-18,
+   0.00011602
+  ],
+  [
+   3.9811e-18,
+   5.8145e-05
+  ],
+  [
+   7.9433e-18,
+   2.9142e-05
+  ],
+  [
+   1.5849e-17,
+   1.4605e-05
+  ],
+  [
+   3.1623e-17,
+   7.3201e-06
+  ],
+  [
+   6.3096e-17,
+   3.6687e-06
+  ],
+  [
+   1.2589e-16,
+   1.8387e-06
+  ],
+  [
+   2.5119e-16,
+   9.2154e-07
+  ],
+  [
+   5.0119e-16,
+   4.6186e-07
+  ],
+  [
+   1e-15,
+   2.3148e-07
+  ],
+  [
+   1.9953e-15,
+   1.1602e-07
+  ],
+  [
+   3.9811e-15,
+   5.8145e-08
+  ],
+  [
+   7.9433e-15,
+   7.2331e-09
+  ],
+  [
+   1.5849e-14,
+   2.3024e-13
+  ],
+  [
+   3.1623e-14,
+   4.9345e-14
+  ],
+  [
+   6.3096e-14,
+   1.3653e-14
+  ],
+  [
+   1.2589e-13,
+   3.6499e-15
+  ],
+  [
+   2.5119e-13,
+   2.5647e-15
+  ],
+  [
+   5.0119e-13,
+   1.985e-14
+  ],
+  [
+   1e-12,
+   1.8476e-14
+  ],
+  [
+   1.9953e-12,
+   1.3725e-14
+  ],
+  [
+   3.9811e-12,
+   6.7976e-15
+  ],
+  [
+   7.9433e-12,
+   3.1463e-15
+  ],
+  [
+   1.5849e-11,
+   2.0431e-15
+  ],
+  [
+   3.1623e-11,
+   1.7544e-15
+  ],
+  [
+   6.3096e-11,
+   1.7544e-15
+  ],
+  [
+   1.2589e-10,
+   2.078e-15
+  ],
+  [
+   2.5119e-10,
+   5.363e-15
+  ],
+  [
+   5.0119e-10,
+   1.1618e-12
+  ],
+  [
+   1e-09,
+   1.0672e-12
+  ],
+  [
+   1.9953e-09,
+   1.3563e-12
+  ],
+  [
+   3.9811e-09,
+   1.8142e-12
+  ],
+  [
+   7.9433e-09,
+   2.4487e-12
+  ],
+  [
+   1.5849e-08,
+   3.2999e-12
+  ],
+  [
+   3.1623e-08,
+   4.618e-12
+  ],
+  [
+   6.3096e-08,
+   6.6192e-12
+  ],
+  [
+   1.2589e-07,
+   1.0032e-11
+  ],
+  [
+   2.5119e-07,
+   1.5576e-11
+  ],
+  [
+   5.0119e-07,
+   1.7363e-11
+  ],
+  [
+   1e-06,
+   2.2151e-11
+  ],
+  [
+   1.9953e-06,
+   3.0212e-11
+  ],
+  [
+   3.9811e-06,
+   4.2354e-11
+  ],
+  [
+   7.9433e-06,
+   6.0454e-11
+  ],
+  [
+   1.5849e-05,
+   8.9314e-11
+  ],
+  [
+   3.1623e-05,
+   1.4604e-10
+  ],
+  [
+   6.3096e-05,
+   3.2605e-10
+  ],
+  [
+   0.00012589,
+   1.4744e-09
+  ],
+  [
+   0.00025119,
+   2.7492e-09
+  ],
+  [
+   0.00050119,
+   3.2369e-09
+  ],
+  [
+   0.001,
+   3.7956e-09
+  ],
+  [
+   0.0019953,
+   4.4351e-09
+  ],
+  [
+   0.0039811,
+   4.355e-09
+  ],
+  [
+   0.0079433,
+   5.7404e-09
+  ],
+  [
+   0.01,
+   6.3089e-09
+  ]
+ ],
+ "data_source": "ancillary_file",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "LymanAlpha_2020",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Dark photon dark matter kinetic mixing epsilon (=chi) bound. Curve taken directly from the e-print ancillary file anc/DarkPhoton_DM_Constraint_Summary_Inhomogeneous_Combined.dat (col1=m_A in eV, col2=epsilon), which is the papers own combined constraint from Lyman-alpha forest observations of HeII reionization (resonant conversion, Fig.4 left, plus non-resonant inverse-bremsstrahlung absorption, Fig.4 right) in their inhomogeneous treatment. This is the headline measured limit; the 21cm results (Sec.4) are projections and excluded. Reported chi directly (not chi^2). Text cross-check: min epsilon ~ 1.75e-15 near m_A ~ 3-6e-14... resonant min quoted as extension of Ref [21] epsilon<2e-15. Points with col2=1 (no constraint, m<2.5e-22 eV) dropped. Limit assumes dark photon is 100% of cosmological dark matter; depends on cosmological rho_CDM(z), not a local halo density, so dm_density_assumed=null. CMB grey region in Fig.4 is borrowed from Ref [21] and not included. Confidence level not explicitly stated by the paper (Ly-alpha heating bound <=0.5 eV/baryon); 0.95 assumed.",
+ "num_points": 67,
+ "arxiv_id": "2003.13698",
+ "elapsed_s": 158.7186291217804,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 158415,
+  "duration_api_ms": 156234,
+  "total_cost_usd": 0.7780349999999999,
+  "usage": {
+   "input_tokens": 332,
+   "output_tokens": 10959,
+   "cache_creation_input_tokens": 35098,
+   "cache_read_input_tokens": 302840
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2003.13698.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:48:51-0500"
+ }
+}

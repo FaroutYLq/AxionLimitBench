@@ -1,0 +1,196 @@
+{
+ "paper_title": "First results from the Axion Dark-Matter Birefringent Cavity (ADBC) experiment",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.102e-08,
+   1.781e-08
+  ],
+  [
+   4.121e-08,
+   1.308e-08
+  ],
+  [
+   4.141e-08,
+   1.381e-08
+  ],
+  [
+   4.161e-08,
+   1.376e-08
+  ],
+  [
+   4.181e-08,
+   1.626e-08
+  ],
+  [
+   4.202e-08,
+   1.855e-08
+  ],
+  [
+   4.219e-08,
+   1.584e-08
+  ],
+  [
+   4.24e-08,
+   1.404e-08
+  ],
+  [
+   4.26e-08,
+   1.163e-08
+  ],
+  [
+   4.28e-08,
+   1.099e-08
+  ],
+  [
+   4.3e-08,
+   1.389e-08
+  ],
+  [
+   4.319e-08,
+   1.601e-08
+  ],
+  [
+   4.94e-08,
+   1.843e-08
+  ],
+  [
+   4.951e-08,
+   1.816e-08
+  ],
+  [
+   4.961e-08,
+   1.53e-08
+  ],
+  [
+   4.971e-08,
+   1.372e-08
+  ],
+  [
+   4.982e-08,
+   1.591e-08
+  ],
+  [
+   4.992e-08,
+   1.694e-08
+  ],
+  [
+   5.002e-08,
+   1.476e-08
+  ],
+  [
+   5.013e-08,
+   1.602e-08
+  ],
+  [
+   5.023e-08,
+   1.72e-08
+  ],
+  [
+   5.033e-08,
+   1.762e-08
+  ],
+  [
+   5.044e-08,
+   1.989e-08
+  ],
+  [
+   5.054e-08,
+   2.062e-08
+  ],
+  [
+   5.447e-08,
+   2.571e-08
+  ],
+  [
+   5.466e-08,
+   2.39e-08
+  ],
+  [
+   5.486e-08,
+   2.451e-08
+  ],
+  [
+   5.505e-08,
+   2.206e-08
+  ],
+  [
+   5.525e-08,
+   2.641e-08
+  ],
+  [
+   5.546e-08,
+   2.491e-08
+  ],
+  [
+   5.562e-08,
+   2.146e-08
+  ],
+  [
+   5.583e-08,
+   1.925e-08
+  ],
+  [
+   5.603e-08,
+   1.7e-08
+  ],
+  [
+   5.622e-08,
+   1.682e-08
+  ],
+  [
+   5.641e-08,
+   2.128e-08
+  ],
+  [
+   5.66e-08,
+   2.151e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "ADBC_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline 95% upper limit on g_agamma from Fig.3 (adbc_gagg_bounds2.pdf), traced from the 5 blue dataset vector paths. Optical birefringent cavity ALP-DM search over three mass windows (40.9-43.3, 49.3-50.6, 54.4-56.7 neV, i.e. f=9.88-13.69 MHz). Curve is spiky (candidate-noise excursions up to ~1e-7..1e-6); reported as per-mass-bin median to represent the plotted limit, matching the paper-stated average sensitivity 1.9e-8 GeV^-1. Y-axis log-calibrated via decade labels (29.925 px/decade); x-axis is broken into 3 mass segments, each calibrated with tick labels (cross-checked with top Compton-frequency axis, f[MHz]=m[neV]*0.24180). rho_DM=0.3 GeV/cm^3 assumed by paper; not rescaled.",
+ "num_points": 36,
+ "arxiv_id": "2404.12517",
+ "elapsed_s": 170.8236951828003,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 170512,
+  "duration_api_ms": 167001,
+  "total_cost_usd": 0.9701259999999999,
+  "usage": {
+   "input_tokens": 458,
+   "output_tokens": 12297,
+   "cache_creation_input_tokens": 40377,
+   "cache_read_input_tokens": 513282
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [
+   "result.json found at ep/result.json"
+  ],
+  "events_file": "2404.12517.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:18:58-0500"
+ }
+}

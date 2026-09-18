@@ -1,0 +1,174 @@
+{
+ "paper_title": "Experimental Search for Hidden Photon CDM in the eV mass range with a Dish Antenna",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.9021,
+   1.322e-11
+  ],
+  [
+   1.9556,
+   1.144e-11
+  ],
+  [
+   2.0068,
+   1.002e-11
+  ],
+  [
+   2.0613,
+   9.017e-12
+  ],
+  [
+   2.1151,
+   8.331e-12
+  ],
+  [
+   2.1733,
+   7.68e-12
+  ],
+  [
+   2.232,
+   7.214e-12
+  ],
+  [
+   2.2918,
+   6.791e-12
+  ],
+  [
+   2.3543,
+   6.449e-12
+  ],
+  [
+   2.4169,
+   6.18e-12
+  ],
+  [
+   2.4822,
+   5.896e-12
+  ],
+  [
+   2.5486,
+   5.677e-12
+  ],
+  [
+   2.6158,
+   5.503e-12
+  ],
+  [
+   2.6866,
+   5.338e-12
+  ],
+  [
+   2.7584,
+   5.18e-12
+  ],
+  [
+   2.8347,
+   5.049e-12
+  ],
+  [
+   2.9105,
+   4.991e-12
+  ],
+  [
+   2.9877,
+   4.953e-12
+  ],
+  [
+   3.069,
+   4.949e-12
+  ],
+  [
+   3.1496,
+   4.981e-12
+  ],
+  [
+   3.2331,
+   5.041e-12
+  ],
+  [
+   3.3196,
+   5.121e-12
+  ],
+  [
+   3.4089,
+   5.246e-12
+  ],
+  [
+   3.5025,
+   5.421e-12
+  ],
+  [
+   3.5949,
+   5.614e-12
+  ],
+  [
+   3.6901,
+   5.839e-12
+  ],
+  [
+   3.7917,
+   6.165e-12
+  ],
+  [
+   3.8947,
+   6.543e-12
+  ],
+  [
+   3.9996,
+   7.005e-12
+  ],
+  [
+   4.1124,
+   7.728e-12
+  ],
+  [
+   4.2153,
+   9.003e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "Tokyo_Dish_2015",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Hidden photon (dark photon) CDM search with a dish antenna. Main result is the red 'Result' U-shaped curve in Fig. 5 (img/result20150309.pdf in the e-print), extracted as a vector path. The curve is chi_limit(m_gamma') = the lower boundary of the thin excluded strip; the excluded region lies above it (larger chi). Minimum chi ~= 4.95e-12 at m ~= 3.0 eV, consistent with the abstract's stated 'chi ~ 6e-12 for m_gamma' = 3.1 +/- 1.2 eV'. The U shape (rising chi at the mass window edges 1.9-4.2 eV) reflects the PMT quantum-efficiency roll-off over its 300-650 nm sensitivity band (=> m = 1.9-4.1 eV). Calibration: plot frame x=[54.0,388.8]px -> log10(m/eV)=[-12,6], y=[252.0,28.8]px -> log10(chi)=[-16,-5]. Cross-checked with eq. (1.1) using N_UL95 = 6.4e-3 Hz (95% CL, eq. after (3.1)), eta~0.17, mirror reflectivity>0.8, A_dish=pi*(0.25m)^2=0.196 m^2, alpha=sqrt(2/3): predicts chi~4.8e-12 at 3.1 eV, matching the extracted minimum. Assumes DM density rho_CDM = 0.3 GeV/cm^3 (paper's value, not rescaled) and that DM is fully composed of hidden photons, unpolarized and isotropic (alpha=sqrt(2/3)). Boundary edge of the thick stroke used (max-y per mass bin); centerline would be marginally higher (larger chi).",
+ "num_points": 31,
+ "arxiv_id": "1504.00118",
+ "elapsed_s": 192.9721221923828,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 192658,
+  "duration_api_ms": 189866,
+  "total_cost_usd": 0.9383465000000001,
+  "usage": {
+   "input_tokens": 401,
+   "output_tokens": 13189,
+   "cache_creation_input_tokens": 40076,
+   "cache_read_input_tokens": 411713
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1504.00118.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:37:27-0500"
+ }
+}

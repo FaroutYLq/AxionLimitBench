@@ -1,0 +1,239 @@
+{
+ "paper_title": "New Constraints on Hidden Photons using Very High Energy Gamma-Rays from the Crab Nebula",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.67274e-08,
+   1.0
+  ],
+  [
+   2.69269e-08,
+   0.62997
+  ],
+  [
+   3.23497e-08,
+   0.392008
+  ],
+  [
+   4.02873e-08,
+   0.278671
+  ],
+  [
+   6.84019e-08,
+   0.137096
+  ],
+  [
+   8.61414e-08,
+   0.114497
+  ],
+  [
+   1.22952e-07,
+   0.0761094
+  ],
+  [
+   1.58529e-07,
+   0.0335922
+  ],
+  [
+   1.97182e-07,
+   0.0231955
+  ],
+  [
+   2.11358e-07,
+   0.0229118
+  ],
+  [
+   2.37186e-07,
+   0.0268871
+  ],
+  [
+   3.16228e-07,
+   0.0491965
+  ],
+  [
+   3.67407e-07,
+   0.0298021
+  ],
+  [
+   3.84652e-07,
+   0.0314112
+  ],
+  [
+   4.12305e-07,
+   0.0302049
+  ],
+  [
+   4.31658e-07,
+   0.0315874
+  ],
+  [
+   4.5699e-07,
+   0.0305106
+  ],
+  [
+   4.89844e-07,
+   0.0340082
+  ],
+  [
+   5.1859e-07,
+   0.0316936
+  ],
+  [
+   5.75507e-07,
+   0.0374013
+  ],
+  [
+   5.95834e-07,
+   0.0352874
+  ],
+  [
+   6.1688e-07,
+   0.0374013
+  ],
+  [
+   6.6041e-07,
+   0.034314
+  ],
+  [
+   6.83736e-07,
+   0.0358846
+  ],
+  [
+   7.00033e-07,
+   0.0340082
+  ],
+  [
+   7.24759e-07,
+   0.034199
+  ],
+  [
+   7.58778e-07,
+   0.0323022
+  ],
+  [
+   8.03307e-07,
+   0.0356046
+  ],
+  [
+   8.51504e-07,
+   0.0345838
+  ],
+  [
+   8.70719e-07,
+   0.0364103
+  ],
+  [
+   9.01474e-07,
+   0.0332929
+  ],
+  [
+   9.43788e-07,
+   0.034199
+  ],
+  [
+   9.77124e-07,
+   0.0324834
+  ],
+  [
+   1.01164e-06,
+   0.0348167
+  ],
+  [
+   1.04737e-06,
+   0.0332929
+  ],
+  [
+   1.07101e-06,
+   0.0348947
+  ],
+  [
+   1.10884e-06,
+   0.034314
+  ],
+  [
+   1.12267e-06,
+   0.0350905
+  ],
+  [
+   1.21688e-06,
+   0.0338185
+  ],
+  [
+   1.2583e-06,
+   0.0348947
+  ],
+  [
+   1.30275e-06,
+   0.0345838
+  ],
+  [
+   1.319e-06,
+   0.0335922
+  ],
+  [
+   1.3964e-06,
+   0.0350905
+  ],
+  [
+   1.41207e-06,
+   0.034199
+  ],
+  [
+   1.51359e-06,
+   0.0338185
+  ],
+  [
+   1.65901e-06,
+   0.0345838
+  ],
+  [
+   1e-05,
+   0.034314
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.683,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "CrabNebula_2008",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Combined 68.3% C.L. exclusion (Delta chi^2_lsq = 1) on hidden-photon kinetic mixing chi vs mass mu from Fig. 2, using HEGRA, H.E.S.S., MAGIC and Whipple Crab Nebula VHE spectra (photon disappearance via gamma-gamma_s oscillations over d_c = 1.93 kpc). Curve traced from the vector path in e-print file f2.eps; axes calibrated from gnuplot tick coordinates (chi decade 660->2718->4776, mu decades 1254/3111/4969/6826). Tail converges to chi = 0.0343 matching the value quoted in the text/Table 1; region above the curve is excluded. Astrophysical oscillation bound, no dark-matter density assumption. Paper quotes ~9% mass uncertainty per point.",
+ "num_points": 47,
+ "arxiv_id": "0810.5501",
+ "elapsed_s": 91.82888603210449,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.0",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 91529,
+  "duration_api_ms": 89545,
+  "total_cost_usd": 1.075485,
+  "usage": {
+   "input_tokens": 292,
+   "output_tokens": 5945,
+   "cache_creation_input_tokens": 28220,
+   "cache_read_input_tokens": 210915
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "0810.5501.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:23:33-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

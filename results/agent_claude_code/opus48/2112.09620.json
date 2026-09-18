@@ -1,0 +1,370 @@
+{
+ "paper_title": "Earth as a transducer for axion dark-matter detection",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.48e-18,
+   4.882e-09
+  ],
+  [
+   2.585e-18,
+   4.735e-09
+  ],
+  [
+   2.695e-18,
+   3.485e-09
+  ],
+  [
+   2.81e-18,
+   2.527e-09
+  ],
+  [
+   2.929e-18,
+   2.19e-09
+  ],
+  [
+   3.054e-18,
+   1.884e-09
+  ],
+  [
+   3.183e-18,
+   1.737e-09
+  ],
+  [
+   3.319e-18,
+   1.541e-09
+  ],
+  [
+   3.46e-18,
+   1.392e-09
+  ],
+  [
+   3.607e-18,
+   1.289e-09
+  ],
+  [
+   3.76e-18,
+   1.245e-09
+  ],
+  [
+   3.92e-18,
+   1.238e-09
+  ],
+  [
+   4.087e-18,
+   1.202e-09
+  ],
+  [
+   4.261e-18,
+   1.168e-09
+  ],
+  [
+   4.442e-18,
+   1.101e-09
+  ],
+  [
+   4.631e-18,
+   1.064e-09
+  ],
+  [
+   4.827e-18,
+   1.002e-09
+  ],
+  [
+   5.033e-18,
+   9.52e-10
+  ],
+  [
+   5.247e-18,
+   8.397e-10
+  ],
+  [
+   5.47e-18,
+   7.481e-10
+  ],
+  [
+   5.702e-18,
+   6.69e-10
+  ],
+  [
+   5.945e-18,
+   5.841e-10
+  ],
+  [
+   6.197e-18,
+   5.472e-10
+  ],
+  [
+   6.461e-18,
+   5.124e-10
+  ],
+  [
+   6.735e-18,
+   4.846e-10
+  ],
+  [
+   7.022e-18,
+   4.557e-10
+  ],
+  [
+   7.32e-18,
+   4.374e-10
+  ],
+  [
+   7.632e-18,
+   4.194e-10
+  ],
+  [
+   7.956e-18,
+   3.957e-10
+  ],
+  [
+   8.294e-18,
+   3.708e-10
+  ],
+  [
+   8.647e-18,
+   3.404e-10
+  ],
+  [
+   9.015e-18,
+   3.151e-10
+  ],
+  [
+   9.398e-18,
+   2.96e-10
+  ],
+  [
+   9.797e-18,
+   2.817e-10
+  ],
+  [
+   1.021e-17,
+   2.657e-10
+  ],
+  [
+   1.065e-17,
+   2.508e-10
+  ],
+  [
+   1.11e-17,
+   2.391e-10
+  ],
+  [
+   1.157e-17,
+   2.255e-10
+  ],
+  [
+   1.206e-17,
+   2.161e-10
+  ],
+  [
+   1.258e-17,
+   2.089e-10
+  ],
+  [
+   1.311e-17,
+   1.981e-10
+  ],
+  [
+   1.367e-17,
+   1.839e-10
+  ],
+  [
+   1.425e-17,
+   1.691e-10
+  ],
+  [
+   1.486e-17,
+   1.577e-10
+  ],
+  [
+   1.549e-17,
+   1.503e-10
+  ],
+  [
+   1.615e-17,
+   1.441e-10
+  ],
+  [
+   1.683e-17,
+   1.338e-10
+  ],
+  [
+   1.755e-17,
+   1.236e-10
+  ],
+  [
+   1.83e-17,
+   1.182e-10
+  ],
+  [
+   1.907e-17,
+   1.123e-10
+  ],
+  [
+   1.988e-17,
+   1.062e-10
+  ],
+  [
+   2.073e-17,
+   9.999e-11
+  ],
+  [
+   2.161e-17,
+   9.427e-11
+  ],
+  [
+   2.253e-17,
+   8.977e-11
+  ],
+  [
+   2.349e-17,
+   8.628e-11
+  ],
+  [
+   2.449e-17,
+   8.172e-11
+  ],
+  [
+   2.553e-17,
+   7.832e-11
+  ],
+  [
+   2.661e-17,
+   7.512e-11
+  ],
+  [
+   2.774e-17,
+   7.306e-11
+  ],
+  [
+   2.892e-17,
+   6.999e-11
+  ],
+  [
+   3.015e-17,
+   6.818e-11
+  ],
+  [
+   3.143e-17,
+   6.704e-11
+  ],
+  [
+   3.277e-17,
+   6.618e-11
+  ],
+  [
+   3.416e-17,
+   6.558e-11
+  ],
+  [
+   3.562e-17,
+   6.538e-11
+  ],
+  [
+   3.713e-17,
+   6.662e-11
+  ],
+  [
+   3.871e-17,
+   6.818e-11
+  ],
+  [
+   4.035e-17,
+   7.078e-11
+  ],
+  [
+   4.207e-17,
+   7.434e-11
+  ],
+  [
+   4.386e-17,
+   7.882e-11
+  ],
+  [
+   4.572e-17,
+   8.578e-11
+  ],
+  [
+   4.767e-17,
+   9.46e-11
+  ],
+  [
+   4.969e-17,
+   1.083e-10
+  ],
+  [
+   5.181e-17,
+   1.269e-10
+  ],
+  [
+   5.401e-17,
+   1.511e-10
+  ],
+  [
+   5.631e-17,
+   1.881e-10
+  ],
+  [
+   5.87e-17,
+   2.456e-10
+  ],
+  [
+   6.12e-17,
+   3.446e-10
+  ],
+  [
+   6.38e-17,
+   5.754e-10
+  ],
+  [
+   6.651e-17,
+   2.078e-09
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.82,
+ "suggested_experiment_name": "SuperMAG_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "AxionPhoton g_agamma 95%-credible upper limit from a search of the SuperMAG magnetometer network for the Earth-as-transducer axion DM magnetic-field signal (Fig. 1, Sec. III/App. C). Traced the light-blue 'This work, smoothed' curve (sliding average of the exclusion limit; the dark-blue 'This work' curve is the raw spiky frequency-by-frequency limit fluctuating >2x locally). Coordinates recovered from vector figure ep/axion_limit.pdf via get_drawings, calibrated on major tick marks (x: 250 px/decade, 10^-17 eV at x=209; y: 66.53 px/decade, 10^-8 GeV^-1 at y=73.21). Mass range ~2.5e-18 to 6.65e-17 eV (plot left frame at 2.48e-18). Assumes axion is all DM at rho_DM=0.3 GeV/cm^3 (stated in text/Fig.1 caption). Strongest smoothed limit ~6.5e-11 GeV^-1 near 3.5e-17 eV, comparable to CAST, matching the paper's stated mean limit of 6.5e-11 GeV^-1. Curve turns up sharply at both ends (edge/noise effects). CAST and SN1987A comparison curves in Fig.1 are external, not reported.",
+ "num_points": 80,
+ "arxiv_id": "2112.09620",
+ "elapsed_s": 209.35566020011902,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 209012,
+  "duration_api_ms": 206134,
+  "total_cost_usd": 0.8025224999999999,
+  "usage": {
+   "input_tokens": 374,
+   "output_tokens": 13892,
+   "cache_creation_input_tokens": 39099,
+   "cache_read_input_tokens": 355680
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2112.09620.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:03:57-0500"
+ }
+}

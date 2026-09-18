@@ -1,0 +1,254 @@
+{
+ "paper_title": "Improved bounds on ultralight scalar dark matter in the radio-frequency range",
+ "coupling_type": "ScalarElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-10,
+   1.376857e-12
+  ],
+  [
+   1.073699e-10,
+   1.564748e-12
+  ],
+  [
+   1.152829e-10,
+   1.778279e-12
+  ],
+  [
+   1.23779e-10,
+   1.668101e-12
+  ],
+  [
+   1.329014e-10,
+   1.778279e-12
+  ],
+  [
+   1.42696e-10,
+   1.895736e-12
+  ],
+  [
+   1.532125e-10,
+   2.296736e-12
+  ],
+  [
+   1.64504e-10,
+   2.448437e-12
+  ],
+  [
+   1.766277e-10,
+   2.610157e-12
+  ],
+  [
+   1.896449e-10,
+   2.966349e-12
+  ],
+  [
+   2.036215e-10,
+   2.966349e-12
+  ],
+  [
+   2.186281e-10,
+   3.162278e-12
+  ],
+  [
+   2.347406e-10,
+   3.162278e-12
+  ],
+  [
+   2.520406e-10,
+   3.371148e-12
+  ],
+  [
+   2.706157e-10,
+   3.371148e-12
+  ],
+  [
+   2.905596e-10,
+   4.084239e-12
+  ],
+  [
+   3.119735e-10,
+   4.084239e-12
+  ],
+  [
+   3.349654e-10,
+   4.354005e-12
+  ],
+  [
+   3.596519e-10,
+   5.274997e-12
+  ],
+  [
+   3.861577e-10,
+   6.812921e-12
+  ],
+  [
+   4.14617e-10,
+   5.623413e-12
+  ],
+  [
+   4.451736e-10,
+   4.641589e-12
+  ],
+  [
+   4.779822e-10,
+   4.354005e-12
+  ],
+  [
+   5.132088e-10,
+   4.354005e-12
+  ],
+  [
+   5.510316e-10,
+   4.354005e-12
+  ],
+  [
+   5.916418e-10,
+   4.641589e-12
+  ],
+  [
+   6.352449e-10,
+   4.354005e-12
+  ],
+  [
+   6.820615e-10,
+   4.641589e-12
+  ],
+  [
+   7.323284e-10,
+   4.641589e-12
+  ],
+  [
+   7.862999e-10,
+   4.641589e-12
+  ],
+  [
+   8.442491e-10,
+   4.641589e-12
+  ],
+  [
+   9.06469e-10,
+   4.948168e-12
+  ],
+  [
+   9.732744e-10,
+   4.948168e-12
+  ],
+  [
+   1.045003e-09,
+   5.274997e-12
+  ],
+  [
+   1.122018e-09,
+   5.274997e-12
+  ],
+  [
+   1.20471e-09,
+   5.623413e-12
+  ],
+  [
+   1.293495e-09,
+   5.623413e-12
+  ],
+  [
+   1.388824e-09,
+   5.994843e-12
+  ],
+  [
+   1.491178e-09,
+   6.390805e-12
+  ],
+  [
+   1.601075e-09,
+   6.812921e-12
+  ],
+  [
+   1.719072e-09,
+   7.262918e-12
+  ],
+  [
+   1.845765e-09,
+   7.262918e-12
+  ],
+  [
+   1.981795e-09,
+   8.254042e-12
+  ],
+  [
+   2.127851e-09,
+   8.799225e-12
+  ],
+  [
+   2.28467e-09,
+   8.799225e-12
+  ],
+  [
+   2.453047e-09,
+   1e-11
+  ],
+  [
+   2.633833e-09,
+   1.06605e-11
+  ],
+  [
+   2.827943e-09,
+   1.136464e-11
+  ],
+  [
+   3.036358e-09,
+   1.211528e-11
+  ],
+  [
+   3.260133e-09,
+   1.29155e-11
+  ],
+  [
+   3.5004e-09,
+   1.467799e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 3e-06,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.4,
+ "suggested_experiment_name": "TretiaketAl_2022",
+ "coupling_convention": "d_me (dimensionless)",
+ "notes": "Galactic halo scenario, g_e (coupling to electron mass) from Fig. 2(a) top panel. Extracted from raster figure via edge detection and pixel-to-data calibration. The paper measures constraints on scalar dark matter couplings using optical spectroscopy in the range 8e-11 to 4e-7 eV. Conversion to d_me: d_me = g_e * M_Pl / m_e with M_Pl = 2.4e18 GeV. Note: constraint on g_e applies only for f > 50 kHz (~2e-10 eV); lower frequency region shows noise in the original figure.",
+ "num_points": 51,
+ "arxiv_id": "2201.02042",
+ "elapsed_s": 457.9876160621643,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 45,
+  "duration_ms": 457628,
+  "duration_api_ms": 447366,
+  "total_cost_usd": 0.6979125999999999,
+  "usage": {
+   "input_tokens": 352,
+   "output_tokens": 39639,
+   "cache_creation_input_tokens": 87697,
+   "cache_read_input_tokens": 2509776
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2201.02042.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:27:12-0500"
+ }
+}

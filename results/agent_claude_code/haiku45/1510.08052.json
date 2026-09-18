@@ -1,0 +1,154 @@
+{
+ "paper_title": "The PVLAS experiment: measuring vacuum magnetic birefringence and dichroism with a birefringent Fabry-Perot cavity",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.00041011270705513,
+   1.257666613792721e-06
+  ],
+  [
+   0.0004478130796131284,
+   1.2060389456869557e-06
+  ],
+  [
+   0.0004889791289632893,
+   1.1507600955642432e-06
+  ],
+  [
+   0.0005339294438837276,
+   1.0999939508974034e-06
+  ],
+  [
+   0.0005830119000179032,
+   1.0477922043111921e-06
+  ],
+  [
+   0.0006366063521241307,
+   1.0021698820183678e-06
+  ],
+  [
+   0.0006951275738151274,
+   9.575755817511458e-07
+  ],
+  [
+   0.0007590284675385813,
+   9.139593173015705e-07
+  ],
+  [
+   0.0008288035696411466,
+   8.727661623791855e-07
+  ],
+  [
+   0.0009049928776419589,
+   8.31347827305283e-07
+  ],
+  [
+   0.0009881860293353797,
+   7.973802228680768e-07
+  ],
+  [
+   0.0010790268660655251,
+   7.626611847153471e-07
+  ],
+  [
+   0.0011782184154882824,
+   7.345800037606482e-07
+  ],
+  [
+   0.0012865283323829854,
+   7.128613501123086e-07
+  ],
+  [
+   0.001404794839620809,
+   7.022440240534641e-07
+  ],
+  [
+   0.0015339332152677228,
+   7.178708906339854e-07
+  ],
+  [
+   0.0016749428760264365,
+   7.751219254682235e-07
+  ],
+  [
+   0.0018289151118369047,
+   8.078180277406933e-07
+  ],
+  [
+   0.0019970415314943574,
+   8.541946418286287e-07
+  ],
+  [
+   0.002180623284646454,
+   8.922768757267499e-07
+  ],
+  [
+   0.0023810811315396647,
+   8.378603035994605e-07
+  ],
+  [
+   0.0025999664384457944,
+   8.261247227283831e-07
+  ],
+  [
+   0.0028389731838635176,
+   9.610304469033142e-07
+  ],
+  [
+   0.003099951068412298,
+   8.387828251911066e-07
+  ],
+  [
+   0.003384919829877664,
+   8.312646635093976e-07
+  ],
+  [
+   0.003696084874193616,
+   7.513021420778528e-07
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "PVLAS_2015",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Axion-like particle exclusion limits from ellipticity measurements (PVLAS 2015) at 95% CL. Primary PVLAS result in the m \u2265 1 meV range where ellipticity dominates; rotation measurements provide complementary constraints at lower masses. Extracted from Figure 14. Limits apply to both scalar and pseudoscalar ALPs. The excluded region lies above the plotted curve.",
+ "num_points": 26,
+ "arxiv_id": "1510.08052",
+ "elapsed_s": 197.87643098831177,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 195579,
+  "duration_api_ms": 172948,
+  "total_cost_usd": 0.34818730000000003,
+  "usage": {
+   "input_tokens": 144,
+   "output_tokens": 18942,
+   "cache_creation_input_tokens": 78141,
+   "cache_read_input_tokens": 970513
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1510.08052.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:11:38-0500"
+ }
+}

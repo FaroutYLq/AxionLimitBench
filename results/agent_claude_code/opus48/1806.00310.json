@@ -1,0 +1,210 @@
+{
+ "paper_title": "Operation of a ferromagnetic Axion haloscope at m_a = 58 microeV",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.852767581047382e-05,
+   6.528521141127848e-10
+  ],
+  [
+   5.852803491271822e-05,
+   6.309573444801942e-10
+  ],
+  [
+   5.8528394014962604e-05,
+   6.097968620267363e-10
+  ],
+  [
+   5.8528738154613476e-05,
+   5.893460408864905e-10
+  ],
+  [
+   5.852908229426435e-05,
+   5.695810810737698e-10
+  ],
+  [
+   5.8529441396508734e-05,
+   5.695810810737698e-10
+  ],
+  [
+   5.8529785536159606e-05,
+   5.504789807854968e-10
+  ],
+  [
+   5.8530129675810485e-05,
+   5.695810810737698e-10
+  ],
+  [
+   5.853051870324191e-05,
+   5.695810810737698e-10
+  ],
+  [
+   5.8530832917705744e-05,
+   5.695810810737698e-10
+  ],
+  [
+   5.8531175697120846e-05,
+   5.695810810737698e-10
+  ],
+  [
+   5.8531536159601e-05,
+   5.893460408864905e-10
+  ],
+  [
+   5.8531880299251875e-05,
+   8.011313071180068e-10
+  ],
+  [
+   5.8532224438902747e-05,
+   8.011313071180068e-10
+  ],
+  [
+   5.853258354114714e-05,
+   6.989473207273493e-10
+  ],
+  [
+   5.8532927680798005e-05,
+   6.989473207273493e-10
+  ],
+  [
+   5.8533271820448884e-05,
+   6.989473207273493e-10
+  ],
+  [
+   5.8533615960099756e-05,
+   6.989473207273493e-10
+  ],
+  [
+   5.853397506234415e-05,
+   6.755066513294408e-10
+  ],
+  [
+   5.853431920199502e-05,
+   6.755066513294408e-10
+  ],
+  [
+   5.853467830423941e-05,
+   6.989473207273493e-10
+  ],
+  [
+   5.853488778054863e-05,
+   7.109709432312424e-10
+  ],
+  [
+   5.853544139650874e-05,
+   7.482971205750613e-10
+  ],
+  [
+   5.853569576059851e-05,
+   7.482971205750613e-10
+  ],
+  [
+   5.853606982543642e-05,
+   7.232014017781833e-10
+  ],
+  [
+   5.853641396508729e-05,
+   7.482971205750613e-10
+  ],
+  [
+   5.8536779868510546e-05,
+   7.742636826811277e-10
+  ],
+  [
+   5.853711720698255e-05,
+   1.0172024731297113e-09
+  ],
+  [
+   5.853746134663343e-05,
+   8.011313071180068e-10
+  ],
+  [
+   5.853782044887781e-05,
+   8.011313071180068e-10
+  ],
+  [
+   5.853814214463841e-05,
+   7.742636826811277e-10
+  ],
+  [
+   5.853850872817956e-05,
+   7.232014017781833e-10
+  ],
+  [
+   5.853886783042395e-05,
+   7.232014017781833e-10
+  ],
+  [
+   5.8539211970074824e-05,
+   7.232014017781833e-10
+  ],
+  [
+   5.85395620947631e-05,
+   8.011313071180068e-10
+  ],
+  [
+   5.853991521197008e-05,
+   8.011313071180068e-10
+  ],
+  [
+   5.854025080156752e-05,
+   8.011313071180068e-10
+  ],
+  [
+   5.854060349127183e-05,
+   7.482971205750613e-10
+  ],
+  [
+   5.854096259351622e-05,
+   7.742636826811277e-10
+  ],
+  [
+   5.854130673316709e-05,
+   8.289312615337137e-10
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "QUAX_2018",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "QUAX ferromagnetic haloscope (electron-spin/magnon DM search). Headline: g_aee < 4.9e-10 at 95% C.L. for m_a=58 ueV (~14 GHz), quoted as the minimum over seven measurement runs. Paper's g_aee (L = -i g_aee a psibar gamma5 psi, Eqs.1-2) is identical to the canonical dimensionless g_ae, no conversion needed. Curve = lower boundary of the blue excluded region traced by vision from Fig.8 raster (limit.png in e-print), calibrated from axis tick-label centers (y: 10^-8 row123, 67.5px/decade; x linear 5.852-5.855e-5 eV). The exclusion is a set of narrow bands spanning m_a ~ 5.8527e-5 to 5.8542e-5 eV; reported boundary ranges ~5.5e-10 to ~1.0e-9 (deepest point matches paper's 4.9e-10 within ~10%; per-bin median smoothing raises the minimum slightly). Local DM density rho_dm=0.45 GeV/cm^3 (not rescaled). Not the QCD/DFSZ line.",
+ "num_points": 40,
+ "arxiv_id": "1806.00310",
+ "elapsed_s": 252.1291148662567,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 251817,
+  "duration_api_ms": 248178,
+  "total_cost_usd": 1.1895045000000004,
+  "usage": {
+   "input_tokens": 495,
+   "output_tokens": 17985,
+   "cache_creation_input_tokens": 45723,
+   "cache_read_input_tokens": 560349
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1806.00310.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:04:57-0500"
+ }
+}

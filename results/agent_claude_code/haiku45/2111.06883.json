@@ -1,0 +1,49 @@
+{
+ "paper_title": "Search for oscillations of fundamental constants using molecular spectroscopy",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.0,
+ "suggested_experiment_name": "MolecularSpectroscopy_Oswald_2021",
+ "coupling_convention": null,
+ "notes": "This paper reports experimental bounds on ultralight dark matter (UDM) coupling to fundamental constants via an effective Lagrangian L_eff \u2283 (\u03c6/M_Pl)[\u03a3_X d_m_X m_X \u03c8\u0304_X \u03c8_X + d_\u03b1 F\u00b2/4 + d_gs \u03b2(gs)/(2gs) G\u00b2]. The couplings d_\u03b1, d_me, d_gs, d_m_hat, d_delta_m, d_m_s are scalar field couplings to fermion masses and field strength tensors, which are structurally different from the canonical AxionLimitBench coupling types (which use derivative couplings like \u2202_\u03bca and dual field tensors F\u2227F\u0303). While the paper reports novel experimental bounds in a previously unexplored frequency range (10 Hz - 100 MHz), these are not on axions or the standard scalar couplings tracked by AxionLimitBench. The paper is about general scalar UDM, not axion-like particles specifically.",
+ "num_points": 0,
+ "arxiv_id": "2111.06883",
+ "elapsed_s": 111.24517130851746,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 110553,
+  "duration_api_ms": 107404,
+  "total_cost_usd": 0.1847096,
+  "usage": {
+   "input_tokens": 98,
+   "output_tokens": 9364,
+   "cache_creation_input_tokens": 49247,
+   "cache_read_input_tokens": 392976
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2111.06883.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:13:58-0500"
+ }
+}

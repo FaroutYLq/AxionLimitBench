@@ -1,0 +1,135 @@
+{
+ "paper_title": "A Hunt for Magnetic Signatures of Hidden-Photon and Axion Dark Matter in the Wilderness",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.493e-15,
+   1.413e-05
+  ],
+  [
+   3.391e-15,
+   6.899e-06
+  ],
+  [
+   4.288e-15,
+   5.706e-06
+  ],
+  [
+   5.186e-15,
+   4.319e-06
+  ],
+  [
+   6.083e-15,
+   3.856e-06
+  ],
+  [
+   6.981e-15,
+   3.311e-06
+  ],
+  [
+   7.879e-15,
+   3.061e-06
+  ],
+  [
+   8.776e-15,
+   2.646e-06
+  ],
+  [
+   9.674e-15,
+   2.551e-06
+  ],
+  [
+   1.057e-14,
+   2.091e-06
+  ],
+  [
+   1.147e-14,
+   1.95e-06
+  ],
+  [
+   1.237e-14,
+   1.695e-06
+  ],
+  [
+   1.326e-14,
+   1.581e-06
+  ],
+  [
+   1.416e-14,
+   1.465e-06
+  ],
+  [
+   1.506e-14,
+   1.504e-06
+  ],
+  [
+   1.596e-14,
+   1.336e-06
+  ],
+  [
+   1.685e-14,
+   1.198e-06
+  ],
+  [
+   1.775e-14,
+   1.148e-06
+  ],
+  [
+   1.865e-14,
+   1.022e-06
+  ],
+  [
+   1.955e-14,
+   9.523e-07
+  ],
+  [
+   2.033e-14,
+   8.534e-07
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "SNIPEHunt_2023",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "SNIPE Hunt first science run (2022). Headline result: 95% credible upper limit on hidden-photon kinetic mixing epsilon over Compton frequencies 0.5-5 Hz (m_A' ~ 2e-15 to 2e-14 eV); the paper also reports an axion-photon limit (Fig. 9/12) but presents the kinetic-mixing bound as its main result ('best experimental bounds to date in this frequency range'). Curve extracted from the vector paths of the SNIPE Hunt (magenta) region in summary Fig. 11 (eprint Figures/DarkPhoton_Light.pdf), lower boundary of the excluded region; axis calibration verified against the plot frame (x: 1e-17 to 1e-13 eV over the frame width; y: 1e-11 to 1e0) and the top frequency axis. Extracted curve agrees with the 100-bin-averaged Scan-1 limit of Fig. 6 to within ~10-30%. Raw per-bin limits (414572 bins) are spiky (Fig. 6); the reported curve is the paper's own smoothed summary curve. rho_DM = 0.3 GeV/cm^3 assumed (Sec. II). Jeffreys-prior Bayesian 95% credible limit.",
+ "num_points": 21,
+ "arxiv_id": "2306.11575",
+ "elapsed_s": 220.35341691970825,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 220054,
+  "duration_api_ms": 214750,
+  "total_cost_usd": 2.1703349999999997,
+  "usage": {
+   "input_tokens": 707,
+   "output_tokens": 16844,
+   "cache_creation_input_tokens": 44752,
+   "cache_read_input_tokens": 697630
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2306.11575.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T22:14:04-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

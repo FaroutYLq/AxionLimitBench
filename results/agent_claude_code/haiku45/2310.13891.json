@@ -1,0 +1,58 @@
+{
+ "paper_title": "First Results from a Broadband Search for Dark Photon Dark Matter in the 44 to 52 \u00b5eV Range with a Coaxial Dish Antenna",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.4e-05,
+   1e-12
+  ],
+  [
+   5.2e-05,
+   1e-12
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": "GigaBREAD_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Flat limit at \u03c7 \u2248 10^-12 across mass range 44-52 \u00b5eV. Limit stated in abstract and conclusion as \u03c7 \u2272 10^-12 at 90% CL. Standard DM density 0.45 GeV/cm\u00b3 assumed in sensitivity formula (Eq. 1).",
+ "num_points": 2,
+ "arxiv_id": "2310.13891",
+ "elapsed_s": 40.04338979721069,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 4,
+  "duration_ms": 39701,
+  "duration_api_ms": 38562,
+  "total_cost_usd": 0.0836575,
+  "usage": {
+   "input_tokens": 28,
+   "output_tokens": 3244,
+   "cache_creation_input_tokens": 30577,
+   "cache_read_input_tokens": 62555
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2310.13891.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:43:31-0500"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "paper_title": "Direct Detection of Dark Photon Dark Matter with the James Webb Space Telescope",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": true,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 1.0,
+ "suggested_experiment_name": null,
+ "coupling_convention": null,
+ "notes": "Projection paper. The authors propose a theoretical sensitivity to dark photon dark matter (DPDM) kinetic mixing (\u03b5) using a modified JWST configuration during ground-testing phases. They use existing JWST NIRSpec and MIRI observation data to forecast achievable limits of \u03b5 ~ 10^-12 \u2013 10^-14 in the 10\u2013500 THz frequency range. This is not a new measured limit but rather a proposal for future sensitivity with modified mirror configuration. The paper states this approach can be applied to future space telescopes such as LUVVOIR, HabEx, Origins, and Roman during ground-based testing.",
+ "num_points": 0,
+ "arxiv_id": "2402.17140",
+ "elapsed_s": 34.7805597782135,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 34476,
+  "duration_api_ms": 33623,
+  "total_cost_usd": 0.10999969999999999,
+  "usage": {
+   "input_tokens": 66,
+   "output_tokens": 2732,
+   "cache_creation_input_tokens": 38909,
+   "cache_read_input_tokens": 184557
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2402.17140.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:54:31-0500"
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "system": "aal_harness",
+ "model": "claude-fable-5",
+ "imported_from": "AutoAxionLimits evaluation/eval_runs/final347_fable (master 73682236)",
+ "run_dates": "2026-07-17..2026-07-30",
+ "transport_notes": "claude-cli (subscription), N=1, default temperature; see AutoAxionLimits #733/#686",
+ "n_snapshots": 341,
+ "harness": "AutoAxionLimits extraction pipeline (text/table/vision/vector channels, convention registry, deterministic gates, corroboration, convention-review flags); snapshots are raw per-paper predictions, unmodified"
+}

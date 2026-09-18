@@ -1,0 +1,179 @@
+{
+ "paper_title": "Search for galactic axions with a traveling wave parametric amplifier",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.2817834e-05,
+   2.805e-13
+  ],
+  [
+   4.2817871e-05,
+   2.912e-13
+  ],
+  [
+   4.2817907e-05,
+   7.889e-14
+  ],
+  [
+   4.2817944e-05,
+   1.786e-13
+  ],
+  [
+   4.2817981e-05,
+   4.446e-14
+  ],
+  [
+   4.2818018e-05,
+   7.214e-14
+  ],
+  [
+   4.2818054e-05,
+   3.267e-14
+  ],
+  [
+   4.2818091e-05,
+   8.839e-14
+  ],
+  [
+   4.2818128e-05,
+   7.549e-14
+  ],
+  [
+   4.2818165e-05,
+   6.589e-14
+  ],
+  [
+   4.2818201e-05,
+   2.084e-14
+  ],
+  [
+   4.2818238e-05,
+   5.418e-14
+  ],
+  [
+   4.2818275e-05,
+   8.859e-14
+  ],
+  [
+   4.2818311e-05,
+   2.643e-14
+  ],
+  [
+   4.2818348e-05,
+   2.839e-14
+  ],
+  [
+   4.2818385e-05,
+   3.05e-14
+  ],
+  [
+   4.2818422e-05,
+   7.013e-14
+  ],
+  [
+   4.2818458e-05,
+   8.111e-14
+  ],
+  [
+   4.2818495e-05,
+   7.682e-14
+  ],
+  [
+   4.2818532e-05,
+   8.217e-14
+  ],
+  [
+   4.2818569e-05,
+   4.573e-14
+  ],
+  [
+   4.2818605e-05,
+   6.482e-14
+  ],
+  [
+   4.2818642e-05,
+   4.406e-14
+  ],
+  [
+   4.2818679e-05,
+   6.315e-14
+  ],
+  [
+   4.2818716e-05,
+   1.052e-13
+  ],
+  [
+   4.2818752e-05,
+   7.62e-14
+  ],
+  [
+   4.2818789e-05,
+   7.899e-14
+  ],
+  [
+   4.2818826e-05,
+   1.35e-13
+  ],
+  [
+   4.2818863e-05,
+   1.408e-13
+  ],
+  [
+   4.2818899e-05,
+   1.279e-13
+  ],
+  [
+   4.2818936e-05,
+   1.433e-13
+  ],
+  [
+   4.2818973e-05,
+   1.82e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "QUAX_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "QUAX haloscope with TWPA at 10.353 GHz. Observed 90% single-sided CL upper limit on g_agamma from Fig. 7 (solid blue bars), extracted from the vector paths of the e-print figure Quax_twpa_33.pdf with axis calibration from tick labels. 32 frequency bins over 42.8178-42.8190 ueV reported as bin-center points; the limit is a jagged per-bin step function. Cross-check: extracted minimum 2.08e-14 GeV^-1 vs paper's quoted best limit 2.05e-14 GeV^-1. Paper assumes rho_a = 0.45 GeV/cm^3 (already the compilation convention, no rescaling). Observed limit chosen, not the expected-limit line or the previous-run dashed curve.",
+ "num_points": 32,
+ "arxiv_id": "2304.07505",
+ "elapsed_s": 100.62135815620422,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 100052,
+  "duration_api_ms": 96300,
+  "total_cost_usd": 1.2377809999999998,
+  "usage": {
+   "input_tokens": 424,
+   "output_tokens": 7709,
+   "cache_creation_input_tokens": 33437,
+   "cache_read_input_tokens": 371711
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2304.07505.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:15:00-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

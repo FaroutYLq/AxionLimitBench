@@ -1,0 +1,451 @@
+{
+ "paper_title": "First Result for Dark Matter Search by WINERED",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.832381,
+   4.5723e-10
+  ],
+  [
+   1.839594,
+   1.0605e-10
+  ],
+  [
+   1.846967,
+   5.2211e-11
+  ],
+  [
+   1.854336,
+   3.6159e-11
+  ],
+  [
+   1.861702,
+   3.3999e-11
+  ],
+  [
+   1.869197,
+   3.6014e-11
+  ],
+  [
+   1.876789,
+   4.3644e-11
+  ],
+  [
+   1.884109,
+   4.3569e-11
+  ],
+  [
+   1.891762,
+   3.101e-11
+  ],
+  [
+   1.899276,
+   2.7809e-11
+  ],
+  [
+   1.906752,
+   2.8302e-11
+  ],
+  [
+   1.914531,
+   3.1871e-11
+  ],
+  [
+   1.922273,
+   3.8881e-11
+  ],
+  [
+   1.929702,
+   3.5296e-11
+  ],
+  [
+   1.937436,
+   3.215e-11
+  ],
+  [
+   1.945097,
+   3.2489e-11
+  ],
+  [
+   1.954288,
+   3.3269e-11
+  ],
+  [
+   1.96107,
+   3.4349e-11
+  ],
+  [
+   1.969492,
+   3.7273e-11
+  ],
+  [
+   1.976574,
+   3.0311e-11
+  ],
+  [
+   1.984425,
+   2.7198e-11
+  ],
+  [
+   1.99245,
+   2.5848e-11
+  ],
+  [
+   2.000364,
+   2.7453e-11
+  ],
+  [
+   2.008417,
+   3.45e-11
+  ],
+  [
+   2.016359,
+   3.3228e-11
+  ],
+  [
+   2.024404,
+   2.9164e-11
+  ],
+  [
+   2.03259,
+   2.634e-11
+  ],
+  [
+   2.040482,
+   2.6807e-11
+  ],
+  [
+   2.048879,
+   2.9306e-11
+  ],
+  [
+   2.056981,
+   3.4532e-11
+  ],
+  [
+   2.065188,
+   2.9065e-11
+  ],
+  [
+   2.073577,
+   2.5859e-11
+  ],
+  [
+   2.081813,
+   2.5162e-11
+  ],
+  [
+   2.090119,
+   2.7341e-11
+  ],
+  [
+   2.098497,
+   3.2899e-11
+  ],
+  [
+   2.106832,
+   3.0119e-11
+  ],
+  [
+   2.115238,
+   2.5851e-11
+  ],
+  [
+   2.12383,
+   2.4454e-11
+  ],
+  [
+   2.13238,
+   2.6039e-11
+  ],
+  [
+   2.140965,
+   3.4039e-11
+  ],
+  [
+   2.149315,
+   3.1325e-11
+  ],
+  [
+   2.157852,
+   2.6465e-11
+  ],
+  [
+   2.166462,
+   2.4595e-11
+  ],
+  [
+   2.175145,
+   2.5722e-11
+  ],
+  [
+   2.183824,
+   7.8362e-11
+  ],
+  [
+   2.192538,
+   3.3068e-11
+  ],
+  [
+   2.201404,
+   2.5712e-11
+  ],
+  [
+   2.210306,
+   2.338e-11
+  ],
+  [
+   2.219165,
+   2.4771e-11
+  ],
+  [
+   2.22782,
+   2.9383e-11
+  ],
+  [
+   2.236789,
+   3.0192e-11
+  ],
+  [
+   2.245754,
+   2.4551e-11
+  ],
+  [
+   2.254715,
+   2.2649e-11
+  ],
+  [
+   2.263751,
+   2.4282e-11
+  ],
+  [
+   2.272784,
+   2.9244e-11
+  ],
+  [
+   2.281893,
+   2.8796e-11
+  ],
+  [
+   2.291161,
+   2.3703e-11
+  ],
+  [
+   2.30018,
+   2.2399e-11
+  ],
+  [
+   2.309316,
+   2.5022e-11
+  ],
+  [
+   2.318738,
+   3.0525e-11
+  ],
+  [
+   2.327865,
+   2.682e-11
+  ],
+  [
+   2.337153,
+   2.3308e-11
+  ],
+  [
+   2.346604,
+   2.2653e-11
+  ],
+  [
+   2.355883,
+   2.5259e-11
+  ],
+  [
+   2.365325,
+   2.954e-11
+  ],
+  [
+   2.37472,
+   2.593e-11
+  ],
+  [
+   2.384408,
+   2.2513e-11
+  ],
+  [
+   2.393794,
+   2.2668e-11
+  ],
+  [
+   2.403345,
+   2.6633e-11
+  ],
+  [
+   2.41315,
+   2.8218e-11
+  ],
+  [
+   2.422692,
+   2.4038e-11
+  ],
+  [
+   2.432272,
+   2.1842e-11
+  ],
+  [
+   2.441933,
+   2.4943e-11
+  ],
+  [
+   2.451808,
+   2.96e-11
+  ],
+  [
+   2.46159,
+   2.6e-11
+  ],
+  [
+   2.471412,
+   2.2307e-11
+  ],
+  [
+   2.481362,
+   2.2472e-11
+  ],
+  [
+   2.49144,
+   2.797e-11
+  ],
+  [
+   2.501202,
+   2.7846e-11
+  ],
+  [
+   2.511182,
+   2.2964e-11
+  ],
+  [
+   2.521292,
+   2.1807e-11
+  ],
+  [
+   2.531352,
+   2.449e-11
+  ],
+  [
+   2.541452,
+   2.8782e-11
+  ],
+  [
+   2.551592,
+   2.3984e-11
+  ],
+  [
+   2.561865,
+   2.1905e-11
+  ],
+  [
+   2.572041,
+   2.2593e-11
+  ],
+  [
+   2.582303,
+   2.9083e-11
+  ],
+  [
+   2.592699,
+   2.662e-11
+  ],
+  [
+   2.603044,
+   2.3118e-11
+  ],
+  [
+   2.61343,
+   2.352e-11
+  ],
+  [
+   2.623858,
+   2.8099e-11
+  ],
+  [
+   2.634374,
+   2.8721e-11
+  ],
+  [
+   2.644885,
+   2.3674e-11
+  ],
+  [
+   2.655439,
+   2.3148e-11
+  ],
+  [
+   2.666081,
+   2.7241e-11
+  ],
+  [
+   2.676767,
+   2.9106e-11
+  ],
+  [
+   2.687447,
+   2.3348e-11
+  ],
+  [
+   2.69817,
+   2.2555e-11
+  ],
+  [
+   2.708984,
+   2.5714e-11
+  ],
+  [
+   2.719842,
+   3.4854e-11
+  ]
+ ],
+ "data_source": "ancillary_file",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.5,
+ "suggested_experiment_name": "WINERED_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "2-sigma (95%) limit on g_phigammagamma from ALP dark matter decay (q=2) in dSphs Leo V and Tucana II, Fig. 1 lower panel. Headline scenario chosen: conservative NFW-profile bound, which the abstract quotes first ((2-3)e-11 GeV^-1) and which underlies the 'one of the strongest limits to date' claim (blue band upper edge in Fig. 1; region above it is excluded using the smallest D-factor in the uncertainty). Derived from e-print ancillary file gagg_line.txt (continuum-subtracted line analysis; columns are generalized-Hernquist max/min D-factor edges): both dSphs' conservative differential D-factors shift by exactly +1.3 dex from generalized Hernquist to NFW (Leo V log10 dD/dOmega 20.7->22.0, Tucana II 21.3->22.6), so the conservative column scales by g -> g*10^-0.65 = g/4.47, reproducing the abstract's NFW numbers. Alternative scenarios in the paper: generalized-Hernquist conservative bound (gray region, = ancillary column 3, ~1.1-1.6e-10, factor 4.47 above the reported curve) and the optimistic GH band edge (~8e-12-1.2e-11). The 10811-point spiky full-resolution curve (echelle-order-edge spikes) was downsampled to 100 log-mass-binned medians. Limit is D-factor based (dSph decay flux), independent of local DM density.",
+ "num_points": 100,
+ "arxiv_id": "2402.07976",
+ "elapsed_s": 224.9962637424469,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 224697,
+  "duration_api_ms": 220012,
+  "total_cost_usd": 1.7475589999999999,
+  "usage": {
+   "input_tokens": 316,
+   "output_tokens": 16561,
+   "cache_creation_input_tokens": 43717,
+   "cache_read_input_tokens": 311514
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2402.07976.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:45:48-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

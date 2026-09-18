@@ -1,0 +1,306 @@
+{
+ "paper_title": "Riding the dark matter wave: Novel limits on general dark photons from LISA Pathfinder",
+ "coupling_type": "VectorBL",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-18,
+   1.135501e-28
+  ],
+  [
+   1.075836e-18,
+   7.819655e-29
+  ],
+  [
+   1.157423e-18,
+   4.956643e-29
+  ],
+  [
+   1.245197e-18,
+   3.274821e-29
+  ],
+  [
+   1.339628e-18,
+   2.163653e-29
+  ],
+  [
+   1.44122e-18,
+   1.833106e-29
+  ],
+  [
+   1.550516e-18,
+   1.758683e-29
+  ],
+  [
+   1.668101e-18,
+   1.833106e-29
+  ],
+  [
+   1.794602e-18,
+   2.255213e-29
+  ],
+  [
+   1.930698e-18,
+   2.891929e-29
+  ],
+  [
+   2.077114e-18,
+   4.02891e-29
+  ],
+  [
+   2.234634e-18,
+   5.612904e-29
+  ],
+  [
+   2.404099e-18,
+   7.819655e-29
+  ],
+  [
+   2.586416e-18,
+   1.089401e-28
+  ],
+  [
+   2.782559e-18,
+   1.517706e-28
+  ],
+  [
+   2.993577e-18,
+   2.114402e-28
+  ],
+  [
+   3.220598e-18,
+   3.070348e-28
+  ],
+  [
+   3.464835e-18,
+   4.277476e-28
+  ],
+  [
+   3.727594e-18,
+   5.959195e-28
+  ],
+  [
+   4.010279e-18,
+   8.653416e-28
+  ],
+  [
+   4.314402e-18,
+   1.205557e-27
+  ],
+  [
+   4.641589e-18,
+   1.679529e-27
+  ],
+  [
+   4.993588e-18,
+   2.339848e-27
+  ],
+  [
+   5.372281e-18,
+   3.259775e-27
+  ],
+  [
+   5.779693e-18,
+   4.541377e-27
+  ],
+  [
+   6.218001e-18,
+   6.326851e-27
+  ],
+  [
+   6.689549e-18,
+   8.814295e-27
+  ],
+  [
+   7.196857e-18,
+   1.22797e-26
+  ],
+  [
+   7.742637e-18,
+   1.710754e-26
+  ],
+  [
+   8.329807e-18,
+   2.383349e-26
+  ],
+  [
+   8.961505e-18,
+   3.320379e-26
+  ],
+  [
+   9.641109e-18,
+   4.625808e-26
+  ],
+  [
+   1.037225e-17,
+   6.182834e-26
+  ],
+  [
+   1.115884e-17,
+   8.613657e-26
+  ],
+  [
+   1.200508e-17,
+   1.104556e-25
+  ],
+  [
+   1.29155e-17,
+   1.476344e-25
+  ],
+  [
+   1.389495e-17,
+   1.973275e-25
+  ],
+  [
+   1.494869e-17,
+   2.63747e-25
+  ],
+  [
+   1.608234e-17,
+   3.382109e-25
+  ],
+  [
+   1.730196e-17,
+   4.336982e-25
+  ],
+  [
+   1.861407e-17,
+   5.561444e-25
+  ],
+  [
+   2.002568e-17,
+   6.564288e-25
+  ],
+  [
+   2.154435e-17,
+   8.075838e-25
+  ],
+  [
+   2.317818e-17,
+   9.145082e-25
+  ],
+  [
+   2.493592e-17,
+   9.935451e-25
+  ],
+  [
+   2.682696e-17,
+   1.079413e-24
+  ],
+  [
+   2.88614e-17,
+   1.172702e-24
+  ],
+  [
+   3.105013e-17,
+   1.274053e-24
+  ],
+  [
+   3.340485e-17,
+   1.384164e-24
+  ],
+  [
+   3.593814e-17,
+   1.384164e-24
+  ],
+  [
+   3.866354e-17,
+   1.503791e-24
+  ],
+  [
+   4.159562e-17,
+   1.503791e-24
+  ],
+  [
+   4.475006e-17,
+   1.567428e-24
+  ],
+  [
+   4.814372e-17,
+   1.633758e-24
+  ],
+  [
+   5.179475e-17,
+   1.774956e-24
+  ],
+  [
+   5.572265e-17,
+   1.774956e-24
+  ],
+  [
+   5.994843e-17,
+   1.928358e-24
+  ],
+  [
+   6.449467e-17,
+   2.095017e-24
+  ],
+  [
+   6.938568e-17,
+   2.27608e-24
+  ],
+  [
+   7.46476e-17,
+   2.472792e-24
+  ],
+  [
+   8.030857e-17,
+   2.686505e-24
+  ],
+  [
+   8.639884e-17,
+   2.918687e-24
+  ],
+  [
+   9.295098e-17,
+   3.170937e-24
+  ],
+  [
+   1e-16,
+   2.918687e-24
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "LPF_Frerick2023",
+ "coupling_convention": "g_BL (dimensionless)",
+ "notes": "Extracted from Figure 3, red solid line (LPF Apr 2016 data, x-axis result). Represents measured exclusion limits on gauged B-L dark photon dark matter using LISA Pathfinder auxiliary channel data (SC-TM differential acceleration). Mass range 1\u00d710^-18 to 1\u00d710^-16 eV. Calibrated using pixel-to-coordinate transformation with log-linear axes. Assumes coupling conversion \u03b5_{B-L} to g_{B-L} via g_{B-L} = \u03b5_{B-L} \u00d7 e where e \u2248 0.303 (electromagnetic coupling constant).",
+ "num_points": 64,
+ "arxiv_id": "2310.06017",
+ "elapsed_s": 164.0265212059021,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 163707,
+  "duration_api_ms": 160936,
+  "total_cost_usd": 0.30932110000000007,
+  "usage": {
+   "input_tokens": 118,
+   "output_tokens": 17045,
+   "cache_creation_input_tokens": 73194,
+   "cache_read_input_tokens": 775901
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2310.06017.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:44:19-0500"
+ }
+}

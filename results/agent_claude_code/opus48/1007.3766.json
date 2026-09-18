@@ -1,0 +1,138 @@
+{
+ "paper_title": "A Search for Hidden Sector Photons with ADMX",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.9555e-07,
+   1.4313e-05
+  ],
+  [
+   7.2734e-07,
+   9.0995e-06
+  ],
+  [
+   8.372e-07,
+   6.4785e-06
+  ],
+  [
+   9.3554e-07,
+   4.8812e-06
+  ],
+  [
+   1.3054e-06,
+   1.6963e-06
+  ],
+  [
+   1.5767e-06,
+   8.4378e-07
+  ],
+  [
+   1.7948e-06,
+   5.3139e-07
+  ],
+  [
+   1.9762e-06,
+   3.9288e-07
+  ],
+  [
+   2.1359e-06,
+   3.3151e-07
+  ],
+  [
+   2.2746e-06,
+   3.2531e-07
+  ],
+  [
+   2.3956e-06,
+   3.8554e-07
+  ],
+  [
+   2.4952e-06,
+   8.6801e-07
+  ],
+  [
+   2.5893e-06,
+   5.069e-07
+  ],
+  [
+   2.677e-06,
+   3.1032e-07
+  ],
+  [
+   2.7473e-06,
+   1.6963e-07
+  ],
+  [
+   2.7986e-06,
+   1.0683e-07
+  ],
+  [
+   2.8509e-06,
+   7.5344e-08
+  ],
+  [
+   2.8934e-06,
+   5.8397e-08
+  ],
+  [
+   2.9366e-06,
+   4.7899e-08
+  ],
+  [
+   2.9584e-06,
+   4.1577e-08
+  ],
+  [
+   2.9804e-06,
+   3.7477e-08
+  ],
+  [
+   2.9915e-06,
+   3.4752e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "ADMX_2010",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "ADMX paraphoton (hidden-sector photon) search using an emitter cavity driven at 722.725 MHz and a separate ADMX detector cavity; a light-shining-through-walls-type laboratory search, NOT a dark-matter search, so the limit does not depend on the local DM density (dm_density_assumed=null). Headline 95% CL limit: chi > 3.48e-8 for masses near 3 ueV (abstract, text, Fig. 4). Curve extracted as figure_vector from the black (dark-shaded) ADMX exclusion region in the e-print ROOT EPS figure paraphoton_total_limit.eps (paper Fig. 4). Axis calibration from major tick strokes: x (mass) 622 px/decade with 10^-6 eV at x=797; y (chi) 244 px/decade with 10^-9 at y=467; the polygon tip reproduces m=2.99 ueV, chi=3.48e-8, matching the quoted value. The reported curve is the lower/left boundary of the excluded region (single-valued and monotonic in mass); the vertical right edge at m=3 ueV (mass cutoff at m<omega) and the top-frame edge are not reported as curve points. The excluded region shows a genuine secondary lobe near m=2.2-2.5 ueV (chi dips to ~3.3e-7 then peaks ~8.7e-7) arising from the |G(k/omega)| interference coefficient of Eq. 4 / Fig. 1; this real structure is retained. The plotted curve exits the top of the frame at m~6e-7 eV, chi~1.4e-5. The dashed 'ADMX projected sensitivity' line (chi~1e-9) is a forecast and is excluded from the reported limit. coupling_type=DarkPhoton, reporting chi (not chi^2) per Eq. 1 L = -(chi/2) F B.",
+ "num_points": 22,
+ "arxiv_id": "1007.3766",
+ "elapsed_s": 211.8950572013855,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 211579,
+  "duration_api_ms": 210431,
+  "total_cost_usd": 1.0492614999999998,
+  "usage": {
+   "input_tokens": 309,
+   "output_tokens": 15924,
+   "cache_creation_input_tokens": 47770,
+   "cache_read_input_tokens": 343833
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1007.3766.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:09:56-0500"
+ }
+}

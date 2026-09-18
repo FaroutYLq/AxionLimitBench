@@ -1,0 +1,451 @@
+{
+ "paper_title": "A Search for Invisible Axion Dark Matter with the Axion Dark Matter Experiment",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.6686e-06,
+   4.0375e-16
+  ],
+  [
+   2.67e-06,
+   4.0366e-16
+  ],
+  [
+   2.6714e-06,
+   4.374e-16
+  ],
+  [
+   2.6727e-06,
+   3.8737e-16
+  ],
+  [
+   2.6741e-06,
+   4.1519e-16
+  ],
+  [
+   2.6754e-06,
+   4.2217e-16
+  ],
+  [
+   2.6768e-06,
+   4.2069e-16
+  ],
+  [
+   2.6782e-06,
+   3.7808e-16
+  ],
+  [
+   2.6795e-06,
+   3.1952e-16
+  ],
+  [
+   2.6809e-06,
+   2.9357e-16
+  ],
+  [
+   2.6823e-06,
+   2.7445e-16
+  ],
+  [
+   2.6836e-06,
+   2.7561e-16
+  ],
+  [
+   2.685e-06,
+   2.7226e-16
+  ],
+  [
+   2.6864e-06,
+   2.6023e-16
+  ],
+  [
+   2.6877e-06,
+   2.4323e-16
+  ],
+  [
+   2.6891e-06,
+   2.6702e-16
+  ],
+  [
+   2.6904e-06,
+   4.0757e-16
+  ],
+  [
+   2.6918e-06,
+   4.0742e-16
+  ],
+  [
+   2.6932e-06,
+   4.0737e-16
+  ],
+  [
+   2.6946e-06,
+   5.0649e-16
+  ],
+  [
+   2.6959e-06,
+   4.202e-16
+  ],
+  [
+   2.6973e-06,
+   3.1638e-16
+  ],
+  [
+   2.6986e-06,
+   3.1881e-16
+  ],
+  [
+   2.7e-06,
+   4.1073e-16
+  ],
+  [
+   2.7014e-06,
+   3.4386e-16
+  ],
+  [
+   2.7027e-06,
+   3.0819e-16
+  ],
+  [
+   2.7041e-06,
+   3.0049e-16
+  ],
+  [
+   2.7054e-06,
+   3.2787e-16
+  ],
+  [
+   2.7068e-06,
+   3.6336e-16
+  ],
+  [
+   2.7082e-06,
+   3.4118e-16
+  ],
+  [
+   2.7095e-06,
+   3.314e-16
+  ],
+  [
+   2.7109e-06,
+   3.1481e-16
+  ],
+  [
+   2.7123e-06,
+   2.8772e-16
+  ],
+  [
+   2.7136e-06,
+   3.1855e-16
+  ],
+  [
+   2.715e-06,
+   3.5201e-16
+  ],
+  [
+   2.7164e-06,
+   3.1011e-16
+  ],
+  [
+   2.7177e-06,
+   3.8624e-16
+  ],
+  [
+   2.7191e-06,
+   4.3717e-16
+  ],
+  [
+   2.7205e-06,
+   4.3502e-16
+  ],
+  [
+   2.7218e-06,
+   3.8682e-16
+  ],
+  [
+   2.7232e-06,
+   3.2706e-16
+  ],
+  [
+   2.7245e-06,
+   4.3742e-16
+  ],
+  [
+   2.7259e-06,
+   3.6334e-16
+  ],
+  [
+   2.7273e-06,
+   4.5231e-16
+  ],
+  [
+   2.7286e-06,
+   4.3583e-16
+  ],
+  [
+   2.73e-06,
+   2.6451e-16
+  ],
+  [
+   2.7314e-06,
+   3.4118e-16
+  ],
+  [
+   2.7327e-06,
+   3.0679e-16
+  ],
+  [
+   2.7341e-06,
+   2.5846e-16
+  ],
+  [
+   2.7355e-06,
+   2.8665e-16
+  ],
+  [
+   2.7368e-06,
+   3.016e-16
+  ],
+  [
+   2.7382e-06,
+   3.1932e-16
+  ],
+  [
+   2.7396e-06,
+   3.2801e-16
+  ],
+  [
+   2.7409e-06,
+   3.1633e-16
+  ],
+  [
+   2.7423e-06,
+   3.3934e-16
+  ],
+  [
+   2.7436e-06,
+   3.8713e-16
+  ],
+  [
+   2.745e-06,
+   3.4456e-16
+  ],
+  [
+   2.7464e-06,
+   2.7041e-16
+  ],
+  [
+   2.7477e-06,
+   3.9688e-16
+  ],
+  [
+   2.7491e-06,
+   3.5435e-16
+  ],
+  [
+   2.7505e-06,
+   3.3053e-16
+  ],
+  [
+   2.7518e-06,
+   3.1985e-16
+  ],
+  [
+   2.7532e-06,
+   4.4916e-16
+  ],
+  [
+   2.7545e-06,
+   4.3405e-16
+  ],
+  [
+   2.7559e-06,
+   3.7541e-16
+  ],
+  [
+   2.7573e-06,
+   4.2803e-16
+  ],
+  [
+   2.7586e-06,
+   4.6215e-16
+  ],
+  [
+   2.76e-06,
+   4.4599e-16
+  ],
+  [
+   2.7614e-06,
+   3.8774e-16
+  ],
+  [
+   2.7627e-06,
+   3.6811e-16
+  ],
+  [
+   2.7641e-06,
+   3.3076e-16
+  ],
+  [
+   2.7655e-06,
+   2.9108e-16
+  ],
+  [
+   2.7668e-06,
+   2.6627e-16
+  ],
+  [
+   2.7682e-06,
+   3.712e-16
+  ],
+  [
+   2.7695e-06,
+   4.1486e-16
+  ],
+  [
+   2.7709e-06,
+   3.3979e-16
+  ],
+  [
+   2.7723e-06,
+   4.1772e-16
+  ],
+  [
+   2.7736e-06,
+   4.0674e-16
+  ],
+  [
+   2.775e-06,
+   4.3843e-16
+  ],
+  [
+   2.7764e-06,
+   4.6236e-16
+  ],
+  [
+   2.7777e-06,
+   4.7585e-16
+  ],
+  [
+   2.7791e-06,
+   4.2264e-16
+  ],
+  [
+   2.7805e-06,
+   4.3196e-16
+  ],
+  [
+   2.7818e-06,
+   4.344e-16
+  ],
+  [
+   2.7832e-06,
+   4.5937e-16
+  ],
+  [
+   2.7846e-06,
+   4.7727e-16
+  ],
+  [
+   2.7859e-06,
+   3.5725e-16
+  ],
+  [
+   2.7873e-06,
+   3.7812e-16
+  ],
+  [
+   2.7886e-06,
+   3.7393e-16
+  ],
+  [
+   2.79e-06,
+   3.7809e-16
+  ],
+  [
+   2.7914e-06,
+   3.8729e-16
+  ],
+  [
+   2.7927e-06,
+   4.1121e-16
+  ],
+  [
+   2.7941e-06,
+   3.9074e-16
+  ],
+  [
+   2.7955e-06,
+   4.4982e-16
+  ],
+  [
+   2.7968e-06,
+   4.4068e-16
+  ],
+  [
+   2.7982e-06,
+   4.4381e-16
+  ],
+  [
+   2.7995e-06,
+   4.3471e-16
+  ],
+  [
+   2.8009e-06,
+   4.6516e-16
+  ],
+  [
+   2.8023e-06,
+   5.4576e-16
+  ],
+  [
+   2.8036e-06,
+   5.4464e-16
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "ADMX_2018",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ADMX 2018 (arXiv:1804.05750, PRL 120, 151301). 90% CL upper limit on |g_agamma| from Fig. 4 (limit_plot.pdf in e-print), traced from the vector red curve = Maxwellian (boosted Maxwell-Boltzmann, isothermal standard halo model) lineshape assuming rho_a = 0.45 GeV/cm^3 and 100% dark matter; no density rescaling needed since it matches the canonical 0.45 GeV/cm^3. The blue N-body-lineshape curve (rho = 0.63 GeV/cc) is the alternative scenario and was not used. Axes calibrated from tick labels (mass linear 2.65-2.9 ueV, coupling linear 0-18 x 1e-16 GeV^-1); 7540 path points binned into 100 mass bins (mean per bin). Legend sample segment removed. Mass range 2.668-2.804 ueV (~645-678 MHz). Vetoed RF-interference band 660.16-660.27 MHz not excised (negligible width).",
+ "num_points": 100,
+ "arxiv_id": "1804.05750",
+ "elapsed_s": 97.18762493133545,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 96891,
+  "duration_api_ms": 94691,
+  "total_cost_usd": 0.997285,
+  "usage": {
+   "input_tokens": 291,
+   "output_tokens": 7335,
+   "cache_creation_input_tokens": 28276,
+   "cache_read_input_tokens": 214655
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1804.05750.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:23:50-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

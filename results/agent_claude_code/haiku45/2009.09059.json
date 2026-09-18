@@ -1,0 +1,86 @@
+{
+ "paper_title": "Constraints on Axion-like Particles from a Hard X-ray Observation of Betelgeuse",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-12,
+   1.8e-11
+  ],
+  [
+   5e-12,
+   1.8e-11
+  ],
+  [
+   1e-11,
+   1.8e-11
+  ],
+  [
+   2e-11,
+   1.8e-11
+  ],
+  [
+   3.5e-11,
+   1.8e-11
+  ],
+  [
+   5e-11,
+   1.5e-11
+  ],
+  [
+   5.5e-11,
+   1.4e-11
+  ],
+  [
+   7e-11,
+   1.2e-11
+  ],
+  [
+   1e-10,
+   1e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "NuSTAR_Betelgeuse_2019",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% C.L. upper limit from NuSTAR observation of Betelgeuse (50 ks). Most conservative scenario reported: B_T = 0.4 \u03bcG, t_cc = 1.55\u00d710^5 yr. Main quoted limit: g_a\u03b3 < 1.8\u00d710^-11 GeV^-1 for m_a < 3.5\u00d710^-11 eV (from text). Limit curve extracted from Figure 3 solid line (most conservative stellar model and B_T). Higher masses show weaker constraints due to conversion probability changes. Data points estimated by visual analysis of Figure 3 and interpolation using stated text values.",
+ "num_points": 9,
+ "arxiv_id": "2009.09059",
+ "elapsed_s": 253.00015687942505,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 27,
+  "duration_ms": 252282,
+  "duration_api_ms": 238890,
+  "total_cost_usd": 0.34721530000000006,
+  "usage": {
+   "input_tokens": 188,
+   "output_tokens": 20910,
+   "cache_creation_input_tokens": 66962,
+   "cache_read_input_tokens": 1085533
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2009.09059.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:36:03-0500"
+ }
+}

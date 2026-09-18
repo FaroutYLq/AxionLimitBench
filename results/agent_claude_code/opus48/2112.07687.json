@@ -1,0 +1,318 @@
+{
+ "paper_title": "High-precision search for dark photon dark matter with the Parkes Pulsar Timing Array",
+ "coupling_type": "VectorBL",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.236e-24,
+   1.556e-26
+  ],
+  [
+   3.548e-24,
+   1.668e-26
+  ],
+  [
+   3.89e-24,
+   1.371e-26
+  ],
+  [
+   4.266e-24,
+   1.494e-26
+  ],
+  [
+   4.677e-24,
+   1.579e-26
+  ],
+  [
+   5.129e-24,
+   9.315e-27
+  ],
+  [
+   5.623e-24,
+   1.074e-26
+  ],
+  [
+   6.166e-24,
+   1.344e-26
+  ],
+  [
+   6.761e-24,
+   1.841e-26
+  ],
+  [
+   7.413e-24,
+   1.503e-26
+  ],
+  [
+   8.128e-24,
+   1.7e-26
+  ],
+  [
+   8.912e-24,
+   1.363e-26
+  ],
+  [
+   9.772e-24,
+   1.437e-26
+  ],
+  [
+   1.071e-23,
+   1.106e-26
+  ],
+  [
+   1.175e-23,
+   1.444e-26
+  ],
+  [
+   1.288e-23,
+   1.456e-26
+  ],
+  [
+   1.413e-23,
+   1.555e-26
+  ],
+  [
+   1.549e-23,
+   1.531e-26
+  ],
+  [
+   1.698e-23,
+   1.57e-26
+  ],
+  [
+   1.862e-23,
+   1.579e-26
+  ],
+  [
+   2.042e-23,
+   1.865e-26
+  ],
+  [
+   2.239e-23,
+   2.167e-26
+  ],
+  [
+   2.455e-23,
+   2.494e-26
+  ],
+  [
+   2.691e-23,
+   2.139e-26
+  ],
+  [
+   2.951e-23,
+   2.449e-26
+  ],
+  [
+   3.236e-23,
+   2.405e-26
+  ],
+  [
+   3.548e-23,
+   3.45e-26
+  ],
+  [
+   3.89e-23,
+   4.156e-26
+  ],
+  [
+   4.266e-23,
+   4.526e-26
+  ],
+  [
+   4.677e-23,
+   5.458e-26
+  ],
+  [
+   5.128e-23,
+   6.343e-26
+  ],
+  [
+   5.623e-23,
+   5.704e-26
+  ],
+  [
+   6.166e-23,
+   6.408e-26
+  ],
+  [
+   6.761e-23,
+   9.556e-26
+  ],
+  [
+   7.413e-23,
+   9.553e-26
+  ],
+  [
+   8.128e-23,
+   8.733e-26
+  ],
+  [
+   8.912e-23,
+   1.214e-25
+  ],
+  [
+   9.772e-23,
+   2.083e-25
+  ],
+  [
+   1.071e-22,
+   1.814e-25
+  ],
+  [
+   1.175e-22,
+   2.528e-25
+  ],
+  [
+   1.288e-22,
+   6.874e-23
+  ],
+  [
+   1.412e-22,
+   7.191e-25
+  ],
+  [
+   1.549e-22,
+   4.803e-25
+  ],
+  [
+   1.698e-22,
+   4.392e-25
+  ],
+  [
+   1.862e-22,
+   1.226e-24
+  ],
+  [
+   2.042e-22,
+   1.056e-24
+  ],
+  [
+   2.239e-22,
+   7.967e-25
+  ],
+  [
+   2.455e-22,
+   1.016e-24
+  ],
+  [
+   2.57e-22,
+   1.852e-24
+  ],
+  [
+   2.691e-22,
+   1.739e-24
+  ],
+  [
+   2.951e-22,
+   1.781e-24
+  ],
+  [
+   3.236e-22,
+   1.519e-24
+  ],
+  [
+   3.388e-22,
+   2.575e-24
+  ],
+  [
+   3.548e-22,
+   2.152e-24
+  ],
+  [
+   3.89e-22,
+   3.258e-24
+  ],
+  [
+   4.467e-22,
+   2.251e-24
+  ],
+  [
+   4.898e-22,
+   4.655e-24
+  ],
+  [
+   5.37e-22,
+   4.393e-24
+  ],
+  [
+   5.888e-22,
+   5.393e-24
+  ],
+  [
+   6.456e-22,
+   7.323e-24
+  ],
+  [
+   6.761e-22,
+   8.971e-24
+  ],
+  [
+   7.413e-22,
+   7.318e-24
+  ],
+  [
+   7.762e-22,
+   1.209e-23
+  ],
+  [
+   8.128e-22,
+   1.191e-23
+  ],
+  [
+   8.511e-22,
+   1.34e-23
+  ],
+  [
+   8.912e-22,
+   1.296e-23
+  ],
+  [
+   9.772e-22,
+   1.684e-23
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "PPTA_2022",
+ "coupling_convention": "g_BL (dimensionless)",
+ "notes": "U(1)_{B-L} dark photon dark matter search with PPTA DR2 (26 pulsars). Curve is the red dashed 'uncorrelated (26 pulsars)' 95% upper limit from the right panel of Fig.1 (upperlimit.pdf, vector). The paper bounds the dimensionless coupling epsilon normalized to the EM coupling e (Eq.2: a ~ eps*e*(q/m)...); converted to the U(1)_{B-L} gauge coupling via g_BL = e*sqrt(epsilon^2) with e=sqrt(4*pi*alpha)=0.30282. Plot y-axis is epsilon^2; x-axis is m_A in eV (calibrated from major tick marks). The uncorrelated analysis (A) is performed over the full plotted mass range; the correlated (solid) curve is only done for m_A<=1e-22 eV and nearly coincides at the lowest masses but is up to ~1 order higher at 1e-22 eV. The paper states the true (hybrid) result lies between the correlated and uncorrelated cases. Sharp spike near m_A~1e-22 eV (f~2.4e-8 Hz) is a real feature of the limit. Local DM density rho0=0.4 GeV/cm^3 assumed (|A0|^2=2*rho0/m_A^2); not rescaled. A U(1)_B result is also presented (left panel) but only VectorBL is in the schema.",
+ "num_points": 67,
+ "arxiv_id": "2112.07687",
+ "elapsed_s": 226.13213992118835,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 225779,
+  "duration_api_ms": 222636,
+  "total_cost_usd": 0.8014542499999999,
+  "usage": {
+   "input_tokens": 526,
+   "output_tokens": 14624,
+   "cache_creation_input_tokens": 33514,
+   "cache_read_input_tokens": 385236
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2112.07687.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:03:44-0500"
+ }
+}

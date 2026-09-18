@@ -1,0 +1,314 @@
+{
+ "paper_title": "Piezoelectrically Tuned Multimode Cavity Search for Axion Dark Matter",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.737798e-05,
+   2.657e-13
+  ],
+  [
+   1.738706e-05,
+   2.726e-13
+  ],
+  [
+   1.739614e-05,
+   2.833e-13
+  ],
+  [
+   1.740553e-05,
+   2.907e-13
+  ],
+  [
+   1.741461e-05,
+   2.907e-13
+  ],
+  [
+   1.742369e-05,
+   2.983e-13
+  ],
+  [
+   1.743277e-05,
+   2.907e-13
+  ],
+  [
+   1.744216e-05,
+   2.907e-13
+  ],
+  [
+   1.745124e-05,
+   2.87e-13
+  ],
+  [
+   1.746032e-05,
+   2.87e-13
+  ],
+  [
+   1.74694e-05,
+   2.833e-13
+  ],
+  [
+   1.74788e-05,
+   2.761e-13
+  ],
+  [
+   1.748788e-05,
+   2.657e-13
+  ],
+  [
+   1.749696e-05,
+   2.657e-13
+  ],
+  [
+   1.750604e-05,
+   2.623e-13
+  ],
+  [
+   1.751543e-05,
+   2.589e-13
+  ],
+  [
+   1.752451e-05,
+   2.589e-13
+  ],
+  [
+   1.753359e-05,
+   2.589e-13
+  ],
+  [
+   1.754267e-05,
+   2.556e-13
+  ],
+  [
+   1.755206e-05,
+   2.589e-13
+  ],
+  [
+   1.756114e-05,
+   2.589e-13
+  ],
+  [
+   1.757022e-05,
+   2.589e-13
+  ],
+  [
+   2.102603e-05,
+   2.903e-12
+  ],
+  [
+   2.115883e-05,
+   3.177e-12
+  ],
+  [
+   2.129163e-05,
+   4.495e-12
+  ],
+  [
+   2.143506e-05,
+   2.979e-12
+  ],
+  [
+   2.156786e-05,
+   3.344e-12
+  ],
+  [
+   2.170066e-05,
+   3.344e-12
+  ],
+  [
+   2.183347e-05,
+   3.096e-12
+  ],
+  [
+   2.196627e-05,
+   3.754e-12
+  ],
+  [
+   2.209907e-05,
+   2.866e-12
+  ],
+  [
+   2.223187e-05,
+   3.566e-12
+  ],
+  [
+   2.236467e-05,
+   3.017e-12
+  ],
+  [
+   2.249216e-05,
+   3.259e-12
+  ],
+  [
+   2.262497e-05,
+   3.344e-12
+  ],
+  [
+   2.275777e-05,
+   2.363e-12
+  ],
+  [
+   2.289057e-05,
+   7.336e-13
+  ],
+  [
+   2.310305e-05,
+   2.488e-12
+  ],
+  [
+   2.323586e-05,
+   3.301e-12
+  ],
+  [
+   2.336866e-05,
+   2.653e-12
+  ],
+  [
+   2.350146e-05,
+   3.301e-12
+  ],
+  [
+   2.363426e-05,
+   3.056e-12
+  ],
+  [
+   2.376707e-05,
+   2.903e-12
+  ],
+  [
+   2.392643e-05,
+   4.004e-12
+  ],
+  [
+   2.966484e-05,
+   1.308e-12
+  ],
+  [
+   2.967058e-05,
+   1.395e-12
+  ],
+  [
+   2.967648e-05,
+   1.45e-12
+  ],
+  [
+   2.968222e-05,
+   1.45e-12
+  ],
+  [
+   2.968811e-05,
+   1.413e-12
+  ],
+  [
+   2.969385e-05,
+   1.45e-12
+  ],
+  [
+   2.969975e-05,
+   1.469e-12
+  ],
+  [
+   2.970548e-05,
+   1.469e-12
+  ],
+  [
+   2.971122e-05,
+   1.45e-12
+  ],
+  [
+   2.971712e-05,
+   1.566e-12
+  ],
+  [
+   2.972285e-05,
+   9.609e-13
+  ],
+  [
+   2.972875e-05,
+   1.692e-12
+  ],
+  [
+   2.973449e-05,
+   1.714e-12
+  ],
+  [
+   2.974038e-05,
+   1.714e-12
+  ],
+  [
+   2.974612e-05,
+   1.692e-12
+  ],
+  [
+   2.975186e-05,
+   1.714e-12
+  ],
+  [
+   2.975775e-05,
+   1.758e-12
+  ],
+  [
+   2.976349e-05,
+   1.692e-12
+  ],
+  [
+   2.976939e-05,
+   1.607e-12
+  ],
+  [
+   2.977512e-05,
+   1.566e-12
+  ],
+  [
+   2.978102e-05,
+   1.526e-12
+  ],
+  [
+   2.978676e-05,
+   1.45e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "ADMX_Sidecar_2019",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ADMX Sidecar haloscope. Limit on g_agamma vs axion mass from Fig 4 (top panels), recovered from the e-print vector limit PDFs sidecar_nibble2/3/1_limit.pdf = regions A/B/C. Curve is the lower boundary of the red excluded region, calibrated against the shared log y-axis (1e-13..1e-10) and per-panel x tick labels. Three disconnected scanned bands: A ~17.38-17.57 ueV (~2.6-3e-13), B ~21.0-23.95 ueV (wavy sawtooth ~2.5-4.5e-12 with a deep dip near 23 ueV), C ~29.66-29.79 ueV (~1.5e-12). Narrow mode-crossing notches (no exclusion) skipped; edge columns trimmed to avoid vertical-boundary artifacts. Fig 4 caption states 90% CL exclusion at rho_a=0.45 GeV/cm^3 isothermal; the 95% figure in text is the power-threshold in the analysis, not the reported CL. ~22 points per band, ordered by mass.",
+ "num_points": 66,
+ "arxiv_id": "1901.00920",
+ "elapsed_s": 156.23151087760925,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 155912,
+  "duration_api_ms": 152986,
+  "total_cost_usd": 0.7778755,
+  "usage": {
+   "input_tokens": 393,
+   "output_tokens": 10910,
+   "cache_creation_input_tokens": 33430,
+   "cache_read_input_tokens": 337721
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1901.00920.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:12:02-0500"
+ }
+}

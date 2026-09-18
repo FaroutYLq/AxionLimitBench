@@ -1,0 +1,231 @@
+{
+ "paper_title": "Astrophysical limits on very light axion-like particles from Chandra grating spectroscopy of NGC 1275",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.095e-21,
+   7.936e-13
+  ],
+  [
+   2.008e-13,
+   7.936e-13
+  ],
+  [
+   2.027e-13,
+   8.125e-13
+  ],
+  [
+   2.215e-13,
+   8.798e-13
+  ],
+  [
+   2.419e-13,
+   9.596e-13
+  ],
+  [
+   2.516e-13,
+   9.782e-13
+  ],
+  [
+   2.748e-13,
+   9.141e-13
+  ],
+  [
+   3.002e-13,
+   8.368e-13
+  ],
+  [
+   3.279e-13,
+   7.936e-13
+  ],
+  [
+   3.581e-13,
+   7.936e-13
+  ],
+  [
+   3.912e-13,
+   7.936e-13
+  ],
+  [
+   4.273e-13,
+   7.936e-13
+  ],
+  [
+   4.668e-13,
+   7.936e-13
+  ],
+  [
+   5.098e-13,
+   8.125e-13
+  ],
+  [
+   5.569e-13,
+   8.804e-13
+  ],
+  [
+   6.083e-13,
+   9.603e-13
+  ],
+  [
+   6.327e-13,
+   9.782e-13
+  ],
+  [
+   6.911e-13,
+   9.134e-13
+  ],
+  [
+   7.549e-13,
+   8.362e-13
+  ],
+  [
+   7.774e-13,
+   8.191e-13
+  ],
+  [
+   8.492e-13,
+   1.035e-12
+  ],
+  [
+   9.275e-13,
+   1.349e-12
+  ],
+  [
+   1.013e-12,
+   1.5e-12
+  ],
+  [
+   1.107e-12,
+   1.331e-12
+  ],
+  [
+   1.209e-12,
+   1.115e-12
+  ],
+  [
+   1.257e-12,
+   1.046e-12
+  ],
+  [
+   1.373e-12,
+   1.178e-12
+  ],
+  [
+   1.5e-12,
+   1.451e-12
+  ],
+  [
+   1.639e-12,
+   1.575e-12
+  ],
+  [
+   1.79e-12,
+   1.583e-12
+  ],
+  [
+   1.955e-12,
+   1.591e-12
+  ],
+  [
+   2.135e-12,
+   1.691e-12
+  ],
+  [
+   2.333e-12,
+   1.848e-12
+  ],
+  [
+   2.523e-12,
+   1.951e-12
+  ],
+  [
+   2.756e-12,
+   1.821e-12
+  ],
+  [
+   3.01e-12,
+   1.667e-12
+  ],
+  [
+   3.162e-12,
+   1.617e-12
+  ],
+  [
+   3.453e-12,
+   1.727e-12
+  ],
+  [
+   3.772e-12,
+   1.886e-12
+  ],
+  [
+   4.12e-12,
+   2.184e-12
+  ],
+  [
+   4.501e-12,
+   2.604e-12
+  ],
+  [
+   4.916e-12,
+   3.001e-12
+  ],
+  [
+   5.37e-12,
+   3.16e-12
+  ],
+  [
+   5.866e-12,
+   3.16e-12
+  ],
+  [
+   6.283e-12,
+   3.16e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.997,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "Chandra_NGC1275_2019",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Heavy black 'HETG (99.7% excl.)' curve traced from Fig. 6 bottom panel (magnetic field Model-B), the model used for the boxed headline limit g_agamma < 7.9e-13 GeV^-1 (99.7% credible) for m_a < 1e-12 eV; Model-A gives a tighter 6.3e-13. Figure PDF (f6b_new.pdf in e-print) contains a 6917x4217 raster; curve extracted programmatically as the lower boundary of the light-blue excluded region, axes calibrated from decade tick marks (x: 1e-20 to 1e-8 eV, y: 1e-13 to 2e-11 GeV^-1). Flat plateau of the trace reproduces the quoted 7.9e-13 to <1%. Limit is flat for all m_a below the plot edge (~4e-21 eV, paper's prior extends to 1e-30 eV); curve rises and ends at ~6e-12 eV where the excluded region closes. Astrophysical (ICM transparency) limit, no local DM density assumption.",
+ "num_points": 45,
+ "arxiv_id": "1907.05475",
+ "elapsed_s": 320.6093330383301,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 24,
+  "duration_ms": 320270,
+  "duration_api_ms": 308780,
+  "total_cost_usd": 2.2507075000000003,
+  "usage": {
+   "input_tokens": 669,
+   "output_tokens": 19223,
+   "cache_creation_input_tokens": 44817,
+   "cache_read_input_tokens": 670440
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1907.05475.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:48:24-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

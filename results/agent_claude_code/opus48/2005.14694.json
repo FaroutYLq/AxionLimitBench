@@ -1,0 +1,49 @@
+{
+ "paper_title": "Frequency Ratio Measurements with 18-digit Accuracy Using a Network of Optical Clocks",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": "BACON_2020",
+ "coupling_convention": null,
+ "notes": "BACON collaboration paper reporting optical frequency ratios of 27Al+, 171Yb, and 87Sr clocks with fractional uncertainties of 6-8e-18. This is a pure metrology measurement paper: it reports the ratio values and their uncertainties but does NOT derive any exclusion limit on any axion/scalar/dark-matter coupling. The only mention of new physics (dark matter, fundamental constants) is a forward-looking statement in the conclusion that such clock-ratio measurements 'can be used as sensitive tests of the Standard Model and probes for new physics' -- no coupling bound, no drift limit on alpha/mu, and no dark-matter oscillation search is presented. Therefore no new measured coupling limit to report.",
+ "num_points": 0,
+ "arxiv_id": "2005.14694",
+ "elapsed_s": 39.50612783432007,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 7,
+  "duration_ms": 39210,
+  "duration_api_ms": 37455,
+  "total_cost_usd": 0.323993,
+  "usage": {
+   "input_tokens": 135,
+   "output_tokens": 1941,
+   "cache_creation_input_tokens": 23145,
+   "cache_read_input_tokens": 86686
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2005.14694.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:49:31-0500"
+ }
+}

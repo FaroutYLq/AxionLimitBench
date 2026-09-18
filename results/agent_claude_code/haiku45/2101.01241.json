@@ -1,0 +1,58 @@
+{
+ "paper_title": "Search for axion-like dark matter using solid-state nuclear magnetic resonance",
+ "coupling_type": "AxionEDM",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.62e-07,
+   0.00095
+  ],
+  [
+   1.66e-07,
+   0.00095
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "CASPER_2021",
+ "coupling_convention": "g_d [GeV^-2]",
+ "notes": "CASPER (Cosmic Axion Spin Precession Experiment) searches for ultralight axion-like dark matter using solid-state NMR on 207Pb spins in ferroelectric PMN-PT crystal. The mass range 162-166 neV (Compton frequency 39.1-40.2 MHz) is searched by sweeping magnetic field over 21 steps from B_0=4.45 to 4.35 T. The EDM coupling limit |g_d| < 9.5 \u00d7 10^-4 GeV^-2 is flat across the entire searched range (two-point representation of flat limit). The paper also reports gradient coupling constraint |g_aNS| < 2.8 \u00d7 10^-1 GeV^-1, but EDM is presented as main result. From Section V and Figure 3(a) of the paper. 95% confidence level based on 5\u03c3 threshold (3.355\u03c3) in power spectral density analysis.",
+ "num_points": 2,
+ "arxiv_id": "2101.01241",
+ "elapsed_s": 113.78731608390808,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 113058,
+  "duration_api_ms": 109004,
+  "total_cost_usd": 0.2149676,
+  "usage": {
+   "input_tokens": 80,
+   "output_tokens": 13615,
+   "cache_creation_input_tokens": 57645,
+   "cache_read_input_tokens": 315226
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2101.01241.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:41:56-0500"
+ }
+}

@@ -1,0 +1,443 @@
+{
+ "paper_title": "Axion-like Relics: New Constraints from Old Comagnetometer Data",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-24,
+   3.785567e-07
+  ],
+  [
+   3.162278e-24,
+   3.785567e-07
+  ],
+  [
+   1e-23,
+   3.785567e-07
+  ],
+  [
+   3.162278e-23,
+   3.785567e-07
+  ],
+  [
+   1e-22,
+   3.785567e-07
+  ],
+  [
+   1.584893e-22,
+   3.785567e-07
+  ],
+  [
+   1.737801e-22,
+   3.785567e-07
+  ],
+  [
+   1.862087e-22,
+   1.78688e-06
+  ],
+  [
+   2.511886e-22,
+   1.693322e-06
+  ],
+  [
+   3.801894e-22,
+   1.523883e-06
+  ],
+  [
+   5.754399e-22,
+   1.323413e-06
+  ],
+  [
+   8.709636e-22,
+   1.103745e-06
+  ],
+  [
+   1.318257e-21,
+   8.883019e-07
+  ],
+  [
+   1.995262e-21,
+   6.985789e-07
+  ],
+  [
+   3.019952e-21,
+   3.390717e-07
+  ],
+  [
+   4.570882e-21,
+   4.168306e-07
+  ],
+  [
+   6.91831e-21,
+   4.041837e-07
+  ],
+  [
+   1.047129e-20,
+   3.884464e-07
+  ],
+  [
+   1.584893e-20,
+   4.483169e-07
+  ],
+  [
+   2.398833e-20,
+   2.011536e-06
+  ],
+  [
+   3.630781e-20,
+   4.368017e-07
+  ],
+  [
+   5.495409e-20,
+   3.826608e-07
+  ],
+  [
+   8.317638e-20,
+   3.154339e-07
+  ],
+  [
+   1.258925e-19,
+   2.263173e-07
+  ],
+  [
+   1.905461e-19,
+   1.885045e-07
+  ],
+  [
+   2.884032e-19,
+   1.885501e-07
+  ],
+  [
+   4.365158e-19,
+   1.705146e-07
+  ],
+  [
+   6.606934e-19,
+   1.295248e-07
+  ],
+  [
+   1e-18,
+   1.207e-07
+  ],
+  [
+   1.513561e-18,
+   1.363989e-07
+  ],
+  [
+   2.290868e-18,
+   8.896138e-08
+  ],
+  [
+   3.548134e-18,
+   1.991406e-06
+  ],
+  [
+   4.365158e-18,
+   1.701651e-06
+  ],
+  [
+   5.370318e-18,
+   1.349633e-06
+  ],
+  [
+   6.606934e-18,
+   1.315361e-06
+  ],
+  [
+   8.128305e-18,
+   1.383994e-06
+  ],
+  [
+   1e-17,
+   1.274618e-06
+  ],
+  [
+   1.230269e-17,
+   1.149385e-06
+  ],
+  [
+   1.513561e-17,
+   1.108031e-06
+  ],
+  [
+   1.862087e-17,
+   1.168723e-06
+  ],
+  [
+   2.290868e-17,
+   9.792883e-07
+  ],
+  [
+   2.630268e-17,
+   5.755276e-08
+  ],
+  [
+   3.126079e-17,
+   4.751103e-08
+  ],
+  [
+   3.715352e-17,
+   3.923128e-08
+  ],
+  [
+   4.415704e-17,
+   3.329945e-08
+  ],
+  [
+   5.248075e-17,
+   2.674447e-08
+  ],
+  [
+   6.237348e-17,
+   1.899276e-08
+  ],
+  [
+   7.413102e-17,
+   1.34363e-08
+  ],
+  [
+   8.810489e-17,
+   9.458138e-09
+  ],
+  [
+   1.047129e-16,
+   6.494542e-09
+  ],
+  [
+   1.244515e-16,
+   5.3534e-09
+  ],
+  [
+   1.479108e-16,
+   7.93558e-09
+  ],
+  [
+   1.757924e-16,
+   2.701055e-08
+  ],
+  [
+   2.089296e-16,
+   4.363263e-08
+  ],
+  [
+   2.483133e-16,
+   7.034401e-09
+  ],
+  [
+   2.951209e-16,
+   2.160423e-09
+  ],
+  [
+   3.507519e-16,
+   2.267314e-09
+  ],
+  [
+   4.168694e-16,
+   2.772757e-09
+  ],
+  [
+   4.954502e-16,
+   1.631238e-09
+  ],
+  [
+   5.888437e-16,
+   1.547079e-09
+  ],
+  [
+   6.99842e-16,
+   1.511455e-09
+  ],
+  [
+   8.317638e-16,
+   1.456498e-09
+  ],
+  [
+   9.885531e-16,
+   1.463427e-09
+  ],
+  [
+   1.174898e-15,
+   1.058947e-09
+  ],
+  [
+   1.396368e-15,
+   8.462403e-10
+  ],
+  [
+   1.659587e-15,
+   6.628471e-10
+  ],
+  [
+   1.972423e-15,
+   6.02163e-10
+  ],
+  [
+   2.344229e-15,
+   6.402916e-10
+  ],
+  [
+   2.786121e-15,
+   6.667355e-10
+  ],
+  [
+   3.311311e-15,
+   6.191244e-10
+  ],
+  [
+   3.935501e-15,
+   6.25913e-10
+  ],
+  [
+   4.677351e-15,
+   5.704431e-10
+  ],
+  [
+   5.559043e-15,
+   6.537385e-10
+  ],
+  [
+   6.606934e-15,
+   8.798264e-10
+  ],
+  [
+   7.852356e-15,
+   8.79208e-10
+  ],
+  [
+   9.332543e-15,
+   1.023446e-09
+  ],
+  [
+   1.109175e-14,
+   2.305947e-09
+  ],
+  [
+   1.318257e-14,
+   1.018937e-09
+  ],
+  [
+   1.566751e-14,
+   1.144067e-09
+  ],
+  [
+   1.862087e-14,
+   1.25841e-09
+  ],
+  [
+   2.213095e-14,
+   1.488622e-09
+  ],
+  [
+   2.630268e-14,
+   1.829819e-09
+  ],
+  [
+   3.126079e-14,
+   2.073652e-09
+  ],
+  [
+   3.715352e-14,
+   2.481467e-09
+  ],
+  [
+   4.415704e-14,
+   3.053376e-09
+  ],
+  [
+   5.248075e-14,
+   3.694233e-09
+  ],
+  [
+   6.237348e-14,
+   5.468443e-09
+  ],
+  [
+   7.413102e-14,
+   4.960764e-09
+  ],
+  [
+   8.810489e-14,
+   5.236278e-09
+  ],
+  [
+   1.047129e-13,
+   7.473968e-09
+  ],
+  [
+   1.244515e-13,
+   6.617181e-09
+  ],
+  [
+   1.479108e-13,
+   7.498769e-09
+  ],
+  [
+   1.757924e-13,
+   6.700484e-09
+  ],
+  [
+   2.089296e-13,
+   5.494791e-07
+  ],
+  [
+   2.483133e-13,
+   1.253197e-06
+  ],
+  [
+   2.951209e-13,
+   1.060432e-06
+  ],
+  [
+   3.507519e-13,
+   1.759422e-06
+  ],
+  [
+   3.890451e-13,
+   1.830505e-06
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "OldComagnetometers_2019",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Curve extracted from the vector paths of PlotA.pdf (Fig. 'Constraints and projected reach for ALP-neutron couplings', fig:gannbounds). Reported curve is the lower envelope (union) of the three shaded blue 95% C.L. exclusion regions labeled 'This work [I]/[II]/[III]' (datasets: Vasilakis thesis, Kornack thesis, Brown thesis K-3He comagnetometers). The paper plots g_aNN in GeV^-1 defined via L = -g_aNN dmu(a) Nbar g5 gmu N; converted to canonical dimensionless g_an = 2 m_n g_aNN with m_n = 0.93957 GeV. Axes calibrated from PDF tick marks (x: 10^-24..10^-3 eV; y: 10^-13..10^-2 GeV^-1). Dataset III bound continues below the plotted range to arbitrarily small masses; points start at the plot's left edge 1e-24 eV, with the plateau g_aNN ~ 2.0e-7 GeV^-1 (from the 143-day constant-field bound) for m_a < 1.8e-22 eV. Highly jagged sections were mildly median-filtered (~0.05 dex) and sampled at ~0.075 dex, so narrow spikes are smoothed. Assumes ALPs are all of local DM, rho = 0.4 GeV/cm^3, mean velocity 232 km/s; stochastic-field corrections included by the authors. Electron-coupling bound (Fig. gaeebounds) also derived but neutron coupling is the headline result.",
+ "num_points": 98,
+ "arxiv_id": "1907.03767",
+ "elapsed_s": 209.73085021972656,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 209306,
+  "duration_api_ms": 204180,
+  "total_cost_usd": 1.9785879999999998,
+  "usage": {
+   "input_tokens": 554,
+   "output_tokens": 15100,
+   "cache_creation_input_tokens": 46462,
+   "cache_read_input_tokens": 575578
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1907.03767.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:07:11-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

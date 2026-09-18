@@ -1,0 +1,190 @@
+{
+ "paper_title": "First indirect detection constraints on axions in the Solar basin",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   7202.775,
+   8.538e-12
+  ],
+  [
+   7400.197,
+   4.666e-12
+  ],
+  [
+   7800.263,
+   2.931e-12
+  ],
+  [
+   8100.315,
+   2.83e-12
+  ],
+  [
+   8400.368,
+   2.957e-12
+  ],
+  [
+   8800.44,
+   3.225e-12
+  ],
+  [
+   9200.515,
+   2.859e-12
+  ],
+  [
+   9500.574,
+   2.606e-12
+  ],
+  [
+   9900.653,
+   2.644e-12
+  ],
+  [
+   10300.734,
+   2.904e-12
+  ],
+  [
+   10900.861,
+   2.873e-12
+  ],
+  [
+   11400.969,
+   2.271e-12
+  ],
+  [
+   11712.458,
+   2.689e-12
+  ],
+  [
+   12201.149,
+   3.869e-12
+  ],
+  [
+   12901.313,
+   3.673e-12
+  ],
+  [
+   13401.432,
+   3.767e-12
+  ],
+  [
+   13901.554,
+   3.811e-12
+  ],
+  [
+   14412.077,
+   4.269e-12
+  ],
+  [
+   15022.255,
+   6.471e-12
+  ],
+  [
+   15902.068,
+   8.616e-12
+  ],
+  [
+   16302.173,
+   8.457e-12
+  ],
+  [
+   17002.363,
+   1.214e-11
+  ],
+  [
+   17902.613,
+   1.476e-11
+  ],
+  [
+   18549.377,
+   1.63e-11
+  ],
+  [
+   19603.102,
+   2.438e-11
+  ],
+  [
+   20103.248,
+   3.145e-11
+  ],
+  [
+   20903.488,
+   4.346e-11
+  ],
+  [
+   21803.763,
+   5.092e-11
+  ],
+  [
+   22804.073,
+   6.047e-11
+  ],
+  [
+   24119.795,
+   1.304e-10
+  ],
+  [
+   24686.24,
+   1.366e-10
+  ],
+  [
+   26105.139,
+   1.73e-10
+  ],
+  [
+   26838.26,
+   2.861e-10
+  ],
+  [
+   28105.815,
+   3.845e-10
+  ],
+  [
+   29306.227,
+   7.561e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.62,
+ "suggested_experiment_name": "SolarBasin_NuSTAR_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Limit on axion-photon coupling g_agamma with g_aee=0, from Fig. 2 (lim_photon_all.pdf) of the e-print, traced by vector extraction (pymupdf get_drawings) with axis calibration from tick labels. The paper shows three method curves (Poisson, Yellin/optimum-cuboid, CLs). I traced the CLs curve, the most stringent of the three (paper: 'most stringent in most of the parameter space'); it defines the lower boundary of the total excluded region (g > curve). The Yellin (background-agnostic 'robust') and Poisson curves lie within ~1.5-2x above it. Bathtub-shaped exclusion over m~7-29 keV; CLs weakens/starts at higher mass at low m due to the 4 keV energy cutoff. The paper's other main figure (Fig. 1) is the DFSZ 'universal coupling' case (g_agamma=alpha/2pi f, g_aee=m_e/f) plotted vs decay constant f; that case yields a corresponding AxionElectron limit not reported here. Density is not an assumed DM halo value (the solar-basin density is computed from the injection/decay balance), so dm_density_assumed=null. 90% CL per figure title.",
+ "num_points": 35,
+ "arxiv_id": "2205.05700",
+ "elapsed_s": 268.3634932041168,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 268067,
+  "duration_api_ms": 260928,
+  "total_cost_usd": 1.132593,
+  "usage": {
+   "input_tokens": 438,
+   "output_tokens": 18637,
+   "cache_creation_input_tokens": 43733,
+   "cache_read_input_tokens": 454296
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2205.05700.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:24:40-0500"
+ }
+}

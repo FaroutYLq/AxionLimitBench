@@ -1,0 +1,138 @@
+{
+ "paper_title": "Search for light scalar Dark Matter candidate with AURIGA detector",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.5101e-12,
+   1.229e-05
+  ],
+  [
+   3.5275e-12,
+   9.336e-06
+  ],
+  [
+   3.5466e-12,
+   6.288e-06
+  ],
+  [
+   3.5692e-12,
+   3.886e-06
+  ],
+  [
+   3.5866e-12,
+   3.755e-06
+  ],
+  [
+   3.6057e-12,
+   4.859e-06
+  ],
+  [
+   3.6231e-12,
+   5.972e-06
+  ],
+  [
+   3.6404e-12,
+   7.092e-06
+  ],
+  [
+   3.6595e-12,
+   7.862e-06
+  ],
+  [
+   3.6769e-12,
+   8.421e-06
+  ],
+  [
+   3.696e-12,
+   8.716e-06
+  ],
+  [
+   3.7169e-12,
+   8.716e-06
+  ],
+  [
+   3.7343e-12,
+   8.421e-06
+  ],
+  [
+   3.7516e-12,
+   7.728e-06
+  ],
+  [
+   3.7829e-12,
+   6.181e-06
+  ],
+  [
+   3.8003e-12,
+   5.029e-06
+  ],
+  [
+   3.8229e-12,
+   3.566e-06
+  ],
+  [
+   3.842e-12,
+   3.003e-06
+  ],
+  [
+   3.8594e-12,
+   3.506e-06
+  ],
+  [
+   3.8768e-12,
+   5.116e-06
+  ],
+  [
+   3.8959e-12,
+   7.34e-06
+  ],
+  [
+   3.915e-12,
+   9.83e-06
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "AURIGA_2016",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Limit from Fig. 5 (DMplotZOOM.png), the red 'Auriga' curve. The AURIGA resonant-mass detector searches for a scalar 'moduli' DM field. Eq. 4: h = (sqrt(4pi)/M_Pl)(d_me + d_e)Phi, so the electron-mass modulus d_me and the EM-gauge (fine-structure) modulus d_e enter identically and the single red curve is the 95% C.L. upper limit for BOTH couplings (the same numbers apply to ScalarElectron/d_me). The paper's headline abstract number is d_e <= 1e-5 around m_phi = 3.6e-12 eV, so I report the ScalarPhoton/d_e plane; the identical curve bounds d_me. The paper's d_e is defined by alpha -> alpha(1 + d_e*sqrt(4pi*G_N)*Phi) = alpha(1 + d_e*kappa*Phi) with kappa=sqrt(4pi)/M_Pl, i.e. exactly the Damour-Donoghue d_e, so no conversion needed. Curve is a W-shape over the AURIGA sensitive band f=[850,950] Hz (m = h*f = 4.136e-15 eV * f/Hz), spanning m_phi ~ 3.51e-12 to 3.92e-12 eV, with two minima ~3e-6 at the two detector noise minima (~867 and ~930 Hz) and a central peak ~9e-6. Extracted by raster pixel analysis: x calibrated on top f-axis (750 Hz->px252, 1100 Hz->px1085, 119px/50Hz), y on left decades (10^2->y115, 67px/decade). rho_DM = 0.3 GeV/cm^3 (Standard Halo Model), stated in abstract. C.L. = 95% via Feldman-Cousins.",
+ "num_points": 22,
+ "arxiv_id": "1607.07327",
+ "elapsed_s": 219.11978816986084,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 218797,
+  "duration_api_ms": 216082,
+  "total_cost_usd": 0.9900769999999999,
+  "usage": {
+   "input_tokens": 465,
+   "output_tokens": 15905,
+   "cache_creation_input_tokens": 36929,
+   "cache_read_input_tokens": 441674
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1607.07327.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:45:48-0500"
+ }
+}

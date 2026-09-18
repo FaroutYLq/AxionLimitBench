@@ -1,0 +1,49 @@
+{
+ "paper_title": "Constraining Rapidly Oscillating Scalar Dark Matter Using Dynamic Decoupling",
+ "coupling_type": null,
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": 3e-13,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.0,
+ "suggested_experiment_name": "DynamicDecoupling_2019",
+ "coupling_convention": "g_e\u03b3 and g_\u03b1e (dimensionless/non-standard scalar DM couplings)",
+ "notes": "This paper measures bounds on non-standard scalar dark matter couplings via dynamic decoupling in atomic transitions (arXiv:1902.02788). The bounds (Figure 2, 95% CL) are on g_\u03b1e (coupling to electron mass variations) and g_e\u03b3 (coupling to fine-structure constant variations), which do not map to AxionLimitBench canonical coupling types. The couplings are presented in a scalar-field-to-fundamental-constants framework rather than the standard axion formalism. Mass range: 1e-14 to 1e-8 eV. DM density: 0.3e-6 eV/cm\u00b3 (local Galactic density). See Figure 2(a) for g_\u03b1e bounds, Figure 2(b) for g_e\u03b3 bounds, with comparison to equivalence-principle and fifth-force constraints. Cannot extract data_points due to non-standard coupling parametrization outside AxionLimitBench scope.",
+ "num_points": 0,
+ "arxiv_id": "1902.02788",
+ "elapsed_s": 74.78323912620544,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 9,
+  "duration_ms": 73773,
+  "duration_api_ms": 71945,
+  "total_cost_usd": 0.1063722,
+  "usage": {
+   "input_tokens": 56,
+   "output_tokens": 7163,
+   "cache_creation_input_tokens": 29158,
+   "cache_read_input_tokens": 121852
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1902.02788.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:41:43-0500"
+ }
+}

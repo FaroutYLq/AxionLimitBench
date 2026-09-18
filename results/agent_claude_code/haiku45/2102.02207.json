@@ -1,0 +1,49 @@
+{
+ "paper_title": "A deep search for decaying dark matter with XMM-Newton blank-sky observations",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 1.0,
+ "suggested_experiment_name": null,
+ "coupling_convention": null,
+ "notes": "Paper reports constraints on sterile neutrino dark matter lifetime from XMM-Newton X-ray observations, not a new limit on any coupling type in the AxionLimitBench schema (AxionPhoton, AxionElectron, etc.). Sterile neutrinos are fermion dark matter candidates; bounds constrain the decay lifetime, not couplings to Standard Model particles.",
+ "num_points": 0,
+ "arxiv_id": "2102.02207",
+ "elapsed_s": 33.66061592102051,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 8,
+  "duration_ms": 32845,
+  "duration_api_ms": 28130,
+  "total_cost_usd": 0.09956309999999999,
+  "usage": {
+   "input_tokens": 54,
+   "output_tokens": 2187,
+   "cache_creation_input_tokens": 36238,
+   "cache_read_input_tokens": 160981
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2102.02207.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:45:06-0500"
+ }
+}

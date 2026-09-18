@@ -1,0 +1,411 @@
+{
+ "paper_title": "Search for axion-like dark matter with spin-based amplifiers",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.197e-14,
+   6.006e-07
+  ],
+  [
+   2.011e-14,
+   2.892e-07
+  ],
+  [
+   2.825e-14,
+   2.311e-07
+  ],
+  [
+   3.639e-14,
+   2.864e-07
+  ],
+  [
+   4.453e-14,
+   1.807e-07
+  ],
+  [
+   5.267e-14,
+   1.368e-07
+  ],
+  [
+   6.08e-14,
+   1.03e-07
+  ],
+  [
+   6.894e-14,
+   1.069e-07
+  ],
+  [
+   7.708e-14,
+   1.025e-07
+  ],
+  [
+   8.522e-14,
+   1.271e-07
+  ],
+  [
+   9.336e-14,
+   1.443e-07
+  ],
+  [
+   1.015e-13,
+   1.324e-07
+  ],
+  [
+   1.096e-13,
+   1.26e-07
+  ],
+  [
+   1.178e-13,
+   1.226e-07
+  ],
+  [
+   1.259e-13,
+   1.219e-07
+  ],
+  [
+   1.341e-13,
+   1.295e-07
+  ],
+  [
+   1.422e-13,
+   1.409e-07
+  ],
+  [
+   1.503e-13,
+   1.5e-07
+  ],
+  [
+   1.585e-13,
+   1.63e-07
+  ],
+  [
+   1.666e-13,
+   1.571e-07
+  ],
+  [
+   1.748e-13,
+   1.365e-07
+  ],
+  [
+   1.829e-13,
+   1.482e-07
+  ],
+  [
+   1.91e-13,
+   1.363e-07
+  ],
+  [
+   1.992e-13,
+   1.602e-07
+  ],
+  [
+   2.073e-13,
+   1.858e-07
+  ],
+  [
+   2.154e-13,
+   1.99e-07
+  ],
+  [
+   2.236e-13,
+   2.19e-07
+  ],
+  [
+   2.317e-13,
+   2.327e-07
+  ],
+  [
+   2.399e-13,
+   2.112e-07
+  ],
+  [
+   2.48e-13,
+   2.116e-07
+  ],
+  [
+   2.561e-13,
+   1.678e-07
+  ],
+  [
+   2.643e-13,
+   1.915e-07
+  ],
+  [
+   2.724e-13,
+   2.304e-07
+  ],
+  [
+   2.806e-13,
+   2.352e-07
+  ],
+  [
+   2.887e-13,
+   2.457e-07
+  ],
+  [
+   2.968e-13,
+   2.456e-07
+  ],
+  [
+   3.05e-13,
+   2.914e-07
+  ],
+  [
+   3.131e-13,
+   3.33e-07
+  ],
+  [
+   3.213e-13,
+   3.699e-07
+  ],
+  [
+   3.294e-13,
+   2.2e-07
+  ],
+  [
+   3.375e-13,
+   2.528e-07
+  ],
+  [
+   3.457e-13,
+   2.915e-07
+  ],
+  [
+   3.538e-13,
+   2.822e-07
+  ],
+  [
+   3.62e-13,
+   2.773e-07
+  ],
+  [
+   3.701e-13,
+   2.415e-07
+  ],
+  [
+   3.782e-13,
+   2.422e-07
+  ],
+  [
+   3.864e-13,
+   2.368e-07
+  ],
+  [
+   3.945e-13,
+   2.56e-07
+  ],
+  [
+   4.026e-13,
+   3.109e-07
+  ],
+  [
+   4.108e-13,
+   3.56e-07
+  ],
+  [
+   4.189e-13,
+   3.394e-07
+  ],
+  [
+   4.271e-13,
+   3.096e-07
+  ],
+  [
+   4.352e-13,
+   2.723e-07
+  ],
+  [
+   4.433e-13,
+   2.986e-07
+  ],
+  [
+   4.515e-13,
+   2.838e-07
+  ],
+  [
+   4.596e-13,
+   3.068e-07
+  ],
+  [
+   4.678e-13,
+   3.357e-07
+  ],
+  [
+   4.759e-13,
+   3.842e-07
+  ],
+  [
+   4.84e-13,
+   3.644e-07
+  ],
+  [
+   4.922e-13,
+   3.582e-07
+  ],
+  [
+   5.003e-13,
+   3.364e-07
+  ],
+  [
+   5.085e-13,
+   3.521e-07
+  ],
+  [
+   5.166e-13,
+   3.23e-07
+  ],
+  [
+   5.247e-13,
+   3.777e-07
+  ],
+  [
+   5.329e-13,
+   4.036e-07
+  ],
+  [
+   5.41e-13,
+   4.262e-07
+  ],
+  [
+   5.492e-13,
+   4.061e-07
+  ],
+  [
+   5.573e-13,
+   3.991e-07
+  ],
+  [
+   5.654e-13,
+   3.545e-07
+  ],
+  [
+   5.736e-13,
+   3.455e-07
+  ],
+  [
+   5.817e-13,
+   3.909e-07
+  ],
+  [
+   5.898e-13,
+   4.193e-07
+  ],
+  [
+   5.98e-13,
+   4.478e-07
+  ],
+  [
+   6.061e-13,
+   4.685e-07
+  ],
+  [
+   6.143e-13,
+   4.481e-07
+  ],
+  [
+   6.224e-13,
+   4.164e-07
+  ],
+  [
+   6.305e-13,
+   3.738e-07
+  ],
+  [
+   6.387e-13,
+   3.641e-07
+  ],
+  [
+   6.468e-13,
+   4.112e-07
+  ],
+  [
+   6.55e-13,
+   4.649e-07
+  ],
+  [
+   6.631e-13,
+   4.891e-07
+  ],
+  [
+   6.712e-13,
+   5.16e-07
+  ],
+  [
+   6.794e-13,
+   4.71e-07
+  ],
+  [
+   6.875e-13,
+   4.623e-07
+  ],
+  [
+   6.957e-13,
+   4.163e-07
+  ],
+  [
+   7.038e-13,
+   4.262e-07
+  ],
+  [
+   7.119e-13,
+   4.199e-07
+  ],
+  [
+   7.201e-13,
+   5.868e-07
+  ],
+  [
+   7.282e-13,
+   7.099e-07
+  ],
+  [
+   7.363e-13,
+   6.433e-07
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.55,
+ "suggested_experiment_name": "SpinAmplifier_2021",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Curve traced from the vector graphics of Fig. 4b: the boundary of the blue-shaded region, i.e. the 95% CL exclusion from the 100-s-per-run scan over 8.3-744 feV (the paper's continuous excluded region). The plotted limit is a rapidly oscillating jagged curve; each reported point is the median of the curve within an ~8 feV mass bin (local dips are up to ~2x lower, peaks ~2x higher). The paper also reports deeper 5-h limits, but only in 100 narrow (0.15 feV wide) windows, reaching g_aNN = 2.9e-9 GeV^-1 at 67.5 feV; that discrete comb (Fig. 4b red) is ~10x below the reported continuous curve and is described in the caption as 'advanced sensitivity'. Axis calibration cross-checked against tick marks and the quoted 5-h value. Conversion: paper quotes g_aNN in GeV^-1 for the gradient coupling (supplement Eq. J7, H = g_aNN sqrt(2 hbar^3 c rho) sin(2 pi nu t) v.I_N); converted to the canonical dimensionless coupling via the 2m_N rule, g_an = 2 x 0.9396 GeV x g_aNN. 129Xe spin is neutron-dominated, so the nucleon coupling is reported as AxionNeutron (proton set to zero). rho_DM = 0.4 GeV/cm^3 assumed by the paper.",
+ "num_points": 90,
+ "arxiv_id": "2102.01448",
+ "elapsed_s": 371.16324400901794,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 370853,
+  "duration_api_ms": 364496,
+  "total_cost_usd": 2.8329114999999994,
+  "usage": {
+   "input_tokens": 559,
+   "output_tokens": 26714,
+   "cache_creation_input_tokens": 58280,
+   "cache_read_input_tokens": 701389
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2102.01448.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:25:46-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "paper_title": "Properties of Ultralight Bosons from Heavy Quasar Spins via Superradiance",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.0286e-21,
+   1.5468e-17
+  ],
+  [
+   3.9066e-21,
+   9.1979e-17
+  ],
+  [
+   5.1374e-21,
+   1.9999e-16
+  ],
+  [
+   6.7779e-21,
+   2.137e-17
+  ],
+  [
+   8.9421e-21,
+   6.1892e-17
+  ],
+  [
+   1.1797e-20,
+   1.1449e-16
+  ],
+  [
+   1.5565e-20,
+   2.3021e-16
+  ],
+  [
+   2.0468e-20,
+   1.5817e-16
+  ],
+  [
+   2.7004e-20,
+   4.0423e-16
+  ],
+  [
+   3.5627e-20,
+   7.556e-16
+  ],
+  [
+   4.6852e-20,
+   7.0242e-16
+  ],
+  [
+   6.1812e-20,
+   1.3062e-15
+  ],
+  [
+   8.1549e-20,
+   2.2697e-15
+  ],
+  [
+   1.0759e-19,
+   4.332e-15
+  ],
+  [
+   1.4194e-19,
+   3.3907e-15
+  ],
+  [
+   1.8666e-19,
+   5.2459e-16
+  ],
+  [
+   2.4627e-19,
+   1.0331e-15
+  ],
+  [
+   3.249e-19,
+   3.2138e-16
+  ],
+  [
+   4.2727e-19,
+   7.9604e-16
+  ],
+  [
+   5.637e-19,
+   1.7951e-15
+  ],
+  [
+   7.437e-19,
+   3.1685e-15
+  ],
+  [
+   9.8117e-19,
+   2.0881e-15
+  ],
+  [
+   1.2945e-18,
+   3.783e-15
+  ],
+  [
+   1.7078e-18,
+   3.2522e-15
+  ],
+  [
+   2.2459e-18,
+   6.2723e-15
+  ],
+  [
+   2.963e-18,
+   6.608e-15
+  ],
+  [
+   3.8965e-18,
+   9.0344e-15
+  ],
+  [
+   5.1408e-18,
+   1.9238e-14
+  ],
+  [
+   6.7823e-18,
+   3.5219e-14
+  ],
+  [
+   8.9479e-18,
+   2.0373e-14
+  ],
+  [
+   1.1805e-17,
+   2.771e-14
+  ],
+  [
+   1.5575e-17,
+   3.8083e-14
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.5,
+ "suggested_experiment_name": "AGNSuperradiance_2020",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "From Figure 6 (mu-f_axion plane), the paper's bound on the axion decay constant f_a for scalar/axion-like ULBs from black-hole superradiance self-interaction (Eqs 4.1-4.2, Tables 2-3 of measured+calculated AGN spins). Curve is the lower envelope (bottom outline) of the union of the per-BH excluded regions, extracted from the vector fill polygons of the shipped figure PDF (axiondecayconstantvsmass.pdf) and converted to canonical 1/f_a = 1/f_min at each mass. NOTE the exclusion is INVERTED relative to usual axion limits: non-observation of superradiance excludes LARGE f_a (weak self-interaction), so the excluded region lies at 1/f_a BELOW this boundary (small 1/f_a), between the curve and 1/f_a=1/(10^18 GeV) plot cap. Reported points are the boundary values 1/f_min(mu). Mass exclusion range for scalars is 2.9e-21-1.7e-17 eV assuming negligible self-interaction (Fig 3). Spin lower bounds quoted at 2-sigma. The paper also gives analogous vector (Fig 7) and spin-2 (Fig 8) decay-constant bounds; scalar/axion Fig 6 chosen as the axion result. Limit independent of DM density.",
+ "num_points": 32,
+ "arxiv_id": "2012.12790",
+ "elapsed_s": 305.5972201824188,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 305289,
+  "duration_api_ms": 300544,
+  "total_cost_usd": 1.5362685,
+  "usage": {
+   "input_tokens": 562,
+   "output_tokens": 20499,
+   "cache_creation_input_tokens": 60624,
+   "cache_read_input_tokens": 829487
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2012.12790.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:20:59-0500"
+ }
+}

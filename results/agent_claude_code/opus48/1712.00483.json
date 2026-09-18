@@ -1,0 +1,110 @@
+{
+ "paper_title": "MICROSCOPE mission: first constraints on the violation of the weak equivalence principle by a light scalar dilaton",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.053e-24,
+   0.0002341
+  ],
+  [
+   3.399e-20,
+   0.0002341
+  ],
+  [
+   1.097e-15,
+   0.0002446
+  ],
+  [
+   1.173e-13,
+   0.0002556
+  ],
+  [
+   5.566e-13,
+   0.0003969
+  ],
+  [
+   1.572e-12,
+   0.0008763
+  ],
+  [
+   3.425e-12,
+   0.002208
+  ],
+  [
+   5.188e-12,
+   0.004664
+  ],
+  [
+   7.461e-12,
+   0.01124
+  ],
+  [
+   9.672e-12,
+   0.02594
+  ],
+  [
+   1.13e-11,
+   0.04596
+  ],
+  [
+   1.321e-11,
+   0.08893
+  ],
+  [
+   1.543e-11,
+   0.1879
+  ],
+  [
+   1.803e-11,
+   0.453
+  ],
+  [
+   2e-11,
+   0.8763
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "MICROSCOPE_2018",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Curve traced from Fig. 5 (fig_de.png in the arXiv e-print), the solid black MICROSCOPE line: |d_e| for a dilaton coupled only to the electromagnetic sector, vs scalar mass m_phi [eV]. Boundary of the excluded (yellow) region for MICROSCOPE. The limit is flat at |d_e| ~ 2.3e-4 for m_phi from ~1e-24 up to ~1e-13 eV, then rises steeply, reaching |d_e|~1 near m_phi ~ 2e-11 eV; MICROSCOPE is insensitive to heavier masses. Text states it excludes |d_e|>1e-4 for 1e-18<m_phi/eV<1e-11 (2-sigma). Pixel calibration: x-axis 1e-24..1e-10 eV, y-axis 1e-9..1e0. This is the dilaton-to-photon (Damour-Donoghue d_e) result. The paper's other results (Figs 1/2: Yukawa |alpha| vs lambda for q=B and q=B-L scalar fifth force; Figs 3/4: massless/massive dilaton (D_mtilde, D_e) plane) are alternative parametrizations of the same MICROSCOPE eta=(-1+/-27)e-15 measurement; Fig 5 (d_e vs mass) is the plane matching the ScalarPhoton canonical variable. 2-sigma = 95% CL. Limit does not depend on a dark-matter density assumption (fifth-force/WEP test, not a DM search).",
+ "num_points": 15,
+ "arxiv_id": "1712.00483",
+ "elapsed_s": 151.2573709487915,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 150954,
+  "duration_api_ms": 149270,
+  "total_cost_usd": 0.7477290000000001,
+  "usage": {
+   "input_tokens": 358,
+   "output_tokens": 11505,
+   "cache_creation_input_tokens": 31300,
+   "cache_read_input_tokens": 290628
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1712.00483.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:57:09-0500"
+ }
+}

@@ -1,0 +1,347 @@
+{
+ "paper_title": "Piezoelectrically Tuned Multimode Cavity Search for Axion Dark Matter",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.73851e-05,
+   2.709e-13
+  ],
+  [
+   1.7398e-05,
+   2.833e-13
+  ],
+  [
+   1.7411e-05,
+   2.945e-13
+  ],
+  [
+   1.7424e-05,
+   2.935e-13
+  ],
+  [
+   1.7437e-05,
+   2.926e-13
+  ],
+  [
+   1.745e-05,
+   2.898e-13
+  ],
+  [
+   1.7463e-05,
+   2.852e-13
+  ],
+  [
+   1.7476e-05,
+   2.797e-13
+  ],
+  [
+   1.7489e-05,
+   2.691e-13
+  ],
+  [
+   1.7502e-05,
+   2.623e-13
+  ],
+  [
+   1.7515e-05,
+   2.59e-13
+  ],
+  [
+   1.7528e-05,
+   2.573e-13
+  ],
+  [
+   1.7541e-05,
+   2.573e-13
+  ],
+  [
+   1.7554e-05,
+   2.59e-13
+  ],
+  [
+   1.7567e-05,
+   2.573e-13
+  ],
+  [
+   2.10677e-05,
+   3.177e-12
+  ],
+  [
+   2.11341e-05,
+   3.177e-12
+  ],
+  [
+   2.11992e-05,
+   3.249e-12
+  ],
+  [
+   2.12643e-05,
+   4.135e-12
+  ],
+  [
+   2.13307e-05,
+   4.409e-12
+  ],
+  [
+   2.13918e-05,
+   4.135e-12
+  ],
+  [
+   2.14608e-05,
+   3.037e-12
+  ],
+  [
+   2.15259e-05,
+   2.922e-12
+  ],
+  [
+   2.1591e-05,
+   3.281e-12
+  ],
+  [
+   2.16574e-05,
+   3.432e-12
+  ],
+  [
+   2.17224e-05,
+   3.313e-12
+  ],
+  [
+   2.17875e-05,
+   2.998e-12
+  ],
+  [
+   2.18539e-05,
+   3.037e-12
+  ],
+  [
+   2.1919e-05,
+   3.555e-12
+  ],
+  [
+   2.19841e-05,
+   3.828e-12
+  ],
+  [
+   2.20491e-05,
+   3.355e-12
+  ],
+  [
+   2.21142e-05,
+   2.885e-12
+  ],
+  [
+   2.21806e-05,
+   3.037e-12
+  ],
+  [
+   2.22457e-05,
+   3.51e-12
+  ],
+  [
+   2.23108e-05,
+   3.476e-12
+  ],
+  [
+   2.23772e-05,
+   3.136e-12
+  ],
+  [
+   2.24422e-05,
+   2.894e-12
+  ],
+  [
+   2.25073e-05,
+   3.136e-12
+  ],
+  [
+   2.25724e-05,
+   3.624e-12
+  ],
+  [
+   2.26375e-05,
+   3.454e-12
+  ],
+  [
+   2.27039e-05,
+   3.076e-12
+  ],
+  [
+   2.27689e-05,
+   2.319e-12
+  ],
+  [
+   2.2834e-05,
+   2.488e-12
+  ],
+  [
+   2.29004e-05,
+   7.724e-13
+  ],
+  [
+   2.29655e-05,
+   2.904e-12
+  ],
+  [
+   2.30252e-05,
+   3.476e-12
+  ],
+  [
+   2.3162e-05,
+   2.857e-12
+  ],
+  [
+   2.32271e-05,
+   3.302e-12
+  ],
+  [
+   2.32922e-05,
+   3.157e-12
+  ],
+  [
+   2.33572e-05,
+   2.776e-12
+  ],
+  [
+   2.34236e-05,
+   2.671e-12
+  ],
+  [
+   2.34887e-05,
+   3.106e-12
+  ],
+  [
+   2.35538e-05,
+   3.281e-12
+  ],
+  [
+   2.36189e-05,
+   3.187e-12
+  ],
+  [
+   2.36839e-05,
+   2.998e-12
+  ],
+  [
+   2.37503e-05,
+   2.941e-12
+  ],
+  [
+   2.38074e-05,
+   2.96e-12
+  ],
+  [
+   2.38858e-05,
+   5.014e-12
+  ],
+  [
+   2.39469e-05,
+   4.353e-12
+  ],
+  [
+   2.96692e-05,
+   1.395e-12
+  ],
+  [
+   2.96775e-05,
+   1.441e-12
+  ],
+  [
+   2.96857e-05,
+   1.422e-12
+  ],
+  [
+   2.96939e-05,
+   1.45e-12
+  ],
+  [
+   2.97021e-05,
+   1.478e-12
+  ],
+  [
+   2.97103e-05,
+   1.45e-12
+  ],
+  [
+   2.97185e-05,
+   1.469e-12
+  ],
+  [
+   2.97267e-05,
+   1.692e-12
+  ],
+  [
+   2.97349e-05,
+   1.714e-12
+  ],
+  [
+   2.97431e-05,
+   1.714e-12
+  ],
+  [
+   2.97514e-05,
+   1.703e-12
+  ],
+  [
+   2.97596e-05,
+   1.759e-12
+  ],
+  [
+   2.97678e-05,
+   1.639e-12
+  ],
+  [
+   2.9776e-05,
+   1.566e-12
+  ],
+  [
+   2.97842e-05,
+   1.478e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "ADMX_Sidecar_2018",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ADMX Sidecar 90% CL exclusion on g_agamma (Fig. 4 top panels), assuming isothermal halo dark-matter axions at rho=0.45 GeV/cm^3 (already the canonical density; no rescaling). Curves extracted from the vector/raster figures sidecar_nibble{1,2,3}_limit.pdf shipped with the arXiv e-print: axes calibrated from tick labels and log-scale minor tick marks; the limit is the lower boundary of the red filled exclusion region, median-binned. Three disjoint mass regions: A 17.38-17.57 ueV (TM010, 4202-4249 MHz), B 21.04-23.98 ueV (TM010, 5086-5799 MHz, low B-field commissioning run, includes narrow gaps/spikes at mode crossings smoothed by binning), C 29.67-29.79 ueV (TM020, 7173-7203 MHz). Mass ranges agree with Table I.",
+ "num_points": 74,
+ "arxiv_id": "1901.00920",
+ "elapsed_s": 200.2830581665039,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 199907,
+  "duration_api_ms": 197142,
+  "total_cost_usd": 1.489856,
+  "usage": {
+   "input_tokens": 308,
+   "output_tokens": 13239,
+   "cache_creation_input_tokens": 38292,
+   "cache_read_input_tokens": 286656
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1901.00920.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:33:01-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

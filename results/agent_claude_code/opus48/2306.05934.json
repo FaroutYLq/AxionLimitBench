@@ -1,0 +1,166 @@
+{
+ "paper_title": "First results from BRASS-p broadband searches for hidden photon dark matter",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.945e-05,
+   8.592e-14
+  ],
+  [
+   5.035e-05,
+   7.091e-14
+  ],
+  [
+   5.126e-05,
+   6.487e-14
+  ],
+  [
+   5.216e-05,
+   6.465e-14
+  ],
+  [
+   5.307e-05,
+   6.999e-14
+  ],
+  [
+   5.397e-05,
+   6.619e-14
+  ],
+  [
+   5.488e-05,
+   6.724e-14
+  ],
+  [
+   5.579e-05,
+   6.654e-14
+  ],
+  [
+   5.669e-05,
+   7.415e-14
+  ],
+  [
+   5.76e-05,
+   7.533e-14
+  ],
+  [
+   5.85e-05,
+   9.217e-14
+  ],
+  [
+   5.941e-05,
+   8.412e-14
+  ],
+  [
+   6.031e-05,
+   9.182e-14
+  ],
+  [
+   6.122e-05,
+   8.688e-14
+  ],
+  [
+   6.212e-05,
+   9.344e-14
+  ],
+  [
+   6.303e-05,
+   9.178e-14
+  ],
+  [
+   6.393e-05,
+   1.082e-13
+  ],
+  [
+   6.484e-05,
+   1.044e-13
+  ],
+  [
+   6.574e-05,
+   1.149e-13
+  ],
+  [
+   6.665e-05,
+   1.081e-13
+  ],
+  [
+   6.755e-05,
+   9.899e-14
+  ],
+  [
+   6.846e-05,
+   9.764e-14
+  ],
+  [
+   6.937e-05,
+   1.042e-13
+  ],
+  [
+   7.027e-05,
+   1.002e-13
+  ],
+  [
+   7.118e-05,
+   1.157e-13
+  ],
+  [
+   7.208e-05,
+   1.049e-13
+  ],
+  [
+   7.299e-05,
+   1.047e-13
+  ],
+  [
+   7.389e-05,
+   9.392e-14
+  ],
+  [
+   7.444e-05,
+   1.065e-13
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.68,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "BRASS-p_2023",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Hidden-photon (dark-photon) DM search with BRASS-p prototype, mass range 49.63-74.44 ueV (12-18 GHz). Headline curve is the V-polarisation kinetic-mixing detection sensitivity chi(nu) (Fig.11 bottom panel, sensitivitySR1.png raster; V-Pol is the channel used for the Fig.12 comparison, per text). Curve is the median of the noisy per-channel band extracted by pixel calibration (x gridlines 50-75 ueV, y gridlines 5/10/15 x1e-14). chi reported directly (not chi^2). Values ~6.5-11.5 x1e-14, consistent with abstract record sensitivity (0.3-1.0)x1e-13. This is a 1-sigma detection sensitivity from measured cumulative noise power (Eq.3.4, alpha=1/3 single pol); the detailed signal search is deferred to a later publication, so CL=1sigma(~0.68) rather than 90/95%. rho_DM=0.3 GeV/cm^3 (Eq.2.2/3.4). Unpolarised (gas-like) HP scenario assumed.",
+ "num_points": 29,
+ "arxiv_id": "2306.05934",
+ "elapsed_s": 248.83604502677917,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 248463,
+  "duration_api_ms": 237406,
+  "total_cost_usd": 1.2506119999999998,
+  "usage": {
+   "input_tokens": 586,
+   "output_tokens": 14913,
+   "cache_creation_input_tokens": 50279,
+   "cache_read_input_tokens": 744134
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2306.05934.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:36:07-0500"
+ }
+}

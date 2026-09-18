@@ -1,0 +1,250 @@
+{
+ "paper_title": "Constraints on bosonic dark matter from ultralow-field nuclear magnetic resonance",
+ "coupling_type": "AxionNucleon",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.8e-16,
+   9.745184261999999e-09
+  ],
+  [
+   2.037442e-16,
+   1.08800052e-08
+  ],
+  [
+   2.306205e-16,
+   1.1934051479999998e-08
+  ],
+  [
+   2.610421e-16,
+   1.2877355856e-08
+  ],
+  [
+   2.954767e-16,
+   1.3686929729999999e-08
+  ],
+  [
+   3.344537e-16,
+   1.4347833611999999e-08
+  ],
+  [
+   3.785722e-16,
+   1.4853470087999998e-08
+  ],
+  [
+   4.285104e-16,
+   1.5205170659999997e-08
+  ],
+  [
+   4.850361e-16,
+   1.5411213552e-08
+  ],
+  [
+   5.490182e-16,
+   1.548549033e-08
+  ],
+  [
+   6.214404e-16,
+   1.5446001624e-08
+  ],
+  [
+   7.034159e-16,
+   1.5313365995999997e-08
+  ],
+  [
+   7.962049e-16,
+   1.5109464024e-08
+  ],
+  [
+   9.01234e-16,
+   1.4856337793999998e-08
+  ],
+  [
+   1.020118e-15,
+   1.4575355189999999e-08
+  ],
+  [
+   1.154683e-15,
+   1.4286689688e-08
+  ],
+  [
+   1.307e-15,
+   1.4009079972e-08
+  ],
+  [
+   1.479409e-15,
+   1.3759844958e-08
+  ],
+  [
+   1.674561e-15,
+   1.3555133568e-08
+  ],
+  [
+   1.895456e-15,
+   1.3410373572e-08
+  ],
+  [
+   2.14549e-15,
+   1.3340900718e-08
+  ],
+  [
+   2.428506e-15,
+   1.3362785051999999e-08
+  ],
+  [
+   2.748855e-15,
+   1.3493882598e-08
+  ],
+  [
+   3.111462e-15,
+   1.375514808e-08
+  ],
+  [
+   3.521902e-15,
+   1.4172370193999999e-08
+  ],
+  [
+   3.986483e-15,
+   1.4696741598e-08
+  ],
+  [
+   4.512348e-15,
+   1.1206508645999998e-08
+  ],
+  [
+   5.107581e-15,
+   4.2949052459999996e-09
+  ],
+  [
+   5.781333e-15,
+   6.49272489e-09
+  ],
+  [
+   6.543961e-15,
+   4.6166742539999993e-07
+  ],
+  [
+   7.407188e-15,
+   0.0001649803281
+  ],
+  [
+   8.384286e-15,
+   0.003958921656
+  ],
+  [
+   9.490274e-15,
+   0.00532628031
+  ],
+  [
+   1.074216e-14,
+   0.005487564828
+  ],
+  [
+   1.215918e-14,
+   0.005269119624
+  ],
+  [
+   1.376312e-14,
+   0.0048552065459999995
+  ],
+  [
+   1.557864e-14,
+   0.00442076505
+  ],
+  [
+   1.763365e-14,
+   0.004095585594
+  ],
+  [
+   1.995974e-14,
+   0.00396676794
+  ],
+  [
+   2.259267e-14,
+   0.004023583074
+  ],
+  [
+   2.557292e-14,
+   0.004211306075999999
+  ],
+  [
+   2.89463e-14,
+   0.004480199993999999
+  ],
+  [
+   3.276466e-14,
+   0.0047720411939999995
+  ],
+  [
+   3.708672e-14,
+   0.005012868402
+  ],
+  [
+   4.197891e-14,
+   0.005115555563999999
+  ],
+  [
+   4.751643e-14,
+   0.004995434928
+  ],
+  [
+   5.378442e-14,
+   0.004598083932
+  ],
+  [
+   6.087924e-14,
+   0.0039296398799999995
+  ],
+  [
+   6.890995e-14,
+   0.0030714971699999996
+  ],
+  [
+   7.8e-14,
+   0.002162809968
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "CASPEr-ZULF_2019",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Limit extracted from Figure 3 (ALP wind-nucleon linear coupling). Paper reports g_aNN(omega) in GeV^-1 units. Converted to canonical dimensionless g_an = 2*m_N*g_aNN using nucleon mass m_N = 0.939 GeV. Figure 3 caption states: 'The CASPEr-ZULF region is excluded by this work (90% confidence level)'. Mass range 1.8e-16 to 7.8e-14 eV as stated in paper. Extraction confidence limited by pixelated figure boundary and limited explicit data points in paper.",
+ "num_points": 50,
+ "arxiv_id": "1902.04644",
+ "elapsed_s": 299.5086600780487,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 298031,
+  "duration_api_ms": 274254,
+  "total_cost_usd": 0.3764415000000001,
+  "usage": {
+   "input_tokens": 182,
+   "output_tokens": 25637,
+   "cache_creation_input_tokens": 72003,
+   "cache_read_input_tokens": 1040685
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1902.04644.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:47:56-0500"
+ }
+}

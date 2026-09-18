@@ -1,0 +1,234 @@
+{
+ "paper_title": "Upper limit on the axion-photon coupling from Markarian 421",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.217e-10,
+   7.898e-11
+  ],
+  [
+   2.595e-10,
+   7.462e-11
+  ],
+  [
+   3.037e-10,
+   2.314e-11
+  ],
+  [
+   3.555e-10,
+   1.852e-11
+  ],
+  [
+   4.161e-10,
+   1.675e-11
+  ],
+  [
+   4.87e-10,
+   1.568e-11
+  ],
+  [
+   5.701e-10,
+   1.462e-11
+  ],
+  [
+   6.673e-10,
+   1.425e-11
+  ],
+  [
+   7.811e-10,
+   1.475e-11
+  ],
+  [
+   9.142e-10,
+   1.575e-11
+  ],
+  [
+   1.07e-09,
+   1.617e-11
+  ],
+  [
+   1.253e-09,
+   7.694e-12
+  ],
+  [
+   1.466e-09,
+   6.432e-12
+  ],
+  [
+   1.716e-09,
+   5.472e-12
+  ],
+  [
+   2.009e-09,
+   4.758e-12
+  ],
+  [
+   2.351e-09,
+   4.303e-12
+  ],
+  [
+   2.752e-09,
+   4.119e-12
+  ],
+  [
+   3.222e-09,
+   4.119e-12
+  ],
+  [
+   3.771e-09,
+   4.379e-12
+  ],
+  [
+   4.414e-09,
+   4.655e-12
+  ],
+  [
+   5.167e-09,
+   4.949e-12
+  ],
+  [
+   6.048e-09,
+   5.617e-12
+  ],
+  [
+   7.079e-09,
+   6.432e-12
+  ],
+  [
+   8.286e-09,
+   7.301e-12
+  ],
+  [
+   9.699e-09,
+   8.47e-12
+  ],
+  [
+   1.135e-08,
+   8.965e-12
+  ],
+  [
+   1.329e-08,
+   9.325e-12
+  ],
+  [
+   1.555e-08,
+   1e-11
+  ],
+  [
+   1.821e-08,
+   1.072e-11
+  ],
+  [
+   2.131e-08,
+   1.14e-11
+  ],
+  [
+   2.494e-08,
+   1.191e-11
+  ],
+  [
+   2.92e-08,
+   1.16e-11
+  ],
+  [
+   3.418e-08,
+   1.175e-11
+  ],
+  [
+   4e-08,
+   8.772e-12
+  ],
+  [
+   4.682e-08,
+   1.617e-11
+  ],
+  [
+   5.481e-08,
+   1.765e-11
+  ],
+  [
+   6.415e-08,
+   1.884e-11
+  ],
+  [
+   7.509e-08,
+   2.093e-11
+  ],
+  [
+   8.79e-08,
+   2.492e-11
+  ],
+  [
+   1.029e-07,
+   2.804e-11
+  ],
+  [
+   1.204e-07,
+   3.239e-11
+  ],
+  [
+   1.41e-07,
+   3.55e-11
+  ],
+  [
+   1.65e-07,
+   3.841e-11
+  ],
+  [
+   1.931e-07,
+   5.33e-11
+  ],
+  [
+   2.261e-07,
+   6.211e-11
+  ],
+  [
+   2.6e-07,
+   9.614e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.99,
+ "extraction_confidence": 0.82,
+ "suggested_experiment_name": "Mrk421_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "AxionPhoton limit from ALP-photon conversion in VHE gamma-rays of blazar Markarian 421 (Fermi-LAT+HAWC, 1038 days). Curve is the lower boundary (bottom edge, smallest excluded g per mass) of the red 99% C.L. excluded contour traced from Fig.2 (fig_contour_mrk421, chi-square distribution) which is identical to the red \"this work\" region of Fig.3. Axes calibrated from black frame: x 1e-10..1e-6 eV, y 1e-10..1e-12 GeV^-1. Minimum g~4.1e-12 near m~3e-9 eV, consistent with the paper text g_ag<=4.0e-12 GeV^-1 for 1e-9<=m_a<=1e-8 eV; full excluded region spans m~2e-10..2.6e-7 eV. Small downward notch near m~4e-8 eV is a real contour feature. Paper Eq.1 L=-1/4 g_ag a F Fdual matches canonical convention (no conversion). dm density N/A (spectral/gamma-ray limit).",
+ "num_points": 46,
+ "arxiv_id": "2406.00387",
+ "elapsed_s": 196.76889896392822,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 196481,
+  "duration_api_ms": 191661,
+  "total_cost_usd": 1.014291,
+  "usage": {
+   "input_tokens": 502,
+   "output_tokens": 13380,
+   "cache_creation_input_tokens": 39964,
+   "cache_read_input_tokens": 555282
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2406.00387.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:24:10-0500"
+ }
+}

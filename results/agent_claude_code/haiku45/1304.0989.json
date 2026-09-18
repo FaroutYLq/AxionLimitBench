@@ -1,0 +1,126 @@
+{
+ "paper_title": "Constraints on Axion-Like Particles from X-Ray Observations of the Hydra Galaxy Cluster",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-12,
+   8e-12
+  ],
+  [
+   1.5e-12,
+   7.6e-12
+  ],
+  [
+   2e-12,
+   7.4e-12
+  ],
+  [
+   2.5e-12,
+   7.1e-12
+  ],
+  [
+   3e-12,
+   7e-12
+  ],
+  [
+   3.5e-12,
+   7e-12
+  ],
+  [
+   4e-12,
+   7e-12
+  ],
+  [
+   4.5e-12,
+   7.2e-12
+  ],
+  [
+   5e-12,
+   7.5e-12
+  ],
+  [
+   5.5e-12,
+   8e-12
+  ],
+  [
+   6e-12,
+   8.6e-12
+  ],
+  [
+   6.5e-12,
+   9.5e-12
+  ],
+  [
+   7e-12,
+   1.05e-11
+  ],
+  [
+   7.5e-12,
+   1.08e-11
+  ],
+  [
+   8e-12,
+   9e-12
+  ],
+  [
+   8.5e-12,
+   1.05e-11
+  ],
+  [
+   9e-12,
+   1.15e-11
+  ],
+  [
+   9.5e-12,
+   1.3e-11
+  ],
+  [
+   1e-11,
+   1.45e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "HydraA_Chandra_2013",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Exclusion limit derived from absence of spectral irregularities in X-ray observations of Hydra A using Chandra data. The constraint applies to very light pseudo-Nambu-Goldstone bosons. Data extracted from Figure 4 (95% CL contour). The constraint is most competitive for ALP masses below 7\u00d710^-12 eV, with limit g\u03b3a < 8.3\u00d710^-12 GeV^-1. A small region around 8\u00d710^-12 eV shows weaker constraint due to matching with effective photon mass in plasma. Constraint rises as m_a^2 at higher masses as critical energy exceeds Chandra's observable range.",
+ "num_points": 19,
+ "arxiv_id": "1304.0989",
+ "elapsed_s": 181.21205973625183,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 9,
+  "duration_ms": 175389,
+  "duration_api_ms": 92811,
+  "total_cost_usd": 0.1470292,
+  "usage": {
+   "input_tokens": 68,
+   "output_tokens": 9303,
+   "cache_creation_input_tokens": 37739,
+   "cache_read_input_tokens": 249682
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1304.0989.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T14:50:41-0500"
+ }
+}

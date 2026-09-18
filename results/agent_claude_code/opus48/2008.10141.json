@@ -1,0 +1,90 @@
+{
+ "paper_title": "Search for invisible axion dark matter with a multiple-cell haloscope",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.3e-05,
+   5.6452e-14
+  ],
+  [
+   1.31e-05,
+   5.6886e-14
+  ],
+  [
+   1.32e-05,
+   5.732e-14
+  ],
+  [
+   1.33e-05,
+   5.7755e-14
+  ],
+  [
+   1.34e-05,
+   5.8189e-14
+  ],
+  [
+   1.35e-05,
+   5.8623e-14
+  ],
+  [
+   1.36e-05,
+   5.9057e-14
+  ],
+  [
+   1.37e-05,
+   5.9492e-14
+  ],
+  [
+   1.38e-05,
+   5.9926e-14
+  ],
+  [
+   1.39e-05,
+   6.036e-14
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "CAPP-9T_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "CAPP-9T double-cell multiple-cell haloscope. Headline result (abstract + conclusion): excluded axions with g_agamma >= 11.1 x g_agamma^KSVZ at 90% CL over the mass range 13.0-13.9 ueV (3.14-3.36 GHz), rho_a=0.45 GeV/cm^3. Fig. 5 plots the exclusion in units of g_agamma/g_agamma^KSVZ (a nearly flat ~11.1 line with downward spikes to better sensitivity and gaps around 13.35 ueV from mode-mixing regions). Converted the flat 11.1x ratio to absolute g_agamma using KSVZ (E/N=0, |E/N-1.92|=1.92): g_agamma^KSVZ = alpha/(2*pi*f_a)*1.92 with f_a=5.7e6/m_a[eV] GeV (task-card mass convention m_a=5.7 ueV*(1e12 GeV/f_a)). This gives g_KSVZ ~ 5.1e-15 GeV^-1 at 13.0 ueV rising linearly with mass, so 11.1x = 5.6e-14 -> 6.0e-14 GeV^-1 across the band. Points trace the linear 11.1x envelope (the paper's headline/maximum limit); localized spikes below this and the 13.35 ueV gaps are not resolved here. data_source=text since the curve is reconstructed from the quoted 11.1x number rather than digitized point-by-point.",
+ "num_points": 10,
+ "arxiv_id": "2008.10141",
+ "elapsed_s": 71.91248607635498,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 7,
+  "duration_ms": 71624,
+  "duration_api_ms": 70726,
+  "total_cost_usd": 0.4029875,
+  "usage": {
+   "input_tokens": 135,
+   "output_tokens": 5481,
+   "cache_creation_input_tokens": 22086,
+   "cache_read_input_tokens": 88855
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.10141.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:04:52-0500"
+ }
+}

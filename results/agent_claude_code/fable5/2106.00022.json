@@ -1,0 +1,451 @@
+{
+ "paper_title": "Earth as a transducer for dark-photon dark-matter detection",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.5323e-18,
+   0.0086338
+  ],
+  [
+   2.6169e-18,
+   0.0084191
+  ],
+  [
+   2.7043e-18,
+   0.0072008
+  ],
+  [
+   2.7947e-18,
+   0.0073551
+  ],
+  [
+   2.8881e-18,
+   0.0049506
+  ],
+  [
+   2.9846e-18,
+   0.0043155
+  ],
+  [
+   3.0844e-18,
+   0.0041987
+  ],
+  [
+   3.1874e-18,
+   0.0035965
+  ],
+  [
+   3.294e-18,
+   0.0029952
+  ],
+  [
+   3.404e-18,
+   0.0026515
+  ],
+  [
+   3.5178e-18,
+   0.0022975
+  ],
+  [
+   3.6354e-18,
+   0.0020204
+  ],
+  [
+   3.7568e-18,
+   0.0018608
+  ],
+  [
+   3.8824e-18,
+   0.0016502
+  ],
+  [
+   4.0121e-18,
+   0.001709
+  ],
+  [
+   4.1462e-18,
+   0.0015226
+  ],
+  [
+   4.2848e-18,
+   0.0015376
+  ],
+  [
+   4.428e-18,
+   0.0014282
+  ],
+  [
+   4.5759e-18,
+   0.0014024
+  ],
+  [
+   4.7289e-18,
+   0.0012961
+  ],
+  [
+   4.8869e-18,
+   0.0011297
+  ],
+  [
+   5.0502e-18,
+   0.0010727
+  ],
+  [
+   5.219e-18,
+   0.0010028
+  ],
+  [
+   5.3934e-18,
+   0.00078777
+  ],
+  [
+   5.5736e-18,
+   0.00070162
+  ],
+  [
+   5.7599e-18,
+   0.00066484
+  ],
+  [
+   5.9524e-18,
+   0.00063345
+  ],
+  [
+   6.1513e-18,
+   0.00056926
+  ],
+  [
+   6.3569e-18,
+   0.00048616
+  ],
+  [
+   6.5693e-18,
+   0.00052354
+  ],
+  [
+   6.7889e-18,
+   0.00049359
+  ],
+  [
+   7.0157e-18,
+   0.00042663
+  ],
+  [
+   7.2502e-18,
+   0.00037028
+  ],
+  [
+   7.4925e-18,
+   0.0003574
+  ],
+  [
+   7.7429e-18,
+   0.00035007
+  ],
+  [
+   8.0016e-18,
+   0.00034921
+  ],
+  [
+   8.2691e-18,
+   0.00029282
+  ],
+  [
+   8.5454e-18,
+   0.00029301
+  ],
+  [
+   8.831e-18,
+   0.00027213
+  ],
+  [
+   9.1261e-18,
+   0.00025184
+  ],
+  [
+   9.4311e-18,
+   0.00022728
+  ],
+  [
+   9.7462e-18,
+   0.00019992
+  ],
+  [
+   1.0072e-17,
+   0.00019097
+  ],
+  [
+   1.0409e-17,
+   0.00018543
+  ],
+  [
+   1.0756e-17,
+   0.00016165
+  ],
+  [
+   1.1116e-17,
+   0.00013659
+  ],
+  [
+   1.1487e-17,
+   0.0001283
+  ],
+  [
+   1.1871e-17,
+   0.00012569
+  ],
+  [
+   1.2268e-17,
+   0.00011776
+  ],
+  [
+   1.2678e-17,
+   0.00010602
+  ],
+  [
+   1.3102e-17,
+   0.00010174
+  ],
+  [
+   1.3539e-17,
+   9.3913e-05
+  ],
+  [
+   1.3992e-17,
+   9.0876e-05
+  ],
+  [
+   1.446e-17,
+   8.3321e-05
+  ],
+  [
+   1.4943e-17,
+   7.0234e-05
+  ],
+  [
+   1.5442e-17,
+   6.6007e-05
+  ],
+  [
+   1.5958e-17,
+   6.4731e-05
+  ],
+  [
+   1.6491e-17,
+   5.6552e-05
+  ],
+  [
+   1.7043e-17,
+   5.5702e-05
+  ],
+  [
+   1.7612e-17,
+   5.1202e-05
+  ],
+  [
+   1.8201e-17,
+   4.7025e-05
+  ],
+  [
+   1.8809e-17,
+   4.0748e-05
+  ],
+  [
+   1.9438e-17,
+   3.7953e-05
+  ],
+  [
+   2.0087e-17,
+   3.8034e-05
+  ],
+  [
+   2.0758e-17,
+   3.8947e-05
+  ],
+  [
+   2.1452e-17,
+   3.4748e-05
+  ],
+  [
+   2.2169e-17,
+   3.1223e-05
+  ],
+  [
+   2.291e-17,
+   2.7767e-05
+  ],
+  [
+   2.3675e-17,
+   2.6207e-05
+  ],
+  [
+   2.4467e-17,
+   2.5002e-05
+  ],
+  [
+   2.5284e-17,
+   2.4293e-05
+  ],
+  [
+   2.6129e-17,
+   2.3305e-05
+  ],
+  [
+   2.7003e-17,
+   2.046e-05
+  ],
+  [
+   2.7905e-17,
+   2.0548e-05
+  ],
+  [
+   2.8837e-17,
+   1.9069e-05
+  ],
+  [
+   2.9801e-17,
+   1.7157e-05
+  ],
+  [
+   3.0797e-17,
+   1.7395e-05
+  ],
+  [
+   3.1826e-17,
+   1.6424e-05
+  ],
+  [
+   3.289e-17,
+   1.5606e-05
+  ],
+  [
+   3.3989e-17,
+   1.5405e-05
+  ],
+  [
+   3.5125e-17,
+   1.5548e-05
+  ],
+  [
+   3.6299e-17,
+   1.3305e-05
+  ],
+  [
+   3.7512e-17,
+   1.3932e-05
+  ],
+  [
+   3.8765e-17,
+   1.3317e-05
+  ],
+  [
+   4.0061e-17,
+   1.3339e-05
+  ],
+  [
+   4.14e-17,
+   1.3475e-05
+  ],
+  [
+   4.2783e-17,
+   1.3106e-05
+  ],
+  [
+   4.4213e-17,
+   1.3349e-05
+  ],
+  [
+   4.5691e-17,
+   1.4603e-05
+  ],
+  [
+   4.7217e-17,
+   1.4463e-05
+  ],
+  [
+   4.8795e-17,
+   1.7169e-05
+  ],
+  [
+   5.0426e-17,
+   1.7572e-05
+  ],
+  [
+   5.2111e-17,
+   1.6268e-05
+  ],
+  [
+   5.3853e-17,
+   1.9094e-05
+  ],
+  [
+   5.5652e-17,
+   2.007e-05
+  ],
+  [
+   5.7512e-17,
+   2.4702e-05
+  ],
+  [
+   5.9434e-17,
+   3.0496e-05
+  ],
+  [
+   6.1421e-17,
+   3.6992e-05
+  ],
+  [
+   6.3473e-17,
+   5.2741e-05
+  ],
+  [
+   6.5594e-17,
+   9.9915e-05
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "SuperMAG_2021",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "95%-credible upper limits on kinetic mixing epsilon vs dark-photon mass from Fig. 4 (dark blue 'This signal' curve), from the SuperMAG geomagnetic-data search summarized in Sec. IV (details in companion paper). Curve recovered from the vector figure limit_theory.pdf in the arXiv e-print; axes calibrated to tick labels (x: 3e-18, 1e-17, 6e-17 eV; y: 1e-6..1e-2). The raw limit is a dense, highly jagged band (~10^4 vertices, one limit per searched frequency over 6e-4 to 2e-2 Hz); reported points are medians of the raw curve in 100 log-spaced mass bins, which agree with the paper's own sliding-average ('This signal, smoothed') curve to within ~12%. Individual raw limit values fluctuate around this trend (about 78% lie within a factor of 2). Assumes dark photon is all of DM with rho = 0.3 GeV/cm^3 and SHM velocity dispersion.",
+ "num_points": 100,
+ "arxiv_id": "2106.00022",
+ "elapsed_s": 133.45703387260437,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 133157,
+  "duration_api_ms": 130765,
+  "total_cost_usd": 1.2509530000000002,
+  "usage": {
+   "input_tokens": 341,
+   "output_tokens": 7688,
+   "cache_creation_input_tokens": 36178,
+   "cache_read_input_tokens": 349223
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2106.00022.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:28:12-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,218 @@
+{
+ "paper_title": "Spectra of axions emitted from main sequence stars",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   430.0845,
+   9.147e-11
+  ],
+  [
+   550.0829,
+   5.919e-11
+  ],
+  [
+   700.1027,
+   4.18e-11
+  ],
+  [
+   890.0899,
+   3.469e-11
+  ],
+  [
+   1070.135,
+   3.394e-11
+  ],
+  [
+   1160.1261,
+   3.457e-11
+  ],
+  [
+   1320.1063,
+   3.53e-11
+  ],
+  [
+   1410.0795,
+   3.57e-11
+  ],
+  [
+   1570.1012,
+   3.645e-11
+  ],
+  [
+   1740.125,
+   3.67e-11
+  ],
+  [
+   1870.0795,
+   3.704e-11
+  ],
+  [
+   2120.051,
+   3.773e-11
+  ],
+  [
+   2300.096,
+   3.782e-11
+  ],
+  [
+   2639.9959,
+   3.808e-11
+  ],
+  [
+   2869.9757,
+   3.826e-11
+  ],
+  [
+   3250.0039,
+   3.782e-11
+  ],
+  [
+   3490.0033,
+   3.747e-11
+  ],
+  [
+   3869.9219,
+   3.687e-11
+  ],
+  [
+   4299.8558,
+   3.579e-11
+  ],
+  [
+   4599.8637,
+   3.513e-11
+  ],
+  [
+   5229.6537,
+   3.418e-11
+  ],
+  [
+   5669.6802,
+   3.355e-11
+  ],
+  [
+   6519.5119,
+   3.347e-11
+  ],
+  [
+   7069.6158,
+   3.418e-11
+  ],
+  [
+   8019.4327,
+   3.595e-11
+  ],
+  [
+   8599.0978,
+   3.773e-11
+  ],
+  [
+   9219.0475,
+   3.988e-11
+  ],
+  [
+   9879.1436,
+   4.224e-11
+  ],
+  [
+   10588.7085,
+   4.444e-11
+  ],
+  [
+   11348.7406,
+   4.589e-11
+  ],
+  [
+   12168.5236,
+   4.547e-11
+  ],
+  [
+   13038.0931,
+   4.263e-11
+  ],
+  [
+   14987.9456,
+   3.449e-11
+  ],
+  [
+   16057.5915,
+   3.189e-11
+  ],
+  [
+   17436.9245,
+   2.949e-11
+  ],
+  [
+   19776.1455,
+   2.816e-11
+  ],
+  [
+   21196.5651,
+   2.816e-11
+  ],
+  [
+   23555.5501,
+   2.922e-11
+  ],
+  [
+   26104.3447,
+   3.234e-11
+  ],
+  [
+   27984.1695,
+   3.538e-11
+  ],
+  [
+   31833.3978,
+   4.363e-11
+  ],
+  [
+   43009.389,
+   9.814e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "StellarAxionBackground_NuSTAR_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Lower boundary of the blue NuSTAR excluded region in Fig.7 (limit.pdf, light-blue vector fill), the paper headline 95% CL limit from a chi-squared fit of the stellar-axion-background X-ray decay signal to NuSTAR CXB data (Sec 3.1). Coupling defined by Eq.(1.1) L = -(g_agamma/4) a F Ftilde, already canonical. x-axis m_a in keV converted to eV. Curve reaches ~2.8e-11 GeV^-1 near 20 keV and ~3.4e-11 near 1 keV; edges rise toward the ~6.6e-11 GC/cooling bound. Region lies below the GC bound over 0.43-43 keV. Not a dark-matter search, so no density dependence.",
+ "num_points": 42,
+ "arxiv_id": "2307.11216",
+ "elapsed_s": 168.20465111732483,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 167904,
+  "duration_api_ms": 164187,
+  "total_cost_usd": 1.0268834999999998,
+  "usage": {
+   "input_tokens": 470,
+   "output_tokens": 11538,
+   "cache_creation_input_tokens": 45426,
+   "cache_read_input_tokens": 563647
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2307.11216.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:45:16-0500"
+ }
+}

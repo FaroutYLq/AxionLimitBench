@@ -1,0 +1,395 @@
+{
+ "paper_title": "New Exclusion Limits for the Search of Scalar and Pseudoscalar Axion-Like Particles from \"Light Shining Through a Wall\"",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.00205e-05,
+   3.45724e-08
+  ],
+  [
+   0.000163856,
+   3.4807e-08
+  ],
+  [
+   0.000243016,
+   3.57368e-08
+  ],
+  [
+   0.000318237,
+   3.81638e-08
+  ],
+  [
+   0.000348651,
+   3.99159e-08
+  ],
+  [
+   0.000389977,
+   4.34686e-08
+  ],
+  [
+   0.000439837,
+   5.06916e-08
+  ],
+  [
+   0.000485887,
+   6.28015e-08
+  ],
+  [
+   0.000527924,
+   8.39911e-08
+  ],
+  [
+   0.000566502,
+   1.26e-07
+  ],
+  [
+   0.000592955,
+   1.93054e-07
+  ],
+  [
+   0.000615514,
+   3.4643e-07
+  ],
+  [
+   0.000641068,
+   2.00096e-06
+  ],
+  [
+   0.000650952,
+   2.00096e-06
+  ],
+  [
+   0.000663239,
+   6.73831e-07
+  ],
+  [
+   0.000691334,
+   2.81792e-07
+  ],
+  [
+   0.000726624,
+   1.85574e-07
+  ],
+  [
+   0.000744939,
+   1.67815e-07
+  ],
+  [
+   0.000770079,
+   1.59223e-07
+  ],
+  [
+   0.000796067,
+   1.65288e-07
+  ],
+  [
+   0.000822932,
+   1.90413e-07
+  ],
+  [
+   0.000861358,
+   3.01197e-07
+  ],
+  [
+   0.000890427,
+   6.70827e-07
+  ],
+  [
+   0.000906477,
+   2.00096e-06
+  ],
+  [
+   0.000920476,
+   2.00096e-06
+  ],
+  [
+   0.000955496,
+   4.26238e-07
+  ],
+  [
+   0.000979579,
+   3.08809e-07
+  ],
+  [
+   0.00101264,
+   2.69345e-07
+  ],
+  [
+   0.00104681,
+   3.09466e-07
+  ],
+  [
+   0.0010732,
+   4.39051e-07
+  ],
+  [
+   0.00111025,
+   2.00096e-06
+  ],
+  [
+   0.00112798,
+   2.00096e-06
+  ],
+  [
+   0.00116122,
+   5.27055e-07
+  ],
+  [
+   0.00118065,
+   4.13369e-07
+  ],
+  [
+   0.0012054,
+   3.78883e-07
+  ],
+  [
+   0.00123578,
+   4.54122e-07
+  ],
+  [
+   0.00125646,
+   6.54849e-07
+  ],
+  [
+   0.00128215,
+   2.00096e-06
+  ],
+  [
+   0.00130198,
+   2.00096e-06
+  ],
+  [
+   0.0013316,
+   6.52745e-07
+  ],
+  [
+   0.00136516,
+   4.87876e-07
+  ],
+  [
+   0.00139957,
+   6.23521e-07
+  ],
+  [
+   0.00143332,
+   2.00096e-06
+  ],
+  [
+   0.00145568,
+   2.00096e-06
+  ],
+  [
+   0.00147713,
+   8.59587e-07
+  ],
+  [
+   0.00151436,
+   5.97171e-07
+  ],
+  [
+   0.0015461,
+   8.29047e-07
+  ],
+  [
+   0.00157003,
+   2.00096e-06
+  ],
+  [
+   0.00159467,
+   2.00096e-06
+  ],
+  [
+   0.00161829,
+   8.91481e-07
+  ],
+  [
+   0.00164537,
+   7.05361e-07
+  ],
+  [
+   0.00169567,
+   2.00096e-06
+  ],
+  [
+   0.0017222,
+   2.00096e-06
+  ],
+  [
+   0.00176561,
+   8.14872e-07
+  ],
+  [
+   0.00181261,
+   2.00096e-06
+  ],
+  [
+   0.00184116,
+   2.00096e-06
+  ],
+  [
+   0.00187898,
+   9.2577e-07
+  ],
+  [
+   0.00192246,
+   2.00096e-06
+  ],
+  [
+   0.0019533,
+   2.00096e-06
+  ],
+  [
+   0.00199135,
+   1.03273e-06
+  ],
+  [
+   0.00202643,
+   2.00096e-06
+  ],
+  [
+   0.00205855,
+   2.00096e-06
+  ],
+  [
+   0.002093,
+   1.14073e-06
+  ],
+  [
+   0.0021252,
+   2.00096e-06
+  ],
+  [
+   0.00215994,
+   2.00096e-06
+  ],
+  [
+   0.00219073,
+   1.24984e-06
+  ],
+  [
+   0.00221958,
+   2.00096e-06
+  ],
+  [
+   0.00225545,
+   2.00096e-06
+  ],
+  [
+   0.00228353,
+   1.35791e-06
+  ],
+  [
+   0.00231006,
+   2.00096e-06
+  ],
+  [
+   0.00235082,
+   2.00096e-06
+  ],
+  [
+   0.00237041,
+   1.47066e-06
+  ],
+  [
+   0.00239678,
+   2.00096e-06
+  ],
+  [
+   0.00244026,
+   2.00096e-06
+  ],
+  [
+   0.00246059,
+   1.57781e-06
+  ],
+  [
+   0.00248126,
+   2.00096e-06
+  ],
+  [
+   0.00252261,
+   2.00096e-06
+  ],
+  [
+   0.00254363,
+   1.68544e-06
+  ],
+  [
+   0.0025615,
+   2.00096e-06
+  ],
+  [
+   0.00260774,
+   2.00096e-06
+  ],
+  [
+   0.00261858,
+   1.82277e-06
+  ],
+  [
+   0.00264062,
+   2.00096e-06
+  ],
+  [
+   0.00268745,
+   2.00096e-06
+  ],
+  [
+   0.00270696,
+   1.94706e-06
+  ],
+  [
+   0.00271591,
+   2.00096e-06
+  ],
+  [
+   0.00292986,
+   2.00096e-06
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": "OSQAR_2015",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "OSQAR light-shining-through-wall experiment (2014 run, 9 T x 2x14.3 m, 18.5 W 532 nm laser). Curve is the 95% CL pseudoscalar ALP (E||B) exclusion from Fig. 6, extracted from the vector paths of the e-print file OsqarPaper2014_fig6.pdf; axis calibration verified against tick marks and the quoted flat limit g_Agamma < 3.5e-8 GeV^-1 for m_A < 2e-4 eV (extracted flat value 3.46-3.50e-8). The paper also reports a scalar ALP (E perp B) limit of 3.2e-8 GeV^-1; the pseudoscalar curve is reported here as the axion-photon result. Couplings at the sinc-lobe spikes that exit the top of the plotted frame are clamped at the frame top (2.0e-6 GeV^-1). Laboratory LSW bound: no dark-matter density assumption, no rescaling applied.",
+ "num_points": 86,
+ "arxiv_id": "1506.08082",
+ "elapsed_s": 87.26588416099548,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 10,
+  "duration_ms": 86972,
+  "duration_api_ms": 84059,
+  "total_cost_usd": 1.120494,
+  "usage": {
+   "input_tokens": 237,
+   "output_tokens": 6586,
+   "cache_creation_input_tokens": 29482,
+   "cache_read_input_tokens": 199184
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1506.08082.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:00:39-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

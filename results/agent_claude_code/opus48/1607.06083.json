@@ -1,0 +1,254 @@
+{
+ "paper_title": "Searching for axion-like particles with ultra-peripheral heavy-ion collisions",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.05,
+   0.001256
+  ],
+  [
+   0.1,
+   0.001256
+  ],
+  [
+   0.5,
+   0.001256
+  ],
+  [
+   2.0,
+   0.001256
+  ],
+  [
+   5.0,
+   0.001256
+  ],
+  [
+   8.0,
+   0.001256
+  ],
+  [
+   11.0,
+   0.0002183
+  ],
+  [
+   13.0,
+   0.0002285
+  ],
+  [
+   15.0,
+   0.0002249
+  ],
+  [
+   17.0,
+   0.0002026
+  ],
+  [
+   19.0,
+   0.0002067
+  ],
+  [
+   21.0,
+   0.0002004
+  ],
+  [
+   23.0,
+   0.0002654
+  ],
+  [
+   25.0,
+   0.0002327
+  ],
+  [
+   27.0,
+   0.0002128
+  ],
+  [
+   29.0,
+   0.0002041
+  ],
+  [
+   31.0,
+   0.0002834
+  ],
+  [
+   33.0,
+   0.0002901
+  ],
+  [
+   35.0,
+   0.000302
+  ],
+  [
+   37.0,
+   0.0002622
+  ],
+  [
+   39.0,
+   0.0002875
+  ],
+  [
+   41.0,
+   0.000338
+  ],
+  [
+   43.0,
+   0.000276
+  ],
+  [
+   45.0,
+   0.0003347
+  ],
+  [
+   47.0,
+   0.000278
+  ],
+  [
+   49.0,
+   0.0002998
+  ],
+  [
+   51.0,
+   0.0002759
+  ],
+  [
+   53.0,
+   0.0002763
+  ],
+  [
+   55.0,
+   0.0003766
+  ],
+  [
+   57.0,
+   0.0002695
+  ],
+  [
+   59.0,
+   0.000274
+  ],
+  [
+   61.0,
+   0.0004046
+  ],
+  [
+   63.0,
+   0.0003974
+  ],
+  [
+   65.0,
+   0.0004533
+  ],
+  [
+   67.0,
+   0.0003874
+  ],
+  [
+   69.0,
+   0.0004207
+  ],
+  [
+   71.0,
+   0.0003458
+  ],
+  [
+   73.0,
+   0.0003356
+  ],
+  [
+   75.0,
+   0.0003702
+  ],
+  [
+   77.0,
+   0.0003855
+  ],
+  [
+   79.0,
+   0.0004418
+  ],
+  [
+   81.0,
+   0.0004514
+  ],
+  [
+   83.0,
+   0.0003833
+  ],
+  [
+   85.0,
+   0.0004495
+  ],
+  [
+   87.0,
+   0.0003152
+  ],
+  [
+   89.0,
+   0.000435
+  ],
+  [
+   91.0,
+   0.0003982
+  ],
+  [
+   93.0,
+   0.0004031
+  ],
+  [
+   95.0,
+   0.000442
+  ],
+  [
+   97.0,
+   0.0004206
+  ],
+  [
+   99.0,
+   0.0003355
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.55,
+ "suggested_experiment_name": "UPC-ALP-recast_2016",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "From Fig. 4 left panel (aFF-tilde coupling), moneyplot.pdf in the arXiv e-print, extracted by vector-path digitisation. y-axis is 1/Lambda [GeV^-1]; with L = -(1/4)(a/Lambda) F Ftilde (Eq.1) this equals the canonical g_agamma exactly (g_agamma = 1/Lambda, no factor). The paper's PRIMARY headline (green Pb-Pb 1 nb^-1 / 10 nb^-1 curves) is an EXPECTED sensitivity PROJECTION for future heavy-ion UPC runs and is out of scope; those are NOT reported here. Reported instead is the paper's genuinely NEW/updated DERIVED exclusion: the combined lower (most-stringent) envelope of the four newly recast collider limits shown as shaded regions: OPAL inclusive 2-gamma (flat 1.26e-3, ~0.05-8 GeV; the explicitly new derivation improving on prior LEPI-based bounds), ATLAS 3-gamma (~10-60 GeV), OPAL 3-gamma (>20 GeV) and ATLAS 2-gamma (>60 GeV). Excluded from the envelope are the CMS 36 pb^-1 (shown for comparison, external) and beam-dump (external) regions. Hybrid x-axis: log below 5 GeV, linear above; calibrated from axis tick labels and cross-checked (OPAL 2g line reproduces the ~1.2e-3 plotted value). 95% CL per text. Collider search, no DM-density dependence.",
+ "num_points": 51,
+ "arxiv_id": "1607.06083",
+ "elapsed_s": 301.5615029335022,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 301212,
+  "duration_api_ms": 298835,
+  "total_cost_usd": 1.3319875,
+  "usage": {
+   "input_tokens": 417,
+   "output_tokens": 22062,
+   "cache_creation_input_tokens": 52540,
+   "cache_read_input_tokens": 505905
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1607.06083.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:47:10-0500"
+ }
+}

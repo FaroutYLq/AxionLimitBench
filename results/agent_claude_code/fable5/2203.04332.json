@@ -1,0 +1,263 @@
+{
+ "paper_title": "Constraining Axion-Like Particles with HAWC Observations of TeV Blazars",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.002e-11,
+   2.963e-11
+  ],
+  [
+   1.264e-11,
+   2.943e-11
+  ],
+  [
+   1.791e-11,
+   2.942e-11
+  ],
+  [
+   2.26e-11,
+   2.924e-11
+  ],
+  [
+   2.852e-11,
+   2.946e-11
+  ],
+  [
+   3.599e-11,
+   2.976e-11
+  ],
+  [
+   4.541e-11,
+   2.964e-11
+  ],
+  [
+   5.73e-11,
+   2.929e-11
+  ],
+  [
+   7.23e-11,
+   2.983e-11
+  ],
+  [
+   1.025e-10,
+   2.959e-11
+  ],
+  [
+   1.293e-10,
+   2.929e-11
+  ],
+  [
+   1.632e-10,
+   2.932e-11
+  ],
+  [
+   2.069e-10,
+   2.981e-11
+  ],
+  [
+   2.918e-10,
+   2.995e-11
+  ],
+  [
+   3.682e-10,
+   2.944e-11
+  ],
+  [
+   4.646e-10,
+   2.934e-11
+  ],
+  [
+   5.863e-10,
+   2.953e-11
+  ],
+  [
+   7.397e-10,
+   2.938e-11
+  ],
+  [
+   9.334e-10,
+   2.976e-11
+  ],
+  [
+   1.178e-09,
+   2.962e-11
+  ],
+  [
+   1.531e-09,
+   2.981e-11
+  ],
+  [
+   2.106e-09,
+   2.924e-11
+  ],
+  [
+   2.658e-09,
+   2.937e-11
+  ],
+  [
+   3.354e-09,
+   2.983e-11
+  ],
+  [
+   4.232e-09,
+   2.946e-11
+  ],
+  [
+   5.34e-09,
+   2.967e-11
+  ],
+  [
+   6.738e-09,
+   2.946e-11
+  ],
+  [
+   8.501e-09,
+   2.992e-11
+  ],
+  [
+   1.038e-08,
+   2.768e-11
+  ],
+  [
+   1.354e-08,
+   2.684e-11
+  ],
+  [
+   1.708e-08,
+   2.44e-11
+  ],
+  [
+   2.221e-08,
+   2.662e-11
+  ],
+  [
+   2.316e-08,
+   2.875e-11
+  ],
+  [
+   2.421e-08,
+   3.113e-11
+  ],
+  [
+   2.984e-08,
+   2.981e-11
+  ],
+  [
+   3.386e-08,
+   2.768e-11
+  ],
+  [
+   4.878e-08,
+   2.875e-11
+  ],
+  [
+   6.137e-08,
+   3.001e-11
+  ],
+  [
+   7.743e-08,
+   3.059e-11
+  ],
+  [
+   9.77e-08,
+   3.156e-11
+  ],
+  [
+   1.233e-07,
+   3.3e-11
+  ],
+  [
+   1.747e-07,
+   3.711e-11
+  ],
+  [
+   1.894e-07,
+   3.407e-11
+  ],
+  [
+   2.205e-07,
+   3.126e-11
+  ],
+  [
+   2.367e-07,
+   3.513e-11
+  ],
+  [
+   2.449e-07,
+   3.833e-11
+  ],
+  [
+   2.782e-07,
+   5.069e-11
+  ],
+  [
+   3.125e-07,
+   5.722e-11
+  ],
+  [
+   3.474e-07,
+   7.078e-11
+  ],
+  [
+   3.718e-07,
+   8.089e-11
+  ],
+  [
+   3.896e-07,
+   9.099e-11
+  ],
+  [
+   3.943e-07,
+   9.773e-11
+  ],
+  [
+   4.041e-07,
+   1.011e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.997,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "HAWC_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Boundary of the joint-likelihood >3-sigma exclusion contour (Fig. 3, total_contourplot.pdf in the e-print; same region shown in blue as 'HAWC' in Fig. 4/AxionPhoton_zoom.pdf). Extracted from vector paths of the e-print figure with axis calibration from tick labels (x: m_ALP in neV converted to eV; y: g_agamma in 1e-11 GeV^-1, log-log). Cross-checked against the Fig. 4 blue region: flat level ~2.9e-11 GeV^-1, dip to ~2.4e-11 near 2e-8 eV, steep rise above ~2.5e-7 eV, reaching 1e-10 GeV^-1 (plot top) at ~4e-7 eV; matches paper's stated headline 'g < ~3e-11 GeV^-1 for m < 300 neV'. Exclusion quoted at >3 sigma (confidence_level 0.997). Limit is from gamma-ray propagation (photon-ALP mixing), not dark-matter density dependent. Contour starts at the figure's left edge (1e-11 eV); the limit plausibly extends flat to lower masses.",
+ "num_points": 53,
+ "arxiv_id": "2203.04332",
+ "elapsed_s": 137.5799379348755,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 137291,
+  "duration_api_ms": 133996,
+  "total_cost_usd": 1.2534685,
+  "usage": {
+   "input_tokens": 452,
+   "output_tokens": 10124,
+   "cache_creation_input_tokens": 28035,
+   "cache_read_input_tokens": 339136
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2203.04332.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:14:08-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

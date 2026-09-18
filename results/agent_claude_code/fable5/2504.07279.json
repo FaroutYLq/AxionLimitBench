@@ -1,0 +1,323 @@
+{
+ "paper_title": "Search for Axion Dark Matter from 1.1 to 1.3 GHz with ADMX",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.504372e-06,
+   1.5784e-15
+  ],
+  [
+   4.514389e-06,
+   1.57e-15
+  ],
+  [
+   4.52419e-06,
+   1.5404e-15
+  ],
+  [
+   4.530832e-06,
+   1.4684e-15
+  ],
+  [
+   4.632863e-06,
+   1.5045e-15
+  ],
+  [
+   4.642717e-06,
+   1.527e-15
+  ],
+  [
+   4.652572e-06,
+   1.4211e-15
+  ],
+  [
+   4.662481e-06,
+   1.4146e-15
+  ],
+  [
+   4.672335e-06,
+   1.4179e-15
+  ],
+  [
+   4.68219e-06,
+   1.4211e-15
+  ],
+  [
+   4.692099e-06,
+   1.4244e-15
+  ],
+  [
+   4.701954e-06,
+   1.4189e-15
+  ],
+  [
+   4.710719e-06,
+   1.4385e-15
+  ],
+  [
+   4.821733e-06,
+   1.2986e-15
+  ],
+  [
+   4.830281e-06,
+   1.2468e-15
+  ],
+  [
+   4.841497e-06,
+   1.2468e-15
+  ],
+  [
+   4.919354e-06,
+   1.3311e-15
+  ],
+  [
+   4.92861e-06,
+   1.2611e-15
+  ],
+  [
+   4.938954e-06,
+   1.2535e-15
+  ],
+  [
+   4.948809e-06,
+   1.2252e-15
+  ],
+  [
+   4.958663e-06,
+   1.2785e-15
+  ],
+  [
+   4.968572e-06,
+   1.2468e-15
+  ],
+  [
+   4.978481e-06,
+   1.3403e-15
+  ],
+  [
+   4.998191e-06,
+   1.2317e-15
+  ],
+  [
+   5.0081e-06,
+   1.2355e-15
+  ],
+  [
+   5.017519e-06,
+   1.2275e-15
+  ],
+  [
+   5.027755e-06,
+   1.193e-15
+  ],
+  [
+   5.037827e-06,
+   1.1894e-15
+  ],
+  [
+   5.047573e-06,
+   1.1976e-15
+  ],
+  [
+   5.057427e-06,
+   1.2012e-15
+  ],
+  [
+   5.067336e-06,
+   1.2824e-15
+  ],
+  [
+   5.075449e-06,
+   1.3011e-15
+  ],
+  [
+   5.089278e-06,
+   1.4723e-15
+  ],
+  [
+   5.096955e-06,
+   1.2883e-15
+  ],
+  [
+   5.106809e-06,
+   1.2303e-15
+  ],
+  [
+   5.116228e-06,
+   1.2243e-15
+  ],
+  [
+   5.126573e-06,
+   1.2873e-15
+  ],
+  [
+   5.136427e-06,
+   1.2369e-15
+  ],
+  [
+   5.146282e-06,
+   1.2932e-15
+  ],
+  [
+   5.156191e-06,
+   1.2805e-15
+  ],
+  [
+   5.166263e-06,
+   1.2922e-15
+  ],
+  [
+   5.1759e-06,
+   1.4309e-15
+  ],
+  [
+   5.185809e-06,
+   1.4385e-15
+  ],
+  [
+   5.195718e-06,
+   1.4495e-15
+  ],
+  [
+   5.205573e-06,
+   1.4523e-15
+  ],
+  [
+   5.215428e-06,
+   1.5023e-15
+  ],
+  [
+   5.22501e-06,
+   1.4495e-15
+  ],
+  [
+   5.235191e-06,
+   1.4141e-15
+  ],
+  [
+   5.245046e-06,
+   1.444e-15
+  ],
+  [
+   5.253757e-06,
+   1.3996e-15
+  ],
+  [
+   5.26481e-06,
+   1.4385e-15
+  ],
+  [
+   5.274664e-06,
+   1.4244e-15
+  ],
+  [
+   5.284573e-06,
+   1.4082e-15
+  ],
+  [
+   5.294428e-06,
+   1.3438e-15
+  ],
+  [
+   5.304282e-06,
+   1.318e-15
+  ],
+  [
+   5.314191e-06,
+   1.313e-15
+  ],
+  [
+   5.324046e-06,
+   1.3011e-15
+  ],
+  [
+   5.333901e-06,
+   1.323e-15
+  ],
+  [
+   5.34381e-06,
+   1.3536e-15
+  ],
+  [
+   5.353664e-06,
+   1.309e-15
+  ],
+  [
+   5.363519e-06,
+   1.4254e-15
+  ],
+  [
+   5.373428e-06,
+   1.8434e-15
+  ],
+  [
+   5.383283e-06,
+   1.2616e-15
+  ],
+  [
+   5.393137e-06,
+   1.2853e-15
+  ],
+  [
+   5.403046e-06,
+   1.2902e-15
+  ],
+  [
+   5.412955e-06,
+   1.308e-15
+  ],
+  [
+   5.42281e-06,
+   1.2795e-15
+  ],
+  [
+   5.432664e-06,
+   1.2912e-15
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "ADMX_2025",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "90% C.L. upper limit on g_agamma from the inset of Fig. 3 (this work, purple region), digitised from the full-resolution e-print raster figures/Run1D_limit_with_inset_9_2_25.png. Axis calibration: bottom frequency ticks (1100-1300 MHz, linear) and left log-axis ticks (major 1e-15 GeV^-1 tick plus minor 9e-16...3e-16 ticks, 3027 px/decade), cross-checked against the KSVZ/DFSZ dashed lines (agreement ~10%). For each pixel column the boundary was taken where the purple fill coverage drops below 50% (approximating the median per-bin limit), bridging <60 px gaps caused by the dashed model lines and excluding the purple 'This Work' text label; columns were then median-binned into ~90 frequency bins. Bins with <30% purple occupancy (mode-crossing gaps, e.g. near 1100, 1145-1160 MHz) are omitted, so the curve has gaps. Paper assumes rho_DM = 0.45 GeV/cm^3 (no rescaling needed) and a Maxwell-Boltzmann lineshape. Mass = h*nu, covering ~4.5-5.44 ueV.",
+ "num_points": 68,
+ "arxiv_id": "2504.07279",
+ "elapsed_s": 295.12533593177795,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 294795,
+  "duration_api_ms": 272690,
+  "total_cost_usd": 1.8952065000000002,
+  "usage": {
+   "input_tokens": 411,
+   "output_tokens": 17303,
+   "cache_creation_input_tokens": 43966,
+   "cache_read_input_tokens": 417999
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2504.07279.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:38:04-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

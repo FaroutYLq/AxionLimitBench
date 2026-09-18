@@ -1,0 +1,267 @@
+{
+ "paper_title": "A SQUID-based microwave cavity search for dark-matter axions",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.361058e-06,
+   2.3e-15
+  ],
+  [
+   3.368088e-06,
+   2.3e-15
+  ],
+  [
+   3.368088e-06,
+   2.35e-15
+  ],
+  [
+   3.375119e-06,
+   2.35e-15
+  ],
+  [
+   3.375119e-06,
+   2.3399e-15
+  ],
+  [
+   3.38215e-06,
+   2.3399e-15
+  ],
+  [
+   3.38215e-06,
+   2.07e-15
+  ],
+  [
+   3.38918e-06,
+   2.07e-15
+  ],
+  [
+   3.38918e-06,
+   1.96e-15
+  ],
+  [
+   3.396211e-06,
+   1.96e-15
+  ],
+  [
+   3.396211e-06,
+   2.0399e-15
+  ],
+  [
+   3.403242e-06,
+   2.0399e-15
+  ],
+  [
+   3.403242e-06,
+   1.94e-15
+  ],
+  [
+   3.410272e-06,
+   1.94e-15
+  ],
+  [
+   3.410272e-06,
+   2.16e-15
+  ],
+  [
+   3.417303e-06,
+   2.16e-15
+  ],
+  [
+   3.417303e-06,
+   1.84e-15
+  ],
+  [
+   3.424334e-06,
+   1.84e-15
+  ],
+  [
+   3.424334e-06,
+   2.2e-15
+  ],
+  [
+   3.431364e-06,
+   2.2e-15
+  ],
+  [
+   3.431364e-06,
+   2.02e-15
+  ],
+  [
+   3.438395e-06,
+   2.02e-15
+  ],
+  [
+   3.438395e-06,
+   2.58e-15
+  ],
+  [
+   3.445426e-06,
+   2.58e-15
+  ],
+  [
+   3.445426e-06,
+   2.48e-15
+  ],
+  [
+   3.452456e-06,
+   2.48e-15
+  ],
+  [
+   3.452456e-06,
+   2.45e-15
+  ],
+  [
+   3.459487e-06,
+   2.45e-15
+  ],
+  [
+   3.459487e-06,
+   2.2299e-15
+  ],
+  [
+   3.466517e-06,
+   2.2299e-15
+  ],
+  [
+   3.466517e-06,
+   2.38e-15
+  ],
+  [
+   3.473548e-06,
+   2.38e-15
+  ],
+  [
+   3.473548e-06,
+   2.01e-15
+  ],
+  [
+   3.480579e-06,
+   2.01e-15
+  ],
+  [
+   3.480579e-06,
+   2.87e-15
+  ],
+  [
+   3.48761e-06,
+   2.87e-15
+  ],
+  [
+   3.48761e-06,
+   1.7e-15
+  ],
+  [
+   3.49464e-06,
+   1.7e-15
+  ],
+  [
+   3.49464e-06,
+   1.6e-15
+  ],
+  [
+   3.501671e-06,
+   1.6e-15
+  ],
+  [
+   3.501671e-06,
+   2.29e-15
+  ],
+  [
+   3.508702e-06,
+   2.29e-15
+  ],
+  [
+   3.508702e-06,
+   2.54e-15
+  ],
+  [
+   3.515732e-06,
+   2.54e-15
+  ],
+  [
+   3.515732e-06,
+   2.0399e-15
+  ],
+  [
+   3.522763e-06,
+   2.0399e-15
+  ],
+  [
+   3.522763e-06,
+   2.09e-15
+  ],
+  [
+   3.529794e-06,
+   2.09e-15
+  ],
+  [
+   3.529794e-06,
+   2.03e-15
+  ],
+  [
+   3.536824e-06,
+   2.03e-15
+  ],
+  [
+   3.536824e-06,
+   2.06e-15
+  ],
+  [
+   3.543855e-06,
+   2.06e-15
+  ],
+  [
+   3.543855e-06,
+   1.98e-15
+  ],
+  [
+   3.557916e-06,
+   1.98e-15
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "ADMX_2009",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ADMX SQUID-amplifier run (812.7-860.3 MHz, i.e. 3.361-3.558 ueV). Curve traced from the vector paths of Fig. 5 (figures/coupling_limits.eps in the e-print): 90% CL excluded g_agamma vs frequency at rho_a=0.45 GeV/cm^3 (paper's assumed density equals the compilation's canonical 0.45, so no rescaling). Of the two scenarios in Fig. 5 the virialized dark-matter model (velocity dispersion 160 km/s, flow 220 km/s) is reported here as the main/standard-halo result; the 'unvirialized' (<=60 km/s dispersion) curve is ~1.5x stronger. The limit is a 28-bin staircase (1.70 MHz bins), emitted as pairs of step-edge points. Axis calibration from decade tick marks, cross-checked: the figure's KSVZ line falls at 1.31e-15 GeV^-1, matching g_agamma(KSVZ) at 3.4 ueV. Text quotes exclusion of realistic axion models over 3.3-3.53 ueV (rounded relative to the plotted 812.7-860.3 MHz scan).",
+ "num_points": 54,
+ "arxiv_id": "0910.5914",
+ "elapsed_s": 235.3868429660797,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 234939,
+  "duration_api_ms": 232162,
+  "total_cost_usd": 2.081178,
+  "usage": {
+   "input_tokens": 395,
+   "output_tokens": 17510,
+   "cache_creation_input_tokens": 41931,
+   "cache_read_input_tokens": 363108
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "0910.5914.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:35:32-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

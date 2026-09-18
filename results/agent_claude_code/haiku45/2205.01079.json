@@ -1,0 +1,170 @@
+{
+ "paper_title": "Anisotropic cosmic optical background bound for decaying dark matter in light of the LORRI anomaly",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.0,
+   1e-11
+  ],
+  [
+   5.86,
+   1.17e-11
+  ],
+  [
+   6.72,
+   1.41e-11
+  ],
+  [
+   7.59,
+   1.7e-11
+  ],
+  [
+   8.45,
+   1.85e-11
+  ],
+  [
+   9.31,
+   2.21e-11
+  ],
+  [
+   10.2,
+   2.92e-11
+  ],
+  [
+   11.0,
+   3.21e-11
+  ],
+  [
+   11.9,
+   3.21e-11
+  ],
+  [
+   12.8,
+   3.13e-11
+  ],
+  [
+   13.6,
+   3.04e-11
+  ],
+  [
+   14.5,
+   3e-11
+  ],
+  [
+   15.3,
+   3.02e-11
+  ],
+  [
+   16.2,
+   3.11e-11
+  ],
+  [
+   17.1,
+   3.22e-11
+  ],
+  [
+   17.9,
+   3.3e-11
+  ],
+  [
+   18.8,
+   3.31e-11
+  ],
+  [
+   19.7,
+   3.24e-11
+  ],
+  [
+   20.5,
+   3.12e-11
+  ],
+  [
+   21.4,
+   2.97e-11
+  ],
+  [
+   22.2,
+   2.89e-11
+  ],
+  [
+   23.1,
+   2.89e-11
+  ],
+  [
+   24.0,
+   2.97e-11
+  ],
+  [
+   24.8,
+   3.08e-11
+  ],
+  [
+   25.7,
+   3.18e-11
+  ],
+  [
+   26.6,
+   3.27e-11
+  ],
+  [
+   27.4,
+   3.31e-11
+  ],
+  [
+   28.3,
+   3.29e-11
+  ],
+  [
+   29.1,
+   3.19e-11
+  ],
+  [
+   30.0,
+   3e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "COB_Anisotropy_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Limit extracted from Figure 3, representing the HST COB anisotropy constraint on ALP-photon coupling (g_a\u03b3\u03b3) for ALP dark matter decay (\u03c7 \u2192 \u03b3 + x). Derived from the LORRI anisotropy measurement at wavelengths 0.85\u03bcm and 0.606\u03bcm using Hubble Space Telescope data. The limit represents the boundary of the excluded region where the predicted COB anisotropy exceeds observed HST measurements. Equation (3) used to translate decay rate constraint to g_a\u03b3\u03b3 with assumption R=1 (ALP as dominant cold DM) and q_\u03b3=2 (decay into 2 photons). Extraction confidence is moderate due to difficulty in precisely reading shaded figure regions from rasterized PDF.",
+ "num_points": 30,
+ "arxiv_id": "2205.01079",
+ "elapsed_s": 241.10806035995483,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 30,
+  "duration_ms": 240793,
+  "duration_api_ms": 231886,
+  "total_cost_usd": 0.37828649999999997,
+  "usage": {
+   "input_tokens": 220,
+   "output_tokens": 20283,
+   "cache_creation_input_tokens": 71472,
+   "cache_read_input_tokens": 1337075
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2205.01079.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:31:37-0500"
+ }
+}

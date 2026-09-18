@@ -1,0 +1,139 @@
+{
+ "paper_title": "Particle Physics Implications of a Recent Test of the Gravitational Inverse-Square Law",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-06,
+   0.000560456
+  ],
+  [
+   4.23886e-05,
+   0.000560456
+  ],
+  [
+   7.69191e-05,
+   0.000571457
+  ],
+  [
+   0.000110596,
+   0.000587746
+  ],
+  [
+   0.00016709,
+   0.000634837
+  ],
+  [
+   0.000203691,
+   0.000674433
+  ],
+  [
+   0.000260916,
+   0.000744924
+  ],
+  [
+   0.000397459,
+   0.000938705
+  ],
+  [
+   0.000552929,
+   0.00118717
+  ],
+  [
+   0.00076919,
+   0.00157563
+  ],
+  [
+   0.000985289,
+   0.00201433
+  ],
+  [
+   0.00130443,
+   0.00274958
+  ],
+  [
+   0.0016709,
+   0.00372632
+  ],
+  [
+   0.00223047,
+   0.00549414
+  ],
+  [
+   0.00263075,
+   0.0070695
+  ],
+  [
+   0.0030774,
+   0.00934231
+  ],
+  [
+   0.00362977,
+   0.0130497
+  ],
+  [
+   0.00512916,
+   0.0299215
+  ],
+  [
+   0.0060498,
+   0.0483417
+  ],
+  [
+   0.00708271,
+   0.0826764
+  ],
+  [
+   0.00907255,
+   0.23529
+  ],
+  [
+   0.0111881,
+   0.708839
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.68,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "EotWash_2007",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Solid curve of Fig. 5 (2ps_fac5.eps, vector EPS from the e-print): 68%-confidence upper limit on the gamma5 coupling of massive pseudoscalars to neutrons from the Eot-Wash ISL torsion-balance data (Kapner et al., Ref. [1]), via two-boson-exchange V(r) ~ (g_P^n)^4 K1(2r/lambda) (Eqs. 19-21). Figure y-axis is (g_P^n)^2/(4*pi*hbar*c); converted with g_an = sqrt(4*pi*y). The gamma5 Yukawa coupling g_P^n is already the dimensionless canonical g_an (no 2m_N factor: paper's coupling is dimensionless, not GeV^-1). Proton coupling set to zero, as in the figure: the flat asymptote 2.50e-8 reproduces Gamma = 2.56e-10*beta3 (Table I, beta3=1.3e-4) divided by [N/mu]^2 only (predicted 2.58e-8). Axis calibration anchored on tick strokes; cross-checked: SN1987a dotted line extracted at 7.99e-8 vs quoted 8e-8, previous-ISL dashed flat level matches beta3=2.8e-3. Mass axis meV -> eV. Curve spans 1e-6 eV (flat, extends to arbitrarily low mass) to 1.12e-2 eV where it exits the top of the frame at (g_P)^2/4pi = 4e-2. The paper also bounds vector B-L Yukawa (Fig. 1) and chameleon/dilaton/power-law forces; the gamma5-pseudoscalar-neutron bound is its axion-relevant headline result.",
+ "num_points": 22,
+ "arxiv_id": "hep-ph/0611223",
+ "elapsed_s": 277.85318994522095,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 277493,
+  "duration_api_ms": 274408,
+  "total_cost_usd": 2.0681145,
+  "usage": {
+   "input_tokens": 474,
+   "output_tokens": 17469,
+   "cache_creation_input_tokens": 45942,
+   "cache_read_input_tokens": 556992
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "hep-ph_0611223.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T22:43:11-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "paper_title": "Searching for Ultralight Dark Matter Conversion in Solar Corona using Low Frequency Array Data",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.3696540348186332e-07,
+   1.565095533539836e-09
+  ],
+  [
+   1.5260576006404942e-07,
+   1.7885705529887596e-09
+  ],
+  [
+   1.67395531332835e-07,
+   1.4451926363569134e-09
+  ],
+  [
+   1.8142825868917998e-07,
+   1.4861399048107226e-09
+  ],
+  [
+   1.952305950921734e-07,
+   1.5601856156008075e-09
+  ],
+  [
+   2.0811737644366606e-07,
+   1.1946641217906676e-09
+  ],
+  [
+   2.2025005817605164e-07,
+   1.3676659758013081e-09
+  ],
+  [
+   2.3186391336172962e-07,
+   1.6652855228340267e-09
+  ],
+  [
+   2.430042480654655e-07,
+   1.8292921055650793e-09
+  ],
+  [
+   2.5371041967773853e-07,
+   2.105474671621368e-09
+  ],
+  [
+   2.640090169699794e-07,
+   2.4055591736938614e-09
+  ],
+  [
+   2.7393450019171467e-07,
+   2.6432231631096167e-09
+  ],
+  [
+   2.8351441951627983e-07,
+   2.657306080743101e-09
+  ],
+  [
+   2.927665308351048e-07,
+   2.4752723600975726e-09
+  ],
+  [
+   3.0171934572343007e-07,
+   3.2500182638750976e-09
+  ],
+  [
+   3.103837099964944e-07,
+   3.5487419756235764e-09
+  ],
+  [
+   3.187822766866807e-07,
+   4.215156600237822e-09
+  ],
+  [
+   3.269347244892285e-07,
+   4.3044783006850986e-09
+  ],
+  [
+   3.348449891431858e-07,
+   6.127320474765023e-09
+  ],
+  [
+   3.425366850828401e-07,
+   7.505154254298878e-09
+  ],
+  [
+   3.500157609824776e-07,
+   1.1042113326762134e-08
+  ],
+  [
+   3.572959468630519e-07,
+   1.0033763476945123e-08
+  ],
+  [
+   3.643871271378969e-07,
+   1.0194410544560033e-08
+  ],
+  [
+   3.7130207042606137e-07,
+   1.1410249076553641e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "LOFAR_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% C.L. upper limit extracted from Fig. 10 (axion-photon coupling limit) via vector graphics extraction from arXiv:2301.03622. Limit derived from 17 minutes of LOFAR observations in frequency range 30-80 MHz. Large uncertainty noted due to solar magnetic field estimation overshadowing statistical uncertainties.",
+ "num_points": 24,
+ "arxiv_id": "2301.03622",
+ "elapsed_s": 153.18274188041687,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 152611,
+  "duration_api_ms": 148037,
+  "total_cost_usd": 0.2805281,
+  "usage": {
+   "input_tokens": 178,
+   "output_tokens": 15895,
+   "cache_creation_input_tokens": 56738,
+   "cache_read_input_tokens": 873991
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2301.03622.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:05:52-0500"
+ }
+}

@@ -1,0 +1,214 @@
+{
+ "paper_title": "Constraints on bosonic dark matter from ultralow-field nuclear magnetic resonance",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.863e-16,
+   7.7129e-05
+  ],
+  [
+   1.9947e-16,
+   7.6351e-05
+  ],
+  [
+   2.2892e-16,
+   8.468e-05
+  ],
+  [
+   2.6312e-16,
+   9.7803e-05
+  ],
+  [
+   3.0151e-16,
+   0.00010793
+  ],
+  [
+   3.4549e-16,
+   0.00013798
+  ],
+  [
+   3.971e-16,
+   0.00015254
+  ],
+  [
+   4.5503e-16,
+   0.00017618
+  ],
+  [
+   5.2142e-16,
+   0.00020377
+  ],
+  [
+   5.993e-16,
+   0.00021464
+  ],
+  [
+   6.8882e-16,
+   0.00026829
+  ],
+  [
+   7.8931e-16,
+   0.00031952
+  ],
+  [
+   9.0446e-16,
+   0.00035955
+  ],
+  [
+   1.0396e-15,
+   0.00035938
+  ],
+  [
+   1.1912e-15,
+   0.00044741
+  ],
+  [
+   1.365e-15,
+   0.00051711
+  ],
+  [
+   1.5689e-15,
+   0.00060604
+  ],
+  [
+   1.8032e-15,
+   0.00065395
+  ],
+  [
+   2.0663e-15,
+   0.0008045
+  ],
+  [
+   2.3678e-15,
+   0.00093316
+  ],
+  [
+   2.7215e-15,
+   0.0010375
+  ],
+  [
+   3.1185e-15,
+   0.001146
+  ],
+  [
+   3.5735e-15,
+   0.0012527
+  ],
+  [
+   4.1073e-15,
+   0.0014711
+  ],
+  [
+   4.7207e-15,
+   0.0017358
+  ],
+  [
+   5.4095e-15,
+   0.0021059
+  ],
+  [
+   6.1986e-15,
+   0.002299
+  ],
+  [
+   7.1245e-15,
+   0.0027435
+  ],
+  [
+   8.164e-15,
+   0.0032411
+  ],
+  [
+   9.355e-15,
+   0.003191
+  ],
+  [
+   1.0752e-14,
+   0.0041775
+  ],
+  [
+   1.2358e-14,
+   0.0046041
+  ],
+  [
+   1.4161e-14,
+   0.0051069
+  ],
+  [
+   1.6227e-14,
+   0.0061198
+  ],
+  [
+   1.8652e-14,
+   0.0067016
+  ],
+  [
+   2.1372e-14,
+   0.0080757
+  ],
+  [
+   2.4491e-14,
+   0.0089333
+  ],
+  [
+   2.8149e-14,
+   0.010773
+  ],
+  [
+   3.2353e-14,
+   0.012292
+  ],
+  [
+   3.703e-14,
+   0.014437
+  ],
+  [
+   4.2468e-14,
+   0.016077
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "CASPEr-ZULF_2019",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "CASPEr-ZULF (ZULF NMR, 13C-formic acid). Headline result: red CASPEr-ZULF excluded region in Fig.3 (ALP wind-nucleon linear coupling, 90% CL), boundary = lower/left edge of red region traced from the vector PDF (path 206 jagged curve + vertical left edge at m~1.86e-16 eV). Paper plots g_aNN [GeV^-1] assuming g_app=g_ann=g_aNN (single generic nucleon coupling); reported here as AxionNeutron with g_ap set equal. Converted native g_aNN [GeV^-1] to canonical dimensionless g_an via blanket 2m_N rule: g_an=2*0.939*g_aNN=1.878*g_aNN. Caveat: paper defines H_wind=sqrt(hbar^3 c^3) g_aNN grad(a).I_N with I_N the spin in units of hbar (=sigma/2); a literal sigma-normalisation would give g_an=m_N*g_aNN (factor 2 lower) - within scoring tolerance. Min g_aNN~4.1e-5 GeV^-1 at m~1.86e-16 eV; limit weakens ~linearly to ~1e-2 GeV^-1 near m~4.5e-14 eV (curve exits plot top; abstract states mass reach to 7.8e-14 eV). rho_DM=0.4 GeV/cm^3 assumed (limit scales as 1/sqrt(rho_DM)).",
+ "num_points": 41,
+ "arxiv_id": "1902.04644",
+ "elapsed_s": 210.84306406974792,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 210535,
+  "duration_api_ms": 207062,
+  "total_cost_usd": 0.9684590000000001,
+  "usage": {
+   "input_tokens": 413,
+   "output_tokens": 15320,
+   "cache_creation_input_tokens": 39874,
+   "cache_read_input_tokens": 369308
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1902.04644.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:15:33-0500"
+ }
+}

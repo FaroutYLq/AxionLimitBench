@@ -1,0 +1,49 @@
+{
+ "paper_title": "Stellar Recipes for Axion Hunters",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "StellarCooling_2017",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Global-fit / phenomenology paper (Giannotti, Irastorza, Redondo, Ringwald, Saikawa 2017). It interprets stellar cooling anomalies (WD variables, WDLF, RGB tip, R-parameter/HB, NS in Cas A) as axion hints and derives best-fit / favored (2-sigma) regions in axion couplings (g_ae, g_agamma, g_an, g_ap) for DFSZ and KSVZ axion/majoron models (Tables 4-7, Figs 1-4). These are FAVORED/hinted regions from a fit, not an observational exclusion limit: e.g. g_ae = 1.6e-13 (eq 2.4) is a best-fit central value. The nucleon SN 1987A bound and NS (g_an^2 ~ 1.4e-19) inputs are taken from other references, not newly derived. Future-experiment curves (IAXO, IAXO+, ARIADNE) shown in Figs are projections. Therefore no new measured exclusion limit to report; not primarily a projection paper either (headline result is the cooling-anomaly interpretation/hint).",
+ "num_points": 0,
+ "arxiv_id": "1708.02111",
+ "elapsed_s": 45.94147610664368,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 7,
+  "duration_ms": 45647,
+  "duration_api_ms": 45158,
+  "total_cost_usd": 0.367975,
+  "usage": {
+   "input_tokens": 108,
+   "output_tokens": 3050,
+   "cache_creation_input_tokens": 25758,
+   "cache_read_input_tokens": 67210
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1708.02111.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:52:51-0500"
+ }
+}

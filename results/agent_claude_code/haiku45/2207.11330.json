@@ -1,0 +1,218 @@
+{
+ "paper_title": "Search for New Physics in Electronic Recoil Data from XENONnT",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1131.8006187853796,
+   6.0893168512191e-14
+  ],
+  [
+   1242.086838117098,
+   5.674984915009147e-14
+  ],
+  [
+   1361.9211357118281,
+   4.2674484849317846e-13
+  ],
+  [
+   1500.3210096435805,
+   2.7388086018550274e-13
+  ],
+  [
+   1642.6761290885204,
+   3.5653429845461897e-13
+  ],
+  [
+   1753.9300963028525,
+   5.764934517744261e-14
+  ],
+  [
+   1984.4245791189921,
+   5.2833537213520736e-14
+  ],
+  [
+   2184.4523368081973,
+   2.547641500106265e-13
+  ],
+  [
+   2455.0126009126584,
+   6.721662703133985e-14
+  ],
+  [
+   3945.242293046282,
+   5.101883635687687e-13
+  ],
+  [
+   4267.288052169541,
+   5.586665356139457e-13
+  ],
+  [
+   4764.899286423694,
+   8.828128631531006e-13
+  ],
+  [
+   5154.472072642165,
+   7.714485055472301e-13
+  ],
+  [
+   5717.112930537298,
+   8.372018405210614e-13
+  ],
+  [
+   6368.135275683762,
+   1.0005346043259565e-12
+  ],
+  [
+   6982.324040771713,
+   8.692214496115089e-13
+  ],
+  [
+   7599.008158304154,
+   9.763143989080491e-13
+  ],
+  [
+   8281.948516217366,
+   1.0102639930700707e-12
+  ],
+  [
+   9289.663867799361,
+   1.0304892800279551e-12
+  ],
+  [
+   10222.012762122846,
+   9.721640102615136e-13
+  ],
+  [
+   10673.88156103464,
+   8.737256333137972e-13
+  ],
+  [
+   15175.499857204088,
+   7.288288555018334e-13
+  ],
+  [
+   16274.625798016665,
+   7.504648545813825e-13
+  ],
+  [
+   17803.41805276387,
+   7.714780108825601e-13
+  ],
+  [
+   19190.418384901153,
+   8.156471380396078e-13
+  ],
+  [
+   22049.37209186214,
+   8.267825547157431e-13
+  ],
+  [
+   24056.388895043627,
+   1.033945376071888e-12
+  ],
+  [
+   25519.987969238922,
+   1.0086308170029836e-12
+  ],
+  [
+   28123.38118039533,
+   1.0202583577104118e-12
+  ],
+  [
+   32038.435970373655,
+   9.640329511800925e-13
+  ],
+  [
+   34349.929102250644,
+   7.717663123669861e-13
+  ],
+  [
+   36497.586871061125,
+   8.605628792983371e-13
+  ],
+  [
+   45841.580857859415,
+   9.58854046974051e-13
+  ],
+  [
+   50872.35554814798,
+   6.882119947422747e-13
+  ],
+  [
+   55406.428603187225,
+   7.143599273921296e-13
+  ],
+  [
+   60963.45770485547,
+   7.192905905380432e-13
+  ],
+  [
+   67077.83318699429,
+   6.280296460534126e-13
+  ],
+  [
+   73805.45452073125,
+   6.644675000647017e-13
+  ],
+  [
+   81207.82765636343,
+   5.997261293790693e-13
+  ],
+  [
+   89352.62732936944,
+   8.52727782865806e-13
+  ],
+  [
+   98227.26631321358,
+   5.321834241200493e-13
+  ],
+  [
+   108338.72845496226,
+   5.552437318677355e-13
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "XENONnT_2022",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "ALP dark matter limit extracted from Figure 6(c) of the XENONnT paper. Data extracted via figure vision from the rendered PDF. The limit covers mass ranges (1-39 keV) and (44-140 keV), with a gap due to unconstrained 83mKr background. Coordinates extracted from the 90% C.L. upper limit curve (XENONnT This work, shown in green in the figure). Smoothed from pixel-level extraction to 42 representative points to reduce noise from PDF rendering artifacts. Mass axis is in eV (converted from keV/c\u00b2 shown in figure). Confidence_level 0.90 as stated in paper caption.",
+ "num_points": 42,
+ "arxiv_id": "2207.11330",
+ "elapsed_s": 262.8867781162262,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 262548,
+  "duration_api_ms": 255867,
+  "total_cost_usd": 0.389748,
+  "usage": {
+   "input_tokens": 170,
+   "output_tokens": 23208,
+   "cache_creation_input_tokens": 75485,
+   "cache_read_input_tokens": 1225680
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2207.11330.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:41:40-0500"
+ }
+}

@@ -1,0 +1,190 @@
+{
+ "paper_title": "A Universal Bound on QCD Axions from Supernovae",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-09,
+   1.7543859649122807e-16
+  ],
+  [
+   1.687269998681353e-09,
+   2.9601228047041283e-16
+  ],
+  [
+   2.846880048450173e-09,
+   4.994526400789778e-16
+  ],
+  [
+   4.803455295594513e-09,
+   8.427114553674584e-16
+  ],
+  [
+   8.104726010263691e-09,
+   1.4218817561866125e-15
+  ],
+  [
+   1.3674861044650345e-08,
+   2.3990984288860256e-15
+  ],
+  [
+   2.3073182776774872e-08,
+   4.04792680294296e-15
+  ],
+  [
+   3.8930689073343554e-08,
+   6.829945451463782e-15
+  ],
+  [
+   6.568658370144467e-08,
+   1.152396205288503e-14
+  ],
+  [
+   1.1083100199531936e-07,
+   1.9444035437775327e-14
+  ],
+  [
+   1.870018245904955e-07,
+   3.2807337647455355e-14
+  ],
+  [
+   3.1552256833021596e-07,
+   5.535483654916069e-14
+  ],
+  [
+   5.323717634504606e-07,
+   9.339855499130889e-14
+  ],
+  [
+   8.9825490461505e-07,
+   1.5758857975702634e-13
+  ],
+  [
+   1.5155985517253542e-06,
+   2.658944827588341e-13
+  ],
+  [
+   2.557223966371104e-06,
+   4.486357835738779e-13
+  ],
+  [
+   4.314727278366897e-06,
+   7.569696979591048e-13
+  ],
+  [
+   7.280109889280512e-06,
+   1.2772122612772827e-12
+  ],
+  [
+   1.228351100328646e-05,
+   2.155001930401133e-12
+  ],
+  [
+   2.0725599594317527e-05,
+   3.636070104266233e-12
+  ],
+  [
+   3.496968240017446e-05,
+   6.135032000030606e-12
+  ],
+  [
+   5.900329597722968e-05,
+   1.0351455434601697e-11
+  ],
+  [
+   9.95544911256958e-05,
+   1.746570019749049e-11
+  ],
+  [
+   0.00016797530611037587,
+   2.946935194918875e-11
+  ],
+  [
+   0.00028341969451935374,
+   4.9722753424448024e-11
+  ],
+  [
+   0.0004782055475979394,
+   8.389571010490166e-11
+  ],
+  [
+   0.0008068618736649926,
+   1.4155471467806889e-10
+  ],
+  [
+   0.001361393832514766,
+   2.3884102324820454e-10
+  ],
+  [
+   0.002297038969991991,
+   4.0298929298105104e-10
+  ],
+  [
+   0.0038757249398694116,
+   6.799517438367389e-10
+  ],
+  [
+   0.0065393944141827485,
+   1.147262177926798e-09
+  ],
+  [
+   0.011033724004594994,
+   1.9357410534377185e-09
+  ],
+  [
+   0.01861687148668341,
+   3.2661178046813e-09
+  ],
+  [
+   0.03141168872878723,
+   5.5108225839977595e-09
+  ],
+  [
+   0.052999999999999985,
+   9.298245614035085e-09
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.68,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "SN1987A_Springmann2025",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Model-independent bound on QCD axion from supernova 1987A cooling argument. Paper derives f_a > 1.1 \u00d7 10^8 GeV (68% C.L.) and equivalently m_a < 5.3 \u00d7 10^-2 eV. Points generated along the QCD axion mass-coupling relation from the constraint. The bound applies to all QCD axion models solving the strong CP problem and represents a new production channel (tree-level isospin-breaking operator) that improves previous supernova bounds by ~2 orders of magnitude.",
+ "num_points": 35,
+ "arxiv_id": "2410.19902",
+ "elapsed_s": 305.7369508743286,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 305373,
+  "duration_api_ms": 301114,
+  "total_cost_usd": 0.43340559999999995,
+  "usage": {
+   "input_tokens": 158,
+   "output_tokens": 27519,
+   "cache_creation_input_tokens": 64004,
+   "cache_read_input_tokens": 944806
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2410.19902.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:34:34-0500"
+ }
+}

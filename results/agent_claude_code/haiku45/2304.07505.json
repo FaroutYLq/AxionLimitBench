@@ -1,0 +1,182 @@
+{
+ "paper_title": "Search for galactic axions with a traveling wave parametric amplifier",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.281755e-05,
+   1.833721e-13
+  ],
+  [
+   4.28176e-05,
+   1.84785e-13
+  ],
+  [
+   4.281765e-05,
+   4.415704e-14
+  ],
+  [
+   4.28177e-05,
+   4.398791e-14
+  ],
+  [
+   4.281776e-05,
+   1.104926e-13
+  ],
+  [
+   4.281781e-05,
+   2.308518e-14
+  ],
+  [
+   4.281786e-05,
+   3.981072e-14
+  ],
+  [
+   4.281791e-05,
+   1.634306e-14
+  ],
+  [
+   4.281797e-05,
+   4.200813e-14
+  ],
+  [
+   4.281802e-05,
+   4.200813e-14
+  ],
+  [
+   4.281807e-05,
+   1.003845e-14
+  ],
+  [
+   4.281812e-05,
+   1.003845e-14
+  ],
+  [
+   4.281817e-05,
+   2.884032e-14
+  ],
+  [
+   4.281823e-05,
+   1.28825e-14
+  ],
+  [
+   4.281828e-05,
+   1.28825e-14
+  ],
+  [
+   4.281833e-05,
+   1.396368e-14
+  ],
+  [
+   4.281838e-05,
+   1.513561e-14
+  ],
+  [
+   4.281843e-05,
+   3.860705e-14
+  ],
+  [
+   4.281848e-05,
+   4.282197e-14
+  ],
+  [
+   4.281853e-05,
+   4.282197e-14
+  ],
+  [
+   4.281859e-05,
+   4.6061e-14
+  ],
+  [
+   4.281864e-05,
+   2.389645e-14
+  ],
+  [
+   4.281869e-05,
+   3.534544e-14
+  ],
+  [
+   4.281874e-05,
+   2.290868e-14
+  ],
+  [
+   4.28188e-05,
+   3.427678e-14
+  ],
+  [
+   4.281885e-05,
+   6.095369e-14
+  ],
+  [
+   4.28189e-05,
+   4.233179e-14
+  ],
+  [
+   4.281895e-05,
+   4.415704e-14
+  ],
+  [
+   4.2819e-05,
+   8.066157e-14
+  ],
+  [
+   4.281906e-05,
+   7.585776e-14
+  ],
+  [
+   4.281911e-05,
+   7.585776e-14
+  ],
+  [
+   4.281916e-05,
+   8.609938e-14
+  ],
+  [
+   4.281921e-05,
+   1.126333e-13
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "QUAX_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Data extracted from Figure 7 (Quax_twpa_33.pdf) using image analysis. The figure shows the g_a\u03b3\u03b3 upper limit as a function of axion mass in the range 42.8175-42.8193 \u03bceV. The measurement was performed using a traveling wave parametric amplifier in a high-Q dielectric cavity at 10.353 GHz. Ninety percent single-sided confidence level. The paper reports a minimum limit of approximately 2.05\u00d710^-14 GeV^-1. Extracted 33 points corresponding to the 33 measurement intervals mentioned in the paper. Extraction confidence is moderate due to reliance on visual figure analysis and color-based boundary detection from a raster PDF figure.",
+ "num_points": 33,
+ "arxiv_id": "2304.07505",
+ "elapsed_s": 274.71002531051636,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 32,
+  "duration_ms": 274393,
+  "duration_api_ms": 260030,
+  "total_cost_usd": 0.36988050000000006,
+  "usage": {
+   "input_tokens": 234,
+   "output_tokens": 24057,
+   "cache_creation_input_tokens": 62422,
+   "cache_read_input_tokens": 1245175
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2304.07505.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:26:08-0500"
+ }
+}

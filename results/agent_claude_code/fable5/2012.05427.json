@@ -1,0 +1,451 @@
+{
+ "paper_title": "Cooling of young neutron stars and dark gauge bosons",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.7982,
+   0.0051675
+  ],
+  [
+   3.218,
+   0.0048966
+  ],
+  [
+   3.6612,
+   0.0043967
+  ],
+  [
+   4.2105,
+   0.0034505
+  ],
+  [
+   4.7903,
+   0.0030568
+  ],
+  [
+   5.45,
+   0.0029358
+  ],
+  [
+   6.2006,
+   0.0026008
+  ],
+  [
+   7.0546,
+   0.0020688
+  ],
+  [
+   8.0261,
+   0.0018082
+  ],
+  [
+   9.1315,
+   0.0017602
+  ],
+  [
+   10.389,
+   0.0015593
+  ],
+  [
+   11.82,
+   0.0012238
+  ],
+  [
+   13.448,
+   0.0010841
+  ],
+  [
+   15.3,
+   0.0010553
+  ],
+  [
+   17.407,
+   0.0009224
+  ],
+  [
+   19.804,
+   0.00073372
+  ],
+  [
+   22.531,
+   0.0006413
+  ],
+  [
+   25.635,
+   0.00063273
+  ],
+  [
+   29.165,
+   0.00055303
+  ],
+  [
+   33.182,
+   0.0004399
+  ],
+  [
+   37.751,
+   0.0003845
+  ],
+  [
+   42.95,
+   0.00037428
+  ],
+  [
+   48.866,
+   0.00032714
+  ],
+  [
+   55.595,
+   0.00026022
+  ],
+  [
+   63.252,
+   0.00022744
+  ],
+  [
+   71.963,
+   0.0002244
+  ],
+  [
+   81.874,
+   0.00019614
+  ],
+  [
+   93.149,
+   0.00015602
+  ],
+  [
+   105.98,
+   0.00013637
+  ],
+  [
+   120.57,
+   0.00013454
+  ],
+  [
+   137.18,
+   0.0001176
+  ],
+  [
+   156.07,
+   9.229e-05
+  ],
+  [
+   177.57,
+   8.1759e-05
+  ],
+  [
+   202.02,
+   7.8523e-05
+  ],
+  [
+   229.84,
+   6.8632e-05
+  ],
+  [
+   261.5,
+   5.3143e-05
+  ],
+  [
+   297.51,
+   4.6449e-05
+  ],
+  [
+   338.48,
+   4.4014e-05
+  ],
+  [
+   385.1,
+   3.3625e-05
+  ],
+  [
+   438.13,
+   2.8609e-05
+  ],
+  [
+   498.47,
+   2.6389e-05
+  ],
+  [
+   567.12,
+   2.3378e-05
+  ],
+  [
+   645.23,
+   1.8102e-05
+  ],
+  [
+   734.09,
+   1.5401e-05
+  ],
+  [
+   835.19,
+   1.4792e-05
+  ],
+  [
+   950.21,
+   1.2585e-05
+  ],
+  [
+   1081.1,
+   9.6145e-06
+  ],
+  [
+   1230.0,
+   8.4035e-06
+  ],
+  [
+   1399.3,
+   7.8565e-06
+  ],
+  [
+   1592.1,
+   5.9218e-06
+  ],
+  [
+   1811.3,
+   5.1067e-06
+  ],
+  [
+   2060.8,
+   4.7743e-06
+  ],
+  [
+   2344.6,
+   4.1171e-06
+  ],
+  [
+   2667.5,
+   3.1032e-06
+  ],
+  [
+   3034.9,
+   2.6403e-06
+  ],
+  [
+   3452.8,
+   2.5358e-06
+  ],
+  [
+   3928.3,
+   1.9113e-06
+  ],
+  [
+   4469.4,
+   1.6262e-06
+  ],
+  [
+   5084.9,
+   1.48e-06
+  ],
+  [
+   5785.2,
+   1.3111e-06
+  ],
+  [
+   6581.9,
+   9.8822e-07
+  ],
+  [
+   7488.4,
+   8.4081e-07
+  ],
+  [
+   8519.7,
+   7.9673e-07
+  ],
+  [
+   9693.0,
+   6.0053e-07
+  ],
+  [
+   11028.0,
+   5.0411e-07
+  ],
+  [
+   12547.0,
+   4.5264e-07
+  ],
+  [
+   14275.0,
+   4.0642e-07
+  ],
+  [
+   16241.0,
+   3.1049e-07
+  ],
+  [
+   18477.0,
+   2.6417e-07
+  ],
+  [
+   21022.0,
+   2.5372e-07
+  ],
+  [
+   23917.0,
+   2.188e-07
+  ],
+  [
+   27211.0,
+   1.6942e-07
+  ],
+  [
+   30958.0,
+   1.4808e-07
+  ],
+  [
+   35222.0,
+   1.461e-07
+  ],
+  [
+   40073.0,
+   1.277e-07
+  ],
+  [
+   45592.0,
+   1.1312e-07
+  ],
+  [
+   51870.0,
+   1.1312e-07
+  ],
+  [
+   59014.0,
+   1.1466e-07
+  ],
+  [
+   67141.0,
+   1.1466e-07
+  ],
+  [
+   76388.0,
+   1.2599e-07
+  ],
+  [
+   86908.0,
+   1.1621e-07
+  ],
+  [
+   98877.0,
+   1.1779e-07
+  ],
+  [
+   112490.0,
+   1.1779e-07
+  ],
+  [
+   127990.0,
+   1.2599e-07
+  ],
+  [
+   145610.0,
+   1.8121e-07
+  ],
+  [
+   165670.0,
+   1.9646e-07
+  ],
+  [
+   188480.0,
+   2.5372e-07
+  ],
+  [
+   214440.0,
+   3.9563e-07
+  ],
+  [
+   243970.0,
+   5.5393e-07
+  ],
+  [
+   277580.0,
+   9.1154e-07
+  ],
+  [
+   296070.0,
+   1.2257e-06
+  ],
+  [
+   315800.0,
+   1.9372e-06
+  ],
+  [
+   336850.0,
+   2.339e-06
+  ],
+  [
+   359300.0,
+   4.2868e-06
+  ],
+  [
+   383240.0,
+   5.0384e-06
+  ],
+  [
+   408780.0,
+   9.7448e-06
+  ],
+  [
+   436020.0,
+   1.2087e-05
+  ],
+  [
+   465070.0,
+   2.1856e-05
+  ],
+  [
+   496070.0,
+   4.9683e-05
+  ],
+  [
+   529120.0,
+   6.0801e-05
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "CasA_2021",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline dark photon bound from the rapid cooling of Cas A (Eq. 37, epsilon*m_gamma' < 1.5e-8 MeV for m < Tc(n3P2) ~ 0.1 MeV; red region of Fig. 6, CCDK proton-singlet pairing model). Boundary traced pixel-wise from the full-resolution raster embedded in the e-print figure DPConstraints.pdf; axes calibrated from major tick marks (x: 214.15 px/decade anchored at 10^-2 eV; y: 171.04 px/decade anchored at 10^-3). Curve follows eps*m ~ 1.5e-2 eV at low mass, dips to eps ~ 1.1e-7 near m ~ 5e4 eV, and rises steeply at the m ~ Tc cutoff (~5e5 eV). The paper also derives a stronger but conditional dark photon bound from NS1987A (eps*m < 3e-9 MeV, Eq. 39, brown dashed in Fig. 6) and a U(1)_B-L bound e' < 5e-13 (Fig. 7); the Cas A dark photon bound is the one quoted first in the abstract and labeled the key result. Stellar-cooling bound: no DM density assumption, no explicit confidence level stated (0.95 entered as default).",
+ "num_points": 100,
+ "arxiv_id": "2012.05427",
+ "elapsed_s": 299.9796290397644,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 299590,
+  "duration_api_ms": 293761,
+  "total_cost_usd": 2.5129889999999997,
+  "usage": {
+   "input_tokens": 525,
+   "output_tokens": 18672,
+   "cache_creation_input_tokens": 48503,
+   "cache_read_input_tokens": 604079
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2012.05427.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T01:43:33-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

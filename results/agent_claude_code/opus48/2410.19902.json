@@ -1,0 +1,58 @@
+{
+ "paper_title": "A Universal Bound on QCD Axions from Supernovae",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-20,
+   9.0909e-09
+  ],
+  [
+   10.0,
+   9.0909e-09
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.68,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "SN1987A_QCDaxion_2025",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Model-independent bound on the QCD axion from SN1987A cooling via a newly identified tree-level axion production channel from the shift-symmetry-breaking nEDM operator. Headline result Eq.(14)/(16): f_a > 1.1(+0.4/-0.6)e8 GeV (68% C.L.), equivalently m_a < 5.3e-2 eV. Reported in the canonical AxionMass plane as 1/f_a = 1/(1.1e8 GeV) = 9.0909e-9 GeV^-1. The bound is a flat horizontal exclusion (excluded region above the line, 1/f_a > 9.09e-9) drawn across the full mass axis in Fig.5 ('This work' red band, ~1e-20 to 1e1 eV), since the constraint is model-independent in f_a. CL is 68% (not 90/95) as stated in the paper. Bound does not depend on DM density (SN cooling), so dm_density_assumed is null.",
+ "num_points": 2,
+ "arxiv_id": "2410.19902",
+ "elapsed_s": 79.40627002716064,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 9,
+  "duration_ms": 79099,
+  "duration_api_ms": 77628,
+  "total_cost_usd": 0.5306395,
+  "usage": {
+   "input_tokens": 225,
+   "output_tokens": 4795,
+   "cache_creation_input_tokens": 30149,
+   "cache_read_input_tokens": 216299
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2410.19902.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:49:01-0500"
+ }
+}

@@ -1,0 +1,250 @@
+{
+ "paper_title": "BICEP/Keck XIV: Improved constraints on axion-like polarization oscillations in the cosmic microwave background",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.2e-23,
+   2.849e-13
+  ],
+  [
+   1.4952e-23,
+   2.8595e-13
+  ],
+  [
+   1.863e-23,
+   2.8758e-13
+  ],
+  [
+   2.3212e-23,
+   2.9013e-13
+  ],
+  [
+   2.8922e-23,
+   2.9413e-13
+  ],
+  [
+   3.6036e-23,
+   3.0042e-13
+  ],
+  [
+   4.49e-23,
+   3.1041e-13
+  ],
+  [
+   5.5944e-23,
+   3.2643e-13
+  ],
+  [
+   6.9706e-23,
+   3.5251e-13
+  ],
+  [
+   8.6852e-23,
+   3.9569e-13
+  ],
+  [
+   1.0822e-22,
+   4.6775e-13
+  ],
+  [
+   1.3483e-22,
+   5.8342e-13
+  ],
+  [
+   1.68e-22,
+   7.3998e-13
+  ],
+  [
+   2.0933e-22,
+   9.0744e-13
+  ],
+  [
+   2.6082e-22,
+   1.1251e-12
+  ],
+  [
+   3.2497e-22,
+   1.403e-12
+  ],
+  [
+   4.0491e-22,
+   1.748e-12
+  ],
+  [
+   5.0451e-22,
+   2.172e-12
+  ],
+  [
+   6.286e-22,
+   2.7057e-12
+  ],
+  [
+   7.8323e-22,
+   3.3717e-12
+  ],
+  [
+   9.7588e-22,
+   4.1972e-12
+  ],
+  [
+   1.2159e-21,
+   5.2293e-12
+  ],
+  [
+   1.515e-21,
+   6.516e-12
+  ],
+  [
+   1.8877e-21,
+   8.1176e-12
+  ],
+  [
+   2.352e-21,
+   1.0115e-11
+  ],
+  [
+   2.9306e-21,
+   1.2603e-11
+  ],
+  [
+   3.6514e-21,
+   1.5702e-11
+  ],
+  [
+   4.5496e-21,
+   1.9564e-11
+  ],
+  [
+   5.6687e-21,
+   2.4377e-11
+  ],
+  [
+   7.0631e-21,
+   3.0372e-11
+  ],
+  [
+   8.8005e-21,
+   3.7844e-11
+  ],
+  [
+   1.0965e-20,
+   4.7154e-11
+  ],
+  [
+   1.3662e-20,
+   5.8756e-11
+  ],
+  [
+   1.7023e-20,
+   7.3214e-11
+  ],
+  [
+   2.121e-20,
+   9.1232e-11
+  ],
+  [
+   2.6428e-20,
+   1.1369e-10
+  ],
+  [
+   3.2929e-20,
+   1.417e-10
+  ],
+  [
+   4.1028e-20,
+   1.7662e-10
+  ],
+  [
+   5.112e-20,
+   2.202e-10
+  ],
+  [
+   6.3695e-20,
+   2.7463e-10
+  ],
+  [
+   7.9363e-20,
+   3.427e-10
+  ],
+  [
+   9.8884e-20,
+   4.2799e-10
+  ],
+  [
+   1.2321e-19,
+   5.3519e-10
+  ],
+  [
+   1.5351e-19,
+   6.706e-10
+  ],
+  [
+   1.9128e-19,
+   8.4289e-10
+  ],
+  [
+   2.3833e-19,
+   1.0647e-09
+  ],
+  [
+   2.9695e-19,
+   1.3551e-09
+  ],
+  [
+   3.6999e-19,
+   1.746e-09
+  ],
+  [
+   4.61e-19,
+   2.2938e-09
+  ],
+  [
+   5.744e-19,
+   3.1103e-09
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "BICEP_Keck_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "AC oscillation / cosmic-birefringence search. Headline limit on axion-photon coupling g_phigamma (identical to canonical g_agamma of L=-(g/4) a F Ftilde; Fedderke et al. convention). Curve generated from Eq. 15, the smoothed approximation to the observed 95% upper limits plotted as Keck 2012-2015 smoothed in Fig. 3: g_phigamma < 4.3e-12 GeV^-1 * sinc^-1(m/5.0e-19 eV) * (m/1e-21 eV) * (kappa*rho0/0.3 GeV/cm3)^-1/2 * (1-2(m/m0)^-2[1-cos(m/m0)])^-1/2, m0=1.9e-23 eV, with sinc(x)=sin(x)/x. Density normalization kappa*rho0=0.3 GeV/cm3 (kappa=1, i.e. axions are all DM). Mass range 1.2e-23 eV (m_min) to 5.7e-19 eV (m_max=h*nu_max, nu_max=0.5/hr). Limit degrades (turns up) at low mass near m0 (residual-oscillation factor) and would degrade at high mass via sinc. This is the observed limit (smoothed), not the expected sensitivity band.",
+ "num_points": 50,
+ "arxiv_id": "2108.03316",
+ "elapsed_s": 121.82033085823059,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 7,
+  "duration_ms": 121510,
+  "duration_api_ms": 119967,
+  "total_cost_usd": 0.588268,
+  "usage": {
+   "input_tokens": 138,
+   "output_tokens": 9676,
+   "cache_creation_input_tokens": 29850,
+   "cache_read_input_tokens": 94356
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2108.03316.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:43:01-0500"
+ }
+}

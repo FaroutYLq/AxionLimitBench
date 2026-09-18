@@ -1,0 +1,411 @@
+{
+ "paper_title": "Near-Quantum-Noise Axion Dark Matter Search at CAPP around 9.5 ueV",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   9.391e-06,
+   1.025e-14
+  ],
+  [
+   9.39232e-06,
+   9.962e-15
+  ],
+  [
+   9.39369e-06,
+   1.014e-14
+  ],
+  [
+   9.39506e-06,
+   1.002e-14
+  ],
+  [
+   9.39643e-06,
+   1.014e-14
+  ],
+  [
+   9.3978e-06,
+   9.799e-15
+  ],
+  [
+   9.39917e-06,
+   9.913e-15
+  ],
+  [
+   9.40054e-06,
+   9.802e-15
+  ],
+  [
+   9.40191e-06,
+   9.803e-15
+  ],
+  [
+   9.40328e-06,
+   9.917e-15
+  ],
+  [
+   9.40465e-06,
+   1.003e-14
+  ],
+  [
+   9.40601e-06,
+   9.92e-15
+  ],
+  [
+   9.40738e-06,
+   9.921e-15
+  ],
+  [
+   9.40875e-06,
+   9.81e-15
+  ],
+  [
+   9.41012e-06,
+   9.924e-15
+  ],
+  [
+   9.41144e-06,
+   9.813e-15
+  ],
+  [
+   9.41276e-06,
+   9.927e-15
+  ],
+  [
+   9.41413e-06,
+   1.004e-14
+  ],
+  [
+   9.4155e-06,
+   1.004e-14
+  ],
+  [
+   9.41687e-06,
+   9.931e-15
+  ],
+  [
+   9.41824e-06,
+   1.005e-14
+  ],
+  [
+   9.41961e-06,
+   1.005e-14
+  ],
+  [
+   9.42098e-06,
+   1.005e-14
+  ],
+  [
+   9.42235e-06,
+   9.881e-15
+  ],
+  [
+   9.42372e-06,
+   9.826e-15
+  ],
+  [
+   9.42509e-06,
+   9.827e-15
+  ],
+  [
+   9.42645e-06,
+   9.942e-15
+  ],
+  [
+   9.42782e-06,
+   9.83e-15
+  ],
+  [
+   9.42919e-06,
+   9.832e-15
+  ],
+  [
+   9.43056e-06,
+   9.722e-15
+  ],
+  [
+   9.43188e-06,
+   9.723e-15
+  ],
+  [
+   9.4332e-06,
+   9.78e-15
+  ],
+  [
+   9.43457e-06,
+   9.837e-15
+  ],
+  [
+   9.43594e-06,
+   9.839e-15
+  ],
+  [
+   9.43731e-06,
+   9.729e-15
+  ],
+  [
+   9.43868e-06,
+   9.842e-15
+  ],
+  [
+   9.44005e-06,
+   9.731e-15
+  ],
+  [
+   9.44142e-06,
+   9.733e-15
+  ],
+  [
+   9.44279e-06,
+   9.79e-15
+  ],
+  [
+   9.44416e-06,
+   9.847e-15
+  ],
+  [
+   9.44553e-06,
+   9.793e-15
+  ],
+  [
+   9.44689e-06,
+   9.963e-15
+  ],
+  [
+   9.44826e-06,
+   9.852e-15
+  ],
+  [
+   9.44963e-06,
+   9.853e-15
+  ],
+  [
+   9.451e-06,
+   9.854e-15
+  ],
+  [
+   9.45232e-06,
+   9.856e-15
+  ],
+  [
+   9.45364e-06,
+   9.857e-15
+  ],
+  [
+   9.45501e-06,
+   9.636e-15
+  ],
+  [
+   9.45638e-06,
+   9.475e-15
+  ],
+  [
+   9.45775e-06,
+   9.422e-15
+  ],
+  [
+   9.45912e-06,
+   9.423e-15
+  ],
+  [
+   9.46049e-06,
+   9.533e-15
+  ],
+  [
+   9.46186e-06,
+   9.426e-15
+  ],
+  [
+   9.46323e-06,
+   9.535e-15
+  ],
+  [
+   9.4646e-06,
+   9.537e-15
+  ],
+  [
+   9.46597e-06,
+   9.538e-15
+  ],
+  [
+   9.46733e-06,
+   9.486e-15
+  ],
+  [
+   9.4687e-06,
+   9.433e-15
+  ],
+  [
+   9.47007e-06,
+   9.652e-15
+  ],
+  [
+   9.47144e-06,
+   9.764e-15
+  ],
+  [
+   9.47276e-06,
+   9.655e-15
+  ],
+  [
+   9.47408e-06,
+   9.656e-15
+  ],
+  [
+   9.47545e-06,
+   9.657e-15
+  ],
+  [
+   9.47682e-06,
+   9.604e-15
+  ],
+  [
+   9.47819e-06,
+   9.551e-15
+  ],
+  [
+   9.47956e-06,
+   9.661e-15
+  ],
+  [
+   9.48093e-06,
+   9.663e-15
+  ],
+  [
+   9.4823e-06,
+   9.555e-15
+  ],
+  [
+   9.48367e-06,
+   9.666e-15
+  ],
+  [
+   9.48504e-06,
+   9.667e-15
+  ],
+  [
+   9.48641e-06,
+   9.614e-15
+  ],
+  [
+   9.48778e-06,
+   9.781e-15
+  ],
+  [
+   9.48914e-06,
+   9.782e-15
+  ],
+  [
+   9.49051e-06,
+   9.728e-15
+  ],
+  [
+   9.49188e-06,
+   9.674e-15
+  ],
+  [
+   9.4932e-06,
+   9.675e-15
+  ],
+  [
+   9.49452e-06,
+   9.788e-15
+  ],
+  [
+   9.49589e-06,
+   9.789e-15
+  ],
+  [
+   9.49726e-06,
+   9.79e-15
+  ],
+  [
+   9.49863e-06,
+   9.681e-15
+  ],
+  [
+   9.5e-06,
+   9.793e-15
+  ],
+  [
+   9.50137e-06,
+   9.795e-15
+  ],
+  [
+   9.50274e-06,
+   9.796e-15
+  ],
+  [
+   9.50411e-06,
+   9.797e-15
+  ],
+  [
+   9.50548e-06,
+   9.911e-15
+  ],
+  [
+   9.50685e-06,
+   9.913e-15
+  ],
+  [
+   9.50822e-06,
+   9.802e-15
+  ],
+  [
+   9.50958e-06,
+   9.916e-15
+  ],
+  [
+   9.51095e-06,
+   9.805e-15
+  ],
+  [
+   9.51232e-06,
+   1.05e-14
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "CAPP_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Lower boundary of the red excluded region in Fig. 4 (main panel, |g_agamma/g_KSVZ| vs m_a), extracted pixel-wise from the e-print figure images/exclusion.png with axis calibration from tick marks (log y: 10^0-10^3, 202 px/decade; linear x: 9.36-9.54 ueV). Converted from KSVZ units using g_KSVZ = 1.92*alpha/(2*pi*f_a) with m_a = 5.7 ueV x (1e12 GeV/f_a). Paper assumes rho_a = 0.45 GeV/cm^3 (already canonical, no rescaling). 90% CL exclusion over 9.39-9.51 ueV; boundary ~2.5-3.2 x KSVZ, consistent with the quoted 2.7-fold-above-KSVZ sensitivity. Curve downsampled to 90 block-median points.",
+ "num_points": 90,
+ "arxiv_id": "2207.13597",
+ "elapsed_s": 207.65744495391846,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 207267,
+  "duration_api_ms": 203381,
+  "total_cost_usd": 1.4958984999999998,
+  "usage": {
+   "input_tokens": 486,
+   "output_tokens": 12770,
+   "cache_creation_input_tokens": 31093,
+   "cache_read_input_tokens": 408946
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2207.13597.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:29:42-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

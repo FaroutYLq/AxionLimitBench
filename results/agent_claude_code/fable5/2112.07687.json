@@ -1,0 +1,447 @@
+{
+ "paper_title": "High-precision search for dark photon dark matter with the Parkes Pulsar Timing Array",
+ "coupling_type": "VectorBL",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.259e-24,
+   6.109e-26
+  ],
+  [
+   3.412e-24,
+   8.332e-26
+  ],
+  [
+   3.573e-24,
+   6.926e-26
+  ],
+  [
+   3.742e-24,
+   5.348e-26
+  ],
+  [
+   3.918e-24,
+   6.306e-26
+  ],
+  [
+   4.103e-24,
+   7.459e-26
+  ],
+  [
+   4.296e-24,
+   4.839e-26
+  ],
+  [
+   4.498e-24,
+   5.464e-26
+  ],
+  [
+   4.932e-24,
+   4.676e-26
+  ],
+  [
+   5.165e-24,
+   5.8e-26
+  ],
+  [
+   5.408e-24,
+   4.575e-26
+  ],
+  [
+   5.663e-24,
+   4.392e-26
+  ],
+  [
+   6.209e-24,
+   3.075e-26
+  ],
+  [
+   6.502e-24,
+   4.392e-26
+  ],
+  [
+   7.129e-24,
+   4.822e-26
+  ],
+  [
+   7.465e-24,
+   3.045e-26
+  ],
+  [
+   7.817e-24,
+   4.575e-26
+  ],
+  [
+   8.186e-24,
+   3.009e-26
+  ],
+  [
+   8.975e-24,
+   4.292e-26
+  ],
+  [
+   9.398e-24,
+   3.219e-26
+  ],
+  [
+   9.841e-24,
+   3.023e-26
+  ],
+  [
+   1.031e-23,
+   3.582e-26
+  ],
+  [
+   1.079e-23,
+   2.315e-26
+  ],
+  [
+   1.13e-23,
+   3.495e-26
+  ],
+  [
+   1.239e-23,
+   2.128e-26
+  ],
+  [
+   1.297e-23,
+   2.977e-26
+  ],
+  [
+   1.358e-23,
+   2.882e-26
+  ],
+  [
+   1.423e-23,
+   2.321e-26
+  ],
+  [
+   1.49e-23,
+   1.905e-26
+  ],
+  [
+   1.56e-23,
+   2.077e-26
+  ],
+  [
+   1.71e-23,
+   2.105e-26
+  ],
+  [
+   1.875e-23,
+   2.862e-26
+  ],
+  [
+   2.056e-23,
+   2.975e-26
+  ],
+  [
+   2.153e-23,
+   2.539e-26
+  ],
+  [
+   2.255e-23,
+   3.126e-26
+  ],
+  [
+   2.361e-23,
+   3.388e-26
+  ],
+  [
+   2.472e-23,
+   3.814e-26
+  ],
+  [
+   2.589e-23,
+   2.54e-26
+  ],
+  [
+   2.838e-23,
+   2.907e-26
+  ],
+  [
+   2.972e-23,
+   3.058e-26
+  ],
+  [
+   3.259e-23,
+   4.326e-26
+  ],
+  [
+   3.573e-23,
+   3.927e-26
+  ],
+  [
+   3.742e-23,
+   4.731e-26
+  ],
+  [
+   4.103e-23,
+   5.293e-26
+  ],
+  [
+   4.498e-23,
+   6.282e-26
+  ],
+  [
+   4.71e-23,
+   7.574e-26
+  ],
+  [
+   5.165e-23,
+   6.444e-26
+  ],
+  [
+   5.408e-23,
+   7.608e-26
+  ],
+  [
+   5.663e-23,
+   6.241e-26
+  ],
+  [
+   6.209e-23,
+   7.976e-26
+  ],
+  [
+   6.502e-23,
+   7.671e-26
+  ],
+  [
+   7.129e-23,
+   1.04e-25
+  ],
+  [
+   7.817e-23,
+   1.425e-25
+  ],
+  [
+   8.186e-23,
+   1.178e-25
+  ],
+  [
+   8.571e-23,
+   1.393e-25
+  ],
+  [
+   8.975e-23,
+   1.469e-25
+  ],
+  [
+   9.841e-23,
+   2.071e-25
+  ],
+  [
+   1.031e-22,
+   1.42e-25
+  ],
+  [
+   1.079e-22,
+   1.805e-25
+  ],
+  [
+   1.13e-22,
+   2.331e-25
+  ],
+  [
+   1.239e-22,
+   5.581e-25
+  ],
+  [
+   1.297e-22,
+   6.829e-23
+  ],
+  [
+   1.358e-22,
+   4.348e-23
+  ],
+  [
+   1.423e-22,
+   7.15e-25
+  ],
+  [
+   1.49e-22,
+   5.456e-25
+  ],
+  [
+   1.56e-22,
+   4.776e-25
+  ],
+  [
+   1.633e-22,
+   6.071e-25
+  ],
+  [
+   1.71e-22,
+   4.367e-25
+  ],
+  [
+   1.791e-22,
+   7.167e-25
+  ],
+  [
+   1.875e-22,
+   1.219e-24
+  ],
+  [
+   1.964e-22,
+   6.266e-25
+  ],
+  [
+   2.056e-22,
+   1.05e-24
+  ],
+  [
+   2.153e-22,
+   8.497e-25
+  ],
+  [
+   2.361e-22,
+   8.012e-25
+  ],
+  [
+   2.472e-22,
+   1.01e-24
+  ],
+  [
+   2.589e-22,
+   1.842e-24
+  ],
+  [
+   2.838e-22,
+   1.356e-24
+  ],
+  [
+   2.972e-22,
+   1.77e-24
+  ],
+  [
+   3.259e-22,
+   1.51e-24
+  ],
+  [
+   3.412e-22,
+   2.56e-24
+  ],
+  [
+   3.573e-22,
+   2.14e-24
+  ],
+  [
+   3.742e-22,
+   2.848e-24
+  ],
+  [
+   3.918e-22,
+   3.238e-24
+  ],
+  [
+   4.103e-22,
+   2.223e-24
+  ],
+  [
+   4.498e-22,
+   2.237e-24
+  ],
+  [
+   4.71e-22,
+   4.096e-24
+  ],
+  [
+   4.932e-22,
+   4.627e-24
+  ],
+  [
+   5.165e-22,
+   4.039e-24
+  ],
+  [
+   5.663e-22,
+   3.653e-24
+  ],
+  [
+   5.93e-22,
+   5.361e-24
+  ],
+  [
+   6.21e-22,
+   5.57e-24
+  ],
+  [
+   6.502e-22,
+   7.278e-24
+  ],
+  [
+   6.809e-22,
+   8.915e-24
+  ],
+  [
+   7.465e-22,
+   7.273e-24
+  ],
+  [
+   7.817e-22,
+   1.201e-23
+  ],
+  [
+   8.571e-22,
+   1.331e-23
+  ],
+  [
+   8.975e-22,
+   1.288e-23
+  ],
+  [
+   9.398e-22,
+   1.473e-23
+  ],
+  [
+   9.841e-22,
+   1.674e-23
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "PPTA_2021",
+ "coupling_convention": "g_BL (dimensionless)",
+ "notes": "Curve digitised from the vector paths of Fig. 1, right panel (U(1)_{B-L}), of the e-print figure upperlimit.pdf. The paper reports 95% credible upper limits on eps^2, where eps*e is the U(1)_{B-L} gauge coupling normalised to the electromagnetic coupling e (Eq. 2). Converted to the canonical gauge coupling via g_BL = e*sqrt(eps^2) with e = sqrt(4*pi*alpha) = 0.30282. The reported boundary is the paper's excluded-region (shaded) boundary: the 'correlated' polarisation curve (red solid) for m_A < 1e-22 eV, where the dark-photon field is coherent across the array and only that analysis is physical, continued by the 'uncorrelated' curve (red dashed) for m_A > 1e-22 eV, the only analysis performed there. The narrow weak-limit spike near m_A ~ 1.3e-22 eV (f = 1/yr) is real and retained. Local DM density assumed rho_0 = 0.4 GeV/cm^3. The paper also limits a U(1)_B dark photon (left panel), not reported here since B-L is the canonical plane.",
+ "num_points": 99,
+ "arxiv_id": "2112.07687",
+ "elapsed_s": 161.77369689941406,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 161419,
+  "duration_api_ms": 158448,
+  "total_cost_usd": 1.4734575000000003,
+  "usage": {
+   "input_tokens": 416,
+   "output_tokens": 11763,
+   "cache_creation_input_tokens": 36028,
+   "cache_read_input_tokens": 369140
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2112.07687.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:39:49-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

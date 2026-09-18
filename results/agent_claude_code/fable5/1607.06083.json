@@ -1,0 +1,339 @@
+{
+ "paper_title": "Searching for axion-like particles with ultra-peripheral heavy-ion collisions",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   50000000.0,
+   0.001281
+  ],
+  [
+   9980000000.0,
+   0.001281
+  ],
+  [
+   19902200000.0,
+   0.0006847
+  ],
+  [
+   20102300000.0,
+   0.0006278
+  ],
+  [
+   20302400000.0,
+   0.0006323
+  ],
+  [
+   24904000000.0,
+   0.0004411
+  ],
+  [
+   25904400000.0,
+   0.000494
+  ],
+  [
+   31906500000.0,
+   0.0003599
+  ],
+  [
+   34707500000.0,
+   0.0004708
+  ],
+  [
+   36308100000.0,
+   0.0003732
+  ],
+  [
+   37508500000.0,
+   0.0004605
+  ],
+  [
+   38108700000.0,
+   0.0004018
+  ],
+  [
+   38308800000.0,
+   0.0004091
+  ],
+  [
+   39309100000.0,
+   0.0003349
+  ],
+  [
+   40709600000.0,
+   0.0004246
+  ],
+  [
+   41309800000.0,
+   0.0003833
+  ],
+  [
+   42910400000.0,
+   0.0005629
+  ],
+  [
+   43510600000.0,
+   0.0004433
+  ],
+  [
+   43710700000.0,
+   0.0005109
+  ],
+  [
+   44310900000.0,
+   0.0003412
+  ],
+  [
+   44911100000.0,
+   0.0003665
+  ],
+  [
+   46711800000.0,
+   0.0003495
+  ],
+  [
+   49112600000.0,
+   0.0004728
+  ],
+  [
+   49512800000.0,
+   0.0004325
+  ],
+  [
+   49712800000.0,
+   0.0004702
+  ],
+  [
+   50113000000.0,
+   0.0004285
+  ],
+  [
+   51113300000.0,
+   0.0005331
+  ],
+  [
+   51313400000.0,
+   0.0004941
+  ],
+  [
+   51513500000.0,
+   0.0004977
+  ],
+  [
+   52713900000.0,
+   0.0003347
+  ],
+  [
+   55715000000.0,
+   0.0004654
+  ],
+  [
+   56915400000.0,
+   0.0003513
+  ],
+  [
+   58916100000.0,
+   0.0004283
+  ],
+  [
+   59116200000.0,
+   0.0003782
+  ],
+  [
+   60116500000.0,
+   0.0004663
+  ],
+  [
+   61116900000.0,
+   0.0004126
+  ],
+  [
+   61717100000.0,
+   0.0004374
+  ],
+  [
+   62517400000.0,
+   0.0004052
+  ],
+  [
+   63317700000.0,
+   0.0004355
+  ],
+  [
+   63517700000.0,
+   0.0004104
+  ],
+  [
+   65118300000.0,
+   0.0005761
+  ],
+  [
+   66918900000.0,
+   0.0004287
+  ],
+  [
+   67119000000.0,
+   0.0004527
+  ],
+  [
+   67319100000.0,
+   0.0004441
+  ],
+  [
+   69319800000.0,
+   0.0005002
+  ],
+  [
+   70120100000.0,
+   0.0003913
+  ],
+  [
+   70320200000.0,
+   0.0004018
+  ],
+  [
+   71520600000.0,
+   0.0003526
+  ],
+  [
+   73321200000.0,
+   0.0004457
+  ],
+  [
+   74921800000.0,
+   0.0003775
+  ],
+  [
+   76322300000.0,
+   0.0004447
+  ],
+  [
+   76922500000.0,
+   0.000393
+  ],
+  [
+   78122900000.0,
+   0.0005716
+  ],
+  [
+   79923600000.0,
+   0.0004505
+  ],
+  [
+   84125100000.0,
+   0.0007137
+  ],
+  [
+   84725300000.0,
+   0.0005494
+  ],
+  [
+   84925400000.0,
+   0.0005809
+  ],
+  [
+   85725600000.0,
+   0.0004583
+  ],
+  [
+   85925700000.0,
+   0.0004707
+  ],
+  [
+   87326200000.0,
+   0.0004092
+  ],
+  [
+   88926800000.0,
+   0.0004834
+  ],
+  [
+   91127600000.0,
+   0.000406
+  ],
+  [
+   92928200000.0,
+   0.000606
+  ],
+  [
+   93128300000.0,
+   0.000597
+  ],
+  [
+   93728500000.0,
+   0.000639
+  ],
+  [
+   94328700000.0,
+   0.0005556
+  ],
+  [
+   94528800000.0,
+   0.0005649
+  ],
+  [
+   95529100000.0,
+   0.0004506
+  ],
+  [
+   96129300000.0,
+   0.0005142
+  ],
+  [
+   97329800000.0,
+   0.0005018
+  ],
+  [
+   98930300000.0,
+   0.0007141
+  ],
+  [
+   99930700000.0,
+   0.0005662
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "LEP_2016",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Fig. 4 left panel (aFF~ coupling), extracted from vector paths of figures/moneyplot.pdf in the e-print. Paper's Lagrangian is (1/4)(1/Lambda) a F F~, identical normalisation to g_agamma, so g_agamma = 1/Lambda with no conversion. Curve reported is the paper's new LEP II exclusions: the new OPAL 2-gamma inclusive limit, flat at 1/Lambda = 1.28e-3 GeV^-1 (text states validity 50 MeV-8 GeV; the figure draws it to 10 GeV, right edge taken at 10 GeV), and the OPAL 3-gamma recast boundary from 20 to 100 GeV ((3.3-7.1)e-4 GeV^-1, jagged). No LEP limit exists between 10 and 20 GeV (consecutive points bridge the gap). The Pb-Pb UPC curves (1 and 10 nb^-1) are projections and excluded; the paper's approximate ATLAS 2-gamma/3-gamma recasts (10-60 GeV and >65 GeV) are not included since the LEP result is the paper's robust new limit. 95% CL (Appendix A). Axes calibrated from tick-mark positions; broken x-axis (log below 5 GeV, linear above) handled.",
+ "num_points": 72,
+ "arxiv_id": "1607.06083",
+ "elapsed_s": 289.4522981643677,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 289020,
+  "duration_api_ms": 285094,
+  "total_cost_usd": 2.4662400000000004,
+  "usage": {
+   "input_tokens": 411,
+   "output_tokens": 18940,
+   "cache_creation_input_tokens": 51916,
+   "cache_read_input_tokens": 476810
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1607.06083.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:10:38-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

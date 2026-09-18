@@ -1,0 +1,214 @@
+{
+ "paper_title": "Axion-like Relics: New Constraints from Old Comagnetometer Data",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.9835e-24,
+   4.1529e-07
+  ],
+  [
+   9.4894e-24,
+   4.1529e-07
+  ],
+  [
+   1.787e-23,
+   4.1529e-07
+  ],
+  [
+   3.3652e-23,
+   4.1529e-07
+  ],
+  [
+   6.3371e-23,
+   4.1529e-07
+  ],
+  [
+   1.1934e-22,
+   4.1529e-07
+  ],
+  [
+   2.2473e-22,
+   4.1529e-07
+  ],
+  [
+   4.232e-22,
+   4.1529e-07
+  ],
+  [
+   7.9694e-22,
+   1.8196e-06
+  ],
+  [
+   1.5008e-21,
+   1.6241e-06
+  ],
+  [
+   2.8577e-21,
+   1.2458e-06
+  ],
+  [
+   5.3815e-21,
+   8.9434e-07
+  ],
+  [
+   1.0134e-20,
+   3.6372e-07
+  ],
+  [
+   1.9084e-20,
+   4.3957e-07
+  ],
+  [
+   3.5938e-20,
+   4.3132e-07
+  ],
+  [
+   6.7677e-20,
+   4.9716e-07
+  ],
+  [
+   1.2745e-19,
+   4.7417e-07
+  ],
+  [
+   2.4e-19,
+   3.7068e-07
+  ],
+  [
+   4.5195e-19,
+   2.4436e-07
+  ],
+  [
+   8.5109e-19,
+   1.8567e-07
+  ],
+  [
+   1.6027e-18,
+   1.673e-07
+  ],
+  [
+   3.0519e-18,
+   1.3329e-07
+  ],
+  [
+   5.7471e-18,
+   1.0822e-07
+  ],
+  [
+   1.0823e-17,
+   8.6218e-08
+  ],
+  [
+   2.0381e-17,
+   1.4497e-06
+  ],
+  [
+   3.838e-17,
+   1.2224e-06
+  ],
+  [
+   7.2275e-17,
+   1.0606e-06
+  ],
+  [
+   1.361e-16,
+   3.8184e-08
+  ],
+  [
+   2.5631e-16,
+   1.2972e-08
+  ],
+  [
+   4.8266e-16,
+   7.2111e-09
+  ],
+  [
+   9.0892e-16,
+   2.4966e-09
+  ],
+  [
+   1.7116e-15,
+   1.7093e-09
+  ],
+  [
+   3.2592e-15,
+   1.5549e-09
+  ],
+  [
+   6.1376e-15,
+   6.8863e-10
+  ],
+  [
+   1.1558e-14,
+   6.5059e-10
+  ],
+  [
+   2.1766e-14,
+   7.8626e-10
+  ],
+  [
+   4.0988e-14,
+   1.1703e-09
+  ],
+  [
+   7.7186e-14,
+   1.6932e-09
+  ],
+  [
+   1.4535e-13,
+   3.2547e-09
+  ],
+  [
+   2.7372e-13,
+   5.4793e-09
+  ],
+  [
+   5.1546e-13,
+   7.2111e-09
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "OldComagnetometer_2019",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Headline observed 95% C.L. limit on the ALP-neutron coupling, Fig.3 (PlotA.pdf), traced as the lower boundary of the combined blue \"This work\" excluded region (union of datasets I [Vasilakis], II [Kornack], III [Brown]). Paper defines the coupling via L = -g_aNN (d_mu a) Nbar gamma5 gamma^mu N (Eq.5), i.e. g_aNN in GeV^-1 with the single-derivative (non-2m_N) normalisation. Converted to the canonical dimensionless g_an using the 2m_N rule: g_an = 2 m_n g_aNN with m_n = 0.9396 GeV (factor 1.879). Native g_aNN ranges ~2.2e-7 (flat, low mass) down to a minimum ~3.3e-10 near m_a~1.5e-14 eV, rising to ~4e-9 near 5e-13 eV. Dataset III provides the flat/low-mass bound extending to arbitrarily small mass; a modest bump near 2-4e-17 eV is the weakly-covered transition between dataset III (ends ~3e-18 eV) and dataset I (starts 2.4e-17 eV). Right edge ~5e-13 eV (dataset II upper reach 4e-13 eV; points beyond trimmed). DM density assumed rho_a=rho_DM=0.4 GeV/cm^3 (not rescaled). Extracted by pixel-tracing a raster render of the vector figure; axis calibrated from vector text tick positions.",
+ "num_points": 41,
+ "arxiv_id": "1907.03767",
+ "elapsed_s": 563.2692410945892,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 35,
+  "duration_ms": 562902,
+  "duration_api_ms": 556750,
+  "total_cost_usd": 2.4007119999999995,
+  "usage": {
+   "input_tokens": 907,
+   "output_tokens": 37381,
+   "cache_creation_input_tokens": 75756,
+   "cache_read_input_tokens": 1408184
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1907.03767.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:33:27-0500"
+ }
+}

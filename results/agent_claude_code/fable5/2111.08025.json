@@ -1,0 +1,327 @@
+{
+ "paper_title": "Strong constraints on decay and annihilation of dark matter from heating of gas-rich dwarf galaxies",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   27.209,
+   1e-09
+  ],
+  [
+   27.211,
+   5.6024e-12
+  ],
+  [
+   27.3,
+   4.9133e-12
+  ],
+  [
+   27.846,
+   6.8234e-13
+  ],
+  [
+   28.493,
+   4.7057e-13
+  ],
+  [
+   29.293,
+   3.6208e-13
+  ],
+  [
+   31.432,
+   2.3639e-13
+  ],
+  [
+   33.726,
+   1.772e-13
+  ],
+  [
+   36.189,
+   1.4066e-13
+  ],
+  [
+   38.831,
+   1.1523e-13
+  ],
+  [
+   41.666,
+   9.6277e-14
+  ],
+  [
+   44.707,
+   8.1654e-14
+  ],
+  [
+   47.971,
+   7.2357e-14
+  ],
+  [
+   51.474,
+   6.8792e-14
+  ],
+  [
+   55.231,
+   6.1149e-14
+  ],
+  [
+   59.264,
+   5.4468e-14
+  ],
+  [
+   63.59,
+   4.8592e-14
+  ],
+  [
+   68.233,
+   4.3412e-14
+  ],
+  [
+   73.214,
+   3.8822e-14
+  ],
+  [
+   78.559,
+   3.4758e-14
+  ],
+  [
+   84.295,
+   3.1145e-14
+  ],
+  [
+   90.449,
+   2.7934e-14
+  ],
+  [
+   97.052,
+   2.5058e-14
+  ],
+  [
+   104.14,
+   2.2491e-14
+  ],
+  [
+   111.74,
+   2.02e-14
+  ],
+  [
+   119.9,
+   1.8149e-14
+  ],
+  [
+   128.65,
+   1.6319e-14
+  ],
+  [
+   138.04,
+   1.4662e-14
+  ],
+  [
+   148.12,
+   1.3184e-14
+  ],
+  [
+   158.94,
+   1.1858e-14
+  ],
+  [
+   170.54,
+   1.0667e-14
+  ],
+  [
+   182.99,
+   9.5978e-15
+  ],
+  [
+   196.35,
+   8.642e-15
+  ],
+  [
+   210.68,
+   7.789e-15
+  ],
+  [
+   226.07,
+   7.0354e-15
+  ],
+  [
+   242.57,
+   6.3802e-15
+  ],
+  [
+   260.28,
+   5.82e-15
+  ],
+  [
+   279.28,
+   5.351e-15
+  ],
+  [
+   299.67,
+   4.9666e-15
+  ],
+  [
+   321.55,
+   4.6564e-15
+  ],
+  [
+   345.02,
+   4.3963e-15
+  ],
+  [
+   370.21,
+   4.1847e-15
+  ],
+  [
+   397.24,
+   4.0187e-15
+  ],
+  [
+   426.24,
+   3.8856e-15
+  ],
+  [
+   457.36,
+   3.7792e-15
+  ],
+  [
+   490.75,
+   3.6932e-15
+  ],
+  [
+   526.58,
+   3.637e-15
+  ],
+  [
+   565.02,
+   3.6138e-15
+  ],
+  [
+   606.27,
+   3.5818e-15
+  ],
+  [
+   650.53,
+   3.5631e-15
+  ],
+  [
+   698.03,
+   3.5531e-15
+  ],
+  [
+   748.99,
+   3.548e-15
+  ],
+  [
+   803.67,
+   3.5521e-15
+  ],
+  [
+   862.34,
+   3.5628e-15
+  ],
+  [
+   925.3,
+   3.5774e-15
+  ],
+  [
+   992.85,
+   3.5931e-15
+  ],
+  [
+   1065.3,
+   3.6103e-15
+  ],
+  [
+   1143.1,
+   3.6317e-15
+  ],
+  [
+   1226.6,
+   3.6549e-15
+  ],
+  [
+   1316.1,
+   3.6873e-15
+  ],
+  [
+   1412.2,
+   3.7176e-15
+  ],
+  [
+   1515.3,
+   3.7408e-15
+  ],
+  [
+   1625.9,
+   3.7721e-15
+  ],
+  [
+   1744.6,
+   3.8023e-15
+  ],
+  [
+   1872.0,
+   3.8268e-15
+  ],
+  [
+   2008.7,
+   3.852e-15
+  ],
+  [
+   2155.3,
+   3.8817e-15
+  ],
+  [
+   2312.7,
+   3.9128e-15
+  ],
+  [
+   2481.5,
+   3.9424e-15
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "LeoT_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline curve: solid black 'Leo T gas temp.' bound on ALP DM decaying a->gamma gamma in Fig. 4 (figures/Axion.pdf in the e-print), for the fiducial Tgas=6100 K; the dashed 2-sigma-conservative Tgas=7552 K variant and the blue MW gas cloud G33.4-8.0 curve were not used. Curve traced from the vector PDF; axes calibrated with the figure's own major tick marks. Cross-checked for consistency: g(m) converted to a lifetime via Gamma = g^2 m^3/(64 pi) (Eq. 12) reproduces the Fig. 3 chi->gamma gamma Leo T lifetime curve to ~3% (tau=2.3e26 s at 100 eV, 1.0e25 s at 1 keV). Limit assumes ALPs are all of the DM in Leo T's halo (Burkert profile of Faerman et al. fitted to 21cm data), so it does not depend on the local Milky Way DM density and no density rescaling is applied. The paper sets the bound by requiring DM heating not exceed the gas cooling rate (a conservative criterion, no formal statistical CL stated; confidence_level 0.95 is nominal). Curve reported over the plotted range ~27.2 eV (2x13.6 eV ionization threshold) to 2.5 keV; limit is strongest, ~3.5e-15 GeV^-1, near 500-1000 eV.",
+ "num_points": 69,
+ "arxiv_id": "2111.08025",
+ "elapsed_s": 275.8566851615906,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 26,
+  "duration_ms": 275489,
+  "duration_api_ms": 271467,
+  "total_cost_usd": 2.781522,
+  "usage": {
+   "input_tokens": 787,
+   "output_tokens": 20627,
+   "cache_creation_input_tokens": 53084,
+   "cache_read_input_tokens": 1026552
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2111.08025.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:04:16-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

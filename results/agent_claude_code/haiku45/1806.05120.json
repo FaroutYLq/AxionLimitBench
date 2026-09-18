@@ -1,0 +1,154 @@
+{
+ "paper_title": "First results from a hidden photon dark matter search in the meV sector using a plane-parabolic mirror system",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.67,
+   3.5e-08
+  ],
+  [
+   0.68,
+   3.5e-08
+  ],
+  [
+   0.69,
+   3.5e-08
+  ],
+  [
+   0.7,
+   4e-08
+  ],
+  [
+   0.71,
+   4e-08
+  ],
+  [
+   0.72,
+   3.2e-08
+  ],
+  [
+   0.73,
+   3.2e-08
+  ],
+  [
+   0.74,
+   2.8e-08
+  ],
+  [
+   0.75,
+   2.8e-08
+  ],
+  [
+   0.76,
+   3.8e-08
+  ],
+  [
+   0.77,
+   3.8e-08
+  ],
+  [
+   0.78,
+   4.5e-08
+  ],
+  [
+   0.79,
+   4.5e-08
+  ],
+  [
+   0.8,
+   3.5e-08
+  ],
+  [
+   0.81,
+   3.5e-08
+  ],
+  [
+   0.82,
+   3e-08
+  ],
+  [
+   0.83,
+   3e-08
+  ],
+  [
+   0.84,
+   3.5e-08
+  ],
+  [
+   0.85,
+   3.5e-08
+  ],
+  [
+   0.86,
+   4e-08
+  ],
+  [
+   0.87,
+   4e-08
+  ],
+  [
+   0.88,
+   3.5e-08
+  ],
+  [
+   0.89,
+   3.5e-08
+  ],
+  [
+   0.9,
+   4.2e-08
+  ],
+  [
+   0.91,
+   4.2e-08
+  ],
+  [
+   0.92,
+   4.2e-08
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "IAXO-Dish_2018",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Limits obtained from Figure 5 (left panel) showing virialized four-bin analysis at 90% confidence level. The stepped structure reflects differences in conversion loss among sub-regions spanning the SBD input frequency range (18-27 GHz, corresponding to 0.67-0.92 meV). Data extracted from raster image with moderate confidence due to stepped histogram pattern. The overall limit is \u03c7 \u2265 10^-8 as stated in the paper abstract and conclusion.",
+ "num_points": 26,
+ "arxiv_id": "1806.05120",
+ "elapsed_s": 311.127290725708,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 46,
+  "duration_ms": 306961,
+  "duration_api_ms": 280519,
+  "total_cost_usd": 0.4995566,
+  "usage": {
+   "input_tokens": 342,
+   "output_tokens": 25365,
+   "cache_creation_input_tokens": 77421,
+   "cache_read_input_tokens": 2175476
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1806.05120.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:40:09-0500"
+ }
+}

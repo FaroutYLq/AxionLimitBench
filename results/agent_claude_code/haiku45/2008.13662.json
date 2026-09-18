@@ -1,0 +1,186 @@
+{
+ "paper_title": "Testing the ALP-photon coupling with polarization measurements of Sagittarius A*",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   6.595824674041678e-20,
+   5.388012212525985e-14
+  ],
+  [
+   7.286723659775873e-20,
+   3.8410012141295314e-14
+  ],
+  [
+   8.19942360553809e-20,
+   1.8990508131471227e-14
+  ],
+  [
+   8.818070718711947e-20,
+   7.20895542929352e-15
+  ],
+  [
+   9.817245783556029e-20,
+   6.245332363330511e-15
+  ],
+  [
+   1.091123109796301e-19,
+   9.120108393559078e-15
+  ],
+  [
+   1.1996920127591743e-19,
+   6.918309709189391e-15
+  ],
+  [
+   1.328650798028486e-19,
+   5.042741043131759e-15
+  ],
+  [
+   1.4525337958949267e-19,
+   3.678868680647905e-15
+  ],
+  [
+   2.7533860620386486e-19,
+   3.4902548789595794e-15
+  ],
+  [
+   2.9813887245293374e-19,
+   4.786300923226361e-15
+  ],
+  [
+   3.280358341677364e-19,
+   7.270067807853799e-15
+  ],
+  [
+   3.597434078095364e-19,
+   9.824437458374289e-15
+  ],
+  [
+   3.995309128868359e-19,
+   1.3031667784523e-14
+  ],
+  [
+   4.431100782683902e-19,
+   1.4044296835779503e-14
+  ],
+  [
+   4.900411587662936e-19,
+   1.0864256236170689e-14
+  ],
+  [
+   5.449946087913114e-19,
+   5.619914776406445e-15
+  ],
+  [
+   5.980592144385101e-19,
+   3.860705432153823e-15
+  ],
+  [
+   6.538887657714324e-19,
+   5.495408738576271e-15
+  ],
+  [
+   7.345176140818051e-19,
+   1.0402622941919238e-14
+  ],
+  [
+   8.079780770280379e-19,
+   1.698243652461732e-14
+  ],
+  [
+   9.010080728155046e-19,
+   1.7271630300000043e-14
+  ],
+  [
+   9.747150104877003e-19,
+   9.841096224012655e-15
+  ],
+  [
+   1.1102947407406344e-18,
+   8.709635899560796e-15
+  ],
+  [
+   1.2039824461697486e-18,
+   1.1177208010584467e-14
+  ],
+  [
+   1.3377972326003274e-18,
+   7.193769558483964e-15
+  ],
+  [
+   1.471633421199856e-18,
+   4.2733575421093156e-15
+  ],
+  [
+   1.651821488229618e-18,
+   6.5235314223204496e-15
+  ],
+  [
+   1.776693048402193e-18,
+   1.2766169490574063e-14
+  ],
+  [
+   1.998826938198584e-18,
+   1.262150405365558e-14
+  ],
+  [
+   2.2079224838930583e-18,
+   1.5754016803081516e-14
+  ],
+  [
+   2.4125076219022538e-18,
+   2.2908676527677606e-14
+  ],
+  [
+   2.7208514421709914e-18,
+   2.5387233917519842e-14
+  ],
+  [
+   3.0038235552741403e-18,
+   2.2335722228305326e-14
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "SgrA*_EHT_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% CL upper limits extracted from Figure 1 (red curve) showing Sgr A* constraints on ALP-photon coupling from Event Horizon Telescope polarimetry. Data spans m_a \u2248 6e-20 to 3e-18 eV. Figure shows discontinuous jumps due to degeneracy between coupling and background parameter (as noted in text), particularly visible around m_a \u2248 10^-18.8 eV.",
+ "num_points": 34,
+ "arxiv_id": "2008.13662",
+ "elapsed_s": 171.44188976287842,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 170737,
+  "duration_api_ms": 160309,
+  "total_cost_usd": 0.2873454,
+  "usage": {
+   "input_tokens": 162,
+   "output_tokens": 20748,
+   "cache_creation_input_tokens": 54352,
+   "cache_read_input_tokens": 747394
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.13662.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:33:20-0500"
+ }
+}

@@ -1,0 +1,230 @@
+{
+ "paper_title": "Constraints on axion-like dark matter from a SERF comagnetometer",
+ "coupling_type": "AxionProton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.457898e-12,
+   6.107e-05
+  ],
+  [
+   1.629589e-12,
+   5.384e-05
+  ],
+  [
+   1.821499e-12,
+   4.725e-05
+  ],
+  [
+   2.03601e-12,
+   4.075e-05
+  ],
+  [
+   2.275782e-12,
+   3.45e-05
+  ],
+  [
+   2.543791e-12,
+   3.252e-05
+  ],
+  [
+   2.843363e-12,
+   2.751e-05
+  ],
+  [
+   3.178214e-12,
+   2.531e-05
+  ],
+  [
+   3.5525e-12,
+   2.175e-05
+  ],
+  [
+   3.970863e-12,
+   2.198e-05
+  ],
+  [
+   4.438495e-12,
+   2.142e-05
+  ],
+  [
+   4.961198e-12,
+   1.672e-05
+  ],
+  [
+   5.545458e-12,
+   1.335e-05
+  ],
+  [
+   6.198524e-12,
+   1.167e-05
+  ],
+  [
+   6.928498e-12,
+   1.077e-05
+  ],
+  [
+   7.744439e-12,
+   1.038e-05
+  ],
+  [
+   8.656469e-12,
+   1.011e-05
+  ],
+  [
+   9.675906e-12,
+   1.352e-05
+  ],
+  [
+   1.0815397e-11,
+   1.352e-05
+  ],
+  [
+   1.2089082e-11,
+   1.316e-05
+  ],
+  [
+   1.3512763e-11,
+   1.221e-05
+  ],
+  [
+   1.5104106e-11,
+   1.327e-05
+  ],
+  [
+   1.6882854e-11,
+   1.476e-05
+  ],
+  [
+   1.8871078e-11,
+   1.786e-05
+  ],
+  [
+   2.1093447e-11,
+   1.652e-05
+  ],
+  [
+   2.3577535e-11,
+   1.776e-05
+  ],
+  [
+   2.6354164e-11,
+   1.811e-05
+  ],
+  [
+   2.9457785e-11,
+   2.106e-05
+  ],
+  [
+   3.2926907e-11,
+   2.124e-05
+  ],
+  [
+   3.6804573e-11,
+   1.817e-05
+  ],
+  [
+   4.1138895e-11,
+   1.902e-05
+  ],
+  [
+   4.5983653e-11,
+   2.023e-05
+  ],
+  [
+   5.1398958e-11,
+   1.978e-05
+  ],
+  [
+   5.7452001e-11,
+   2.065e-05
+  ],
+  [
+   6.4217886e-11,
+   2.094e-05
+  ],
+  [
+   7.1780561e-11,
+   2.077e-05
+  ],
+  [
+   8.0233861e-11,
+   2.32e-05
+  ],
+  [
+   8.9682672e-11,
+   2.132e-05
+  ],
+  [
+   1.0024423e-10,
+   2.151e-05
+  ],
+  [
+   1.12049579e-10,
+   2.19e-05
+  ],
+  [
+   1.25245195e-10,
+   2.601e-05
+  ],
+  [
+   1.39994805e-10,
+   2.138e-05
+  ],
+  [
+   1.56481415e-10,
+   2.522e-05
+  ],
+  [
+   1.74909585e-10,
+   3.637e-05
+  ],
+  [
+   1.95507965e-10,
+   8.934e-05
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "NASDUCK-SERF_2022",
+ "coupling_convention": "g_ap (dimensionless)",
+ "notes": "NASDUCK-SERF (K/3He SERF comagnetometer). Headline result: first terrestrial ALP-proton DM bound (abstract emphasizes protons). Traced the grey geometric-mean line of the ALP-proton panel (protons.pdf, Fig 2 right), which the paper presents as the representative limit (median-in-bin of the vector polyline idx 83). Paper plots g_aPP in GeV^-1 for the gradient/derivative coupling H=g_aPP grad(a).spin; converted to canonical dimensionless g_ap via the 2m_N rule g_ap=2 m_p g_aPP (m_p=0.9383 GeV). Native mean line ranges ~5.4e-6 to ~3e-5 GeV^-1, consistent with abstract statement about partially closing 5e-6 to 2e-5 GeV^-1. Axes calibrated from tick labels (x:103.3px/decade, m 1.4e-12 to 2e-10 eV; y:35.5px/decade). Paper also bounds ALP-neutron (g_aNN, neutrons.pdf) but presents protons as the main novel result. dm_density not stated in main text/e-print; 0.4 GeV/cm^3 assumed per NASDUCK convention. Data also tabulated as .pkl in external GitHub (Ref 57), not used. CL=95%.",
+ "num_points": 45,
+ "arxiv_id": "2209.13588",
+ "elapsed_s": 152.6808021068573,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 152374,
+  "duration_api_ms": 149314,
+  "total_cost_usd": 0.916655,
+  "usage": {
+   "input_tokens": 599,
+   "output_tokens": 10075,
+   "cache_creation_input_tokens": 36052,
+   "cache_read_input_tokens": 602530
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2209.13588.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:43:07-0500"
+ }
+}

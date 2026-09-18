@@ -1,0 +1,186 @@
+{
+ "paper_title": "Laboratory Constraints on the Neutron-Spin Coupling of feV-scale Axions",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.135e-17,
+   1.8779999999999998e-06
+  ],
+  [
+   8.27e-17,
+   9.389999999999999e-07
+  ],
+  [
+   1.2405000000000001e-16,
+   5.634e-07
+  ],
+  [
+   2.0675000000000003e-16,
+   2.817e-07
+  ],
+  [
+   3.308e-16,
+   1.8779999999999997e-07
+  ],
+  [
+   4.1350000000000006e-16,
+   1.5024e-07
+  ],
+  [
+   4.962000000000001e-16,
+   1.1267999999999999e-07
+  ],
+  [
+   6.202500000000001e-16,
+   9.389999999999999e-08
+  ],
+  [
+   7.443e-16,
+   7.512e-08
+  ],
+  [
+   8.270000000000001e-16,
+   6.573000000000001e-08
+  ],
+  [
+   9.097000000000002e-16,
+   6.0096e-08
+  ],
+  [
+   1.03375e-15,
+   5.6339999999999994e-08
+  ],
+  [
+   1.1578000000000002e-15,
+   5.2583999999999996e-08
+  ],
+  [
+   1.2405000000000001e-15,
+   4.8828e-08
+  ],
+  [
+   1.3232e-15,
+   4.5071999999999995e-08
+  ],
+  [
+   1.3645500000000003e-15,
+   2.8169999999999997e-08
+  ],
+  [
+   1.44725e-15,
+   9.39e-09
+  ],
+  [
+   1.4886e-15,
+   4.5071999999999997e-10
+  ],
+  [
+   1.5299500000000001e-15,
+   1.5024e-08
+  ],
+  [
+   1.5713000000000001e-15,
+   2.8169999999999997e-08
+  ],
+  [
+   1.6540000000000003e-15,
+   4.1316e-08
+  ],
+  [
+   1.86075e-15,
+   5.2583999999999996e-08
+  ],
+  [
+   2.0675e-15,
+   6.573000000000001e-08
+  ],
+  [
+   2.4810000000000003e-15,
+   9.389999999999999e-08
+  ],
+  [
+   2.8945e-15,
+   1.2206999999999998e-07
+  ],
+  [
+   3.3080000000000005e-15,
+   1.5024e-07
+  ],
+  [
+   3.7215e-15,
+   1.8779999999999997e-07
+  ],
+  [
+   4.135e-15,
+   2.2535999999999997e-07
+  ],
+  [
+   4.9620000000000006e-15,
+   2.817e-07
+  ],
+  [
+   6.202500000000001e-15,
+   3.7559999999999995e-07
+  ],
+  [
+   8.27e-15,
+   5.258400000000001e-07
+  ],
+  [
+   1.2405000000000002e-14,
+   7.511999999999999e-07
+  ],
+  [
+   2.0675e-14,
+   1.3145999999999999e-06
+  ],
+  [
+   4.135e-14,
+   2.817e-06
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "CoMagnetometer_2022",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "95% upper limit extracted from Figure 5. Frequency-domain likelihood analysis of K-3He co-magnetometer data. Conversion to canonical g_an via 2m_N rule: g_an = 2 \u00d7 0.939 GeV \u00d7 g_aNa. Mass conversion: m_a(eV) = f(Hz) \u00d7 4.135e-15. Median limit of 2.4\u00d710^-10 GeV^-1 at 0.36 Hz corresponds to ~1.49 feV, consistent with stated range of 0.4-4 feV. Visual extraction from raster figure with \u00b130% uncertainty typical for such digitization.",
+ "num_points": 34,
+ "arxiv_id": "2209.03289",
+ "elapsed_s": 194.54278206825256,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 194206,
+  "duration_api_ms": 187068,
+  "total_cost_usd": 0.2889787999999999,
+  "usage": {
+   "input_tokens": 138,
+   "output_tokens": 16856,
+   "cache_creation_input_tokens": 63692,
+   "cache_read_input_tokens": 771768
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2209.03289.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:47:36-0500"
+ }
+}

@@ -1,0 +1,439 @@
+{
+ "paper_title": "Robust bounds on ALP dark matter from dwarf spheroidal galaxies in the optical MUSE-Faint survey",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.6633,
+   7.3491e-13
+  ],
+  [
+   2.68957,
+   1.9769e-12
+  ],
+  [
+   2.71584,
+   1.9666e-12
+  ],
+  [
+   2.74211,
+   1.5798e-12
+  ],
+  [
+   2.76838,
+   3.9023e-13
+  ],
+  [
+   2.79464,
+   3.1857e-13
+  ],
+  [
+   2.82091,
+   5.4303e-13
+  ],
+  [
+   2.84718,
+   1.1612e-12
+  ],
+  [
+   2.87345,
+   9.3623e-13
+  ],
+  [
+   2.89972,
+   1.95e-12
+  ],
+  [
+   2.92599,
+   1.1404e-12
+  ],
+  [
+   2.95225,
+   3.5473e-13
+  ],
+  [
+   2.97852,
+   5.2655e-13
+  ],
+  [
+   3.00479,
+   1.1355e-12
+  ],
+  [
+   3.03106,
+   1.2392e-12
+  ],
+  [
+   3.05733,
+   1.1843e-12
+  ],
+  [
+   3.0836,
+   6.7604e-13
+  ],
+  [
+   3.10986,
+   2.8421e-13
+  ],
+  [
+   3.13613,
+   3.1564e-13
+  ],
+  [
+   3.1624,
+   2.7087e-13
+  ],
+  [
+   3.18867,
+   2.6466e-13
+  ],
+  [
+   3.21494,
+   3.2721e-13
+  ],
+  [
+   3.24121,
+   6.0089e-13
+  ],
+  [
+   3.26747,
+   6.267e-13
+  ],
+  [
+   3.29374,
+   6.0231e-13
+  ],
+  [
+   3.32001,
+   3.6184e-13
+  ],
+  [
+   3.34628,
+   4.0246e-13
+  ],
+  [
+   3.37255,
+   2.491e-13
+  ],
+  [
+   3.39882,
+   2.4319e-13
+  ],
+  [
+   3.42508,
+   3.3978e-13
+  ],
+  [
+   3.45135,
+   5.0164e-13
+  ],
+  [
+   3.47762,
+   5.6542e-13
+  ],
+  [
+   3.50389,
+   5.292e-13
+  ],
+  [
+   3.53016,
+   5.1308e-13
+  ],
+  [
+   3.55643,
+   5.7873e-13
+  ],
+  [
+   3.58269,
+   3.5038e-13
+  ],
+  [
+   3.60896,
+   4.2429e-13
+  ],
+  [
+   3.63523,
+   3.488e-13
+  ],
+  [
+   3.6615,
+   7.0156e-13
+  ],
+  [
+   3.68777,
+   9.7754e-13
+  ],
+  [
+   3.71404,
+   6.1581e-13
+  ],
+  [
+   3.7403,
+   5.3165e-13
+  ],
+  [
+   3.76657,
+   4.7832e-13
+  ],
+  [
+   3.79284,
+   4.2023e-13
+  ],
+  [
+   3.81911,
+   3.16e-13
+  ],
+  [
+   3.84538,
+   4.9091e-13
+  ],
+  [
+   3.87165,
+   5.4035e-13
+  ],
+  [
+   3.89791,
+   3.0407e-13
+  ],
+  [
+   3.92418,
+   3.4827e-13
+  ],
+  [
+   3.95045,
+   3.0581e-13
+  ],
+  [
+   3.97672,
+   2.7229e-13
+  ],
+  [
+   4.00299,
+   4.7493e-13
+  ],
+  [
+   4.02926,
+   4.8486e-13
+  ],
+  [
+   4.05552,
+   6.0978e-13
+  ],
+  [
+   4.08179,
+   4.8581e-13
+  ],
+  [
+   4.10806,
+   4.9906e-13
+  ],
+  [
+   4.13433,
+   4.0586e-13
+  ],
+  [
+   4.1606,
+   7.8275e-13
+  ],
+  [
+   4.26567,
+   3.86e-13
+  ],
+  [
+   4.29194,
+   2.8943e-13
+  ],
+  [
+   4.31821,
+   3.2925e-13
+  ],
+  [
+   4.34448,
+   3.1073e-13
+  ],
+  [
+   4.37074,
+   2.5945e-13
+  ],
+  [
+   4.39701,
+   2.7156e-13
+  ],
+  [
+   4.42328,
+   2.6986e-13
+  ],
+  [
+   4.44955,
+   2.4618e-13
+  ],
+  [
+   4.47582,
+   2.6984e-13
+  ],
+  [
+   4.50209,
+   2.8409e-13
+  ],
+  [
+   4.52835,
+   2.9668e-13
+  ],
+  [
+   4.55462,
+   2.7877e-13
+  ],
+  [
+   4.58089,
+   3.249e-13
+  ],
+  [
+   4.60716,
+   2.6426e-13
+  ],
+  [
+   4.63343,
+   2.5665e-13
+  ],
+  [
+   4.6597,
+   2.8129e-13
+  ],
+  [
+   4.68596,
+   2.5234e-13
+  ],
+  [
+   4.71223,
+   3.8994e-13
+  ],
+  [
+   4.7385,
+   3.1026e-13
+  ],
+  [
+   4.76477,
+   3.0538e-13
+  ],
+  [
+   4.79104,
+   3.6978e-13
+  ],
+  [
+   4.81731,
+   2.8928e-13
+  ],
+  [
+   4.84357,
+   3.1409e-13
+  ],
+  [
+   4.86984,
+   2.3859e-13
+  ],
+  [
+   4.89611,
+   2.9649e-13
+  ],
+  [
+   4.92238,
+   2.7494e-13
+  ],
+  [
+   4.94865,
+   2.5473e-13
+  ],
+  [
+   4.97492,
+   2.8372e-13
+  ],
+  [
+   5.00118,
+   3.0374e-13
+  ],
+  [
+   5.02745,
+   2.8275e-13
+  ],
+  [
+   5.05372,
+   3.6087e-13
+  ],
+  [
+   5.07999,
+   3.0013e-13
+  ],
+  [
+   5.10626,
+   3.2539e-13
+  ],
+  [
+   5.13253,
+   2.5719e-13
+  ],
+  [
+   5.15879,
+   2.8695e-13
+  ],
+  [
+   5.18506,
+   2.9901e-13
+  ],
+  [
+   5.21133,
+   2.8972e-13
+  ],
+  [
+   5.2376,
+   3.4406e-13
+  ],
+  [
+   5.26387,
+   3.0989e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "MUSE_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% C.L. combined upper limit on g_agamma from the five-dwarf MUSE analysis assuming the NFW profile (paper's reference scenario), taken from the blue 'This work' curve in the left panel of the summary figure (Fig. 5, summary_compare.pdf). Coupling convention matches the canonical one: L = -(1/4) g_agamma a F Ftilde, decay rate Gamma = g^2 m^3/(64 pi) (Sec. 3). Curve extracted from vector paths of the e-print PDF, calibrated with tick marks, and downsampled from ~2400 vertices to ~100 points by median binning in log g; the plotted limit is highly jagged (channel-to-channel noise), so the binned curve tracks the local level of the fluctuating bound. Channels near ~4.2 eV (masked sky-line region) have no constraint (curve off scale); those bins are omitted. Limit derived from DM decay in dwarf spheroidals (density from Jeans analysis), so no local DM density assumption and no rescaling applied.",
+ "num_points": 97,
+ "arxiv_id": "2307.07403",
+ "elapsed_s": 156.9183428287506,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 156419,
+  "duration_api_ms": 152126,
+  "total_cost_usd": 1.3850485,
+  "usage": {
+   "input_tokens": 457,
+   "output_tokens": 11266,
+   "cache_creation_input_tokens": 31264,
+   "cache_read_input_tokens": 368006
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2307.07403.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:29:40-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

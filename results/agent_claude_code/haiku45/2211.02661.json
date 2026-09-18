@@ -1,0 +1,150 @@
+{
+ "paper_title": "White dwarfs as a probe of exceptionally light QCD axions",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0010363636363636358,
+   1.8181818181818172e-10
+  ],
+  [
+   0.0005661991977713634,
+   9.933319259146725e-11
+  ],
+  [
+   0.00030933305676546544,
+   5.4268957327274645e-11
+  ],
+  [
+   0.000168998720564252,
+   2.9648898344605614e-11
+  ],
+  [
+   9.232950351636225e-05,
+   1.61981585116425e-11
+  ],
+  [
+   5.044261395065974e-05,
+   8.849581394852585e-12
+  ],
+  [
+   2.755844237507856e-05,
+   4.834814451768169e-12
+  ],
+  [
+   1.5056074351804928e-05,
+   2.641416552948233e-12
+  ],
+  [
+   8.225623632926131e-06,
+   1.443091865425637e-12
+  ],
+  [
+   4.49392601082907e-06,
+   7.884080720752754e-13
+  ],
+  [
+   2.4551780985901962e-06,
+   4.30732999752666e-13
+  ],
+  [
+   1.3413437340248687e-06,
+   2.353234621096261e-13
+  ],
+  [
+   7.32819755047876e-07,
+   1.285648693066449e-13
+  ],
+  [
+   4.0036329224651575e-07,
+   7.023917407833609e-14
+  ],
+  [
+   2.1873150208402384e-07,
+   3.837394773403927e-14
+  ],
+  [
+   1.1950014132283302e-07,
+   2.096493707418123e-14
+  ],
+  [
+   6.528681804000719e-08,
+   1.1453827726317051e-14
+  ],
+  [
+   3.566831438528665e-08,
+   6.257599014962569e-15
+  ],
+  [
+   1.9486761482356753e-08,
+   3.418730084623992e-15
+  ],
+  [
+   1.064625227221016e-08,
+   1.8677635565280985e-15
+  ],
+  [
+   5.8163942503303905e-09,
+   1.0204200439176123e-15
+  ],
+  [
+   3.177685556407845e-09,
+   5.574886941066395e-16
+  ],
+  [
+   1.7360730825338218e-09,
+   3.0457422500593363e-16
+  ],
+  [
+   9.484732502310693e-10,
+   1.6639881583001217e-16
+  ],
+  [
+   5.181818181818178e-10,
+   9.090909090909085e-17
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "WhiteDwarf_2024",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Exclusion bounds on axion decay constant f_a derived from white dwarf mass-radius relation constraints. Equation (17): 5.5 \u00d7 10^9 < f/GeV < 1.1 \u00d7 10^16 (95% CL). Data points follow the QCD axion relation m_a = 5.7 \u03bceV \u00d7 (10^12 GeV / f_a), with the diagonal curve representing the excluded parameter space in the (m_a, 1/f_a) plane.",
+ "num_points": 25,
+ "arxiv_id": "2211.02661",
+ "elapsed_s": 181.31683611869812,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 180984,
+  "duration_api_ms": 175071,
+  "total_cost_usd": 0.28444840000000005,
+  "usage": {
+   "input_tokens": 156,
+   "output_tokens": 20208,
+   "cache_creation_input_tokens": 56525,
+   "cache_read_input_tokens": 702024
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2211.02661.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:56:03-0500"
+ }
+}

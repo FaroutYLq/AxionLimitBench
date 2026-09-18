@@ -1,0 +1,330 @@
+{
+ "paper_title": "Constraints on the Coupling between Axionlike Dark Matter and Photons Using an Antiproton Superconducting Tuned Detection Circuit in a Cryogenic Penning Trap",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.790572e-09,
+   1.5116e-11
+  ],
+  [
+   2.790585e-09,
+   1.175e-11
+  ],
+  [
+   2.790598e-09,
+   1.558e-11
+  ],
+  [
+   2.790611e-09,
+   1.106e-11
+  ],
+  [
+   2.790624e-09,
+   9.8997e-12
+  ],
+  [
+   2.790637e-09,
+   1.14e-11
+  ],
+  [
+   2.790651e-09,
+   1.1172e-11
+  ],
+  [
+   2.790664e-09,
+   1.1632e-11
+  ],
+  [
+   2.790677e-09,
+   1.175e-11
+  ],
+  [
+   2.79069e-09,
+   1.0307e-11
+  ],
+  [
+   2.790703e-09,
+   9.8997e-12
+  ],
+  [
+   2.790717e-09,
+   8.1747e-12
+  ],
+  [
+   2.79073e-09,
+   8.3411e-12
+  ],
+  [
+   2.790743e-09,
+   7.9313e-12
+  ],
+  [
+   2.790756e-09,
+   8.7722e-12
+  ],
+  [
+   2.790769e-09,
+   9.0414e-12
+  ],
+  [
+   2.790783e-09,
+   9.2255e-12
+  ],
+  [
+   2.790796e-09,
+   1.0204e-11
+  ],
+  [
+   2.790808e-09,
+   8.9508e-12
+  ],
+  [
+   2.790821e-09,
+   9.4133e-12
+  ],
+  [
+   2.790834e-09,
+   9.3189e-12
+  ],
+  [
+   2.790847e-09,
+   1.0307e-11
+  ],
+  [
+   2.790861e-09,
+   1.2233e-11
+  ],
+  [
+   2.790874e-09,
+   1e-11
+  ],
+  [
+   2.790887e-09,
+   1.2736e-11
+  ],
+  [
+   2.7909e-09,
+   1.0101e-11
+  ],
+  [
+   2.790913e-09,
+   1.1515e-11
+  ],
+  [
+   2.790927e-09,
+   9.8005e-12
+  ],
+  [
+   2.79094e-09,
+   1.1515e-11
+  ],
+  [
+   2.790953e-09,
+   1.1515e-11
+  ],
+  [
+   2.790966e-09,
+   1.0517e-11
+  ],
+  [
+   2.790979e-09,
+   1.2482e-11
+  ],
+  [
+   2.790993e-09,
+   1.175e-11
+  ],
+  [
+   2.791006e-09,
+   1.1285e-11
+  ],
+  [
+   2.791019e-09,
+   1.1632e-11
+  ],
+  [
+   2.791032e-09,
+   9.7022e-12
+  ],
+  [
+   2.791045e-09,
+   9.0414e-12
+  ],
+  [
+   2.791058e-09,
+   9.7022e-12
+  ],
+  [
+   2.791072e-09,
+   6.5493e-12
+  ],
+  [
+   2.791085e-09,
+   7.466e-12
+  ],
+  [
+   2.791098e-09,
+   8.9508e-12
+  ],
+  [
+   2.791111e-09,
+   9.6049e-12
+  ],
+  [
+   2.791124e-09,
+   1.2608e-11
+  ],
+  [
+   2.791138e-09,
+   1.0204e-11
+  ],
+  [
+   2.791151e-09,
+   1.0517e-11
+  ],
+  [
+   2.791164e-09,
+   9.2255e-12
+  ],
+  [
+   2.791177e-09,
+   1.0623e-11
+  ],
+  [
+   2.79119e-09,
+   9.0414e-12
+  ],
+  [
+   2.791203e-09,
+   8.9508e-12
+  ],
+  [
+   2.791216e-09,
+   7.8518e-12
+  ],
+  [
+   2.791229e-09,
+   7.3911e-12
+  ],
+  [
+   2.791242e-09,
+   7.0991e-12
+  ],
+  [
+   2.791255e-09,
+   7.171e-12
+  ],
+  [
+   2.791268e-09,
+   7.9313e-12
+  ],
+  [
+   2.791282e-09,
+   7.773e-12
+  ],
+  [
+   2.791295e-09,
+   7.8518e-12
+  ],
+  [
+   2.791308e-09,
+   8.3411e-12
+  ],
+  [
+   2.791321e-09,
+   8.4256e-12
+  ],
+  [
+   2.791334e-09,
+   1.1172e-11
+  ],
+  [
+   2.791348e-09,
+   1.3394e-11
+  ],
+  [
+   2.791361e-09,
+   1.1515e-11
+  ],
+  [
+   2.791374e-09,
+   1.175e-11
+  ],
+  [
+   2.791387e-09,
+   1.2233e-11
+  ],
+  [
+   2.7914e-09,
+   1.211e-11
+  ],
+  [
+   2.791414e-09,
+   9.3189e-12
+  ],
+  [
+   2.791427e-09,
+   1.5116e-11
+  ],
+  [
+   2.79144e-09,
+   1.5116e-11
+  ],
+  [
+   2.791453e-09,
+   1.8678e-11
+  ],
+  [
+   2.791466e-09,
+   1.5116e-11
+  ],
+  [
+   2.79148e-09,
+   1.5269e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.78,
+ "suggested_experiment_name": "BASE_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline limit from Fig. 3(a): 95% CL (power-constrained) exclusion on g_agamma from the BASE cryogenic Penning-trap analysis-trap LC detector, over the narrow ALP mass band 2.7906-2.7914 neV/c^2 (2.79e-9 eV). Abstract quotes g_agamma < 1e-11 GeV^-1; the jagged observed limit oscillates between ~6.5e-12 and ~1.9e-11 with median ~1e-11 (per-FFT-bin statistical fluctuations). Curve traced from the lower boundary of the dark-blue BASE region by pixel analysis of the raster figure (no vector data or ancillary files in e-print; e-print is PDF-only). y-axis calibrated on the 10^-9 and 10^-12 major ticks (log), x-axis on the labeled mass ticks (linear). Local DM density rho_a=0.4 GeV/cm^3 assumed (Eq. 7); not rescaled per task card. Coupling convention matches L=-g_agamma a E.B (Eq. 1).",
+ "num_points": 70,
+ "arxiv_id": "2101.11290",
+ "elapsed_s": 388.2819368839264,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 30,
+  "duration_ms": 387977,
+  "duration_api_ms": 378189,
+  "total_cost_usd": 1.4697275,
+  "usage": {
+   "input_tokens": 836,
+   "output_tokens": 24727,
+   "cache_creation_input_tokens": 44099,
+   "cache_read_input_tokens": 812765
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2101.11290.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:27:27-0500"
+ }
+}

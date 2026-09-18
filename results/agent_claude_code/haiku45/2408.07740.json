@@ -1,0 +1,49 @@
+{
+ "paper_title": "Constraining Light QCD Axions with Isolated Neutron Star Cooling",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 1.0,
+ "suggested_experiment_name": null,
+ "coupling_convention": null,
+ "notes": "This paper constrains the axion parameter space (f_a and \u03b5 in a non-standard QCD axion potential) using neutron star cooling observations, not a standard coupling. The excluded region shown in Fig. 5 depends on the specific model assumptions (potential form with parameter \u03b5 \u2264 0.1, mechanism of envelope thinning by sourced axion field). The constraint is on the combination (f_a, \u03b5) or equivalently (f_a, m_a), which does not correspond to any of the canonical particle physics couplings (g_a\u03b3\u03b3, g_ae, g_an, etc.) in the compilation. The work is a theoretical analysis using observational data rather than a direct coupling measurement.",
+ "num_points": 0,
+ "arxiv_id": "2408.07740",
+ "elapsed_s": 106.2278242111206,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 5,
+  "duration_ms": 105712,
+  "duration_api_ms": 104619,
+  "total_cost_usd": 0.1652839,
+  "usage": {
+   "input_tokens": 36,
+   "output_tokens": 12105,
+   "cache_creation_input_tokens": 46239,
+   "cache_read_input_tokens": 122449
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2408.07740.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:18:08-0500"
+ }
+}

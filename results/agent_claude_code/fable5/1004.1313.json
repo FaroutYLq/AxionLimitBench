@@ -1,0 +1,251 @@
+{
+ "paper_title": "New ALPS Results on Hidden-Sector Lightweights",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.00010009,
+   6.4996e-08
+  ],
+  [
+   0.00026037,
+   6.5179e-08
+  ],
+  [
+   0.00042386,
+   6.6858e-08
+  ],
+  [
+   0.00057718,
+   7.1954e-08
+  ],
+  [
+   0.00070296,
+   8.194e-08
+  ],
+  [
+   0.0007686,
+   9.1227e-08
+  ],
+  [
+   0.00083415,
+   1.0566e-07
+  ],
+  [
+   0.00093959,
+   1.517e-07
+  ],
+  [
+   0.0010273,
+   2.5512e-07
+  ],
+  [
+   0.0010903,
+   4.9696e-07
+  ],
+  [
+   0.0011658,
+   4.4385e-07
+  ],
+  [
+   0.00121,
+   4.5144e-07
+  ],
+  [
+   0.0012512,
+   4.8585e-07
+  ],
+  [
+   0.0013181,
+   3.3367e-07
+  ],
+  [
+   0.001363,
+   3.0311e-07
+  ],
+  [
+   0.0014094,
+   3.0225e-07
+  ],
+  [
+   0.0014628,
+   3.3841e-07
+  ],
+  [
+   0.0015126,
+   4.2906e-07
+  ],
+  [
+   0.0015875,
+   9.0457e-07
+  ],
+  [
+   0.0016477,
+   7.5708e-07
+  ],
+  [
+   0.0016724,
+   7.5281e-07
+  ],
+  [
+   0.0017165,
+   8.0336e-07
+  ],
+  [
+   0.0017684,
+   5.5957e-07
+  ],
+  [
+   0.0018286,
+   5.0832e-07
+  ],
+  [
+   0.001905,
+   6.7427e-07
+  ],
+  [
+   0.0019625,
+   1.3397e-06
+  ],
+  [
+   0.0020143,
+   1.0717e-06
+  ],
+  [
+   0.0020445,
+   1.0626e-06
+  ],
+  [
+   0.0020751,
+   1.1244e-06
+  ],
+  [
+   0.0021618,
+   7.1347e-07
+  ],
+  [
+   0.0022271,
+   8.9947e-07
+  ],
+  [
+   0.0022774,
+   1.7571e-06
+  ],
+  [
+   0.0023288,
+   1.3742e-06
+  ],
+  [
+   0.0023725,
+   1.4377e-06
+  ],
+  [
+   0.0023813,
+   1.4016e-06
+  ],
+  [
+   0.0024532,
+   9.2003e-07
+  ],
+  [
+   0.0025748,
+   1.8856e-06
+  ],
+  [
+   0.0026037,
+   1.6794e-06
+  ],
+  [
+   0.0026427,
+   1.767e-06
+  ],
+  [
+   0.0027225,
+   1.1276e-06
+  ],
+  [
+   0.0028574,
+   1.9728e-06
+  ],
+  [
+   0.0029547,
+   1.3284e-06
+  ],
+  [
+   0.0030102,
+   1.8279e-06
+  ],
+  [
+   0.0031359,
+   1.8435e-06
+  ],
+  [
+   0.0031711,
+   1.5386e-06
+  ],
+  [
+   0.0032186,
+   1.9179e-06
+  ],
+  [
+   0.0033531,
+   1.9288e-06
+  ],
+  [
+   0.0033781,
+   1.7422e-06
+  ],
+  [
+   0.0034033,
+   1.854e-06
+  ],
+  [
+   0.0035853,
+   1.9728e-06
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "ALPS_2010",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ALPS light-shining-through-wall experiment (DESY, HERA dipole). Curve is the 95% C.L. pseudoscalar ALP limit g- from Fig. 4 (left panel), extracted from the vector fill regions of pics/alpminus.pdf in the e-print. Reported curve is the boundary of the union of the 'ALPS' (vacuum runs) and 'ALPS(gas)' (0.18 mbar Ar) excluded regions, i.e. the paper's total excluded region; the gas runs fill the coherence gaps of the vacuum data. Flat limit ~6.5e-8 GeV^-1 below ~5e-4 eV; figure range 1e-4 to ~3.6e-3 eV (limit continues flat to lower masses). Pseudoscalar coupling defined via L = -(g-/4) F Fdual phi, Eq. (1), identical to the canonical convention, so no conversion applied. Points at g~2e-6 near high-mass oscillation peaks are capped by the figure's top edge. Scalar ALP (g+, Fig. 4 right), hidden photon (Fig. 5) and minicharged particle (Fig. 6) limits also reported but pseudoscalar ALP limit taken as the main axion-photon result. Laboratory bound: no dark-matter density assumption.",
+ "num_points": 50,
+ "arxiv_id": "1004.1313",
+ "elapsed_s": 186.7963728904724,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.0",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 186272,
+  "duration_api_ms": 181902,
+  "total_cost_usd": 2.0975680000000008,
+  "usage": {
+   "input_tokens": 376,
+   "output_tokens": 13716,
+   "cache_creation_input_tokens": 47540,
+   "cache_read_input_tokens": 457208
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1004.1313.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:28:21-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

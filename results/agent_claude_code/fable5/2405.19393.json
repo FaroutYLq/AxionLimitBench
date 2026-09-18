@@ -1,0 +1,243 @@
+{
+ "paper_title": "Supernova axions convert to gamma-rays in magnetic fields of progenitor stars",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-12,
+   3.66e-12
+  ],
+  [
+   2.776e-11,
+   3.649e-12
+  ],
+  [
+   3.025e-11,
+   3.647e-12
+  ],
+  [
+   3.531e-11,
+   3.66e-12
+  ],
+  [
+   1.768e-10,
+   3.672e-12
+  ],
+  [
+   2.127e-10,
+   3.724e-12
+  ],
+  [
+   2.546e-10,
+   3.808e-12
+  ],
+  [
+   2.912e-10,
+   3.898e-12
+  ],
+  [
+   3.322e-10,
+   4.01e-12
+  ],
+  [
+   3.667e-10,
+   4.117e-12
+  ],
+  [
+   3.868e-10,
+   4.191e-12
+  ],
+  [
+   5.059e-10,
+   4.646e-12
+  ],
+  [
+   6.102e-10,
+   4.981e-12
+  ],
+  [
+   6.77e-10,
+   5.229e-12
+  ],
+  [
+   7.607e-10,
+   5.736e-12
+  ],
+  [
+   8.699e-10,
+   6.763e-12
+  ],
+  [
+   9.775e-10,
+   8.028e-12
+  ],
+  [
+   1.138e-09,
+   1.049e-11
+  ],
+  [
+   1.39e-09,
+   1.51e-11
+  ],
+  [
+   1.527e-09,
+   1.762e-11
+  ],
+  [
+   1.715e-09,
+   2.051e-11
+  ],
+  [
+   1.937e-09,
+   2.292e-11
+  ],
+  [
+   2.187e-09,
+   2.436e-11
+  ],
+  [
+   2.508e-09,
+   2.497e-11
+  ],
+  [
+   2.861e-09,
+   2.517e-11
+  ],
+  [
+   4.56e-09,
+   2.531e-11
+  ],
+  [
+   2.238e-07,
+   2.532e-11
+  ],
+  [
+   5.845e-06,
+   2.541e-11
+  ],
+  [
+   8.855e-06,
+   2.561e-11
+  ],
+  [
+   1.197e-05,
+   2.596e-11
+  ],
+  [
+   1.485e-05,
+   2.64e-11
+  ],
+  [
+   1.818e-05,
+   2.704e-11
+  ],
+  [
+   2.232e-05,
+   2.801e-11
+  ],
+  [
+   2.713e-05,
+   2.937e-11
+  ],
+  [
+   2.942e-05,
+   3.01e-11
+  ],
+  [
+   3.504e-05,
+   3.202e-11
+  ],
+  [
+   3.742e-05,
+   3.293e-11
+  ],
+  [
+   4.435e-05,
+   3.568e-11
+  ],
+  [
+   4.725e-05,
+   3.695e-11
+  ],
+  [
+   5.641e-05,
+   4.113e-11
+  ],
+  [
+   5.995e-05,
+   4.288e-11
+  ],
+  [
+   7.286e-05,
+   4.946e-11
+  ],
+  [
+   9.245e-05,
+   6.036e-11
+  ],
+  [
+   0.0001218,
+   7.78e-11
+  ],
+  [
+   0.000172,
+   1.086e-10
+  ],
+  [
+   0.0002734,
+   1.721e-10
+  ],
+  [
+   0.001795,
+   1.129e-09
+  ],
+  [
+   0.02665,
+   1.677e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "SN1987A-Progenitor_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Boundary of the solid-blue 'ALP SN1987A (excl. 95%)' region in Fig. 1 (e-print Plots/Limits_18p6.pdf), extracted from the vector PDF stroke path with axes calibrated to the plot frame (m_a: 1e-12..1e-1 eV, g_agamma: 1e-16..1e-8 GeV^-1, log-log). This is the paper's headline measured 95% CL upper limit from non-observation of SMM gamma-rays coincident with SN1987A, combining axion-photon conversion in the Galactic magnetic field (weakest Unger-Farrar ensemble model, dominant for m_a < ~1e-9 eV) and in the progenitor (BSG) stellar magnetic field with a conservative surface field B0 = 100 G; fiducial SN simulation SFHo-18.6; ALP scenario with loop-induced (RG) hadronic couplings only. The alternative hatched 'KSVZ-like axion SN1987A' curve (tree-level KSVZ hadronic coupling ratios, stronger limit) is not reported. Calibration validated: the black 'SN1987A (prev. work)' line extracts to 5.23e-12 GeV^-1 at low mass. Note the main text quotes a low-mass limit of 2.6e-12 GeV^-1 while the plotted curve is flat at 3.66e-12 GeV^-1 (~sqrt(2) apart); the plotted Fig. 1 curve is reported. Limit does not assume axion dark matter, so no density rescaling applies.",
+ "num_points": 48,
+ "arxiv_id": "2405.19393",
+ "elapsed_s": 373.81072902679443,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 373478,
+  "duration_api_ms": 367404,
+  "total_cost_usd": 3.1166214999999995,
+  "usage": {
+   "input_tokens": 737,
+   "output_tokens": 22414,
+   "cache_creation_input_tokens": 70344,
+   "cache_read_input_tokens": 1050879
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2405.19393.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:00:44-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "paper_title": "Search for axion-like particles through nuclear Primakoff production using the GlueX detector",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   204036326.94248235,
+   0.004247748984810421
+  ],
+  [
+   212361251.26135218,
+   0.003687966807120607
+  ],
+  [
+   220686175.580222,
+   0.0037187511032296425
+  ],
+  [
+   229011099.89909184,
+   0.0038126543702379227
+  ],
+  [
+   237336024.21796167,
+   0.0049333371222525825
+  ],
+  [
+   245660948.5368315,
+   0.005100129779556928
+  ],
+  [
+   253985872.85570136,
+   0.003941557532141576
+  ],
+  [
+   262310797.1745712,
+   0.0017308807502800963
+  ],
+  [
+   270635721.4934409,
+   0.001337684794973603
+  ],
+  [
+   278960645.8123108,
+   0.0015027796550463781
+  ],
+  [
+   287285570.1311806,
+   0.0018966113244341676
+  ],
+  [
+   295610494.4500505,
+   0.002315372861562187
+  ],
+  [
+   303935418.76892024,
+   0.0028979698499021285
+  ],
+  [
+   312260343.08779013,
+   0.004143129612485851
+  ],
+  [
+   320585267.40665996,
+   0.005565284423644724
+  ],
+  [
+   328784056.5085772,
+   0.006047675046943693
+  ],
+  [
+   336982845.61049443,
+   0.004577726264509049
+  ],
+  [
+   345307769.92936426,
+   0.0013886707182102942
+  ],
+  [
+   353632694.24823415,
+   0.007231123454746664
+  ],
+  [
+   361957618.567104,
+   0.007760535622396407
+  ],
+  [
+   370282542.88597375,
+   0.0011422514889800927
+  ],
+  [
+   378607467.2048436,
+   0.0012779038982150574
+  ],
+  [
+   386932391.52371347,
+   0.005565284423644724
+  ],
+  [
+   395257315.8425833,
+   0.008433207373029036
+  ],
+  [
+   403582240.16145307,
+   0.009713251211566114
+  ],
+  [
+   411907164.48032296,
+   0.009632843678720323
+  ],
+  [
+   420232088.7991928,
+   0.008754639496183911
+  ],
+  [
+   428557013.1180626,
+   0.007569398535760432
+  ],
+  [
+   436881937.4369324,
+   0.006599250056916111
+  ],
+  [
+   445080726.53884965,
+   0.006544620622944786
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "GlueX_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Observed 95% CL upper limits extracted from Figure 7 (top panel) using centerline extraction from rendered figure PDF. Mass range 200-450 MeV. The coupling is related to the Lagrangian term L = -(g_a\u03b3\u03b3/4) a F F\u0303. Paper reports search using 12C target at Jefferson Lab GlueX detector. No signal found; limits on O(1 TeV) scale. Background subtraction challenges noted for the unsubtracted spectrum due to peaking structures from downstream detector material.",
+ "num_points": 30,
+ "arxiv_id": "2308.06339",
+ "elapsed_s": 273.94369077682495,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 24,
+  "duration_ms": 273620,
+  "duration_api_ms": 267302,
+  "total_cost_usd": 0.41984240000000006,
+  "usage": {
+   "input_tokens": 196,
+   "output_tokens": 24858,
+   "cache_creation_input_tokens": 78046,
+   "cache_read_input_tokens": 1392644
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2308.06339.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:41:35-0500"
+ }
+}

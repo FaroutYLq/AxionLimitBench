@@ -1,0 +1,49 @@
+{
+ "paper_title": "Vector Wave Dark Matter and Terrestrial Quantum Sensors",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": true,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": null,
+ "coupling_convention": null,
+ "notes": "Paper derives theoretical projected sensitivities for detecting ultralight B-L vector dark matter using optomechanical cavity sensors. Section 3.2 (titled 'Projected Exclusions') and Section 4 present Monte Carlo-based 90% CL limits for hypothetical experiments at resonance frequencies of 0.1 Hz, 1 Hz, and 10 Hz. These are sensitivity forecasts for future experimental capabilities, not measured exclusions from actual data. The framework is applied to a generic sensor model with details in Figure 5. Mass range discussed: 5\u00d710^-20 eV to 5\u00d710^-15 eV. No new measured limit is reported.",
+ "num_points": 0,
+ "arxiv_id": "2403.02381",
+ "elapsed_s": 38.20601797103882,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 9,
+  "duration_ms": 37878,
+  "duration_api_ms": 36953,
+  "total_cost_usd": 0.1222309,
+  "usage": {
+   "input_tokens": 56,
+   "output_tokens": 2706,
+   "cache_creation_input_tokens": 46293,
+   "cache_read_input_tokens": 160589
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2403.02381.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:56:47-0500"
+ }
+}

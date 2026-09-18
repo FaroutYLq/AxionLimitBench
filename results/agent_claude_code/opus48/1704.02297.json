@@ -1,0 +1,230 @@
+{
+ "paper_title": "First Searches for Axions and Axion-Like Particles with the LUX Experiment",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1033.1,
+   8.015e-14
+  ],
+  [
+   1099.8,
+   8.404e-14
+  ],
+  [
+   1169.3,
+   8.697e-14
+  ],
+  [
+   1243.3,
+   9.047e-14
+  ],
+  [
+   1323.5,
+   9.387e-14
+  ],
+  [
+   1407.2,
+   9.766e-14
+  ],
+  [
+   1496.2,
+   1.011e-13
+  ],
+  [
+   1592.8,
+   1.077e-13
+  ],
+  [
+   1693.6,
+   1.147e-13
+  ],
+  [
+   1800.7,
+   1.222e-13
+  ],
+  [
+   1916.9,
+   1.295e-13
+  ],
+  [
+   2038.2,
+   1.39e-13
+  ],
+  [
+   2167.1,
+   1.5e-13
+  ],
+  [
+   2307.0,
+   1.624e-13
+  ],
+  [
+   2452.9,
+   1.757e-13
+  ],
+  [
+   2608.0,
+   1.902e-13
+  ],
+  [
+   2772.9,
+   2.053e-13
+  ],
+  [
+   2948.3,
+   2.228e-13
+  ],
+  [
+   3138.6,
+   2.228e-13
+  ],
+  [
+   3337.1,
+   2.181e-13
+  ],
+  [
+   3548.1,
+   2.158e-13
+  ],
+  [
+   3777.2,
+   2.251e-13
+  ],
+  [
+   4016.1,
+   2.367e-13
+  ],
+  [
+   4270.1,
+   2.707e-13
+  ],
+  [
+   4545.8,
+   2.914e-13
+  ],
+  [
+   4833.2,
+   2.508e-13
+  ],
+  [
+   5138.9,
+   2.181e-13
+  ],
+  [
+   5470.7,
+   1.942e-13
+  ],
+  [
+   5802.1,
+   1.979e-13
+  ],
+  [
+   6176.8,
+   2.026e-13
+  ],
+  [
+   6575.6,
+   2.047e-13
+  ],
+  [
+   7000.2,
+   2.102e-13
+  ],
+  [
+   7442.8,
+   2.102e-13
+  ],
+  [
+   7913.5,
+   1.973e-13
+  ],
+  [
+   8414.0,
+   1.721e-13
+  ],
+  [
+   8957.2,
+   1.641e-13
+  ],
+  [
+   9523.7,
+   1.927e-13
+  ],
+  [
+   10125.9,
+   2.411e-13
+  ],
+  [
+   10779.8,
+   2.976e-13
+  ],
+  [
+   11461.4,
+   3.627e-13
+  ],
+  [
+   12186.2,
+   4.062e-13
+  ],
+  [
+   12973.1,
+   4.17e-13
+  ],
+  [
+   13793.5,
+   3.966e-13
+  ],
+  [
+   14665.8,
+   3.221e-13
+  ],
+  [
+   15612.7,
+   2.528e-13
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "LUX_2017",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Galactic ALP dark-matter search (axio-electric absorption), Fig. 7 red curve (LUX 2013, this work), 90% C.L. observed limit on g_Ae vs ALP mass over 1-16 keV/c^2. Mass axis converted keV/c^2 -> eV (x1000). Red LUX curve isolated by bright-red pixels (R>200,G<90,B<90), per-column median with error-bar caps averaging to central value; single outlier column removed. Extracted peak 4.2e-13 at ~13 keV matches the abstract quote (g_Ae no larger than 4.2e-13 across the full range); leftmost value ~8e-14 at 1 keV. Coupling already in canonical g_ae (dimensionless), no conversion needed. The paper also reports a separate mass-independent SOLAR axion limit g_Ae<3.5e-12 (Fig. 6, flat over 1e-5 to 1 keV) which is its abstract-leading headline; the galactic ALP DM curve was chosen here as the mass-dependent exclusion curve suited to the g_ae plane. DM density: paper assumes ALPs constitute all galactic dark matter but does not state a numerical local density (standard ~0.3 GeV/cm^3 implied); limit depends on density but value not given, so set null. Source figure is a raster JPG in the e-print (no ancillary data files).",
+ "num_points": 45,
+ "arxiv_id": "1704.02297",
+ "elapsed_s": 332.15254187583923,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 331770,
+  "duration_api_ms": 327691,
+  "total_cost_usd": 1.5753149999999998,
+  "usage": {
+   "input_tokens": 577,
+   "output_tokens": 21290,
+   "cache_creation_input_tokens": 59268,
+   "cache_read_input_tokens": 895000
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1704.02297.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:53:17-0500"
+ }
+}

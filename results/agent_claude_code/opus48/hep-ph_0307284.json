@@ -1,0 +1,230 @@
+{
+ "paper_title": "Tests of the Gravitational Inverse-Square Law",
+ "coupling_type": "ScalarNucleon",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.9852e-05,
+   0.0005354
+  ],
+  [
+   2.3975e-05,
+   0.00073702
+  ],
+  [
+   2.8954e-05,
+   0.0011129
+  ],
+  [
+   3.4967e-05,
+   0.0018808
+  ],
+  [
+   4.223e-05,
+   0.0035256
+  ],
+  [
+   5.1001e-05,
+   0.0089456
+  ],
+  [
+   6.1593e-05,
+   0.010776
+  ],
+  [
+   7.4385e-05,
+   0.010664
+  ],
+  [
+   8.9834e-05,
+   0.01043
+  ],
+  [
+   0.00010849,
+   0.010006
+  ],
+  [
+   0.00013102,
+   0.0096407
+  ],
+  [
+   0.00015824,
+   0.0098504
+  ],
+  [
+   0.0001911,
+   0.011363
+  ],
+  [
+   0.00023079,
+   0.014727
+  ],
+  [
+   0.00027872,
+   0.020826
+  ],
+  [
+   0.00033661,
+   0.031751
+  ],
+  [
+   0.00040652,
+   0.051646
+  ],
+  [
+   0.00049095,
+   0.088799
+  ],
+  [
+   0.00059291,
+   0.16038
+  ],
+  [
+   0.00071605,
+   0.3008
+  ],
+  [
+   0.00086477,
+   0.58575
+  ],
+  [
+   0.0010444,
+   1.1876
+  ],
+  [
+   0.0012613,
+   2.5177
+  ],
+  [
+   0.0015232,
+   5.6732
+  ],
+  [
+   0.0018396,
+   9.4726
+  ],
+  [
+   0.0022216,
+   13.851
+  ],
+  [
+   0.0026831,
+   23.1
+  ],
+  [
+   0.0032403,
+   38.523
+  ],
+  [
+   0.0039133,
+   77.866
+  ],
+  [
+   0.004726,
+   196.34
+  ],
+  [
+   0.0057075,
+   498.85
+  ],
+  [
+   0.0068929,
+   1378.5
+  ],
+  [
+   0.0083245,
+   4864.6
+  ],
+  [
+   0.010053,
+   10713.0
+  ],
+  [
+   0.012141,
+   20050.0
+  ],
+  [
+   0.014663,
+   37525.0
+  ],
+  [
+   0.017708,
+   70230.0
+  ],
+  [
+   0.021386,
+   149870.0
+  ],
+  [
+   0.025828,
+   403460.0
+  ],
+  [
+   0.031192,
+   1305800.0
+  ],
+  [
+   0.03767,
+   5534100.0
+  ],
+  [
+   0.045494,
+   22529000.0
+  ],
+  [
+   0.054943,
+   111630000.0
+  ],
+  [
+   0.066354,
+   754430000.0
+  ],
+  [
+   0.080135,
+   8160300000.0
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.5,
+ "suggested_experiment_name": "EotWash_2003",
+ "coupling_convention": "alpha (Yukawa strength relative to gravity)",
+ "notes": "Fifth-force/ISL review by Adelberger, Heckel & Nelson (Eot-Wash group), Annu. Rev. Nucl. Part. Sci. 53 (2003). Curve = lower boundary of the 95% CL 'excluded region' (yellow) in Fig.5 (midlam.eps, 1 um<lambda<1 cm) in the Yukawa |alpha| vs lambda plane, combining the group's own Eot-Wash torsion-balance limit (dominates the deep minimum ~1e-2 near lambda~1e-3 m) with Irvine, Colorado, Lamoreaux/Moscow and Stanford limits forming the envelope. Extracted directly from EPS vector polygon vertices (CFN-filled yellow regions). Axis calibration from tick marks: x 3.440->15.440 cm = lambda 1e-6->1e-2 m (3 cm/decade); y 2.100->12.897 cm = |alpha| 1e-4->1e10 (0.7712 cm/decade). Converted to boson mass via m[eV]=1.97e-7 eV*m / lambda[m]; |alpha| reported in native units (Yukawa strength relative to gravity), no canonical g_N conversion attempted. Envelope is the union of experimental heavy curves; at large lambda (~1e-2 m) Irvine takes it to ~5e-4, mid-range plateau ~1e-2 is Eot-Wash, small-lambda rise is Stanford/Colorado. dm_density null (not a DM search).",
+ "num_points": 45,
+ "arxiv_id": "hep-ph/0307284",
+ "elapsed_s": 561.3050849437714,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 37,
+  "duration_ms": 561002,
+  "duration_api_ms": 557129,
+  "total_cost_usd": 2.7856580000000006,
+  "usage": {
+   "input_tokens": 1074,
+   "output_tokens": 35648,
+   "cache_creation_input_tokens": 86591,
+   "cache_read_input_tokens": 2046356
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "hep-ph_0307284.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T03:27:36-0500"
+ }
+}

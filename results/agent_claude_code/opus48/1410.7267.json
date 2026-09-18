@@ -1,0 +1,114 @@
+{
+ "paper_title": "Stronger limits on hypothetical Yukawa interactions in the 30-8000 nm range",
+ "coupling_type": "ScalarNucleon",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.009863,
+   7204.0
+  ],
+  [
+   0.026946,
+   56540.0
+  ],
+  [
+   0.055107,
+   260000.0
+  ],
+  [
+   0.097193,
+   942300.0
+  ],
+  [
+   0.157831,
+   3135000.0
+  ],
+  [
+   0.240584,
+   10020000.0
+  ],
+  [
+   0.358558,
+   34460000.0
+  ],
+  [
+   0.519127,
+   125700000.0
+  ],
+  [
+   0.758893,
+   578000000.0
+  ],
+  [
+   1.038019,
+   2521000000.0
+  ],
+  [
+   1.642797,
+   31210000000.0
+  ],
+  [
+   2.192272,
+   190600000000.0
+  ],
+  [
+   2.81774,
+   1235000000000.0
+  ],
+  [
+   3.946154,
+   26110000000000.0
+  ],
+  [
+   4.932513,
+   308700000000000.0
+  ],
+  [
+   6.575263,
+   1.47e+16
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "IUPUI_2014",
+ "coupling_convention": "alpha (Yukawa strength relative to gravity)",
+ "notes": "Fifth-force/Yukawa search: V(r)=-G m1 m2/r * alpha * exp(-r/lambda). Headline result is the red \"IUPUI (2014)\" observed exclusion curve in Fig.4 (lambda-alpha plane), digitised from the vector Fig4.pdf in the arXiv e-print. Native variables kept: y=|alpha| (Yukawa strength relative to gravity), x=boson mass in eV converted from Compton range via m=1.97e-7 eV*m/lambda(m). Axis calibration from major tick strokes (lambda: 128.8px/decade, alpha: 20.92px/decade), cross-checked against decade labels. Curve spans lambda ~ 3e-8 to 2e-5 m (mass ~6.6 to 0.010 eV), which is the paper stated 30-8000 nm improvement range. Limit at 95% CL per text. ScalarNucleon plane (scalar coupling to nucleons); reported in native alpha-vs-lambda as allowed by task card for fifth-force papers.",
+ "num_points": 16,
+ "arxiv_id": "1410.7267",
+ "elapsed_s": 189.03467988967896,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 188728,
+  "duration_api_ms": 186488,
+  "total_cost_usd": 0.9203329999999998,
+  "usage": {
+   "input_tokens": 472,
+   "output_tokens": 13933,
+   "cache_creation_input_tokens": 36264,
+   "cache_read_input_tokens": 414016
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1410.7267.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:30:23-0500"
+ }
+}

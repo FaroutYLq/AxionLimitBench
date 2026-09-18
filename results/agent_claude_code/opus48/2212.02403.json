@@ -1,0 +1,294 @@
+{
+ "paper_title": "Search for ultralight axion dark matter in a side-band analysis of a 199Hg free-spin precession signal",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.0381577636944251e-16,
+   4.649821653548007e-06
+  ],
+  [
+   1.5621206028828885e-15,
+   6.59786060491079e-05
+  ],
+  [
+   3.020425429396331e-15,
+   0.00013351457566494927
+  ],
+  [
+   4.478730255909774e-15,
+   0.00019689715308644537
+  ],
+  [
+   5.937035082423216e-15,
+   0.00024583709713106057
+  ],
+  [
+   7.395339908936658e-15,
+   0.0002936225342098864
+  ],
+  [
+   8.853644735450101e-15,
+   0.00035251423526532426
+  ],
+  [
+   1.0311949561963543e-14,
+   0.0004431133152529324
+  ],
+  [
+   1.1770254388476986e-14,
+   0.0004924958666334301
+  ],
+  [
+   1.3228559214990429e-14,
+   0.0006125909199633197
+  ],
+  [
+   1.468686404150387e-14,
+   0.0006246319927809392
+  ],
+  [
+   1.614516886801731e-14,
+   0.0005593283258583736
+  ],
+  [
+   1.7603473694530762e-14,
+   0.0006647776171791561
+  ],
+  [
+   1.9061778521044204e-14,
+   0.0016041040279165801
+  ],
+  [
+   2.052008334755765e-14,
+   0.0009300883074810433
+  ],
+  [
+   2.197838817407109e-14,
+   0.0008484619560506035
+  ],
+  [
+   2.343669300058453e-14,
+   0.0007519238195839795
+  ],
+  [
+   2.4894997827097976e-14,
+   0.0008745556527925535
+  ],
+  [
+   2.6353302653611417e-14,
+   0.0009049714826203797
+  ],
+  [
+   2.781160748012486e-14,
+   0.0008702827069240801
+  ],
+  [
+   2.92699123066383e-14,
+   0.0008997845729656052
+  ],
+  [
+   3.072821713315174e-14,
+   0.0008807731081641786
+  ],
+  [
+   3.218652195966519e-14,
+   0.0009108031879107081
+  ],
+  [
+   3.364482678617863e-14,
+   0.0009627119444922364
+  ],
+  [
+   3.510313161269208e-14,
+   0.0009345256146620912
+  ],
+  [
+   3.6561436439205514e-14,
+   0.0009582488707518669
+  ],
+  [
+   3.801974126571896e-14,
+   0.000925430355985114
+  ],
+  [
+   3.9478046092232397e-14,
+   0.0009893393527956157
+  ],
+  [
+   4.093635091874585e-14,
+   0.0010474727821325144
+  ],
+  [
+   4.2394655745259286e-14,
+   0.0009524689186783958
+  ],
+  [
+   4.3852960571772734e-14,
+   0.0010043012460552864
+  ],
+  [
+   4.531126539828617e-14,
+   0.0010198178409024116
+  ],
+  [
+   4.6769570224799617e-14,
+   0.0010786673279664673
+  ],
+  [
+   4.822787505131307e-14,
+   0.0010385533427224997
+  ],
+  [
+   4.9686179877826506e-14,
+   0.001097423829801205
+  ],
+  [
+   5.1144484704339954e-14,
+   0.0011727335992430315
+  ],
+  [
+   5.260278953085339e-14,
+   0.001064234589167802
+  ],
+  [
+   5.4061094357366837e-14,
+   0.0011517794115501856
+  ],
+  [
+   5.551939918388027e-14,
+   0.001177656300122862
+  ],
+  [
+   5.697770401039373e-14,
+   0.0012561736021485836
+  ],
+  [
+   5.843600883690715e-14,
+   0.0012191140118606473
+  ],
+  [
+   5.989431366342061e-14,
+   0.001233140182969467
+  ],
+  [
+   6.135261848993404e-14,
+   0.001203451470599727
+  ],
+  [
+   6.281092331644749e-14,
+   0.0012181583251793914
+  ],
+  [
+   6.426922814296093e-14,
+   0.0013402544191937426
+  ],
+  [
+   6.572753296947437e-14,
+   0.0014186386920541022
+  ],
+  [
+   6.718583779598782e-14,
+   0.0018372602682601234
+  ],
+  [
+   6.864414262250126e-14,
+   0.0013650926147814597
+  ],
+  [
+   7.010244744901471e-14,
+   0.0017192049246237775
+  ],
+  [
+   7.156075227552815e-14,
+   0.0014390372405811015
+  ],
+  [
+   7.30190571020416e-14,
+   0.0013369179608347203
+  ],
+  [
+   7.447736192855504e-14,
+   0.0013667221667552775
+  ],
+  [
+   7.593566675506848e-14,
+   0.0013511720469181036
+  ],
+  [
+   7.739397158158192e-14,
+   0.0013355635729311148
+  ],
+  [
+   7.885227640809536e-14,
+   0.0013521651551431976
+  ],
+  [
+   8.03105812346088e-14,
+   0.0016055036273065785
+  ],
+  [
+   8.176888606112226e-14,
+   0.001555754199781652
+  ],
+  [
+   8.322719088763568e-14,
+   0.0015406162618564463
+  ],
+  [
+   8.468549571414914e-14,
+   0.0013912790729219643
+  ],
+  [
+   8.614380054066257e-14,
+   0.0015113457565594298
+  ],
+  [
+   8.68729529539193e-14,
+   0.0015508291491735087
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.78,
+ "suggested_experiment_name": "PSIHgM_2023",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Headline result = Fig.4 red shaded 'PSI-HgM-sideband' 95% CL excluded region (axion-wind search on 199Hg free-spin precession). Curve extracted as exact vertices from the ancillary MATLAB source figure ep/Images/AxionWindLimits221122_F1.fig (patch child#12, lower boundary vertices 0-119); this .fig reproduces the published v2 figure (AxionWindLimits230313_F1) exactly. Paper's native coupling g_aNN is defined via Eq.(3) L=g_aNN d_mu a psibar gamma^mu gamma5 psi with g_aNN in GeV^-1. Converted to canonical dimensionless g_an using the 2m_N rule: g_an = 2*m_n*g_aNN = 1.8791*g_aNN (m_n=0.9396 GeV). x-axis is Compton frequency f [Hz]; converted to mass via m_a[eV]=h*f=4.1357e-15*f. Peak sensitivity g_aNN=2.47e-6 GeV^-1 -> g_an=4.65e-6. NOTE on red vs cyan: the red region uses Eq.(13) without the geometric orientation factor (effectively <B.p>=1). The paper also draws a dash-dotted cyan line = same limit with the average orientation <B.p>~0.7 folded in, giving peak g_aNN=3.5e-6 (=red/0.7), which is the number quoted in the abstract. The two differ by a constant factor 1.4286 (0.155 dex); I report the plotted shaded excluded-region boundary (red). Figure assumes axion-neutron and axion-proton couplings equal (g_ann=g_app); the 199Hg system is dominantly (~10x) sensitive to the neutron coupling, hence reported as AxionNeutron. DM density rho_DM=0.4 GeV/cm^3 (conservative lower 2-sigma bound, Eq.2), not rescaled. If cyan (orientation-corrected) is preferred, multiply all g_an by 1.4286.",
+ "num_points": 61,
+ "arxiv_id": "2212.02403",
+ "elapsed_s": 278.1633548736572,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 277864,
+  "duration_api_ms": 272062,
+  "total_cost_usd": 1.587634,
+  "usage": {
+   "input_tokens": 683,
+   "output_tokens": 19695,
+   "cache_creation_input_tokens": 59347,
+   "cache_read_input_tokens": 996748
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2212.02403.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:56:19-0500"
+ }
+}

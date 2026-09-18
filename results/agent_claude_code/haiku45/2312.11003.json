@@ -1,0 +1,82 @@
+{
+ "paper_title": "Experimental search for invisible dark matter axions around 22 \u00b5eV",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.186e-05,
+   5.52e-15
+  ],
+  [
+   2.188e-05,
+   5.53e-15
+  ],
+  [
+   2.19e-05,
+   5.53e-15
+  ],
+  [
+   2.192e-05,
+   5.54e-15
+  ],
+  [
+   2.194e-05,
+   5.54e-15
+  ],
+  [
+   2.196e-05,
+   5.55e-15
+  ],
+  [
+   2.198e-05,
+   5.55e-15
+  ],
+  [
+   2.2e-05,
+   5.56e-15
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": "CAPP12T_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Exclusion limit from null experimental result on KSVZ axion dark matter searches using multi-cell cavity haloscope in 12T magnetic field. Paper explicitly states g_a\u03b3\u03b3 \u2265 0.93 \u00d7 g_a\u03b3\u03b3^KSVZ at 90% CL across entire 21.86-22.00 \u00b5eV mass range. Assumes local axion dark matter halo density \u03c1_a = 0.45 GeV/cm\u00b3 (standard cosmological value). Total systematic uncertainty 4.7% (noise temperature 8.1%, SNR efficiency, Smith circle fitting 1.7%, loaded Q 1.3%). TE313 cavity mode identified as source of slight modulation between 21.90-21.92 \u00b5eV. Data collected July-November 2023 over 82 days with 91.3% DAQ efficiency.",
+ "num_points": 8,
+ "arxiv_id": "2312.11003",
+ "elapsed_s": 132.43660712242126,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 6,
+  "duration_ms": 132106,
+  "duration_api_ms": 131136,
+  "total_cost_usd": 0.1768672,
+  "usage": {
+   "input_tokens": 44,
+   "output_tokens": 14061,
+   "cache_creation_input_tokens": 44797,
+   "cache_read_input_tokens": 169242
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2312.11003.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:47:27-0500"
+ }
+}

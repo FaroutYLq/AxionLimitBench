@@ -1,0 +1,259 @@
+{
+ "paper_title": "One-Electron Quantum Cyclotron as a Milli-eV Dark-Photon Detector",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.00061227582522,
+   9.802e-08
+  ],
+  [
+   0.00061227585881,
+   2.2258e-08
+  ],
+  [
+   0.00061227587321,
+   1.2398e-08
+  ],
+  [
+   0.00061227589241,
+   5.9532e-09
+  ],
+  [
+   0.00061227591161,
+   3.014e-09
+  ],
+  [
+   0.00061227592601,
+   1.8726e-09
+  ],
+  [
+   0.00061227595481,
+   7.8938e-10
+  ],
+  [
+   0.00061227596921,
+   5.3533e-10
+  ],
+  [
+   0.00061227598361,
+   3.7363e-10
+  ],
+  [
+   0.00061227599801,
+   2.6826e-10
+  ],
+  [
+   0.00061227601721,
+   1.8014e-10
+  ],
+  [
+   0.00061227603641,
+   1.2699e-10
+  ],
+  [
+   0.00061227605081,
+   1.008e-10
+  ],
+  [
+   0.00061227606521,
+   8.2099e-11
+  ],
+  [
+   0.00061227608441,
+   6.4925e-11
+  ],
+  [
+   0.00061227609881,
+   5.5982e-11
+  ],
+  [
+   0.00061227611321,
+   4.937e-11
+  ],
+  [
+   0.00061227612761,
+   4.4465e-11
+  ],
+  [
+   0.00061227614201,
+   4.0834e-11
+  ],
+  [
+   0.00061227615641,
+   3.8163e-11
+  ],
+  [
+   0.00061227617081,
+   3.6223e-11
+  ],
+  [
+   0.00061227618521,
+   3.4841e-11
+  ],
+  [
+   0.00061227620441,
+   3.3636e-11
+  ],
+  [
+   0.00061227623321,
+   3.272e-11
+  ],
+  [
+   0.00061227627161,
+   3.2328e-11
+  ],
+  [
+   0.00061227655001,
+   3.2255e-11
+  ],
+  [
+   0.0006122766124,
+   3.2503e-11
+  ],
+  [
+   0.0006122766316,
+   3.2821e-11
+  ],
+  [
+   0.0006122766508,
+   3.3423e-11
+  ],
+  [
+   0.00061227667,
+   3.448e-11
+  ],
+  [
+   0.0006122766844,
+   3.5708e-11
+  ],
+  [
+   0.0006122766988,
+   3.7444e-11
+  ],
+  [
+   0.00061227671321,
+   3.9849e-11
+  ],
+  [
+   0.0006122767276,
+   4.3131e-11
+  ],
+  [
+   0.000612276742,
+   4.7569e-11
+  ],
+  [
+   0.0006122767564,
+   5.3554e-11
+  ],
+  [
+   0.00061227676601,
+   5.8666e-11
+  ],
+  [
+   0.0006122767804,
+   6.8569e-11
+  ],
+  [
+   0.0006122767948,
+   8.2098e-11
+  ],
+  [
+   0.0006122768092,
+   1.0079e-10
+  ],
+  [
+   0.0006122768188,
+   1.1724e-10
+  ],
+  [
+   0.0006122768332,
+   1.5034e-10
+  ],
+  [
+   0.0006122768476,
+   1.9808e-10
+  ],
+  [
+   0.000612276862,
+   2.6826e-10
+  ],
+  [
+   0.0006122768764,
+   3.7362e-10
+  ],
+  [
+   0.0006122768908,
+   5.3533e-10
+  ],
+  [
+   0.0006122769052,
+   7.8938e-10
+  ],
+  [
+   0.0006122769292,
+   1.6083e-09
+  ],
+  [
+   0.000612276958,
+   4.208e-09
+  ],
+  [
+   0.000612276982,
+   1.0269e-08
+  ],
+  [
+   0.0006122770108,
+   3.3431e-08
+  ],
+  [
+   0.00061227703522,
+   9.9999e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "QuantumCyclotron_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Measured 90% CL limit ('this work', red curve) from Fig. 5(a), extracted from vector paths of e-print file DPLimit.pdf. Axes calibrated from tick marks: mass axis linear in (m_A' - 0.61227643 meV) at 179.53 pt per 1e-6 meV, epsilon axis log with 67.25 pt/decade. Cross-check: curve minimum gives eps=3.22e-11 at m=0.612276 meV, matching Eq. (8) 'eps < 3.2e-11 at m_A' = 0.612276 meV'. Narrow single-resonance search at 148 GHz over 7.4 days; curve spans ~+/-0.6e-6 meV around resonance and is clipped at the plot's upper edge eps=1e-7. Local DM density assumed rho=0.3 GeV/cm^3 (Eq. 4). Fig. 5(b) broad-band curve is a future projection, not reported.",
+ "num_points": 52,
+ "arxiv_id": "2208.06519",
+ "elapsed_s": 121.09739518165588,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 120794,
+  "duration_api_ms": 117777,
+  "total_cost_usd": 1.1872319999999998,
+  "usage": {
+   "input_tokens": 303,
+   "output_tokens": 9891,
+   "cache_creation_input_tokens": 30958,
+   "cache_read_input_tokens": 238627
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2208.06519.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:51:44-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

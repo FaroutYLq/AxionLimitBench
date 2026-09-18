@@ -1,0 +1,8 @@
+# Scoring, validation and the leaderboard (python >= 3.10)
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7     # only for --report calibration plots and paper figures
+
+# Running the reference agent baseline additionally needs the Claude Code CLI
+# (https://claude.com/claude-code) on PATH; the agent itself installs nothing.
+# Systems are free to use any stack: the benchmark consumes only JSON snapshots.

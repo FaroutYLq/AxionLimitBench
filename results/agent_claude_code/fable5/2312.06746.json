@@ -1,0 +1,331 @@
+{
+ "paper_title": "Constraints on photon mass and dark photon from the Jovian magnetic field",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.2001e-18,
+   0.8029
+  ],
+  [
+   3.647e-18,
+   0.59431
+  ],
+  [
+   4.1687e-18,
+   0.53209
+  ],
+  [
+   4.765e-18,
+   0.47562
+  ],
+  [
+   5.4466e-18,
+   0.42514
+  ],
+  [
+   6.2073e-18,
+   0.38063
+  ],
+  [
+   7.0953e-18,
+   0.34024
+  ],
+  [
+   8.1102e-18,
+   0.30412
+  ],
+  [
+   9.2704e-18,
+   0.27229
+  ],
+  [
+   1.0596e-17,
+   0.24103
+  ],
+  [
+   1.2076e-17,
+   0.21128
+  ],
+  [
+   1.3804e-17,
+   0.1846
+  ],
+  [
+   1.5778e-17,
+   0.16156
+  ],
+  [
+   1.8036e-17,
+   0.14116
+  ],
+  [
+   2.0554e-17,
+   0.12374
+  ],
+  [
+   2.3495e-17,
+   0.10829
+  ],
+  [
+   2.6855e-17,
+   0.094621
+  ],
+  [
+   3.0697e-17,
+   0.082675
+  ],
+  [
+   3.5088e-17,
+   0.072354
+  ],
+  [
+   3.9989e-17,
+   0.063528
+  ],
+  [
+   4.5709e-17,
+   0.055598
+  ],
+  [
+   5.2247e-17,
+   0.048657
+  ],
+  [
+   5.9721e-17,
+   0.042652
+  ],
+  [
+   6.8264e-17,
+   0.037328
+  ],
+  [
+   7.7798e-17,
+   0.032775
+  ],
+  [
+   8.8927e-17,
+   0.028683
+  ],
+  [
+   1.0165e-16,
+   0.025143
+  ],
+  [
+   1.1619e-16,
+   0.022076
+  ],
+  [
+   1.3241e-16,
+   0.019447
+  ],
+  [
+   1.5136e-16,
+   0.01713
+  ],
+  [
+   1.7301e-16,
+   0.01504
+  ],
+  [
+   1.9776e-16,
+   0.013206
+  ],
+  [
+   2.2604e-16,
+   0.011633
+  ],
+  [
+   2.5761e-16,
+   0.010247
+  ],
+  [
+   2.9446e-16,
+   0.008997
+  ],
+  [
+   3.3659e-16,
+   0.0080159
+  ],
+  [
+   3.8473e-16,
+   0.0072237
+  ],
+  [
+   4.3847e-16,
+   0.0065309
+  ],
+  [
+   5.0119e-16,
+   0.0059045
+  ],
+  [
+   5.7288e-16,
+   0.0053209
+  ],
+  [
+   6.5483e-16,
+   0.004795
+  ],
+  [
+   7.485e-16,
+   0.0043281
+  ],
+  [
+   8.5304e-16,
+   0.003913
+  ],
+  [
+   9.7506e-16,
+   0.003532
+  ],
+  [
+   1.1145e-15,
+   0.0032935
+  ],
+  [
+   1.274e-15,
+   0.0031012
+  ],
+  [
+   1.4562e-15,
+   0.0029825
+  ],
+  [
+   1.6596e-15,
+   0.0028964
+  ],
+  [
+   1.96e-15,
+   0.0028497
+  ],
+  [
+   2.2404e-15,
+   0.0028777
+  ],
+  [
+   2.5609e-15,
+   0.0029344
+  ],
+  [
+   2.9185e-15,
+   0.0030412
+  ],
+  [
+   3.336e-15,
+   0.0031726
+  ],
+  [
+   3.8132e-15,
+   0.0033312
+  ],
+  [
+   4.3587e-15,
+   0.0035034
+  ],
+  [
+   4.9822e-15,
+   0.0036845
+  ],
+  [
+   5.678e-15,
+   0.0039003
+  ],
+  [
+   6.4902e-15,
+   0.0041625
+  ],
+  [
+   7.4186e-15,
+   0.0045297
+  ],
+  [
+   8.4798e-15,
+   0.0050594
+  ],
+  [
+   9.6641e-15,
+   0.0057904
+  ],
+  [
+   1.1047e-14,
+   0.0069811
+  ],
+  [
+   1.2627e-14,
+   0.0086105
+  ],
+  [
+   1.4433e-14,
+   0.011426
+  ],
+  [
+   1.6498e-14,
+   0.015741
+  ],
+  [
+   1.8802e-14,
+   0.023255
+  ],
+  [
+   2.1491e-14,
+   0.039707
+  ],
+  [
+   2.4565e-14,
+   0.075848
+  ],
+  [
+   2.8079e-14,
+   0.27675
+  ],
+  [
+   3.2096e-14,
+   0.98868
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "JunoMAG_2023",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Red 'Juno MAG (This Work)' curve of Fig. 7 (plots/limitJeff.png in the e-print), the 95% credible upper limit on the dark photon kinetic mixing epsilon vs mass m_X from Juno MAG data, digitized pixel-wise from the raster figure using axis tick calibration (x decades 1e-17..1e-13 eV, y decades 1e0..1e-3). Digitization cross-checked against the text: paper quotes eps < 2.8e-3 at m_X = 2.0e-15 eV; extracted minimum is 2.85e-3 at 1.96e-15 eV. Limit is independent of dark photon relic density (not a haloscope), so no DM-density rescaling applies. Photon-mass bound (m_gamma < 2.5e-18 eV) also reported in the paper but the dark photon epsilon limit is the headline exclusion curve.",
+ "num_points": 70,
+ "arxiv_id": "2312.06746",
+ "elapsed_s": 102.46559381484985,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 102138,
+  "duration_api_ms": 96254,
+  "total_cost_usd": 0.9694615,
+  "usage": {
+   "input_tokens": 352,
+   "output_tokens": 6959,
+   "cache_creation_input_tokens": 25922,
+   "cache_read_input_tokens": 235594
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2312.06746.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:37:48-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

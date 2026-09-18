@@ -1,0 +1,334 @@
+{
+ "paper_title": "Search for New Physics in Electronic Recoil Data from XENONnT",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   998.968,
+   9.566e-15
+  ],
+  [
+   1998.426,
+   8.606e-15
+  ],
+  [
+   2998.069,
+   2.221e-14
+  ],
+  [
+   3997.833,
+   2.1e-14
+  ],
+  [
+   4997.685,
+   1.229e-14
+  ],
+  [
+   5997.609,
+   1.257e-14
+  ],
+  [
+   6997.593,
+   2.408e-14
+  ],
+  [
+   7997.626,
+   2.737e-14
+  ],
+  [
+   8997.707,
+   2.112e-14
+  ],
+  [
+   9997.824,
+   2.48e-14
+  ],
+  [
+   11998.163,
+   2.43e-14
+  ],
+  [
+   13998.622,
+   4.199e-14
+  ],
+  [
+   15999.179,
+   6.555e-14
+  ],
+  [
+   17999.824,
+   5.998e-14
+  ],
+  [
+   20000.556,
+   4.718e-14
+  ],
+  [
+   22001.348,
+   4.215e-14
+  ],
+  [
+   24002.208,
+   6.017e-14
+  ],
+  [
+   26003.133,
+   9.399e-14
+  ],
+  [
+   28004.107,
+   1.131e-13
+  ],
+  [
+   30005.134,
+   1.24e-13
+  ],
+  [
+   32006.212,
+   1.211e-13
+  ],
+  [
+   34007.324,
+   1.242e-13
+  ],
+  [
+   36008.485,
+   6.032e-14
+  ],
+  [
+   38009.69,
+   7.242e-14
+  ],
+  [
+   46014.823,
+   5.267e-14
+  ],
+  [
+   48016.199,
+   7.083e-14
+  ],
+  [
+   50017.586,
+   7.799e-14
+  ],
+  [
+   52019.013,
+   8.062e-14
+  ],
+  [
+   54020.489,
+   8.417e-14
+  ],
+  [
+   56021.941,
+   8.567e-14
+  ],
+  [
+   58023.463,
+   8.843e-14
+  ],
+  [
+   60024.998,
+   1.024e-13
+  ],
+  [
+   62026.535,
+   1.287e-13
+  ],
+  [
+   64028.136,
+   1.131e-13
+  ],
+  [
+   66029.708,
+   6.406e-14
+  ],
+  [
+   68031.343,
+   5.125e-14
+  ],
+  [
+   70032.967,
+   4.85e-14
+  ],
+  [
+   72034.623,
+   5.004e-14
+  ],
+  [
+   74036.342,
+   5.308e-14
+  ],
+  [
+   76038.013,
+   5.742e-14
+  ],
+  [
+   78039.758,
+   6.655e-14
+  ],
+  [
+   80041.448,
+   8.743e-14
+  ],
+  [
+   82043.205,
+   1.241e-13
+  ],
+  [
+   84045.015,
+   1.532e-13
+  ],
+  [
+   86046.804,
+   1.656e-13
+  ],
+  [
+   88048.6,
+   1.605e-13
+  ],
+  [
+   90050.403,
+   1.422e-13
+  ],
+  [
+   92052.235,
+   1.202e-13
+  ],
+  [
+   94054.127,
+   1.063e-13
+  ],
+  [
+   96055.971,
+   9.754e-14
+  ],
+  [
+   98057.842,
+   9.345e-14
+  ],
+  [
+   100059.726,
+   9.811e-14
+  ],
+  [
+   102061.641,
+   1.2e-13
+  ],
+  [
+   104063.563,
+   1.695e-13
+  ],
+  [
+   106065.488,
+   2.147e-13
+  ],
+  [
+   108067.497,
+   2.415e-13
+  ],
+  [
+   110069.458,
+   2.486e-13
+  ],
+  [
+   112071.385,
+   2.389e-13
+  ],
+  [
+   114073.367,
+   2.185e-13
+  ],
+  [
+   116075.411,
+   1.931e-13
+  ],
+  [
+   118077.427,
+   1.643e-13
+  ],
+  [
+   120079.464,
+   1.38e-13
+  ],
+  [
+   122081.467,
+   1.198e-13
+  ],
+  [
+   124083.52,
+   1.129e-13
+  ],
+  [
+   126085.593,
+   1.184e-13
+  ],
+  [
+   128087.705,
+   1.377e-13
+  ],
+  [
+   130089.746,
+   1.694e-13
+  ],
+  [
+   132091.83,
+   2.008e-13
+  ],
+  [
+   134093.935,
+   2.207e-13
+  ],
+  [
+   136096.083,
+   2.362e-13
+  ],
+  [
+   138098.144,
+   2.579e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "XENONnT_2022",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "ALP dark-matter absorption limit, 90% C.L. observed upper limit on g_ae vs ALP mass, traced from Fig.6(c) (lower_limits.pdf, thick black \"XENONnT (This work)\" curve). Vector extraction: x-axis ma major ticks 1/10/100 keV at px 90.1/191.1/292.1 (101 px/decade); y-axis g_ae major ticks 1e-11..1e-14 at py 237.0/295.1/353.2/411.2 (58.07 px/decade). Mass converted keV->eV. Two subpaths joined; the (39,44) keV/c2 gap is excluded due to unconstrained 83mKr (no points there). Paper is a broad ER search also bounding solar-axion g_ae/g_agamma (Fig.6a), neutrino magnetic moment (6b, mu_nu<6.4e-12 mu_B), and dark-photon DM kinetic mixing (6d); ALP DM g_ae chosen as the main axion-electron result. DM density not explicitly stated; XENON uses rho=0.3 GeV/cm3 (from their XENON1T model, XENON:2020rca) and the absorption limit scales as g_ae ~ rho^-1/2.",
+ "num_points": 71,
+ "arxiv_id": "2207.11330",
+ "elapsed_s": 224.25586581230164,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 223930,
+  "duration_api_ms": 219984,
+  "total_cost_usd": 1.035858,
+  "usage": {
+   "input_tokens": 503,
+   "output_tokens": 12290,
+   "cache_creation_input_tokens": 45870,
+   "cache_read_input_tokens": 534786
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2207.11330.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:28:24-0500"
+ }
+}

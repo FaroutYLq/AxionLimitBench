@@ -1,0 +1,186 @@
+{
+ "paper_title": "Searches for signatures of ultra-light axion dark matter in polarimetry data of the European Pulsar Timing Array",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   9.973e-24,
+   4.172e-14
+  ],
+  [
+   1.266e-23,
+   4.335e-14
+  ],
+  [
+   1.439e-23,
+   4.956e-14
+  ],
+  [
+   1.718e-23,
+   5.454e-14
+  ],
+  [
+   2.064e-23,
+   6.479e-14
+  ],
+  [
+   2.48e-23,
+   7.551e-14
+  ],
+  [
+   2.979e-23,
+   8.633e-14
+  ],
+  [
+   3.579e-23,
+   1.006e-13
+  ],
+  [
+   4.273e-23,
+   1.15e-13
+  ],
+  [
+   5.133e-23,
+   1.341e-13
+  ],
+  [
+   6.166e-23,
+   1.593e-13
+  ],
+  [
+   7.407e-23,
+   1.928e-13
+  ],
+  [
+   8.843e-23,
+   2.335e-13
+  ],
+  [
+   1.062e-22,
+   2.938e-13
+  ],
+  [
+   1.238e-22,
+   3.49e-13
+  ],
+  [
+   1.533e-22,
+   4.74e-13
+  ],
+  [
+   1.842e-22,
+   5.317e-13
+  ],
+  [
+   2.199e-22,
+   6.197e-13
+  ],
+  [
+   2.641e-22,
+   7.222e-13
+  ],
+  [
+   3.173e-22,
+   8.579e-13
+  ],
+  [
+   3.812e-22,
+   9.809e-13
+  ],
+  [
+   4.579e-22,
+   1.121e-12
+  ],
+  [
+   5.467e-22,
+   1.332e-12
+  ],
+  [
+   6.568e-22,
+   1.583e-12
+  ],
+  [
+   7.89e-22,
+   1.844e-12
+  ],
+  [
+   9.478e-22,
+   2.191e-12
+  ],
+  [
+   1.132e-21,
+   2.653e-12
+  ],
+  [
+   1.359e-21,
+   3.213e-12
+  ],
+  [
+   1.633e-21,
+   3.965e-12
+  ],
+  [
+   1.962e-21,
+   4.621e-12
+  ],
+  [
+   2.357e-21,
+   5.596e-12
+  ],
+  [
+   2.814e-21,
+   6.776e-12
+  ],
+  [
+   3.38e-21,
+   8.049e-12
+  ],
+  [
+   4.06e-21,
+   9.381e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.5,
+ "suggested_experiment_name": "EPTA_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "EPTA DR2 pulsar polarimetry search for ULDM axion-photon cosmic birefringence (g_agamma). Headline curve: the frequentist (GLSP) 95% C.L. upper limit, the dashed-gray line in Fig. 7 (e-print raster all_upper_lim.png). Extracted by pixel analysis: identified the lowest dark-gray curve (bottom envelope) with a rolling-minimum over a 60px window to bridge the dash gaps and reject upward artifacts where dash-gaps exposed the higher Bayesian curves. Axis calibration: x = frequency 1e-9..1e-6 Hz (log, plot box x=202..1332 px), top axis mass; y = g_agamma/(1e-12 GeV^-1) 1e3..1e-3 (log, y=133..855 px). Mass converted from oscillation frequency via m_a[eV] = nu[Hz]/2.418e14 (Eq.5, nu=m_a/2pi in natural units). g_agamma is directly the canonical coupling: paper Eq.(1) L = -1/4 F F + (g_agamma/4) a F Ftilde, same normalization/magnitude as the card's L=-(g_agamma/4) a F Ftilde. The frequentist limit starts at nu_min=1/T~2.4e-9 Hz (m_a~1e-23 eV), floor ~4.2e-14 GeV^-1, matching the paper's stated best sensitivity g95%=4e-14 GeV^-1 near m_a~8e-24-1e-23 eV (text on p.12; note the Conclusions p.14 misquote this as 5e-13, an internal typo). Curve rises smoothly ~power-law (slope~0.9) to ~9e-12 at m_a~4e-21 eV (1e-6 Hz). CHOICE OF CURVE: Fig.7 shows three combined gray curves - Frequentist(GLSP, dashed), Bayesian-conservative(solid, with PA^det systematics fit), and Bayesian-optimistic(dotted, 'no PA^det fit'). I report the frequentist because (i) it is the primary/model-independent analysis, (ii) the abstract's 'strong bounds ... in the mass range 6e-24-5e-23 eV' with best sensitivity at the lowest masses matches the monotonic frequentist curve (the conservative Bayesian is weak <3e-9 Hz), and (iii) its floor matches the quoted 4e-14. ALTERNATIVE: the conservative Bayesian (solid gray) reaches g95%=2e-13 at m_a=3e-23 eV (7.25e-9 Hz) and rises to a rising shoulder/(11yr)^-1 bump (~3e-11) at f<3e-9; the two curves agree within a factor ~2 for m_a>~3e-23 eV but diverge strongly at the lowest masses. DM density rho_0=rho_DM~0.4 GeV/cm^3 assumed (Eq.6; limit scales with local DM density, not rescaled per card). 95% C.L. Extraction_confidence lowered to reflect the frequentist-vs-conservative-Bayesian ambiguity in which curve the compilation digitised.",
+ "num_points": 34,
+ "arxiv_id": "2412.02232",
+ "elapsed_s": 494.25066924095154,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 28,
+  "duration_ms": 493924,
+  "duration_api_ms": 488374,
+  "total_cost_usd": 2.4860565,
+  "usage": {
+   "input_tokens": 711,
+   "output_tokens": 35881,
+   "cache_creation_input_tokens": 86964,
+   "cache_read_input_tokens": 1431673
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2412.02232.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T03:03:22-0500"
+ }
+}

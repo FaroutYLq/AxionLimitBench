@@ -1,0 +1,206 @@
+{
+ "paper_title": "Analysis of atomic-clock data to constrain variations of fundamental constants",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.757e-20,
+   3.272e-07
+  ],
+  [
+   3.823e-20,
+   7.424e-07
+  ],
+  [
+   4.652e-20,
+   6.935e-07
+  ],
+  [
+   5.743e-20,
+   1.006e-06
+  ],
+  [
+   6.722e-20,
+   1.222e-06
+  ],
+  [
+   8.428e-20,
+   1.13e-06
+  ],
+  [
+   1.048e-19,
+   1.792e-06
+  ],
+  [
+   1.252e-19,
+   3.105e-06
+  ],
+  [
+   1.547e-19,
+   3.175e-06
+  ],
+  [
+   1.875e-19,
+   2.495e-06
+  ],
+  [
+   2.328e-19,
+   4.877e-06
+  ],
+  [
+   2.789e-19,
+   6.323e-06
+  ],
+  [
+   3.497e-19,
+   7.142e-06
+  ],
+  [
+   4.192e-19,
+   8.898e-06
+  ],
+  [
+   5.144e-19,
+   1.227e-05
+  ],
+  [
+   6.298e-19,
+   1.337e-05
+  ],
+  [
+   7.611e-19,
+   1.608e-05
+  ],
+  [
+   9.414e-19,
+   2.3e-05
+  ],
+  [
+   1.141e-18,
+   2.223e-05
+  ],
+  [
+   1.39e-18,
+   3.24e-05
+  ],
+  [
+   1.693e-18,
+   3.644e-05
+  ],
+  [
+   2.089e-18,
+   5.124e-05
+  ],
+  [
+   2.557e-18,
+   5.607e-05
+  ],
+  [
+   3.083e-18,
+   7.717e-05
+  ],
+  [
+   3.796e-18,
+   8.092e-05
+  ],
+  [
+   4.662e-18,
+   0.0001173
+  ],
+  [
+   5.617e-18,
+   0.0001422
+  ],
+  [
+   6.907e-18,
+   0.0001767
+  ],
+  [
+   8.408e-18,
+   0.000211
+  ],
+  [
+   1.031e-17,
+   0.0002596
+  ],
+  [
+   1.256e-17,
+   0.000311
+  ],
+  [
+   1.532e-17,
+   0.000386
+  ],
+  [
+   1.873e-17,
+   0.0004467
+  ],
+  [
+   2.292e-17,
+   0.0005669
+  ],
+  [
+   2.796e-17,
+   0.0006836
+  ],
+  [
+   3.415e-17,
+   0.0008478
+  ],
+  [
+   4.177e-17,
+   0.0009962
+  ],
+  [
+   5.1e-17,
+   0.001459
+  ],
+  [
+   6.231e-17,
+   0.001757
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "YbSr_NPL_2023",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Fig.6 top panel, linear photon coupling d_gamma^(1). Paper Eq.(6) defines L=(kappa phi)^n(d_gamma^(n)(1/4)F F - d_me^(n) m_e ebar e) with kappa=1/(sqrt(2)M_P)=sqrt(4pi)/M_Pl, so d_gamma^(1) equals the Damour-Donoghue d_e (Delta alpha/alpha = d_e kappa phi). Curve traced from the light-red Yb+/Sr 95% C.L. spectrum (upper envelope per mass bin); dark-red is the best-fit spectrum, black-dashed is expected-noise (excluded as sensitivity). Excluded region is above the curve. ULDM assumes scalar saturates local density rho_DM=0.3 GeV/cm^3 (Sec 5; paper notes 0.4 gives negligible difference). Mass range ~1e-20 to 8e-17 eV (freq 1e-6-2e-2 Hz). Linear-coupling stochastic degradation factor ~3 already applied by paper. Paper notes Ref.[25] Yb+/Sr clocks claim slightly tighter limits, but this is the paper own measured bound.",
+ "num_points": 39,
+ "arxiv_id": "2302.04565",
+ "elapsed_s": 353.8031311035156,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 26,
+  "duration_ms": 353471,
+  "duration_api_ms": 347843,
+  "total_cost_usd": 1.604933,
+  "usage": {
+   "input_tokens": 647,
+   "output_tokens": 17262,
+   "cache_creation_input_tokens": 63344,
+   "cache_read_input_tokens": 1073416
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2302.04565.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:16:13-0500"
+ }
+}

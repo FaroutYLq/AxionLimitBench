@@ -1,0 +1,266 @@
+{
+ "paper_title": "Axion Dark Matter eXperiment around 3.3 \u00b5eV with Dine-Fischler-Srednicki-Zhitnitsky Discovery Ability",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.27438e-06,
+   2.5507e-16
+  ],
+  [
+   3.27556e-06,
+   2.0008e-16
+  ],
+  [
+   3.27674e-06,
+   2.117e-16
+  ],
+  [
+   3.27792e-06,
+   2.9301e-16
+  ],
+  [
+   3.2791e-06,
+   2.4957e-16
+  ],
+  [
+   3.28028e-06,
+   2.6651e-16
+  ],
+  [
+   3.28146e-06,
+   2.573e-16
+  ],
+  [
+   3.28264e-06,
+   2.4104e-16
+  ],
+  [
+   3.28382e-06,
+   2.3748e-16
+  ],
+  [
+   3.285e-06,
+   2.7133e-16
+  ],
+  [
+   3.28618e-06,
+   2.505e-16
+  ],
+  [
+   3.28736e-06,
+   2.8516e-16
+  ],
+  [
+   3.28854e-06,
+   2.5593e-16
+  ],
+  [
+   3.28972e-06,
+   2.4271e-16
+  ],
+  [
+   3.2909e-06,
+   2.5062e-16
+  ],
+  [
+   3.29208e-06,
+   2.3741e-16
+  ],
+  [
+   3.29326e-06,
+   2.9316e-16
+  ],
+  [
+   3.29443e-06,
+   2.9147e-16
+  ],
+  [
+   3.29561e-06,
+   2.788e-16
+  ],
+  [
+   3.29679e-06,
+   2.983e-16
+  ],
+  [
+   3.29797e-06,
+   2.3633e-16
+  ],
+  [
+   3.29915e-06,
+   3.1169e-16
+  ],
+  [
+   3.30033e-06,
+   2.6596e-16
+  ],
+  [
+   3.30151e-06,
+   2.4256e-16
+  ],
+  [
+   3.30269e-06,
+   2.5165e-16
+  ],
+  [
+   3.30387e-06,
+   2.1554e-16
+  ],
+  [
+   3.30505e-06,
+   2.8565e-16
+  ],
+  [
+   3.30623e-06,
+   2.4671e-16
+  ],
+  [
+   3.30741e-06,
+   2.9347e-16
+  ],
+  [
+   3.30859e-06,
+   2.3922e-16
+  ],
+  [
+   3.30977e-06,
+   2.6286e-16
+  ],
+  [
+   3.31095e-06,
+   2.5352e-16
+  ],
+  [
+   3.31213e-06,
+   2.6687e-16
+  ],
+  [
+   3.31331e-06,
+   2.8756e-16
+  ],
+  [
+   3.31448e-06,
+   2.7582e-16
+  ],
+  [
+   3.31566e-06,
+   2.6342e-16
+  ],
+  [
+   3.31684e-06,
+   2.2146e-16
+  ],
+  [
+   3.31802e-06,
+   2.6517e-16
+  ],
+  [
+   3.3192e-06,
+   2.7016e-16
+  ],
+  [
+   3.32038e-06,
+   2.5845e-16
+  ],
+  [
+   3.32156e-06,
+   2.4261e-16
+  ],
+  [
+   3.32274e-06,
+   2.7041e-16
+  ],
+  [
+   3.32392e-06,
+   2.5024e-16
+  ],
+  [
+   3.3251e-06,
+   2.5068e-16
+  ],
+  [
+   3.32628e-06,
+   2.4675e-16
+  ],
+  [
+   3.32746e-06,
+   2.1961e-16
+  ],
+  [
+   3.32864e-06,
+   2.4405e-16
+  ],
+  [
+   3.32982e-06,
+   2.514e-16
+  ],
+  [
+   3.331e-06,
+   2.4976e-16
+  ],
+  [
+   3.33218e-06,
+   2.4227e-16
+  ],
+  [
+   3.33335e-06,
+   2.4816e-16
+  ],
+  [
+   3.33453e-06,
+   2.4522e-16
+  ],
+  [
+   3.33571e-06,
+   2.589e-16
+  ],
+  [
+   3.33689e-06,
+   2.4796e-16
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "ADMX_2025",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ADMX 2022 run haloscope, DFSZ discovery-ability search, 792-807 MHz (3.27-3.34 ueV). Headline exclusion = orange 'ADMX this work' MB distribution (rho=0.45 GeV/cm^3, boosted Maxwell-Boltzmann, the main scenario) in Fig.4, e-print run1c_sensitivity_prelim_zoomIn1_nov.pdf, opacity-0.9 orange fill (path idx 5; the semi-transparent 0.3 fill is the N-body rho=0.63 alternative, not reported). Curve = lower (deepest) edge of the orange filled excluded region per frequency bin; the region is g_agamma ABOVE the curve. Frequency->mass via m_a=h f (4.13567e-9*f_MHz eV). Axes calibrated from tick labels; DFSZ label ~4.8e-16 and KSVZ ~1.3e-15 verified against g_DFSZ=1.467e-10*m_a, g_KSVZ=3.912e-10*m_a. Limit extends extensively below DFSZ (~2-3e-16) as paper states; spiky band, sampled ~54 points of the deepest-reach envelope. 90% CL.",
+ "num_points": 54,
+ "arxiv_id": "2408.15227",
+ "elapsed_s": 164.52421879768372,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 164220,
+  "duration_api_ms": 160837,
+  "total_cost_usd": 0.8917245000000001,
+  "usage": {
+   "input_tokens": 364,
+   "output_tokens": 10414,
+   "cache_creation_input_tokens": 41208,
+   "cache_read_input_tokens": 434949
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2408.15227.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:37:26-0500"
+ }
+}

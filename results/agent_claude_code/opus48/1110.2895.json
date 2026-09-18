@@ -1,0 +1,198 @@
+{
+ "paper_title": "Cosmological bounds on pseudo Nambu-Goldstone bosons",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   117030.12137601443,
+   4.295636490267305e-09
+  ],
+  [
+   163707.01068340597,
+   2.8022220649282738e-09
+  ],
+  [
+   229000.74811329358,
+   1.7117300311270743e-09
+  ],
+  [
+   320336.5721329105,
+   1.0118050436694241e-09
+  ],
+  [
+   448101.24111514416,
+   6.600424466083589e-10
+  ],
+  [
+   626824.2210122092,
+   3.9015163861705117e-10
+  ],
+  [
+   876829.983933475,
+   3.420966550202072e-10
+  ],
+  [
+   1226549.3178984933,
+   3.09981212057238e-10
+  ],
+  [
+   1715752.4911367465,
+   2.902639281584177e-10
+  ],
+  [
+   2400071.948093962,
+   2.7180082118782765e-10
+  ],
+  [
+   3357328.8605346065,
+   2.7180082118782765e-10
+  ],
+  [
+   4696382.992489083,
+   2.7180082118782765e-10
+  ],
+  [
+   6569512.290383303,
+   2.7180082118782765e-10
+  ],
+  [
+   9189730.011909286,
+   2.7180082118782765e-10
+  ],
+  [
+   12855008.706720762,
+   2.7180082118782765e-10
+  ],
+  [
+   17982165.81289238,
+   2.462846296611066e-10
+  ],
+  [
+   25154264.357152898,
+   1.71575249113675e-10
+  ],
+  [
+   35186919.19167424,
+   1.156646946051898e-10
+  ],
+  [
+   49221049.14784915,
+   7.545288342954833e-11
+  ],
+  [
+   68852622.93120101,
+   4.922104914784915e-11
+  ],
+  [
+   96314153.52944167,
+   3.210893433220626e-11
+  ],
+  [
+   134728580.77406973,
+   2.2368827540734258e-11
+  ],
+  [
+   188464413.71512738,
+   1.6641897938162308e-11
+  ],
+  [
+   263632519.78842756,
+   1.6641897938162308e-11
+  ],
+  [
+   368781055.90295297,
+   1.6641897938162308e-11
+  ],
+  [
+   650812157.966585,
+   1.6641897938162308e-11
+  ],
+  [
+   1009432938.5162783,
+   1.6641897938162308e-11
+  ],
+  [
+   1565666598.0937762,
+   1.6641897938162308e-11
+  ],
+  [
+   2763034708.6748314,
+   1.0505258122422618e-11
+  ],
+  [
+   4285565675.22409,
+   5.814682339603482e-12
+  ],
+  [
+   7182392145.938861,
+   2.7307975246440533e-12
+  ],
+  [
+   11140147154.140211,
+   1.415358517499262e-12
+  ],
+  [
+   19158651330.38349,
+   6.432189304041636e-13
+  ],
+  [
+   29715753576.058365,
+   3.3337711183217897e-13
+  ],
+  [
+   44915425139.70761,
+   1.8452492856515937e-13
+  ],
+  [
+   75275989496.5493,
+   8.385856001650754e-14
+  ],
+  [
+   87889048032.10574,
+   7.115274201866197e-14
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.4,
+ "suggested_experiment_name": "CadamuroRedondo_2011",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ALP two-photon coupling; paper Eq.(1.1) L=-(g/4)F Ftilde phi matches the canonical g_agamma normalisation, so no conversion (g=g_agamma). Figure 1 (m_phi vs g) is a summary plot combining ~12 overlapping cosmological+astro bounds forming one large excluded blob that touches the plot top (m<~1e5 eV, via HB/lab overlays from other refs) and bottom (m>~1e2 eV), so there is no single clean headline curve. Reported curve = lower (exclusion-reach) boundary of the N_eff excluded region (yellow in Fig.1 / Fig.6), which the paper states is its most relevant original contribution (Sec.1: N_eff bound is the most relevant and covers most of parameter space). N_eff occupies the small-coupling/large-lifetime edge, so its lower boundary is the frontier; extracted from the yellow filled band (m~1e5-3e8 eV) plus its dashed continuation (to ~1e11 eV), pixel-traced from the rendered PDF figure and made monotone-descending (a ~1-decade band-to-dashed-line join artifact near 3e8 eV was smoothed by a running-min envelope). Calibration cross-checked with tau=64pi/(m^3 g^2) (Eq.1.2): mid-mass point gives tau~1e2 s (BBN era) as expected. Astrophysical HB and SN regions (blue/cyan, from other references) excluded. BBN bounds quoted at 95% C.L. (Yp<0.2631, D/H). CAVEAT: if the compilation digitised the combined cosmology region outer boundary rather than the N_eff sub-bound, this curve is a lower-edge subset; hence moderate confidence.",
+ "num_points": 37,
+ "arxiv_id": "1110.2895",
+ "elapsed_s": 607.0453128814697,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 606726,
+  "duration_api_ms": 600590,
+  "total_cost_usd": 2.1142575,
+  "usage": {
+   "input_tokens": 517,
+   "output_tokens": 40670,
+   "cache_creation_input_tokens": 73092,
+   "cache_read_input_tokens": 728005
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1110.2895.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:20:33-0500"
+ }
+}

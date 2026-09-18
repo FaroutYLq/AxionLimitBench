@@ -1,0 +1,210 @@
+{
+ "paper_title": "Constraining Rapidly Oscillating Scalar Dark Matter Using Dynamic Decoupling",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.204820878667531e-15,
+   140029648.93374678
+  ],
+  [
+   6.3485781004643865e-15,
+   92849592.06378151
+  ],
+  [
+   9.585293894960936e-15,
+   61565867.029271096
+  ],
+  [
+   1.4472194812576112e-14,
+   40822537.81429861
+  ],
+  [
+   2.1850599990811174e-14,
+   28986781.710077595
+  ],
+  [
+   3.299076098281511e-14,
+   17948162.79273558
+  ],
+  [
+   4.981054573709375e-14,
+   11900905.317475298
+  ],
+  [
+   7.520561492714577e-14,
+   7891144.570676481
+  ],
+  [
+   1.1354793313092002e-13,
+   5603250.002569523
+  ],
+  [
+   1.7143843755275249e-13,
+   3715352.290971728
+  ],
+  [
+   2.5884344223722106e-13,
+   2463542.1656536367
+  ],
+  [
+   3.9081041886302245e-13,
+   2463542.1656536367
+  ],
+  [
+   5.900585395241243e-13,
+   2638153.128165203
+  ],
+  [
+   8.908899641884241e-13,
+   2638153.128165203
+  ],
+  [
+   1.3450952322997474e-12,
+   2300488.147241964
+  ],
+  [
+   2.030869418990171e-12,
+   1873268.3693442154
+  ],
+  [
+   3.066274043613862e-12,
+   1242109.8334816787
+  ],
+  [
+   4.6295623059877145e-12,
+   1242109.8334816787
+  ],
+  [
+   6.989866802564677e-12,
+   3239813.4198347563
+  ],
+  [
+   1.055353285869042e-11,
+   7891144.570676481
+  ],
+  [
+   1.5934074131225596e-11,
+   15650924.629296768
+  ],
+  [
+   2.405779389887618e-11,
+   28986781.710077595
+  ],
+  [
+   3.6323255591398856e-11,
+   28986781.710077595
+  ],
+  [
+   5.4842056686657625e-11,
+   61565867.029271096
+  ],
+  [
+   8.280235713053077e-11,
+   130761531.9622781
+  ],
+  [
+   1.2501774660905435e-10,
+   277728213.1508433
+  ],
+  [
+   1.8875594257017746e-10,
+   277728213.1508433
+  ],
+  [
+   2.8498998599752176e-10,
+   480330318.25964713
+  ],
+  [
+   4.30287338310797e-10,
+   1647631172.3710234
+  ],
+  [
+   6.496621025561239e-10,
+   3747485835.4503317
+  ],
+  [
+   9.80881401610731e-10,
+   8523539929.56528
+  ],
+  [
+   1.4809672909044505e-09,
+   19386526359.522137
+  ],
+  [
+   2.236013562013962e-09,
+   44094050992.216705
+  ],
+  [
+   3.3760074785020646e-09,
+   100290546993.69652
+  ],
+  [
+   5.097208124550161e-09,
+   228107728592.91974
+  ],
+  [
+   7.69593397835368e-09,
+   518823931103.81323
+  ],
+  [
+   1.1619576511682148e-08,
+   1180048888068.9648
+  ],
+  [
+   1.7543622215391998e-08,
+   2683984478646.1343
+  ],
+  [
+   2.648794300953736e-08,
+   6104639184399.922
+  ],
+  [
+   3.999237536367698e-08,
+   13884811878833.635
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.55,
+ "suggested_experiment_name": "DynamicDecoupling_2019",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Headline measured limit is the \"DD current\" (observed, not the \"DD projected\" dashed) 95%-CL exclusion curve from Fig. 2b, the photon-coupling g_phigamma [eV^-1] plane (source file g_DM_gamma_gen_mass_5th_proj_no_title.pdf, a raster figure; boundary traced as the lower edge of the shaded excluded region by pixel analysis, axes calibrated from decade labels). Left/low-mass part is the d_alpha (fine-structure) bound; the transition near m~1e-10 eV (nu_step=50 kHz) switches to the 2d_alpha+d_me region. Chose the photon coupling (ScalarPhoton) over the electron coupling (Fig 2a, g_phie) as the flagship broad-range model-independent alpha bound; the paper reports both g_phie and g_phigamma symmetrically. Converted paper g_phigamma to Damour-Donoghue d_e via delta_alpha = g_phigamma <phi> alpha (Eq.2), i.e. d_e = g_phigamma/kappa with kappa=sqrt(4pi)/M_Pl=2.906e-19 GeV^-1: d_e = g_phigamma[eV^-1]*1e9/kappa = g_phigamma[eV^-1]*3.44e27 (log10 offset +27.54). Density: paper assumes rho_DM=3.1e-6 eV^4 ~ 0.40 GeV/cm^3 (local solar); bound scales as 1/sqrt(rho), reported at paper native density, not rescaled. Curve is the lower envelope (best exclusion reach); the raw curve is jagged (resonance losses) so single-column artifacts were median-smoothed. Physics cross-check: min g~1e-21 implies d_alpha~1e-13, matching Fig.1 deepest Delta f/f0.",
+ "num_points": 40,
+ "arxiv_id": "1902.02788",
+ "elapsed_s": 681.4779200553894,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 35,
+  "duration_ms": 681176,
+  "duration_api_ms": 671634,
+  "total_cost_usd": 2.8027349999999998,
+  "usage": {
+   "input_tokens": 941,
+   "output_tokens": 46317,
+   "cache_creation_input_tokens": 83052,
+   "cache_read_input_tokens": 1619170
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1902.02788.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:21:28-0500"
+ }
+}

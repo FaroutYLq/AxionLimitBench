@@ -1,0 +1,447 @@
+{
+ "paper_title": "First results from the WISPDMX radio frequency cavity searches for hidden photon dark matter",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.06e-10,
+   5.112e-06
+  ],
+  [
+   1.175e-10,
+   4.81e-06
+  ],
+  [
+   1.304e-10,
+   3.838e-06
+  ],
+  [
+   1.446e-10,
+   3.397e-06
+  ],
+  [
+   1.604e-10,
+   6.368e-06
+  ],
+  [
+   1.779e-10,
+   7.646e-06
+  ],
+  [
+   1.973e-10,
+   7.282e-06
+  ],
+  [
+   2.189e-10,
+   3.502e-06
+  ],
+  [
+   2.428e-10,
+   2.52e-06
+  ],
+  [
+   2.693e-10,
+   1.88e-06
+  ],
+  [
+   2.987e-10,
+   4.055e-06
+  ],
+  [
+   3.313e-10,
+   3.418e-06
+  ],
+  [
+   3.674e-10,
+   1.566e-06
+  ],
+  [
+   4.076e-10,
+   2.299e-06
+  ],
+  [
+   4.521e-10,
+   2.023e-06
+  ],
+  [
+   5.014e-10,
+   1.047e-06
+  ],
+  [
+   5.561e-10,
+   1.42e-06
+  ],
+  [
+   6.169e-10,
+   8.612e-07
+  ],
+  [
+   6.842e-10,
+   9.043e-07
+  ],
+  [
+   7.589e-10,
+   6.747e-07
+  ],
+  [
+   8.418e-10,
+   5.9e-07
+  ],
+  [
+   9.337e-10,
+   5.352e-07
+  ],
+  [
+   1.036e-09,
+   4.854e-07
+  ],
+  [
+   1.149e-09,
+   4.323e-07
+  ],
+  [
+   1.274e-09,
+   3.945e-07
+  ],
+  [
+   1.413e-09,
+   3.535e-07
+  ],
+  [
+   1.567e-09,
+   3.245e-07
+  ],
+  [
+   1.739e-09,
+   2.944e-07
+  ],
+  [
+   1.928e-09,
+   2.637e-07
+  ],
+  [
+   2.139e-09,
+   2.407e-07
+  ],
+  [
+   2.372e-09,
+   2.17e-07
+  ],
+  [
+   2.631e-09,
+   1.98e-07
+  ],
+  [
+   2.919e-09,
+   1.829e-07
+  ],
+  [
+   3.237e-09,
+   1.639e-07
+  ],
+  [
+   3.591e-09,
+   1.505e-07
+  ],
+  [
+   3.983e-09,
+   1.365e-07
+  ],
+  [
+   4.418e-09,
+   1.253e-07
+  ],
+  [
+   4.9e-09,
+   1.123e-07
+  ],
+  [
+   5.435e-09,
+   1.018e-07
+  ],
+  [
+   6.028e-09,
+   9.294e-08
+  ],
+  [
+   6.686e-09,
+   8.379e-08
+  ],
+  [
+   7.416e-09,
+   7.553e-08
+  ],
+  [
+   8.226e-09,
+   6.893e-08
+  ],
+  [
+   9.124e-09,
+   6.139e-08
+  ],
+  [
+   1.012e-08,
+   5.534e-08
+  ],
+  [
+   1.123e-08,
+   4.959e-08
+  ],
+  [
+   1.245e-08,
+   4.389e-08
+  ],
+  [
+   1.381e-08,
+   3.791e-08
+  ],
+  [
+   1.532e-08,
+   3.315e-08
+  ],
+  [
+   1.699e-08,
+   3.044e-08
+  ],
+  [
+   1.884e-08,
+   3.336e-08
+  ],
+  [
+   2.09e-08,
+   3.611e-08
+  ],
+  [
+   2.318e-08,
+   3.315e-08
+  ],
+  [
+   2.572e-08,
+   3.044e-08
+  ],
+  [
+   2.852e-08,
+   2.778e-08
+  ],
+  [
+   3.164e-08,
+   2.414e-08
+  ],
+  [
+   3.509e-08,
+   2.111e-08
+  ],
+  [
+   3.892e-08,
+   1.411e-08
+  ],
+  [
+   4.317e-08,
+   6.233e-09
+  ],
+  [
+   4.788e-08,
+   2.32e-09
+  ],
+  [
+   5.311e-08,
+   9.819e-10
+  ],
+  [
+   5.891e-08,
+   3.791e-10
+  ],
+  [
+   6.534e-08,
+   1.835e-10
+  ],
+  [
+   7.247e-08,
+   8.933e-11
+  ],
+  [
+   8.039e-08,
+   5.159e-11
+  ],
+  [
+   8.916e-08,
+   3.167e-11
+  ],
+  [
+   9.89e-08,
+   2.041e-11
+  ],
+  [
+   1.097e-07,
+   1.332e-11
+  ],
+  [
+   1.217e-07,
+   9.126e-12
+  ],
+  [
+   1.35e-07,
+   6.29e-12
+  ],
+  [
+   1.497e-07,
+   4.581e-12
+  ],
+  [
+   1.66e-07,
+   3.567e-12
+  ],
+  [
+   1.842e-07,
+   2.864e-12
+  ],
+  [
+   2.043e-07,
+   2.795e-12
+  ],
+  [
+   2.266e-07,
+   2.163e-12
+  ],
+  [
+   2.513e-07,
+   1.394e-12
+  ],
+  [
+   2.787e-07,
+   9.909e-13
+  ],
+  [
+   3.092e-07,
+   8.004e-13
+  ],
+  [
+   3.429e-07,
+   7.394e-13
+  ],
+  [
+   3.804e-07,
+   7.394e-13
+  ],
+  [
+   4.219e-07,
+   7.67e-13
+  ],
+  [
+   4.679e-07,
+   7.859e-13
+  ],
+  [
+   5.19e-07,
+   7.042e-13
+  ],
+  [
+   5.757e-07,
+   5.384e-13
+  ],
+  [
+   6.385e-07,
+   4.539e-13
+  ],
+  [
+   7.083e-07,
+   4.349e-13
+  ],
+  [
+   7.856e-07,
+   3.826e-13
+  ],
+  [
+   8.573e-07,
+   4.155e-14
+  ],
+  [
+   8.713e-07,
+   1.886e-13
+  ],
+  [
+   9.665e-07,
+   3.387e-13
+  ],
+  [
+   1.072e-06,
+   3.969e-13
+  ],
+  [
+   1.189e-06,
+   3.11e-13
+  ],
+  [
+   1.319e-06,
+   1.324e-13
+  ],
+  [
+   1.339e-06,
+   3.1e-14
+  ],
+  [
+   1.463e-06,
+   3.556e-13
+  ],
+  [
+   1.623e-06,
+   4.067e-13
+  ],
+  [
+   1.8e-06,
+   3.226e-13
+  ],
+  [
+   1.887e-06,
+   4.104e-14
+  ],
+  [
+   1.996e-06,
+   3.129e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "WISPDMX_2019",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Curve digitised from Figure 19 of the paper (combined 95% CL exclusion on kinetic mixing chi from resonant and broadband WISPDMX signal scans, Eq. 5.2, rho_DM = 0.3 GeV/cm^3, V = 447 L, isotropic hidden-photon polarization assumption). The WISPDMX curve in figure19.pdf of the e-print is stored as two embedded raster layers (filled excluded region + limit line); the lower boundary of the excluded region was extracted per pixel column with axes calibrated from the vector gridlines (x: log10 m from -10 to 0, y: log10 chi from -16 to -4), then downsampled to a 0.045-dex grid (median within each bin) with the three deep resonant-mode dips (TM010 ~0.86 ueV, TE111 ~1.34 ueV, TM020 ~1.89 ueV, chi ~3-4e-14) added explicitly. Curve spans 1e-10 eV to 2.07e-6 eV as plotted; the paper quotes improvement over previous limits for 0.4 neV to 2.07 ueV. Plateau level ~1e-12 over 0.2-2.07 ueV matches the abstract. Bottom envelope of the plotted noisy limit curve was used (the visible boundary of the shaded excluded region); the instantaneous limit fluctuates upward from it in RFI channels.",
+ "num_points": 99,
+ "arxiv_id": "1907.12449",
+ "elapsed_s": 301.8466339111328,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 301265,
+  "duration_api_ms": 294257,
+  "total_cost_usd": 2.3996389999999996,
+  "usage": {
+   "input_tokens": 677,
+   "output_tokens": 18784,
+   "cache_creation_input_tokens": 50362,
+   "cache_read_input_tokens": 762464
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1907.12449.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:11:11-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

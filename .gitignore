@@ -1,0 +1,7 @@
+**/work/
+*.events.jsonl
+*.pyc
+.DS_Store
+__pycache__/
+baselines/*/runs/*/work/
+results/*/*/work/

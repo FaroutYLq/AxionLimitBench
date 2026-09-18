@@ -1,0 +1,79 @@
+{
+ "paper_title": "Stellar limits on scalars from electron-nucleus bremsstrahlung",
+ "coupling_type": "ScalarBaryon",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.001,
+   6.5e-13
+  ],
+  [
+   0.01,
+   6.5e-13
+  ],
+  [
+   0.1,
+   6.5e-13
+  ],
+  [
+   1.0,
+   6.5e-13
+  ],
+  [
+   10.0,
+   6.5e-13
+  ],
+  [
+   100.0,
+   6.5e-13
+  ],
+  [
+   1000.0,
+   6.5e-13
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "WDLF_2023",
+ "coupling_convention": "coupling (dimensionless)",
+ "notes": "White-dwarf luminosity function bound on a baryophilic scalar (Yukawa coupling g_B to baryon number, L = g_B phi (p-bar p + n-bar n), g_n = g_p = g_B) from electron-nucleus bremsstrahlung, Bottaro/Caputo/Raffelt/Vitagliano. Eq. (4.11a): alpha_B = g_B^2/4pi <= 3.4e-26 at nominal 95% CL, i.e. g_B <= 6.5e-13 (abstract quotes 7e-13). The bound is mass-independent for m_phi <~ 1 keV; verified from the vector paths of Fig. 3 (HiggsPortal.pdf in the e-print) that the 'WD Bremsstrahlung (this work)' curve is exactly flat over the full plotted range 1e-3 eV to 1e3 eV, so the flat line is reported over that range. The paper also bounds a leptophilic scalar (alpha_e <= 1.2e-32, g_L <= 4e-16) and the Higgs-portal mixing (sin theta <= 1.9e-10), but presents the baryophilic bound first and notes it is the most restrictive existing limit for baryophilic scalars, so g_B is taken as the main result. Stellar energy-loss bound: no dark-matter density assumed.",
+ "num_points": 7,
+ "arxiv_id": "2303.00778",
+ "elapsed_s": 219.51327991485596,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 219221,
+  "duration_api_ms": 217212,
+  "total_cost_usd": 2.0670669999999998,
+  "usage": {
+   "input_tokens": 468,
+   "output_tokens": 13622,
+   "cache_creation_input_tokens": 54723,
+   "cache_read_input_tokens": 638832
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2303.00778.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:06:46-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

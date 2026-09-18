@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/FaroutYLq/AxionLimitBench/schema/prediction.schema.json",
+  "title": "AxionLimitBench prediction (one paper)",
+  "description": "What a system emits per paper. The scorer keys on arxiv_id and reads coupling_type, is_new_limit, is_projection, data_points and coupling_convention; the rest is metadata kept for analysis. Unknown keys (e.g. a `meta` block) are ignored by the scorer.",
+  "type": "object",
+  "required": ["arxiv_id", "coupling_type", "is_new_limit", "is_projection", "data_points"],
+  "properties": {
+    "arxiv_id": {"type": "string", "description": "Canonical arXiv identifier, e.g. 2208.07293 or hep-ph/0307284"},
+    "paper_title": {"type": ["string", "null"]},
+    "coupling_type": {
+      "type": ["string", "null"],
+      "enum": ["AxionPhoton", "AxionElectron", "AxionNeutron", "AxionProton", "AxionEDM", "AxionMass", "AxionCPV", "DarkPhoton", "VectorBL", "ScalarPhoton", "ScalarElectron", "ScalarNucleon", "ScalarBaryon", "MonopoleDipole", null]
+    },
+    "is_new_limit": {"type": "boolean", "description": "The paper reports its own measured exclusion on one of the couplings"},
+    "is_projection": {"type": "boolean", "description": "Forecast / sensitivity projection rather than a measured limit"},
+    "data_points": {
+      "type": "array",
+      "description": "Boundary of the excluded region as [mass_eV, coupling] pairs in the canonical plane for coupling_type (see docs/TASK.md). Empty when abstaining.",
+      "items": {"type": "array", "minItems": 2, "maxItems": 2, "items": {"type": "number", "exclusiveMinimum": 0}}
+    },
+    "data_source": {"type": ["string", "null"], "enum": ["table", "text", "figure_vision", "figure_vector", "ancillary_file", "none", "unknown", null]},
+    "dm_density_assumed": {"type": ["number", "null"], "description": "Local DM density assumed by the paper in GeV/cm^3, null if the limit does not depend on it"},
+    "confidence_level": {"type": ["number", "null"]},
+    "coupling_convention": {"type": ["string", "null"], "description": "Free-text declaration of the variable and units actually emitted, e.g. 'g_agamma [GeV^-1]'"},
+    "suggested_experiment_name": {"type": ["string", "null"]},
+    "extraction_confidence": {"type": ["number", "null"], "minimum": 0, "maximum": 1},
+    "notes": {"type": ["string", "null"]},
+    "num_points": {"type": ["integer", "null"]},
+    "elapsed_s": {"type": ["number", "null"]},
+    "meta": {"type": "object", "description": "System/run provenance (transport, model billed, cost, turns, audit flags). Not read by the scorer."}
+  }
+}

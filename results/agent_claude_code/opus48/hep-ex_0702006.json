@@ -1,0 +1,142 @@
+{
+ "paper_title": "An improved limit on the axion-photon coupling from the CAST experiment",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-05,
+   8.8659e-11
+  ],
+  [
+   0.0051397,
+   8.8659e-11
+  ],
+  [
+   0.0072642,
+   8.9235e-11
+  ],
+  [
+   0.010267,
+   9.0397e-11
+  ],
+  [
+   0.01451,
+   9.5201e-11
+  ],
+  [
+   0.020508,
+   1.112e-10
+  ],
+  [
+   0.028985,
+   1.608e-10
+  ],
+  [
+   0.040965,
+   2.3405e-10
+  ],
+  [
+   0.057897,
+   3.1521e-10
+  ],
+  [
+   0.082446,
+   4.9263e-10
+  ],
+  [
+   0.11652,
+   6.3819e-10
+  ],
+  [
+   0.16469,
+   1.092e-09
+  ],
+  [
+   0.23276,
+   1.3433e-09
+  ],
+  [
+   0.32896,
+   1.9052e-09
+  ],
+  [
+   0.46494,
+   2.8273e-09
+  ],
+  [
+   0.65711,
+   3.7104e-09
+  ],
+  [
+   0.92871,
+   5.6508e-09
+  ],
+  [
+   1.3126,
+   7.6596e-09
+  ],
+  [
+   1.8551,
+   1.1149e-08
+  ],
+  [
+   2.6219,
+   1.4073e-08
+  ],
+  [
+   3.7056,
+   2.2138e-08
+  ],
+  [
+   5.2373,
+   2.9241e-08
+  ],
+  [
+   7.4579,
+   4.0675e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": "CAST_2007",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "CAST phase I (vacuum) solar-axion helioscope. Headline result Eq.(21): g_agamma < 8.8e-11 GeV^-1 at 95% CL for m_a <~ 0.02 eV, valid where the axion-photon oscillation length exceeds the magnet length. Curve traced from the blue 'CAST phase I' vector path in figure8.eps (e-print, ROOT EPS) '0 0 1 c 317 1000 m 830 X ... d s'. X-axis calibration: x=317px -> 1e-5 eV, 306.17 px/decade (major ticks 10^-5..10^1). Y-axis: y=307px -> 1e-12 GeV^-1, 355.8 px/decade (10^-12..10^-7). Flat portion recovers g=8.87e-11, matching the quoted 8.8e-11. Above ~0.02 eV coherence is lost and the limit degrades, rising to ~4.1e-8 GeV^-1 at 7.46 eV (the right edge of the plotted curve). First point at 1e-5 eV is the left frame edge (flat line extends to arbitrarily low mass). Not a dark-matter search, so dm_density is null.",
+ "num_points": 23,
+ "arxiv_id": "hep-ex/0702006",
+ "elapsed_s": 134.93026089668274,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 134400,
+  "duration_api_ms": 132521,
+  "total_cost_usd": 1.3767054999999997,
+  "usage": {
+   "input_tokens": 606,
+   "output_tokens": 9375,
+   "cache_creation_input_tokens": 63347,
+   "cache_read_input_tokens": 1011661
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "hep-ex_0702006.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T03:20:21-0500"
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "paper_title": "Neutron Stars with Exceptionally Light QCD Axions",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2e-09,
+   7.846e-16
+  ],
+  [
+   5e-09,
+   1.961e-15
+  ],
+  [
+   1e-08,
+   3.923e-15
+  ],
+  [
+   3e-08,
+   1.177e-14
+  ],
+  [
+   1e-07,
+   3.923e-14
+  ],
+  [
+   3e-07,
+   1.177e-13
+  ],
+  [
+   1e-06,
+   3.923e-13
+  ],
+  [
+   3e-06,
+   1.177e-12
+  ],
+  [
+   1e-05,
+   3.923e-12
+  ],
+  [
+   0.0001,
+   3.923e-11
+  ],
+  [
+   0.001,
+   3.923e-10
+  ],
+  [
+   0.01,
+   3.923e-09
+  ],
+  [
+   0.01,
+   2.481e-06
+  ],
+  [
+   0.001,
+   2.481e-07
+  ],
+  [
+   0.0001,
+   2.481e-08
+  ],
+  [
+   1e-05,
+   2.481e-09
+  ],
+  [
+   3e-06,
+   7.443e-10
+  ],
+  [
+   1e-06,
+   2.481e-10
+  ],
+  [
+   3e-07,
+   7.443e-11
+  ],
+  [
+   1e-07,
+   2.481e-11
+  ],
+  [
+   3e-08,
+   7.443e-12
+  ],
+  [
+   1e-08,
+   2.481e-12
+  ],
+  [
+   5e-09,
+   1.241e-12
+  ],
+  [
+   2e-09,
+   4.962e-13
+  ],
+  [
+   2e-09,
+   7.846e-16
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.55,
+ "suggested_experiment_name": "Kumamoto_2025",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Exceptionally light QCD axion constrained by neutron-star observables. Headline = Fig.18 left (Combined constraint), pink Scenario A (K_sigma=0), which the paper explicitly designates as the conservative benchmark. The excluded region is a diagonal BAND in the (m_a,1/f_a) plane, not a single curve: the paper excludes epsilon=(m_a/m_a^QCD)^2 in [5e-7, 0.2] for m_a >~ 2e-9 eV (abstract; Tables IV/V/VII combined Scenario A give union [5.2e-7,0.17] from NS cooling+crust relaxation+glitches). Converted to canonical plane via 1/f_a = m_a[eV]/(sqrt(epsilon)*5.7e6 GeV) using m_a^QCD=5.7ueV*(1e12GeV/f_a). data_points trace the closed boundary polygon: lower edge (epsilon=0.2, closest to QCD line) left->right at 1/f_a=3.92e-7*m_a, then upper edge (epsilon=5e-7) right->left at 1/f_a=2.48e-4*m_a. There is a gap between the band lower edge and the QCD line (0.2<epsilon<1 not excluded). Reconstruction cross-checked against rasterized Fig.18 (constraint_combined_new.pdf). No stated CL (theoretical/observational estimate); dm_density not applicable. Scenarios B,C (K_sigma=0.08,0.16) give stronger bounds toward QCD line but Scenario A is the reported conservative headline.",
+ "num_points": 25,
+ "arxiv_id": "2410.21590",
+ "elapsed_s": 308.0811719894409,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 307740,
+  "duration_api_ms": 300385,
+  "total_cost_usd": 1.6750534999999998,
+  "usage": {
+   "input_tokens": 495,
+   "output_tokens": 19832,
+   "cache_creation_input_tokens": 74037,
+   "cache_read_input_tokens": 872817
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2410.21590.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:54:09-0500"
+ }
+}

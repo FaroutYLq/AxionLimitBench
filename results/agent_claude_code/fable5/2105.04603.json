@@ -1,0 +1,447 @@
+{
+ "paper_title": "New constraints on axion-like dark matter using a Floquet quantum detector",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.12722e-15,
+   4.62138e-05
+  ],
+  [
+   4.42826e-15,
+   4.03884e-05
+  ],
+  [
+   4.75127e-15,
+   3.42139e-05
+  ],
+  [
+   5.09783e-15,
+   2.93146e-05
+  ],
+  [
+   5.46968e-15,
+   2.41201e-05
+  ],
+  [
+   5.86864e-15,
+   2.06722e-05
+  ],
+  [
+   6.29671e-15,
+   1.72436e-05
+  ],
+  [
+   6.756e-15,
+   1.4601e-05
+  ],
+  [
+   7.2488e-15,
+   1.1596e-05
+  ],
+  [
+   7.75376e-15,
+   9.92532e-06
+  ],
+  [
+   8.31934e-15,
+   8.49538e-06
+  ],
+  [
+   8.92616e-15,
+   1.03687e-05
+  ],
+  [
+   9.57725e-15,
+   8.85677e-06
+  ],
+  [
+   1.02758e-14,
+   6.55893e-06
+  ],
+  [
+   1.10254e-14,
+   6.19581e-06
+  ],
+  [
+   1.18296e-14,
+   4.14175e-06
+  ],
+  [
+   1.26924e-14,
+   2.76302e-06
+  ],
+  [
+   1.36182e-14,
+   3.29411e-06
+  ],
+  [
+   1.45669e-14,
+   3.50193e-06
+  ],
+  [
+   1.56295e-14,
+   4.05223e-06
+  ],
+  [
+   1.67695e-14,
+   4.04869e-06
+  ],
+  [
+   1.79927e-14,
+   4.27226e-06
+  ],
+  [
+   1.93051e-14,
+   3.9855e-06
+  ],
+  [
+   2.07132e-14,
+   3.65143e-06
+  ],
+  [
+   2.22241e-14,
+   3.76211e-06
+  ],
+  [
+   2.38452e-14,
+   3.70447e-06
+  ],
+  [
+   2.55845e-14,
+   3.60125e-06
+  ],
+  [
+   2.74506e-14,
+   3.51932e-06
+  ],
+  [
+   2.94529e-14,
+   3.35806e-06
+  ],
+  [
+   3.15047e-14,
+   2.88938e-06
+  ],
+  [
+   3.38027e-14,
+   2.35773e-06
+  ],
+  [
+   3.62683e-14,
+   1.6116e-06
+  ],
+  [
+   3.89138e-14,
+   1.5054e-06
+  ],
+  [
+   4.17522e-14,
+   1.45368e-06
+  ],
+  [
+   4.4885e-14,
+   2.47013e-07
+  ],
+  [
+   4.80653e-14,
+   7.47274e-08
+  ],
+  [
+   5.15713e-14,
+   8.88709e-08
+  ],
+  [
+   5.53329e-14,
+   7.0539e-08
+  ],
+  [
+   5.9369e-14,
+   6.5546e-08
+  ],
+  [
+   6.36995e-14,
+   7.57797e-08
+  ],
+  [
+   6.81369e-14,
+   1.09006e-07
+  ],
+  [
+   7.31069e-14,
+   9.95786e-08
+  ],
+  [
+   7.84395e-14,
+   1.18962e-07
+  ],
+  [
+   8.4161e-14,
+   7.63225e-08
+  ],
+  [
+   9.02998e-14,
+   9.04116e-08
+  ],
+  [
+   9.68864e-14,
+   9.26514e-08
+  ],
+  [
+   1.03953e-13,
+   1.11902e-07
+  ],
+  [
+   1.11536e-13,
+   1.07195e-07
+  ],
+  [
+   1.19672e-13,
+   8.70009e-08
+  ],
+  [
+   1.28008e-13,
+   8.8845e-08
+  ],
+  [
+   1.37345e-13,
+   8.47001e-08
+  ],
+  [
+   1.47364e-13,
+   9.00961e-08
+  ],
+  [
+   1.58112e-13,
+   1.0054e-07
+  ],
+  [
+   1.69645e-13,
+   1.16492e-07
+  ],
+  [
+   1.8202e-13,
+   1.1558e-07
+  ],
+  [
+   1.95296e-13,
+   1.23194e-07
+  ],
+  [
+   2.09542e-13,
+   1.1558e-07
+  ],
+  [
+   2.24826e-13,
+   8.04198e-08
+  ],
+  [
+   2.41225e-13,
+   9.35464e-08
+  ],
+  [
+   2.5882e-13,
+   9.83246e-08
+  ],
+  [
+   2.7685e-13,
+   1.28247e-07
+  ],
+  [
+   2.97044e-13,
+   1.29091e-07
+  ],
+  [
+   3.18711e-13,
+   1.1917e-07
+  ],
+  [
+   3.41959e-13,
+   1.3852e-07
+  ],
+  [
+   3.66901e-13,
+   1.58454e-07
+  ],
+  [
+   3.93664e-13,
+   1.49355e-07
+  ],
+  [
+   4.22378e-13,
+   6.9438e-08
+  ],
+  [
+   4.53187e-13,
+   4.6296e-08
+  ],
+  [
+   4.86243e-13,
+   5.07825e-08
+  ],
+  [
+   5.20116e-13,
+   7.61781e-08
+  ],
+  [
+   5.58054e-13,
+   9.29488e-08
+  ],
+  [
+   5.9876e-13,
+   7.91646e-08
+  ],
+  [
+   6.42434e-13,
+   6.73559e-08
+  ],
+  [
+   6.89294e-13,
+   6.93167e-08
+  ],
+  [
+   7.39573e-13,
+   7.74311e-08
+  ],
+  [
+   7.93518e-13,
+   9.31385e-08
+  ],
+  [
+   8.51399e-13,
+   8.37554e-08
+  ],
+  [
+   9.13501e-13,
+   8.63947e-08
+  ],
+  [
+   9.80133e-13,
+   9.95786e-08
+  ],
+  [
+   1.05163e-12,
+   1.1249e-07
+  ],
+  [
+   1.12488e-12,
+   1.44687e-07
+  ],
+  [
+   1.20694e-12,
+   2.17295e-07
+  ],
+  [
+   1.29497e-12,
+   2.42309e-07
+  ],
+  [
+   1.38943e-12,
+   2.75447e-07
+  ],
+  [
+   1.49078e-12,
+   3.49161e-07
+  ],
+  [
+   1.59951e-12,
+   3.89354e-07
+  ],
+  [
+   1.71619e-12,
+   4.3291e-07
+  ],
+  [
+   1.84137e-12,
+   4.65141e-07
+  ],
+  [
+   1.97568e-12,
+   5.98185e-07
+  ],
+  [
+   2.11331e-12,
+   7.85703e-07
+  ],
+  [
+   2.26746e-12,
+   1.09967e-06
+  ],
+  [
+   2.43285e-12,
+   1.31583e-06
+  ],
+  [
+   2.61031e-12,
+   1.42102e-06
+  ],
+  [
+   2.8007e-12,
+   1.76495e-06
+  ],
+  [
+   3.00499e-12,
+   2.14162e-06
+  ],
+  [
+   3.22418e-12,
+   2.84926e-06
+  ],
+  [
+   3.45936e-12,
+   2.97436e-06
+  ],
+  [
+   3.71169e-12,
+   3.54504e-06
+  ],
+  [
+   3.97025e-12,
+   5.26239e-06
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "NASDUCK_2022",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "NASDUCK Floquet (Bloch et al., Sci. Adv. 8, eabl8919; arXiv:2105.04603). Curve is the bright-blue 'Mean' line (binned log-space average of the dense 95% C.L. bound band) of Fig. 2, the paper's headline ALP-neutron limit over 4e-15 to 4e-12 eV. Extracted programmatically from the vector figure rendered at 400 dpi: axes calibrated from vector tick-mark coordinates (x major ticks at 1e-14/1e-13/1e-12 eV, y decade spacing 10.778 pt), per-column median of the dark-blue 1-sigma band pixels (whose center is the mean line), median-filtered and binned to ~100 log-spaced masses; overlay-verified. Paper reports g_aNN in GeV^-1 defined via H = gamma_Xe b_DM cos(...) . I_Xe with b_DM = eps_N g_aNN sqrt(2 rho_DM hbar c^3) v / gamma_Xe (Eqs. 1-2), i.e. a gradient coupling in GeV^-1; converted to canonical dimensionless g_an with the compilation's 2m_N rule: g_an = 2 x 0.93957 GeV x g_aNN. Caveat: since the paper's Hamiltonian couples to the spin operator I (=sigma/2), a literal matching would give g_an = m_n g_aNN, a factor 2 below; the 2m_N rule was applied as instructed. Assumes eps_N = 0.63 (NNLOGO(394) nuclear model) and rho_DM = 0.4 GeV/cm^3. Proton-coupling and quadratic-coupling bounds (Fig. 3) also reported by the paper are not included. The paper's precise tabulated bounds are on Zenodo (record 5598215), not used here (outside allowed inputs); the actual per-frequency bounds fluctuate around the reported mean by up to the 'worst/best' band (roughly factor ~2-3).",
+ "num_points": 99,
+ "arxiv_id": "2105.04603",
+ "elapsed_s": 499.6567380428314,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 30,
+  "duration_ms": 499290,
+  "duration_api_ms": 492209,
+  "total_cost_usd": 4.165097499999999,
+  "usage": {
+   "input_tokens": 903,
+   "output_tokens": 36336,
+   "cache_creation_input_tokens": 76868,
+   "cache_read_input_tokens": 1316685
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2105.04603.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:33:46-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

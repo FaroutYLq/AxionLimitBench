@@ -1,0 +1,98 @@
+{
+ "paper_title": "Nuclear decay anomalies as a signature of axion dark matter",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.7e-23,
+   1.0638e-13
+  ],
+  [
+   2.9973e-23,
+   1.8791e-13
+  ],
+  [
+   5.2845e-23,
+   3.3192e-13
+  ],
+  [
+   9.3172e-23,
+   5.8628e-13
+  ],
+  [
+   1.6427e-22,
+   1.0356e-12
+  ],
+  [
+   2.8963e-22,
+   1.8292e-12
+  ],
+  [
+   5.1065e-22,
+   3.231e-12
+  ],
+  [
+   9.0033e-22,
+   5.7071e-12
+  ],
+  [
+   1.5874e-21,
+   1.0081e-11
+  ],
+  [
+   2.7987e-21,
+   1.7806e-11
+  ],
+  [
+   4.9345e-21,
+   3.1452e-11
+  ],
+  [
+   8.7e-21,
+   5.5556e-11
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "TritiumDecay_2023",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Headline result: axion DM search via periodic variation in 3H (tritium) beta-decay rate from 12 yr of JRC data. Abstract/conclusions/Fig.3 exclude axion decay constants f_a below 9.4e12 - 1.8e10 GeV (95% CL) for masses 1.7e-23 - 8.7e-21 eV. Reported in the AxionMass plane 1/f_a [GeV^-1] (the 'Tritium decay' region of Fig.3). Boundary of the excluded region is the two quoted endpoints, (m_a, f_a) = (1.7e-23 eV, 9.4e12 GeV) and (8.7e-21 eV, 1.8e10 GeV), converted to 1/f_a = (1.064e-13, 5.556e-11) GeV^-1. The product f_a*m_a is nearly constant (1.6e-10 GeV.eV), i.e. slope ~1 in log-log (consistent with Eq.13 effect ~ (1/(m_a f_a))^2); intermediate points are log-linear interpolation. Excluded region lies ABOVE this line (larger 1/f_a). Limit depends on local DM density via rho_DM/(0.45 GeV/cm^3) in Eqs.12-13, so dm_density_assumed=0.45; not rescaled. 'Tritium decay future' curves in Fig.3 are projections and excluded from the reported curve.",
+ "num_points": 12,
+ "arxiv_id": "2303.09865",
+ "elapsed_s": 61.41489386558533,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 5,
+  "duration_ms": 61093,
+  "duration_api_ms": 59554,
+  "total_cost_usd": 0.413758,
+  "usage": {
+   "input_tokens": 111,
+   "output_tokens": 4728,
+   "cache_creation_input_tokens": 25768,
+   "cache_read_input_tokens": 74646
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2303.09865.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:20:41-0500"
+ }
+}

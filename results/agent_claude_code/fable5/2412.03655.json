@@ -1,0 +1,379 @@
+{
+ "paper_title": "Stepping Up Superradiance Constraints on Axions",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.8019e-13,
+   1.0663e-18
+  ],
+  [
+   1.8019e-13,
+   4.1728e-16
+  ],
+  [
+   1.8828e-13,
+   2.1547e-15
+  ],
+  [
+   1.9674e-13,
+   4.8058e-15
+  ],
+  [
+   2.0558e-13,
+   7.8056e-15
+  ],
+  [
+   2.1481e-13,
+   9.5836e-15
+  ],
+  [
+   2.2446e-13,
+   1.1126e-14
+  ],
+  [
+   2.3455e-13,
+   1.3918e-14
+  ],
+  [
+   2.4508e-13,
+   2.8277e-14
+  ],
+  [
+   2.5609e-13,
+   3.4076e-14
+  ],
+  [
+   2.676e-13,
+   4.1064e-14
+  ],
+  [
+   2.7962e-13,
+   5.4324e-14
+  ],
+  [
+   2.9218e-13,
+   6.1902e-14
+  ],
+  [
+   3.053e-13,
+   6.7954e-14
+  ],
+  [
+   3.1902e-13,
+   7.3218e-14
+  ],
+  [
+   3.3335e-13,
+   7.7433e-14
+  ],
+  [
+   3.4833e-13,
+   8.3432e-14
+  ],
+  [
+   3.6397e-13,
+   9.507e-14
+  ],
+  [
+   3.8032e-13,
+   1.1457e-13
+  ],
+  [
+   3.9741e-13,
+   1.2814e-13
+  ],
+  [
+   4.1526e-13,
+   1.4066e-13
+  ],
+  [
+   4.3391e-13,
+   1.6638e-13
+  ],
+  [
+   4.5341e-13,
+   1.9316e-13
+  ],
+  [
+   4.7378e-13,
+   2.2425e-13
+  ],
+  [
+   4.9506e-13,
+   2.5553e-13
+  ],
+  [
+   5.173e-13,
+   2.8051e-13
+  ],
+  [
+   5.4054e-13,
+   3.0793e-13
+  ],
+  [
+   5.6482e-13,
+   3.444e-13
+  ],
+  [
+   5.9019e-13,
+   3.7108e-13
+  ],
+  [
+   6.167e-13,
+   3.9244e-13
+  ],
+  [
+   6.4441e-13,
+   4.0736e-13
+  ],
+  [
+   6.7336e-13,
+   4.3081e-13
+  ],
+  [
+   7.036e-13,
+   4.3892e-13
+  ],
+  [
+   7.3521e-13,
+   4.6419e-13
+  ],
+  [
+   7.6824e-13,
+   4.9091e-13
+  ],
+  [
+   8.0275e-13,
+   5.1916e-13
+  ],
+  [
+   8.3881e-13,
+   5.5939e-13
+  ],
+  [
+   8.7649e-13,
+   6.2564e-13
+  ],
+  [
+   9.1587e-13,
+   6.7411e-13
+  ],
+  [
+   9.5701e-13,
+   7.2633e-13
+  ],
+  [
+   1e-12,
+   7.9734e-13
+  ],
+  [
+   1.0449e-12,
+   8.5912e-13
+  ],
+  [
+   1.0919e-12,
+   9.4311e-13
+  ],
+  [
+   1.1409e-12,
+   1.0162e-12
+  ],
+  [
+   1.1922e-12,
+   1.0949e-12
+  ],
+  [
+   1.2457e-12,
+   1.1579e-12
+  ],
+  [
+   1.3017e-12,
+   1.2019e-12
+  ],
+  [
+   1.3602e-12,
+   1.2246e-12
+  ],
+  [
+   1.4213e-12,
+   1.2476e-12
+  ],
+  [
+   1.4851e-12,
+   1.2711e-12
+  ],
+  [
+   1.5518e-12,
+   1.2951e-12
+  ],
+  [
+   1.6215e-12,
+   1.3443e-12
+  ],
+  [
+   1.6944e-12,
+   1.5318e-12
+  ],
+  [
+   1.7705e-12,
+   1.6816e-12
+  ],
+  [
+   1.85e-12,
+   1.8807e-12
+  ],
+  [
+   1.9331e-12,
+   2.1035e-12
+  ],
+  [
+   2.02e-12,
+   2.442e-12
+  ],
+  [
+   2.1107e-12,
+   2.6808e-12
+  ],
+  [
+   2.2055e-12,
+   2.8351e-12
+  ],
+  [
+   2.3046e-12,
+   3.0547e-12
+  ],
+  [
+   2.4081e-12,
+   3.3534e-12
+  ],
+  [
+   2.5163e-12,
+   3.5464e-12
+  ],
+  [
+   2.6293e-12,
+   3.5464e-12
+  ],
+  [
+   2.7475e-12,
+   3.1708e-12
+  ],
+  [
+   2.8709e-12,
+   2.442e-12
+  ],
+  [
+   2.9998e-12,
+   1.6505e-12
+  ],
+  [
+   3.1346e-12,
+   1.0162e-12
+  ],
+  [
+   3.2754e-12,
+   5.2894e-13
+  ],
+  [
+   3.5763e-12,
+   2.5553e-13
+  ],
+  [
+   3.737e-12,
+   1.9316e-13
+  ],
+  [
+   3.9048e-12,
+   1.7927e-13
+  ],
+  [
+   4.0803e-12,
+   1.727e-13
+  ],
+  [
+   4.2635e-12,
+   1.8608e-13
+  ],
+  [
+   4.4551e-12,
+   2.201e-13
+  ],
+  [
+   4.6552e-12,
+   2.5553e-13
+  ],
+  [
+   4.8643e-12,
+   3.3804e-13
+  ],
+  [
+   5.0828e-12,
+   4.1503e-13
+  ],
+  [
+   5.3112e-12,
+   5.1916e-13
+  ],
+  [
+   5.5498e-12,
+   6.2564e-13
+  ],
+  [
+   5.7991e-12,
+   6.868e-13
+  ],
+  [
+   5.954e-12,
+   7.5394e-13
+  ],
+  [
+   5.954e-12,
+   1.0663e-18
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "BlackHoleSpins_2024",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Digitised from Fig. 1 (mainlim.jpeg in the e-print) of Witte & Mummery, arXiv:2412.03655: 2-sigma black-hole superradiance exclusion on the axion decay constant from the inferred spins of Cyg X-1 (conservative spin inference) and GRS 1915+105, computed with n<=5 superradiant levels. The figure plots 1/f_a [GeV^-1] vs m_a [eV] directly, so no conversion was applied. The reported curve is the upper boundary of the paper's fiducial (dark blue) excluded region, which covers the m<=2 spin-down region (m_a ~ 1.8e-13 to 6.0e-12 eV); the excluded region extends below the curve to arbitrarily small 1/f_a (first and last points close the region at the plot floor, 1/f_a ~ 1e-18 GeV^-1). The lighter shaded extension up to m_a ~ 1.1e-11 eV (m>2 spin-down, potentially altered by higher-order levels) was NOT included. Axis calibration from major tick pixels (262 px/decade in m_a, 123.4 px/decade in 1/f_a). Limit is astrophysical (BH spins), independent of the local dark-matter density.",
+ "num_points": 82,
+ "arxiv_id": "2412.03655",
+ "elapsed_s": 194.85030603408813,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 194535,
+  "duration_api_ms": 188950,
+  "total_cost_usd": 1.6452825,
+  "usage": {
+   "input_tokens": 401,
+   "output_tokens": 13526,
+   "cache_creation_input_tokens": 42062,
+   "cache_read_input_tokens": 380825
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2412.03655.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:26:52-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

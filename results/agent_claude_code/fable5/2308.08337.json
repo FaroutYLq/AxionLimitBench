@@ -1,0 +1,59 @@
+{
+ "paper_title": "First results of the SUPAX Experiment: Probing Dark Photons",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.4338e-05,
+   6.2e-14
+  ],
+  [
+   3.434e-05,
+   6.2e-14
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "SUPAX_2023",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Single-frequency proof-of-concept limit at the cavity resonance f0 = 8303.06 MHz (m_A' = 34.34 ueV), Eq. (18): chi < (6.20 +/- 3.15(exp.) +/- 9.65(SG)) x 10^-14 at 95% CL for the randomly polarised dark-photon scenario (the paper's headline result, also quoted in abstract and conclusion; the fixed-polarisation scenario chi < 38e-14 is not used). Central value 6.20e-14 reported as a flat limit over the sensitive region, taken as the FWHM of the cavity peak f0/QL ~ 0.55 MHz (QL = 15096), i.e. masses 3.4338e-5 to 3.4340e-5 eV. Paper assumes rho_DM = 0.45 GeV/cm^3, matching the compilation convention, so no rescaling applied. Limit already includes the factor-5 correction for unaccounted analysis losses found in the signal-injection validation.",
+ "num_points": 2,
+ "arxiv_id": "2308.08337",
+ "elapsed_s": 28.56028985977173,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 4,
+  "duration_ms": 28206,
+  "duration_api_ms": 27189,
+  "total_cost_usd": 0.4893765,
+  "usage": {
+   "input_tokens": 106,
+   "output_tokens": 2282,
+   "cache_creation_input_tokens": 20154,
+   "cache_read_input_tokens": 63919
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2308.08337.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:29:42-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

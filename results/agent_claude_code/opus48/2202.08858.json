@@ -1,0 +1,250 @@
+{
+ "paper_title": "Do direct detection experiments constrain axionlike particles coupled to electrons?",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4959.38,
+   2.9098e-13
+  ],
+  [
+   5525.1,
+   9.17e-14
+  ],
+  [
+   6155.35,
+   3.7305e-13
+  ],
+  [
+   6857.5,
+   3.3538e-14
+  ],
+  [
+   7639.74,
+   1.3859e-14
+  ],
+  [
+   8511.21,
+   1.0796e-14
+  ],
+  [
+   9482.09,
+   1.0672e-14
+  ],
+  [
+   10563.72,
+   8.4889e-15
+  ],
+  [
+   11768.73,
+   1.0071e-13
+  ],
+  [
+   13111.2,
+   3.3197e-15
+  ],
+  [
+   14606.81,
+   2.8623e-15
+  ],
+  [
+   16273.02,
+   2.761e-15
+  ],
+  [
+   18129.3,
+   1.2446e-15
+  ],
+  [
+   20197.32,
+   1.5361e-15
+  ],
+  [
+   22501.25,
+   7.0955e-16
+  ],
+  [
+   25067.99,
+   4.2306e-16
+  ],
+  [
+   27927.51,
+   9.1963e-16
+  ],
+  [
+   31113.23,
+   7.7989e-16
+  ],
+  [
+   34662.34,
+   2.9646e-16
+  ],
+  [
+   38616.31,
+   2.6935e-16
+  ],
+  [
+   43021.3,
+   1.5731e-16
+  ],
+  [
+   47928.78,
+   1.5433e-16
+  ],
+  [
+   53396.06,
+   3.5108e-17
+  ],
+  [
+   59487.0,
+   6.3222e-17
+  ],
+  [
+   66272.73,
+   4.5653e-17
+  ],
+  [
+   73832.52,
+   1.818e-17
+  ],
+  [
+   82254.66,
+   2.3606e-17
+  ],
+  [
+   91637.52,
+   1.2079e-17
+  ],
+  [
+   102090.7,
+   1.1196e-17
+  ],
+  [
+   113736.27,
+   6.8051e-18
+  ],
+  [
+   126710.27,
+   5.7471e-18
+  ],
+  [
+   141164.22,
+   4.1476e-18
+  ],
+  [
+   157266.95,
+   2.9926e-18
+  ],
+  [
+   175206.53,
+   2.158e-18
+  ],
+  [
+   195192.49,
+   1.3504e-18
+  ],
+  [
+   217458.28,
+   1.1545e-18
+  ],
+  [
+   242263.93,
+   8.3105e-19
+  ],
+  [
+   269899.2,
+   5.9656e-19
+  ],
+  [
+   300686.84,
+   4.2726e-19
+  ],
+  [
+   334986.45,
+   3.0531e-19
+  ],
+  [
+   373198.65,
+   2.1849e-19
+  ],
+  [
+   415769.75,
+   1.677e-19
+  ],
+  [
+   463196.98,
+   1.1856e-19
+  ],
+  [
+   516034.27,
+   8.3017e-20
+  ],
+  [
+   574898.76,
+   5.7561e-20
+  ],
+  [
+   640477.97,
+   3.9377e-20
+  ],
+  [
+   713537.86,
+   2.6294e-20
+  ],
+  [
+   794931.75,
+   1.6957e-20
+  ],
+  [
+   885610.32,
+   1.0232e-20
+  ],
+  [
+   986632.68,
+   5.0783e-21
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "Ferreira_2022",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Headline new observational bound: the 'X-ray and gamma-ray limits on lifetime' curve in Fig. 2 (light-grey exclusion boundary), the paper's own derived limit on g_ae for ALP dark matter that decays radiatively (a->gamma gamma, Eqs. 2-4). This diagonal jagged curve is the boundary; couplings ABOVE it are excluded. Extracted as a vector path (drawing 17) from the e-print figure combplDM.pdf, calibrated on the axis tick labels (x: m_a in MeV log scale; y: |g_ae| log scale), then resampled at 50 log-spaced masses; the narrow upward spikes are real features of the astrophysical (NuSTAR/XMM-Newton/INTEGRAL) line-search sensitivity. Mass axis converted MeV->eV. Paper assumes the ALP is 100% of the dark matter; no single local density is quoted (galactic/M31 halo profiles used), so dm_density_assumed is null. This is a reinterpretation-type paper but derives its own bound; it supersedes the direct-detection lab limits (LUX/PandaX/XENON1T/XMASS/SuperCDMS/Majorana/EDELWEISS/GERDA) shown as coloured regions. The dark-grey 'Lifetime<13.8 Gyr' region is a separate self-consistency band, not reported. CL not restated in paper; astro limits taken at 95%.",
+ "num_points": 50,
+ "arxiv_id": "2202.08858",
+ "elapsed_s": 251.3853759765625,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 251008,
+  "duration_api_ms": 248266,
+  "total_cost_usd": 1.02267375,
+  "usage": {
+   "input_tokens": 613,
+   "output_tokens": 17772,
+   "cache_creation_input_tokens": 39927,
+   "cache_read_input_tokens": 587645
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2202.08858.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:11:19-0500"
+ }
+}

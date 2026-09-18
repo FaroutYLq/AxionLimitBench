@@ -1,0 +1,634 @@
+# Vendored from AutoAxionLimits evaluation/report.py at master 73682236 (2026-09-09); import paths rewritten, no logic changes.
+"""Generate evaluation report (markdown + optional calibration plots)."""
+
+from __future__ import annotations
+
+import logging
+from pathlib import Path
+
+from scorer.metrics import CONTINUOUS_TAUS_DEX, NOISE_FLOOR_RESIDUAL_DEX
+
+logger = logging.getLogger(__name__)
+
+# Provenance of the scalar classification labels (is_new_limit, is_projection,
+# data_source). These are NOT human gold labels: they come from an INDEPENDENT
+# LLM labeler pass (evaluation/label_ground_truth.py, model claude-opus-4-5)
+# whose sole task is to classify paper properties — a distinct model and prompt
+# from the extractor it grades, so scoring is a fair cross-model test, not
+# self-agreement. A human audit of a labeled subset is reported alongside as
+# the labeler's per-field agreement with a human reader (issue #539).
+LABEL_AUDIT = {
+    "n_audited": 15,
+    "is_new_limit": "15/15",
+    "is_projection": "15/15",
+    "data_source": "14/15",
+}
+
+
+def _fmt(val, precision: int = 3) -> str:
+    """Format a float, handling inf/None gracefully."""
+    if val is None:
+        return "N/A"
+    if isinstance(val, float) and (val == float("inf") or val != val):  # inf or nan
+        return "∞"
+    return f"{val:.{precision}f}"
+
+
+def _pct(val) -> str:
+    """Format as percentage."""
+    if val is None:
+        return "N/A"
+    return f"{val * 100:.1f}%"
+
+
+def _lookup_tau(frac_within_tau: dict, tau: float):
+    """Look up P(residual < tau). After JSON round-tripping the dict keys are
+    strings, so match on the float value rather than identity."""
+    if not frac_within_tau:
+        return None
+    for k, v in frac_within_tau.items():
+        try:
+            if abs(float(k) - tau) < 1e-9:
+                return v
+        except (TypeError, ValueError):
+            continue
+    return None
+
+
+def _collect_taus(bins: list[dict]) -> list[float]:
+    """Collect the sorted set of tau thresholds present in the bins'
+    ``frac_within_tau`` dicts, falling back to the module default."""
+    taus: set[float] = set()
+    for b in bins:
+        for k in (b.get("frac_within_tau") or {}):
+            try:
+                taus.add(float(k))
+            except (TypeError, ValueError):
+                continue
+    return sorted(taus) if taus else list(CONTINUOUS_TAUS_DEX)
+
+
+def generate_report(metrics: dict, output_path: str):
+    """Generate a markdown evaluation report."""
+    lines: list[str] = []
+
+    lines.append("# AutoAxionLimits Extraction Pipeline — Evaluation Report\n")
+
+    # --- Summary ---
+    clf = metrics["classification"]
+    agg_interp = metrics.get("interpolation_aggregate", {})
+    agg_symmetric = metrics.get("symmetric_aggregate", {})
+    agg_curve = metrics.get("curve_aggregate", {})
+
+    cov = metrics.get("comparison_coverage", {})
+
+    lines.append("## Summary\n")
+    lines.append(f"- **Papers evaluated**: {metrics.get('n_papers', clf['coupling_type']['total'])}")
+    lines.append(f"- **Papers with curve comparison**: {agg_interp.get('n_papers', agg_curve.get('n_papers_with_curves', 0))}")
+    lines.append("")
+
+    # --- Comparison coverage ---
+    status_counts = cov.get("status_counts", {})
+    if status_counts:
+        lines.append("## Curve-Comparison Coverage\n")
+        lines.append("A curve is scored only against a ground-truth curve of the **same coupling**. "
+                     "Papers whose extracted coupling has no matching GT curve are not comparable "
+                     "and are excluded from residual statistics (this is not an extraction failure).\n")
+        lines.append("| Status | Papers | Meaning |")
+        lines.append("|--------|--------|---------|")
+        _meaning = {
+            "compared": "scored against a same-coupling GT curve",
+            "excluded_gt": "every GT entry for this paper is excluded with a documented reason (see Excluded GT Entries below) — not scored",
+            "no_comparable_gt": "extracted coupling has no GT curve in the pool (usually a coupling misclassification)",
+            "convention_mismatch": "same coupling but the GT curve uses a different convention/units (e.g. f_a [GeV] vs normalized, or d_e vs a large-valued variable) — excluded as a units gap, not extraction error",
+            "gt_point_reference": "GT is a single-mass prediction/projection, not a curve (not comparable)",
+            "gt_unusable": "GT curve has <2 usable points after boundary filtering",
+            "no_prediction": "pipeline returned no coupling type",
+            "no_extracted_points": "pipeline returned no data points",
+            "extraction_failed": "extraction errored (download/parse/API)",
+        }
+        for status in ["compared", "no_comparable_gt", "convention_mismatch",
+                       "gt_point_reference", "gt_unusable",
+                       "no_extracted_points", "no_prediction",
+                       "extraction_failed", "excluded_gt"]:
+            if status not in status_counts:
+                continue
+            lines.append(f"| {status} | {status_counts[status]} | {_meaning.get(status, '')} |")
+        lines.append("")
+
+    # --- Excluded GT entries (post-full346 Phase 1a) ---
+    exclusions = metrics.get("gt_exclusions", {})
+    excl_entries = exclusions.get("entries", []) or []
+    if excl_entries:
+        lines.append(f"## Excluded GT Entries ({len(excl_entries)})\n")
+        lines.append("These ground-truth entries cannot grade any extraction (documented, "
+                     "reversible — see `evaluation/ground_truth/EXCLUSIONS.md`). They are "
+                     "skipped by all scoring but listed here so exclusions stay visible.\n")
+        lines.append("| arXiv ID | Repo file | Coupling | Reason |")
+        lines.append("|----------|-----------|----------|--------|")
+        for e in excl_entries:
+            ref = e.get("reference_repo_file") or "—"
+            lines.append(f"| {e['arxiv_id']} | {ref} | {e.get('coupling_type', '—')} | "
+                         f"{e.get('exclusion_reason', '')} |")
+        lines.append("")
+
+    # --- Classification ---
+    lines.append("## Classification Accuracy\n")
+    lines.append("| Field | Accuracy | N |")
+    lines.append("|-------|----------|---|")
+    for field_name in ["coupling_type", "is_new_limit", "is_projection", "data_source"]:
+        entry = clf[field_name]
+        if entry["total"] == 0:
+            lines.append(f"| {field_name} | N/A — no human-verified labels | 0 |")
+        else:
+            lines.append(f"| {field_name} | {_pct(entry['accuracy'])} | {entry['total']} |")
+    lines.append("")
+    scored_scalar = [f for f in ["is_new_limit", "is_projection", "data_source"]
+                     if clf[f]["total"] > 0]
+    if scored_scalar:
+        # Provenance: these scalar labels are LLM-labeled, not human gold.
+        a = LABEL_AUDIT
+        lines.append(
+            "> **Label provenance**: `is_new_limit`, `is_projection`, and "
+            "`data_source` are scored against an **independent LLM labeler** "
+            "(`evaluation/label_ground_truth.py`, model `claude-opus-4-5`) whose "
+            "sole task is to classify paper properties — a distinct model and "
+            "prompt from the extractor it grades, so this is a fair cross-model "
+            "test, not self-agreement. These are **not human gold labels**. A "
+            f"human audit of {a['n_audited']} labeled papers found per-field "
+            f"labeler↔human agreement: is_new_limit {a['is_new_limit']}, "
+            f"is_projection {a['is_projection']}, data_source {a['data_source']} "
+            "(difficulty is derived mechanically from data_source + point count, "
+            "not labeled).")
+        lines.append("")
+    if any(clf[f]["total"] == 0 for f in ["is_new_limit", "is_projection", "data_source"]):
+        lines.append("> Entries still carrying placeholder labels "
+                     "(`auto_expanded` / `verified_by: repo_upstream`) are NOT "
+                     "scored on these fields; if no entry has been LLM-labeled "
+                     "yet a field shows N/A. Run `python -m "
+                     "evaluation.label_ground_truth` to expand the labeled pool.")
+        lines.append("")
+
+    # Classification errors
+    coupling_errors = clf["coupling_type"].get("errors", [])
+    if coupling_errors:
+        lines.append("### Coupling Type Misclassifications\n")
+        lines.append("| arXiv ID | Predicted | Expected |")
+        lines.append("|----------|-----------|----------|")
+        for err in coupling_errors:
+            lines.append(f"| {err['arxiv_id']} | {err['predicted']} | {err['expected']} |")
+        lines.append("")
+
+    # --- Per-type confusion table (Phase 1c, #625) ---
+    per_paper = metrics.get("per_paper", [])
+    if per_paper:
+        from scorer.metrics import build_coupling_type_confusion
+        conf = build_coupling_type_confusion(per_paper)
+        matrix = conf.get("matrix", {})
+        if matrix:
+            lines.append("### Coupling-Type Confusion Matrix (multi-type-aware)\n")
+            lines.append(
+                f"Rows = authoritative GT type, columns = predicted type. A "
+                f"prediction is correct iff it is in ANY of the paper's GT types "
+                f"(diagonal). Off-diagonal cells are the confusable clusters. "
+                f"Graded {conf['n_graded']}, correct {conf['n_correct']} "
+                f"({_pct(conf['accuracy'])}), skipped {conf['n_skipped']} "
+                f"(no prediction / no GT type).\n")
+            preds = sorted({p for row in matrix.values() for p in row})
+            header = "| GT ⟍ Pred | " + " | ".join(preds) + " |"
+            lines.append(header)
+            lines.append("|" + "---|" * (len(preds) + 1))
+            for gt in sorted(matrix):
+                row = matrix[gt]
+                cells = []
+                for p in preds:
+                    n = row.get(p, 0)
+                    if n == 0:
+                        cells.append("")
+                    elif p == gt:
+                        cells.append(f"**{n}**")
+                    else:
+                        cells.append(str(n))
+                lines.append(f"| {gt} | " + " | ".join(cells) + " |")
+            lines.append("")
+            confusions = conf.get("confusions", [])
+            if confusions:
+                lines.append("Off-diagonal confusions (GT → predicted, richest first):\n")
+                for c in confusions:
+                    lines.append(f"- {c['gt']} → {c['predicted']}: {c['count']}")
+                lines.append("")
+
+    # --- Interpolation Quality (primary) ---
+    if agg_interp.get("n_papers", 0) > 0:
+        n_all = agg_interp.get("n_papers", 0)
+        n_zero = agg_interp.get("n_zero_overlap", 0)
+        n_finite = agg_interp.get("n_finite", n_all - n_zero)
+        lines.append("## Extraction Quality — Interpolation Metric (primary)\n")
+        lines.append("Build log-log interpolation from extracted points, evaluate at ground-truth masses.\n")
+        lines.append(f"- **Papers compared**: {n_all} "
+                     f"({n_finite} with mass-range overlap, {n_zero} with zero overlap)")
+        lines.append("")
+        lines.append("**Coupling-value accuracy** (papers with mass-range overlap):")
+        lines.append(f"- **Median residual across papers**: {_fmt(agg_interp.get('median_median_residual_dex'))} dex "
+                     f"(IQR {_fmt(agg_interp.get('p25_median_residual_dex'))}–{_fmt(agg_interp.get('p75_median_residual_dex'))})")
+        lines.append(f"- **Mean residual across papers** (outlier-sensitive): {_fmt(agg_interp.get('mean_median_residual_dex'))} dex")
+        lines.append(f"- **Mean fraction within 0.3 dex (factor 2; the leaderboard headline is 10%, results/leaderboard.py)**: {_pct(agg_interp.get('mean_frac_within_0_3dex'))}")
+        lines.append(f"- **Mean fraction within 0.5 dex (factor 3)**: {_pct(agg_interp.get('mean_frac_within_0_5dex'))}")
+        lines.append("")
+        lines.append("**Mass-range coverage** (a separate failure mode):")
+        lines.append(f"- **Mean interpolation coverage**: {_pct(agg_interp.get('mean_interpolation_coverage'))}")
+        lines.append(f"- **Zero-overlap papers**: {n_zero}/{n_all} "
+                     f"({_pct(n_zero / n_all if n_all else 0)}) — extracted masses miss the GT range entirely "
+                     "(usually 1–2 extracted points or the wrong mass window)")
+        lines.append("")
+        # Reverse pass + symmetric shape metrics (issue #541).
+        lines.append("**Reverse pass** (GT interpolated onto the *extracted* masses):")
+        lines.append("- Mirrors the forward pass. A large forward-vs-reverse gap, or a reverse "
+                     "coverage well below the forward coverage, flags an extraction whose mass "
+                     "*extent* or shape disagrees with the GT (e.g. running past the GT range).")
+        lines.append(f"- **Median reverse residual across papers**: "
+                     f"{_fmt(agg_interp.get('median_median_residual_dex_reverse'))} dex "
+                     f"(forward: {_fmt(agg_interp.get('median_median_residual_dex'))} dex)")
+        lines.append(f"- **Mean reverse interpolation coverage**: "
+                     f"{_pct(agg_interp.get('mean_interpolation_coverage_reverse'))} "
+                     f"(forward: {_pct(agg_interp.get('mean_interpolation_coverage'))})")
+        lines.append("")
+
+    # --- Per-coupling-type breakdown + macro vs micro (issue #543) ---
+    pt = metrics.get("per_type_aggregate", {})
+    if pt.get("n_types", 0) > 0:
+        thr = pt.get("small_sample_threshold", 5)
+        micro = pt.get("micro_median_residual_dex")
+        macro = pt.get("macro_median_residual_dex")
+        gap = pt.get("macro_minus_micro_dex")
+        lines.append("## Residual by Coupling Type — Micro vs Macro Average (issue #543)\n")
+        lines.append(
+            "The compared-paper pool is dominated by one coupling type "
+            "(AxionPhoton), so the per-paper **micro-average** headline is "
+            "largely that one type's number. The **macro-average** weights each "
+            "coupling type equally (mean of the per-type medians), exposing how "
+            "the pipeline does across the *range* of couplings rather than on the "
+            "most common one.\n"
+        )
+        lines.append(f"- **Micro-average median residual** (per paper, {pt.get('n_papers_compared', 0)} papers): "
+                     f"{_fmt(micro)} dex")
+        lines.append(f"- **Macro-average median residual** (equal weight per type, "
+                     f"{pt.get('n_types', 0)} types): {_fmt(macro)} dex")
+        if gap is not None:
+            direction = "worse" if gap > 0 else "better"
+            lines.append(f"- **Macro − micro gap**: {'+' if gap >= 0 else ''}{_fmt(gap)} dex "
+                         f"(macro is {direction}; a positive gap means the rarer couplings "
+                         f"are harder than the AxionPhoton-dominated micro-average implies)")
+        lines.append("")
+        lines.append(f"Per-type medians carry a bootstrap 95% CI (1000 resamples). "
+                     f"Rows with **N < {thr}** are flagged small-sample — their median "
+                     f"and CI are unstable and should not be read as a reliable per-type score.\n")
+        lines.append("| Coupling Type | N | Median Resid. (dex) | 95% CI (dex) | Flag |")
+        lines.append("|---------------|---|---------------------|--------------|------|")
+        for ct, d in pt.get("per_type", {}).items():
+            ci_lo = d.get("ci95_lo")
+            ci_hi = d.get("ci95_hi")
+            ci_str = (f"[{_fmt(ci_lo)}, {_fmt(ci_hi)}]"
+                      if ci_lo is not None and ci_hi is not None else "—")
+            flag = f"⚠ small-sample (N<{thr})" if d.get("small_sample") else ""
+            lines.append(f"| {ct} | {d['n']} | {_fmt(d['median_residual_dex'])} | {ci_str} | {flag} |")
+        lines.append("")
+
+    # --- Symmetric / 2-D shape + mass-range agreement (issue #541) ---
+    if agg_symmetric.get("n_papers", 0) > 0:
+        lines.append("## Shape & Mass-Range Agreement — Symmetric Metrics (complementary)\n")
+        lines.append("These are symmetric, 2-D complements to the (asymmetric, vertical-only) "
+                     "interpolation residual. **Area-between-curves** integrates "
+                     "|Δ log10 coupling| over the overlapping log-mass range and normalises by "
+                     "the overlap width (a single shape+offset number, in dex; a pure mass shift "
+                     "inflates it even when the vertical residual looks fine). **Mass-range "
+                     "Jaccard** is the Jaccard index of the extracted vs GT log-mass intervals "
+                     "(1.0 = identical extent; small = over-/under-claimed mass range), reported "
+                     "separately from interpolation coverage.\n")
+        lines.append(f"- **Papers scored**: {agg_symmetric.get('n_papers', 0)} "
+                     f"({agg_symmetric.get('n_finite_area', 0)} with mass overlap for area)")
+        lines.append(f"- **Median area-between-curves**: "
+                     f"{_fmt(agg_symmetric.get('median_area_between_log'))} dex "
+                     f"(mean {_fmt(agg_symmetric.get('mean_area_between_log'))} dex)")
+        lines.append(f"- **Median mass-range Jaccard**: "
+                     f"{_fmt(agg_symmetric.get('median_mass_jaccard'))} "
+                     f"(mean {_fmt(agg_symmetric.get('mean_mass_jaccard'))})")
+        lines.append("")
+
+    # --- Per-paper ---
+    per_paper = metrics.get("per_paper", [])
+    if per_paper:
+        lines.append("## Per-Paper Results\n")
+        lines.append("| arXiv ID | Coupling | Conf. | Interp. Cov. | Med. Resid. | Rev. Resid. | Area (dex) | Mass Jaccard | ≤0.3 dex | Points |")
+        lines.append("|----------|----------|-------|--------------|-------------|-------------|------------|--------------|----------|--------|")
+        for p in per_paper:
+            if p.get("status") == "excluded_gt":
+                lines.append(f"| {p['arxiv_id']} | — | — | EXCLUDED | — | — | — | — | — | — |")
+                continue
+            if p.get("status") != "extracted":
+                lines.append(f"| {p['arxiv_id']} | — | — | FAILED | — | — | — | — | — | — |")
+                continue
+            coupling_ok = "✓" if p.get("coupling_type_correct") else f"✗ ({p.get('coupling_type_predicted', '?')})"
+            conf = _fmt(p.get("extraction_confidence"), 2)
+            im = p.get("interp_metrics")
+            sm = p.get("symmetric_metrics")
+            if im:
+                cov_col = _pct(im["interpolation_coverage"])
+                med = _fmt(im["median_residual_dex"])
+                rev = _fmt(im.get("median_residual_dex_reverse"))
+                f03 = _pct(im["frac_within_0_3dex"])
+                pts = f"{im['num_extracted']}/{im['num_ground_truth']}"
+            else:
+                cov_col = p.get("comparison_status", "—")
+                med = rev = f03 = pts = "—"
+            if sm:
+                area = _fmt(sm.get("area_between_log"))
+                jacc = _fmt(sm.get("mass_jaccard"))
+            else:
+                area = jacc = "—"
+            lines.append(f"| {p['arxiv_id']} | {coupling_ok} | {conf} | {cov_col} | {med} | {rev} | {area} | {jacc} | {f03} | {pts} |")
+        lines.append("")
+
+    # --- Data source breakdown (the meaningful one) ---
+    src_bd = metrics.get("source_breakdown", {})
+    if src_bd:
+        lines.append("## Breakdown by Extraction Source\n")
+        lines.append("Median residual is over papers with mass-range overlap; "
+                     "zero-overlap papers are listed separately.\n")
+        lines.append("| Source | Papers | Compared | Zero-overlap | Med. Resid. | ≤0.3 dex |")
+        lines.append("|--------|--------|----------|--------------|-------------|----------|")
+        for src in ["source_data", "table", "figure_vision", "text"]:
+            if src not in src_bd:
+                continue
+            s = src_bd[src]
+            lines.append(
+                f"| {src} | {s['total']} | {s.get('n_compared', '—')} | "
+                f"{s.get('n_zero_overlap', '—')} | "
+                f"{_fmt(s.get('median_residual_dex'))} dex | "
+                f"{_pct(s.get('mean_frac_within_0_3dex'))} |"
+            )
+        lines.append("")
+
+    # --- Difficulty breakdown (placeholder labels — informational only) ---
+    diff_bd = metrics.get("difficulty_breakdown", {})
+    if diff_bd:
+        lines.append("## Breakdown by Difficulty\n")
+        lines.append("> Difficulty is a placeholder label for the repo-sourced pool "
+                     "(nearly all `medium`); this table is informational only.\n")
+        lines.append("| Difficulty | Papers | Coupling Acc. | Med. Resid. | ≤0.3 dex |")
+        lines.append("|------------|--------|---------------|-------------|----------|")
+        for diff in ["easy", "medium", "hard"]:
+            if diff not in diff_bd:
+                continue
+            d = diff_bd[diff]
+            lines.append(
+                f"| {diff} | {d['total']} | "
+                f"{_pct(d['coupling_type_accuracy'])} | "
+                f"{_fmt(d.get('median_residual_dex'))} dex | "
+                f"{_pct(d.get('mean_frac_within_0_3dex'))} |"
+            )
+        lines.append("")
+
+    # --- Confidence calibration ---
+    cal = metrics.get("confidence_calibration", [])
+    non_empty_bins = [b for b in cal if b["n_papers"] > 0]
+    if non_empty_bins:
+        lines.append("## Confidence Calibration\n")
+        lines.append(
+            f'- "Accurate" = median interpolation residual < **{_fmt(NOISE_FLOOR_RESIDUAL_DEX, 2)} dex** '
+            "AND interpolation coverage ≥ 50%."
+        )
+        lines.append(
+            f"- The **{_fmt(NOISE_FLOOR_RESIDUAL_DEX, 2)} dex** threshold is the run-to-run LLM "
+            "extraction *noise floor* (90th-pct per-paper median-residual std across repeated "
+            "extractions, PR #545) — the binding floor. It is **not** the upstream digitization "
+            "floor, which is only ~0.034 dex for table/text-sourced papers (PR #558). So a residual "
+            "gap here is **real extractor overconfidence, not a yardstick artifact**."
+        )
+        lines.append("")
+        lines.append("### Binned accuracy (pass/fail)\n")
+        lines.append("| Bin | N | Mean Conf. | Actual Acc. | Gap |")
+        lines.append("|-----|---|------------|-------------|-----|")
+        for b in non_empty_bins:
+            gap = b["mean_confidence"] - b["actual_accuracy"]
+            lines.append(
+                f"| [{_fmt(b['bin_lo'], 1)}–{_fmt(b['bin_hi'], 1)}) | {b['n_papers']} | "
+                f"{_pct(b['mean_confidence'])} | {_pct(b['actual_accuracy'])} | "
+                f"{'+' if gap >= 0 else ''}{_fmt(gap, 2)} |"
+            )
+        lines.append("")
+        lines.append("> **Interpretation**: Gap > 0 means the pipeline is overconfident; "
+                      "Gap < 0 means underconfident.")
+        lines.append("")
+
+        # --- Continuous calibration view (issue #542) ---
+        # 1) Confidence vs the actual residual *distribution* per bin (median + IQR),
+        #    so a bin shows the real residual spread, not just a thresholded rate.
+        lines.append("### Continuous view: residual distribution per bin\n")
+        lines.append(
+            "Median (and IQR) of each bin's per-paper median residual, over papers with a "
+            "finite residual (zero mass-overlap papers excluded from the distribution but still "
+            "counted in N). If confidence tracked accuracy, the median residual would fall as "
+            "confidence rises."
+        )
+        lines.append("")
+        lines.append("| Bin | N | N finite | Median resid. (dex) | IQR (dex) |")
+        lines.append("|-----|---|----------|---------------------|-----------|")
+        for b in non_empty_bins:
+            med = b.get("median_residual_dex")
+            p25 = b.get("p25_residual_dex")
+            p75 = b.get("p75_residual_dex")
+            iqr = (
+                f"{_fmt(p25, 2)}–{_fmt(p75, 2)}"
+                if (p25 is not None and p75 is not None) else "—"
+            )
+            lines.append(
+                f"| [{_fmt(b['bin_lo'], 1)}–{_fmt(b['bin_hi'], 1)}) | {b['n_papers']} | "
+                f"{b.get('n_finite', 0)} | {_fmt(med, 2) if med is not None else '—'} | {iqr} |"
+            )
+        lines.append("")
+
+        # 2) Proper-scoring-style view: empirical P(residual < tau) per bin for several tau.
+        taus = _collect_taus(non_empty_bins)
+        if taus:
+            lines.append("### Continuous view: empirical P(residual < τ) per bin\n")
+            lines.append(
+                "Fraction of papers in each bin whose median residual is below τ dex "
+                "(τ = 0.32 is the noise floor used above). A well-calibrated, accurate "
+                "extractor would show these probabilities rising with confidence."
+            )
+            lines.append("")
+            header = "| Bin | N | " + " | ".join(f"P(<{_fmt(t, 2)})" for t in taus) + " |"
+            sep = "|-----|---|" + "|".join(["----"] * len(taus)) + "|"
+            lines.append(header)
+            lines.append(sep)
+            for b in non_empty_bins:
+                fwt = b.get("frac_within_tau", {})
+                cells = " | ".join(_pct(_lookup_tau(fwt, t)) for t in taus)
+                lines.append(
+                    f"| [{_fmt(b['bin_lo'], 1)}–{_fmt(b['bin_hi'], 1)}) | {b['n_papers']} | {cells} |"
+                )
+            lines.append("")
+
+    # --- Methodology ---
+    lines.append("## Methodology\n")
+    lines.append("### Curve selection (what each extraction is compared against)")
+    lines.append("- A paper usually produces several repo curves (one per coupling). The single "
+                 "extraction is compared **only** against the GT curve whose coupling matches the "
+                 "extracted coupling type (taken from the data file's `limit_data/<dir>/`).")
+    lines.append("- Papers whose extracted coupling has no matching GT curve, or whose GT curve has "
+                 "<2 usable points, are reported under Curve-Comparison Coverage and excluded from "
+                 "residual statistics — they do not measure extraction quality.")
+    lines.append("")
+    lines.append("### Caveats on the residual floor")
+    lines.append("- The ground truth `g(x_i)` is the **upstream-curated** repo curve (itself digitised "
+                 "and rescaled from the same papers), not the paper's raw numbers, so a perfect "
+                 "extraction still shows a small nonzero residual from the upstream "
+                 "digitisation/convention gap. That gap is now *measured*: only ~0.034 dex for "
+                 "table/text-sourced papers (PR #558, truly-independent gold-vs-repo, N=10) — i.e. "
+                 "the repo GT is faithful, NOT a ~0.5 dex floor. The figure-only digitisation "
+                 "component remains unmeasured. The binding floor for confidence calibration is "
+                 "instead the run-to-run LLM extraction noise floor (~0.32 dex, PR #545).")
+    lines.append("- `is_new_limit`, `is_projection`, and `data_source` are scored against an "
+                 "**independent LLM labeler** (`label_ground_truth.py`, `claude-opus-4-5`), a "
+                 "distinct model/prompt from the extractor (so not self-agreement), audited against "
+                 "a human reader (see Classification Accuracy). Entries not yet labeled keep "
+                 "placeholder values (`auto_expanded` / `repo_upstream`) and are excluded from "
+                 "these metrics. `difficulty` is derived mechanically (figure-only + few points ⇒ "
+                 "hard; table/text + many points ⇒ easy; else medium) and is informational only.")
+    lines.append("")
+    lines.append("### Interpolation metric (primary)")
+    lines.append("1. Filter boundary-closure sentinel points (coupling >= 1e-2) from both extracted and GT data")
+    lines.append("2. Build `scipy.interpolate.interp1d` from extracted points in log10(mass) → log10(coupling) space")
+    lines.append("3. Evaluate the interpolation at each ground-truth mass value")
+    lines.append("4. Compute residual = |log10(g_interpolated) - log10(g_ground_truth)| at each GT point")
+    lines.append("5. Only GT points inside the extracted mass range are used (no extrapolation)")
+    lines.append("")
+    lines.append("**Key statistics:**")
+    lines.append("- **Interpolation coverage**: fraction of GT points inside the extracted mass range")
+    lines.append("- **Median/P90 residual**: summary of coupling errors in dex (0.3 dex ≈ factor 2)")
+    lines.append("- **Fraction within threshold**: what % of GT points have residual below 0.1/0.3/0.5/1.0 dex")
+    lines.append("")
+    lines.append("When multiple extracted points share the same mass, the strongest constraint (lowest coupling) is kept.")
+    lines.append("")
+    lines.append("### Symmetric / 2-D metrics (complementary)")
+    lines.append("- **Reverse pass**: the same interpolation, swapped — build the interp from the "
+                 "GT points and evaluate at the *extracted* masses. The forward pass cannot see an "
+                 "extraction that runs past the GT range; the reverse pass surfaces it as a low "
+                 "reverse coverage / large reverse residual.")
+    lines.append("- **Area-between-curves**: sample both log-log curves on a common grid over their "
+                 "overlapping log-mass range, integrate |Δ log10 coupling| (trapezoid), normalise by "
+                 "the overlap width → mean dex offset. Penalises both vertical offset and horizontal "
+                 "(mass) shift.")
+    lines.append("- **Mass-range Jaccard**: Jaccard index of the extracted vs GT log-mass intervals "
+                 "(intersection / union). Penalises over- and under-claimed mass extent independently "
+                 "of interpolation density.")
+    lines.append("")
+    lines.append("### Confidence calibration")
+    lines.append(
+        f'- A paper is "accurate" if median residual < **{_fmt(NOISE_FLOOR_RESIDUAL_DEX, 2)} dex** '
+        "AND interpolation coverage ≥ 50%."
+    )
+    lines.append(
+        f"- The **{_fmt(NOISE_FLOOR_RESIDUAL_DEX, 2)} dex** threshold is the run-to-run LLM "
+        "extraction noise floor (90th-pct per-paper median-residual std over repeated "
+        "extractions, PR #545) — the binding floor. It is deliberately NOT relaxed to the "
+        "upstream digitization floor, which is only ~0.034 dex for table/text papers (PR #558, "
+        "truly-independent gold-vs-repo). The original #542 premise — that 0.3 dex sits below a "
+        "~0.5 dex digitization floor — is therefore falsified; 0.3 dex was about right, but "
+        "justified by *noise*, not digitization."
+    )
+    lines.append(
+        "- **Caveat**: the 0.034 dex digitization floor is measured only for table/text sources. "
+        "For figure-only source papers the upstream figure-digitization error is unmeasured, so "
+        "this is not a universal floor."
+    )
+    lines.append("- Coverage ≥ 50% is kept as an orthogonal curve-quality gate: a low residual on "
+                 "only a sliver of the mass range is not a usable extraction.")
+    lines.append("- Papers binned by extraction_confidence; actual accuracy computed per bin. "
+                 "Perfect calibration: actual accuracy = mean confidence in each bin.")
+    lines.append("- Two continuous views supplement the pass/fail rate: the per-bin residual "
+                 "*distribution* (median + IQR) and the empirical P(residual < τ) for "
+                 "τ ∈ {0.1, 0.32, 0.5, 1.0} dex — so a bin shows the real residual spread, not "
+                 "just a thresholded rate.")
+    lines.append("")
+
+    report_text = "\n".join(lines)
+
+    with open(output_path, "w") as f:
+        f.write(report_text)
+
+    # Try to generate calibration plot
+    try:
+        _generate_calibration_plot(cal, output_path)
+    except Exception as e:
+        logger.warning("Could not generate calibration plot: %s", e)
+
+
+def _generate_calibration_plot(calibration: list[dict], report_path: str):
+    """Generate a two-panel calibration figure:
+
+    (left)  pass/fail calibration: confidence vs binned actual accuracy.
+    (right) continuous view: confidence vs the binned-median interpolation
+            residual (with IQR), plus the noise-floor threshold line. This shows
+            whether confidence tracks the *actual residual* at all, rather than
+            only a thresholded rate (issue #542).
+    """
+    import matplotlib
+    matplotlib.use("Agg")
+    import matplotlib.pyplot as plt
+
+    non_empty = [b for b in calibration if b["n_papers"] > 0]
+    if len(non_empty) < 2:
+        return
+
+    x = [b["mean_confidence"] for b in non_empty]
+    y = [b["actual_accuracy"] for b in non_empty]
+    sizes = [b["n_papers"] * 50 for b in non_empty]
+
+    fig, (ax, ax2) = plt.subplots(1, 2, figsize=(11, 5))
+
+    # --- Left: pass/fail calibration ---
+    ax.plot([0, 1], [0, 1], "k--", alpha=0.3, label="Perfect calibration")
+    ax.scatter(x, y, s=sizes, alpha=0.7, zorder=5)
+    for b in non_empty:
+        ax.annotate(f"n={b['n_papers']}", (b["mean_confidence"], b["actual_accuracy"]),
+                     textcoords="offset points", xytext=(5, 5), fontsize=8)
+    ax.set_xlabel("Mean extraction confidence")
+    ax.set_ylabel(f"Actual accuracy (residual < {NOISE_FLOOR_RESIDUAL_DEX:.2f} dex & coverage ≥ 50%)")
+    ax.set_title("Confidence calibration (pass/fail)")
+    ax.set_xlim(-0.05, 1.05)
+    ax.set_ylim(-0.05, 1.05)
+    ax.legend()
+    ax.grid(True, alpha=0.3)
+
+    # --- Right: continuous residual view ---
+    cx, cmed, lo_err, hi_err = [], [], [], []
+    for b in non_empty:
+        med = b.get("median_residual_dex")
+        if med is None:
+            continue
+        cx.append(b["mean_confidence"])
+        cmed.append(med)
+        p25 = b.get("p25_residual_dex")
+        p75 = b.get("p75_residual_dex")
+        lo_err.append(med - p25 if p25 is not None else 0.0)
+        hi_err.append(p75 - med if p75 is not None else 0.0)
+    if cx:
+        ax2.errorbar(cx, cmed, yerr=[lo_err, hi_err], fmt="o", capsize=4,
+                     alpha=0.8, zorder=5, label="Bin median residual (IQR)")
+    ax2.axhline(NOISE_FLOOR_RESIDUAL_DEX, color="r", ls="--", alpha=0.6,
+                label=f"Noise floor ({NOISE_FLOOR_RESIDUAL_DEX:.2f} dex, #545)")
+    ax2.set_xlabel("Mean extraction confidence")
+    ax2.set_ylabel("Median interpolation residual (dex)")
+    ax2.set_title("Does confidence track the actual residual?")
+    ax2.set_xlim(-0.05, 1.05)
+    ax2.set_ylim(bottom=0)
+    ax2.legend()
+    ax2.grid(True, alpha=0.3)
+
+    fig.tight_layout()
+    plot_path = str(Path(report_path).with_suffix(".png"))
+    fig.savefig(plot_path, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    logger.info("Calibration plot saved to %s", plot_path)

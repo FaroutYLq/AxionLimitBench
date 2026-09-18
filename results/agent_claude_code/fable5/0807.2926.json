@@ -1,0 +1,91 @@
+{
+ "paper_title": "Solar neutrino limit on axions and keV-mass bosons",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-12,
+   7e-10
+  ],
+  [
+   1e-10,
+   7e-10
+  ],
+  [
+   1e-08,
+   7e-10
+  ],
+  [
+   1e-06,
+   7e-10
+  ],
+  [
+   0.0001,
+   7e-10
+  ],
+  [
+   0.01,
+   7e-10
+  ],
+  [
+   1.0,
+   7e-10
+  ],
+  [
+   10.0,
+   7e-10
+  ],
+  [
+   100.0,
+   7e-10
+  ],
+  [
+   1000.0,
+   7e-10
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "SolarNu_2008",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline limit g_agamma < 7e-10 GeV^-1 from Eq. (4), derived from the SNO all-flavor 8B solar neutrino flux constraint L_a < 0.1 L_sun (Eq. 3) using the Schlattl et al. solar-model scaling (Eq. 1). This is a mass-independent (flat) bound; the paper states the solar interior temperature ~1 keV means the limit applies to sub-keV mass particles, so the flat line is reported from very low mass up to 1 keV (1e3 eV). No local dark-matter density assumed (solar energy-loss argument), so no rho_DM rescaling. The paper does not quote a formal confidence level for Eq. (4) (it follows from a 'reasonably conservative' 50% allowance on the neutrino flux); 0.95 is recorded as nominal. The paper's secondary result, keV-mass boson-electron couplings g_chi-ee (Fig. 1, PS/S/V), is not the main result and is not reported here.",
+ "num_points": 10,
+ "arxiv_id": "0807.2926",
+ "elapsed_s": 42.88246989250183,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.0",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 4,
+  "duration_ms": 42504,
+  "duration_api_ms": 41485,
+  "total_cost_usd": 0.6191829999999999,
+  "usage": {
+   "input_tokens": 106,
+   "output_tokens": 3243,
+   "cache_creation_input_tokens": 19970,
+   "cache_read_input_tokens": 56573
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "0807.2926.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:20:47-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

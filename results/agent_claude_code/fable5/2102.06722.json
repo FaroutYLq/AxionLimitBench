@@ -1,0 +1,451 @@
+{
+ "paper_title": "The search for low-mass axion dark matter with ABRACADABRA-10 cm",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.13577e-10,
+   1.68796e-10
+  ],
+  [
+   4.32585e-10,
+   1.66822e-10
+  ],
+  [
+   4.4574e-10,
+   1.63689e-10
+  ],
+  [
+   4.59295e-10,
+   1.59916e-10
+  ],
+  [
+   4.73262e-10,
+   1.60489e-10
+  ],
+  [
+   4.87655e-10,
+   1.5765e-10
+  ],
+  [
+   5.02484e-10,
+   1.55586e-10
+  ],
+  [
+   5.17765e-10,
+   1.64584e-10
+  ],
+  [
+   5.3351e-10,
+   1.60608e-10
+  ],
+  [
+   5.49735e-10,
+   1.67555e-10
+  ],
+  [
+   5.66452e-10,
+   1.67517e-10
+  ],
+  [
+   5.83678e-10,
+   1.59073e-10
+  ],
+  [
+   6.01428e-10,
+   1.54888e-10
+  ],
+  [
+   6.19718e-10,
+   1.5223e-10
+  ],
+  [
+   6.38564e-10,
+   1.4986e-10
+  ],
+  [
+   6.57982e-10,
+   1.48031e-10
+  ],
+  [
+   6.77992e-10,
+   1.46982e-10
+  ],
+  [
+   6.9861e-10,
+   1.4593e-10
+  ],
+  [
+   7.19855e-10,
+   1.43134e-10
+  ],
+  [
+   7.41746e-10,
+   1.41841e-10
+  ],
+  [
+   7.64303e-10,
+   1.3707e-10
+  ],
+  [
+   7.87545e-10,
+   1.35259e-10
+  ],
+  [
+   8.11495e-10,
+   1.38262e-10
+  ],
+  [
+   8.36173e-10,
+   1.28342e-10
+  ],
+  [
+   8.61601e-10,
+   1.21077e-10
+  ],
+  [
+   8.87803e-10,
+   1.16194e-10
+  ],
+  [
+   9.14801e-10,
+   1.10859e-10
+  ],
+  [
+   9.4262e-10,
+   1.1437e-10
+  ],
+  [
+   9.71286e-10,
+   9.97227e-11
+  ],
+  [
+   1.00082e-09,
+   1.02241e-10
+  ],
+  [
+   1.03126e-09,
+   9.18166e-11
+  ],
+  [
+   1.06262e-09,
+   8.94025e-11
+  ],
+  [
+   1.09493e-09,
+   8.79618e-11
+  ],
+  [
+   1.12823e-09,
+   8.53759e-11
+  ],
+  [
+   1.16254e-09,
+   8.56845e-11
+  ],
+  [
+   1.19789e-09,
+   8.62376e-11
+  ],
+  [
+   1.23432e-09,
+   9.21054e-11
+  ],
+  [
+   1.27186e-09,
+   8.88723e-11
+  ],
+  [
+   1.31054e-09,
+   8.92126e-11
+  ],
+  [
+   1.35039e-09,
+   9.1116e-11
+  ],
+  [
+   1.39146e-09,
+   9.0427e-11
+  ],
+  [
+   1.43377e-09,
+   8.88517e-11
+  ],
+  [
+   1.47737e-09,
+   8.20604e-11
+  ],
+  [
+   1.5223e-09,
+   9.44741e-11
+  ],
+  [
+   1.56859e-09,
+   8.30659e-11
+  ],
+  [
+   1.61629e-09,
+   7.69971e-11
+  ],
+  [
+   1.66545e-09,
+   7.79883e-11
+  ],
+  [
+   1.71609e-09,
+   7.53045e-11
+  ],
+  [
+   1.76828e-09,
+   8.21876e-11
+  ],
+  [
+   1.82205e-09,
+   7.06232e-11
+  ],
+  [
+   1.87746e-09,
+   7.03868e-11
+  ],
+  [
+   1.93456e-09,
+   6.7794e-11
+  ],
+  [
+   1.99339e-09,
+   7.03013e-11
+  ],
+  [
+   2.05401e-09,
+   9.51205e-11
+  ],
+  [
+   2.11647e-09,
+   6.65647e-11
+  ],
+  [
+   2.18083e-09,
+   6.72825e-11
+  ],
+  [
+   2.24715e-09,
+   6.76e-11
+  ],
+  [
+   2.31549e-09,
+   6.63932e-11
+  ],
+  [
+   2.3859e-09,
+   6.79031e-11
+  ],
+  [
+   2.45846e-09,
+   6.81641e-11
+  ],
+  [
+   2.53322e-09,
+   7.59907e-11
+  ],
+  [
+   2.61026e-09,
+   8.11491e-11
+  ],
+  [
+   2.68964e-09,
+   7.5524e-11
+  ],
+  [
+   2.77143e-09,
+   7.25408e-11
+  ],
+  [
+   2.85571e-09,
+   6.84768e-11
+  ],
+  [
+   2.94255e-09,
+   6.81415e-11
+  ],
+  [
+   3.03204e-09,
+   7.47375e-11
+  ],
+  [
+   3.12424e-09,
+   6.59059e-11
+  ],
+  [
+   3.21925e-09,
+   7.45878e-11
+  ],
+  [
+   3.31715e-09,
+   7.76603e-11
+  ],
+  [
+   3.41803e-09,
+   8.2134e-11
+  ],
+  [
+   3.52197e-09,
+   8.36294e-11
+  ],
+  [
+   3.62908e-09,
+   7.93185e-11
+  ],
+  [
+   3.73944e-09,
+   7.59285e-11
+  ],
+  [
+   3.85315e-09,
+   8.07964e-11
+  ],
+  [
+   3.97033e-09,
+   9.73842e-11
+  ],
+  [
+   4.09107e-09,
+   1.25416e-10
+  ],
+  [
+   4.21548e-09,
+   1.33517e-10
+  ],
+  [
+   4.34367e-09,
+   1.25699e-10
+  ],
+  [
+   4.47577e-09,
+   1.20085e-10
+  ],
+  [
+   4.61188e-09,
+   1.3916e-10
+  ],
+  [
+   4.75213e-09,
+   1.82215e-10
+  ],
+  [
+   4.89664e-09,
+   2.49119e-10
+  ],
+  [
+   5.04555e-09,
+   2.48618e-10
+  ],
+  [
+   5.19898e-09,
+   2.09016e-10
+  ],
+  [
+   5.35709e-09,
+   1.19919e-10
+  ],
+  [
+   5.52e-09,
+   9.80648e-11
+  ],
+  [
+   5.68786e-09,
+   1.06614e-10
+  ],
+  [
+   5.86083e-09,
+   1.17915e-10
+  ],
+  [
+   6.03906e-09,
+   9.02493e-11
+  ],
+  [
+   6.22271e-09,
+   1.06083e-10
+  ],
+  [
+   6.41195e-09,
+   1.49568e-10
+  ],
+  [
+   6.60694e-09,
+   1.73371e-10
+  ],
+  [
+   6.80786e-09,
+   1.34468e-10
+  ],
+  [
+   7.01488e-09,
+   9.40927e-11
+  ],
+  [
+   7.22821e-09,
+   1.13212e-10
+  ],
+  [
+   7.44802e-09,
+   1.04092e-10
+  ],
+  [
+   7.67452e-09,
+   8.42679e-11
+  ],
+  [
+   7.9079e-09,
+   9.99606e-11
+  ],
+  [
+   8.27135e-09,
+   8.63979e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "ABRACADABRA-10cm_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Observed 95% one-sided upper limit on g_agamma from ABRACADABRA-10cm Run 3 (broadband), traced from the vector paths of Fig. 4 (Plots/Joint_Limit.pdf in the e-print), black '95% U.L. [This Work]' curve, not the expected 1/2-sigma bands or Run 1 curve. Axes calibrated from tick-mark coordinates (x: 0.3-8 neV log; y: 1e-10, 1e-9 GeV^-1 log); calibration cross-checked against the stated mass range 0.41-8.27 neV (100 kHz-2 MHz plot edges). Curve resampled to 100 log-spaced points via bin-median of ~10k path vertices. Per the caption the plotted curve is smoothed over the ~11.1 million analyzed mass points; the strongest unsmoothed limit is 3.2e-11 GeV^-1 at m_a ~ 2.99 neV, while the smoothed curve reaches ~6.6e-11 GeV^-1 near 3 neV. Assumes axion is all of local DM with rho_DM = 0.4 GeV/cm^3 and Standard Halo Model (v0=220 km/s, vsun=232 km/s).",
+ "num_points": 100,
+ "arxiv_id": "2102.06722",
+ "elapsed_s": 148.66847825050354,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 148353,
+  "duration_api_ms": 143891,
+  "total_cost_usd": 1.4453860000000003,
+  "usage": {
+   "input_tokens": 485,
+   "output_tokens": 9923,
+   "cache_creation_input_tokens": 35729,
+   "cache_read_input_tokens": 436041
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2102.06722.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:25:26-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

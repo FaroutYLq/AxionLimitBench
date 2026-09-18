@@ -1,0 +1,291 @@
+{
+ "paper_title": "Search for light scalar Dark Matter candidate with AURIGA detector",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.51829e-12,
+   1.2503e-05
+  ],
+  [
+   3.5235e-12,
+   1.1673e-05
+  ],
+  [
+   3.53045e-12,
+   1.035e-05
+  ],
+  [
+   3.53741e-12,
+   8.8667e-06
+  ],
+  [
+   3.54262e-12,
+   7.9981e-06
+  ],
+  [
+   3.54957e-12,
+   6.9708e-06
+  ],
+  [
+   3.55652e-12,
+   5.8703e-06
+  ],
+  [
+   3.56695e-12,
+   4.4592e-06
+  ],
+  [
+   3.5739e-12,
+   4.0223e-06
+  ],
+  [
+   3.58085e-12,
+   3.5665e-06
+  ],
+  [
+   3.58606e-12,
+   3.5057e-06
+  ],
+  [
+   3.59302e-12,
+   3.5665e-06
+  ],
+  [
+   3.59997e-12,
+   3.9538e-06
+  ],
+  [
+   3.60518e-12,
+   4.092e-06
+  ],
+  [
+   3.61213e-12,
+   4.5365e-06
+  ],
+  [
+   3.61908e-12,
+   5.0291e-06
+  ],
+  [
+   3.6243e-12,
+   5.387e-06
+  ],
+  [
+   3.63125e-12,
+   5.7702e-06
+  ],
+  [
+   3.6382e-12,
+   6.2879e-06
+  ],
+  [
+   3.64341e-12,
+   6.6206e-06
+  ],
+  [
+   3.65036e-12,
+   6.8521e-06
+  ],
+  [
+   3.65732e-12,
+   7.3396e-06
+  ],
+  [
+   3.66253e-12,
+   7.4668e-06
+  ],
+  [
+   3.66948e-12,
+   7.7279e-06
+  ],
+  [
+   3.67643e-12,
+   7.8618e-06
+  ],
+  [
+   3.68165e-12,
+   8.1367e-06
+  ],
+  [
+   3.69033e-12,
+   8.4212e-06
+  ],
+  [
+   3.69729e-12,
+   8.4212e-06
+  ],
+  [
+   3.7025e-12,
+   8.4212e-06
+  ],
+  [
+   3.70945e-12,
+   8.4212e-06
+  ],
+  [
+   3.71814e-12,
+   8.4212e-06
+  ],
+  [
+   3.72509e-12,
+   8.4212e-06
+  ],
+  [
+   3.7303e-12,
+   8.4212e-06
+  ],
+  [
+   3.73726e-12,
+   8.1367e-06
+  ],
+  [
+   3.74421e-12,
+   7.8618e-06
+  ],
+  [
+   3.74942e-12,
+   7.8618e-06
+  ],
+  [
+   3.75637e-12,
+   7.5962e-06
+  ],
+  [
+   3.76332e-12,
+   7.3396e-06
+  ],
+  [
+   3.7807e-12,
+   6.3969e-06
+  ],
+  [
+   3.78765e-12,
+   6.1808e-06
+  ],
+  [
+   3.7946e-12,
+   5.7702e-06
+  ],
+  [
+   3.79982e-12,
+   5.387e-06
+  ],
+  [
+   3.80677e-12,
+   4.9434e-06
+  ],
+  [
+   3.81372e-12,
+   4.5365e-06
+  ],
+  [
+   3.82415e-12,
+   3.7551e-06
+  ],
+  [
+   3.8311e-12,
+   3.446e-06
+  ],
+  [
+   3.83805e-12,
+   3.1084e-06
+  ],
+  [
+   3.84326e-12,
+   2.9019e-06
+  ],
+  [
+   3.85022e-12,
+   2.8039e-06
+  ],
+  [
+   3.85717e-12,
+   2.9019e-06
+  ],
+  [
+   3.86238e-12,
+   3.1084e-06
+  ],
+  [
+   3.86933e-12,
+   3.5057e-06
+  ],
+  [
+   3.87628e-12,
+   4.163e-06
+  ],
+  [
+   3.8815e-12,
+   4.6151e-06
+  ],
+  [
+   3.88845e-12,
+   5.4803e-06
+  ],
+  [
+   3.8954e-12,
+   6.2879e-06
+  ],
+  [
+   3.90061e-12,
+   6.9708e-06
+  ],
+  [
+   3.9093e-12,
+   8.1367e-06
+  ],
+  [
+   3.91625e-12,
+   9.1767e-06
+  ],
+  [
+   3.9232e-12,
+   9.8296e-06
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "AURIGA_2016",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Red 'Auriga' curve of Fig. 5 (e-print file DMplotZOOM.png), digitised from pixel positions calibrated on the axis ticks (bottom mass axis linear 3.0-4.5e-12 eV, log y with 67 px/decade). The paper sets identical 95% C.L. upper limits on the dimensionless dilaton couplings d_i for both an electromagnetic gauge modulus (d_i=d_e) and an electron-mass modulus (d_i=d_me); the abstract quotes d_e ~< 1e-5 near m_phi=3.6e-12 eV, so ScalarPhoton is reported here, but the same curve applies verbatim to d_me (ScalarElectron). Paper convention alpha = alpha0[1 + d_e sqrt(4 pi G_N) Phi] (eq. 2) is exactly the canonical Damour-Donoghue kappa=sqrt(4pi)/M_Pl normalisation, so no conversion applied. Curve spans 850.7-948.6 Hz (m=3.52e-12 to 3.92e-12 eV), matching the stated AURIGA sensitive band [850,950] Hz; dips to ~3e-6 at the detector normal modes (~868 and ~929 Hz). Standard halo model with rho_DM = 0.3 GeV/cm^3 assumed.",
+ "num_points": 60,
+ "arxiv_id": "1607.07327",
+ "elapsed_s": 104.6254460811615,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 104087,
+  "duration_api_ms": 101439,
+  "total_cost_usd": 1.1010145,
+  "usage": {
+   "input_tokens": 351,
+   "output_tokens": 8469,
+   "cache_creation_input_tokens": 27646,
+   "cache_read_input_tokens": 266792
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1607.07327.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T20:52:21-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

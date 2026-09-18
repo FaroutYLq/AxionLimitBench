@@ -1,0 +1,86 @@
+{
+ "paper_title": "Search for invisible axion dark matter of mass ma = 43 \u00b5eV with the QUAX\u2013a\u03b3 experiment",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.301520272e-05,
+   2e-13
+  ],
+  [
+   4.301602984e-05,
+   1.3e-13
+  ],
+  [
+   4.30164434e-05,
+   1e-13
+  ],
+  [
+   4.301685696e-05,
+   8.5e-14
+  ],
+  [
+   4.3017518656e-05,
+   7.66e-14
+  ],
+  [
+   4.301809764e-05,
+   8.5e-14
+  ],
+  [
+   4.30185112e-05,
+   1e-13
+  ],
+  [
+   4.301892476e-05,
+   1.3e-13
+  ],
+  [
+   4.301933832e-05,
+   2e-13
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.82,
+ "suggested_experiment_name": "QUAX-a\u03b3_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "90% C.L. upper limit on axion-photon coupling measured at cavity frequency \u03bdc = 10.40176 GHz corresponding to axion mass ma = 43.0182 \u00b5eV. Minimum sensitivity (best limit) is ga\u03b3\u03b3 < 0.766 \u00d7 10^-13 GeV^-1 achieved in a small mass window of 3.7 neV around 43.0182 \u00b5eV. Data collected in ~1 hour of operation. Limit curve extracted by visual inspection of Figure 5 (observed 90% C.L. upper limit shown as blue shaded region). Assumes local dark matter halo density \u03c1a \u2248 0.45 GeV/cm\u00b3. Cavity details: Cu cavity V = 80.56 cm\u00b3, cooled to ~200 mK, immersed in 8.1 T magnetic field, coupled to Josephson parametric amplifier at SQL.",
+ "num_points": 9,
+ "arxiv_id": "2012.09498",
+ "elapsed_s": 134.59870791435242,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 5,
+  "duration_ms": 133762,
+  "duration_api_ms": 130291,
+  "total_cost_usd": 0.1639603,
+  "usage": {
+   "input_tokens": 36,
+   "output_tokens": 12856,
+   "cache_creation_input_tokens": 44000,
+   "cache_read_input_tokens": 116443
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2012.09498.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:38:47-0500"
+ }
+}

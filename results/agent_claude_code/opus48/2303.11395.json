@@ -1,0 +1,258 @@
+{
+ "paper_title": "Axion-sourced fireballs from supernovae",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2233177.3,
+   4.89e-09
+  ],
+  [
+   2488326.4,
+   4.189e-09
+  ],
+  [
+   2815810.6,
+   3.519e-09
+  ],
+  [
+   3186394.5,
+   2.9e-09
+  ],
+  [
+   3718944.3,
+   2.344e-09
+  ],
+  [
+   4080297.5,
+   2.008e-09
+  ],
+  [
+   4617298.3,
+   1.72e-09
+  ],
+  [
+   5065939.6,
+   1.473e-09
+  ],
+  [
+   5821945.3,
+   1.214e-09
+  ],
+  [
+   6900813.0,
+   9.44e-10
+  ],
+  [
+   7930644.0,
+   8.086e-10
+  ],
+  [
+   9400275.8,
+   6.411e-10
+  ],
+  [
+   11142245.9,
+   5.082e-10
+  ],
+  [
+   12805037.4,
+   4.188e-10
+  ],
+  [
+   14490285.9,
+   3.519e-10
+  ],
+  [
+   16912088.5,
+   2.844e-10
+  ],
+  [
+   18844353.9,
+   2.484e-10
+  ],
+  [
+   21324426.2,
+   2.169e-10
+  ],
+  [
+   23760825.4,
+   1.931e-10
+  ],
+  [
+   26475583.0,
+   1.753e-10
+  ],
+  [
+   29959999.0,
+   1.592e-10
+  ],
+  [
+   34431015.3,
+   1.445e-10
+  ],
+  [
+   39569268.7,
+   1.363e-10
+  ],
+  [
+   44090196.4,
+   1.312e-10
+  ],
+  [
+   47632368.5,
+   1.286e-10
+  ],
+  [
+   52260583.4,
+   1.337e-10
+  ],
+  [
+   54740703.3,
+   1.417e-10
+  ],
+  [
+   56459158.2,
+   1.531e-10
+  ],
+  [
+   56459158.2,
+   1.753e-10
+  ],
+  [
+   56459158.2,
+   2.128e-10
+  ],
+  [
+   54740703.3,
+   2.436e-10
+  ],
+  [
+   53074553.2,
+   2.844e-10
+  ],
+  [
+   52260583.4,
+   3.257e-10
+  ],
+  [
+   50669921.1,
+   3.658e-10
+  ],
+  [
+   48374252.9,
+   4.27e-10
+  ],
+  [
+   46182575.8,
+   4.985e-10
+  ],
+  [
+   44776910.6,
+   5.491e-10
+  ],
+  [
+   42748217.2,
+   6.288e-10
+  ],
+  [
+   40811452.3,
+   7.2e-10
+  ],
+  [
+   38962420.7,
+   8.244e-10
+  ],
+  [
+   37197176.3,
+   9.259e-10
+  ],
+  [
+   35511895.5,
+   1.04e-09
+  ],
+  [
+   33383033.9,
+   1.214e-09
+  ],
+  [
+   31381792.9,
+   1.445e-09
+  ],
+  [
+   29959999.0,
+   1.655e-09
+  ],
+  [
+   28163961.6,
+   1.932e-09
+  ],
+  [
+   26475583.0,
+   2.299e-09
+  ],
+  [
+   24506740.3,
+   2.79e-09
+  ],
+  [
+   22684301.1,
+   3.321e-09
+  ],
+  [
+   20997395.1,
+   3.953e-09
+  ],
+  [
+   18844353.9,
+   4.986e-09
+  ],
+  [
+   2233177.3,
+   4.89e-09
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.78,
+ "suggested_experiment_name": "SN1987A_PVO_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "New PVO (Pioneer Venus Orbiter) bound on ALP-photon coupling from SN1987A, the paper's headline result (Fig. 2, thick solid black closed contour = fireball-formation region, which the paper states is entirely and robustly excluded by PVO 0.2-2 MeV observations). Coupling defined via L=-(1/4)g_agamma a F Ftilde, matching the canonical convention directly (no conversion). Curve extracted as a vector drawing (width-3 black polyline, drawing idx 83) from e-print fig2.pdf; axes calibrated from tick marks (x: 10^0,10^1,10^2 MeV -> converted to eV; y: 10^-10,10^-9 GeV^-1). It is a CLOSED excluded island spanning ~2-56 MeV in mass and ~1.3e-10 to ~5e-9 GeV^-1; points ordered along the boundary loop (not monotonic in mass) and the loop is closed by repeating the first point. Bound is an SN observational limit, independent of DM density; no explicit statistical CL stated by the paper.",
+ "num_points": 52,
+ "arxiv_id": "2303.11395",
+ "elapsed_s": 117.45669174194336,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 117146,
+  "duration_api_ms": 114711,
+  "total_cost_usd": 0.732459,
+  "usage": {
+   "input_tokens": 293,
+   "output_tokens": 8396,
+   "cache_creation_input_tokens": 38177,
+   "cache_read_input_tokens": 278648
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2303.11395.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:22:38-0500"
+ }
+}

@@ -1,0 +1,411 @@
+{
+ "paper_title": "Laboratory Constraints on the Neutron-Spin Coupling of feV-scale Axions",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.317e-17,
+   5.623e-09
+  ],
+  [
+   4.661e-17,
+   5.686e-09
+  ],
+  [
+   5.033e-17,
+   4.414e-09
+  ],
+  [
+   5.434e-17,
+   4.168e-09
+  ],
+  [
+   5.867e-17,
+   4.718e-09
+  ],
+  [
+   6.335e-17,
+   4.014e-09
+  ],
+  [
+   6.84e-17,
+   3.523e-09
+  ],
+  [
+   7.385e-17,
+   3.25e-09
+  ],
+  [
+   7.974e-17,
+   3.01e-09
+  ],
+  [
+   8.61e-17,
+   2.361e-09
+  ],
+  [
+   9.296e-17,
+   2.814e-09
+  ],
+  [
+   1.004e-16,
+   2.242e-09
+  ],
+  [
+   1.084e-16,
+   2.519e-09
+  ],
+  [
+   1.17e-16,
+   2.019e-09
+  ],
+  [
+   1.263e-16,
+   2.48e-09
+  ],
+  [
+   1.364e-16,
+   1.947e-09
+  ],
+  [
+   1.473e-16,
+   2.351e-09
+  ],
+  [
+   1.59e-16,
+   1.896e-09
+  ],
+  [
+   1.717e-16,
+   2.29e-09
+  ],
+  [
+   1.854e-16,
+   2.124e-09
+  ],
+  [
+   2.002e-16,
+   3.805e-09
+  ],
+  [
+   2.161e-16,
+   3.842e-09
+  ],
+  [
+   2.334e-16,
+   1.929e-09
+  ],
+  [
+   2.52e-16,
+   1.385e-09
+  ],
+  [
+   2.721e-16,
+   1.472e-09
+  ],
+  [
+   2.937e-16,
+   1.61e-09
+  ],
+  [
+   3.172e-16,
+   1.146e-09
+  ],
+  [
+   3.425e-16,
+   1.419e-09
+  ],
+  [
+   3.698e-16,
+   9.257e-10
+  ],
+  [
+   3.992e-16,
+   1.052e-09
+  ],
+  [
+   4.311e-16,
+   8.313e-10
+  ],
+  [
+   4.654e-16,
+   9.48e-10
+  ],
+  [
+   5.025e-16,
+   7.908e-10
+  ],
+  [
+   5.426e-16,
+   6.784e-10
+  ],
+  [
+   5.858e-16,
+   7.928e-10
+  ],
+  [
+   6.325e-16,
+   6.941e-10
+  ],
+  [
+   6.83e-16,
+   6.368e-10
+  ],
+  [
+   7.374e-16,
+   6.322e-10
+  ],
+  [
+   7.962e-16,
+   5.192e-10
+  ],
+  [
+   8.597e-16,
+   5.667e-10
+  ],
+  [
+   9.282e-16,
+   5.308e-10
+  ],
+  [
+   1.002e-15,
+   5.768e-10
+  ],
+  [
+   1.082e-15,
+   6.867e-10
+  ],
+  [
+   1.168e-15,
+   4.748e-10
+  ],
+  [
+   1.262e-15,
+   4.49e-10
+  ],
+  [
+   1.362e-15,
+   5.233e-10
+  ],
+  [
+   1.471e-15,
+   4.503e-10
+  ],
+  [
+   1.588e-15,
+   4.469e-10
+  ],
+  [
+   1.715e-15,
+   4.751e-10
+  ],
+  [
+   1.851e-15,
+   5.177e-10
+  ],
+  [
+   1.999e-15,
+   5.014e-10
+  ],
+  [
+   2.158e-15,
+   4.942e-10
+  ],
+  [
+   2.33e-15,
+   5.167e-10
+  ],
+  [
+   2.516e-15,
+   5.086e-10
+  ],
+  [
+   2.717e-15,
+   4.81e-10
+  ],
+  [
+   2.933e-15,
+   4.991e-10
+  ],
+  [
+   3.167e-15,
+   4.923e-10
+  ],
+  [
+   3.419e-15,
+   5.547e-10
+  ],
+  [
+   3.692e-15,
+   5.317e-10
+  ],
+  [
+   3.986e-15,
+   5.201e-10
+  ],
+  [
+   4.304e-15,
+   4.536e-10
+  ],
+  [
+   4.647e-15,
+   5.26e-10
+  ],
+  [
+   5.018e-15,
+   5.608e-10
+  ],
+  [
+   5.418e-15,
+   5.159e-10
+  ],
+  [
+   5.85e-15,
+   5.67e-10
+  ],
+  [
+   6.316e-15,
+   5.908e-10
+  ],
+  [
+   6.82e-15,
+   7.91e-10
+  ],
+  [
+   7.363e-15,
+   9.491e-10
+  ],
+  [
+   7.95e-15,
+   8.475e-10
+  ],
+  [
+   8.584e-15,
+   9.071e-10
+  ],
+  [
+   9.268e-15,
+   9.602e-10
+  ],
+  [
+   1.001e-14,
+   1.384e-09
+  ],
+  [
+   1.081e-14,
+   1.249e-09
+  ],
+  [
+   1.167e-14,
+   1.294e-09
+  ],
+  [
+   1.26e-14,
+   8.851e-10
+  ],
+  [
+   1.36e-14,
+   9.192e-10
+  ],
+  [
+   1.469e-14,
+   1.011e-09
+  ],
+  [
+   1.586e-14,
+   9.85e-10
+  ],
+  [
+   1.712e-14,
+   1.154e-09
+  ],
+  [
+   1.848e-14,
+   1.261e-09
+  ],
+  [
+   1.996e-14,
+   1.244e-09
+  ],
+  [
+   2.155e-14,
+   1.53e-09
+  ],
+  [
+   2.327e-14,
+   1.427e-09
+  ],
+  [
+   2.512e-14,
+   1.477e-09
+  ],
+  [
+   2.713e-14,
+   1.664e-09
+  ],
+  [
+   2.929e-14,
+   1.68e-09
+  ],
+  [
+   3.162e-14,
+   2.009e-09
+  ],
+  [
+   3.414e-14,
+   1.978e-09
+  ],
+  [
+   3.687e-14,
+   2.113e-09
+  ],
+  [
+   3.98e-14,
+   2.311e-09
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "K-3He_Comagnetometer_2022",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Observed 95% upper limit (orange 'Experiment' curve) from Fig. 5 (exp_MC_ulims.eps in the e-print), extracted from the vector paths of the figure with axis calibration from major tick marks (verified: green MC-median minimum reproduces the quoted 2.4e-10 GeV^-1 at 0.36 Hz; top mass axis confirms m=h*f). The paper's limit is set at ~8 million frequencies from 0.01 to 10 Hz and plotted as a dense noisy band; reported points are the median of the plotted curve in 90 log-spaced frequency bins, which smooths over narrow strong/weak excursions (including the near-integer-Hz noise peaks the paper attributes to non-axion artifacts, Sec. VI). Paper defines L = g_aNN Nbar gamma^mu gamma5 N d_mu a with g_aNN in GeV^-1 (Eq. 1) / H = g_aNN grad(a).sigma_N (Eq. 2); converted to canonical dimensionless g_an = 2 m_n g_aNN with m_n = 0.93957 GeV. Mass converted from frequency via m_a = h f. Assumes axions are all of the local DM with rho = 0.3 GeV/cm^3 (Catena & Ullio).",
+ "num_points": 90,
+ "arxiv_id": "2209.03289",
+ "elapsed_s": 291.96843099594116,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 291593,
+  "duration_api_ms": 286235,
+  "total_cost_usd": 2.1849465,
+  "usage": {
+   "input_tokens": 546,
+   "output_tokens": 18855,
+   "cache_creation_input_tokens": 46807,
+   "cache_read_input_tokens": 587599
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2209.03289.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:56:54-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

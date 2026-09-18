@@ -1,0 +1,126 @@
+{
+ "paper_title": "New Exclusion Limit for Dark Photons from an SRF Cavity-Based Search (Dark SRF)",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.147e-08,
+   3.328e-07
+  ],
+  [
+   2.074e-07,
+   6.653e-08
+  ],
+  [
+   4.15e-07,
+   3.32e-08
+  ],
+  [
+   8.301e-07,
+   1.647e-08
+  ],
+  [
+   1.245e-06,
+   1.084e-08
+  ],
+  [
+   1.66e-06,
+   7.986e-09
+  ],
+  [
+   2.076e-06,
+   5.761e-09
+  ],
+  [
+   2.491e-06,
+   4.618e-09
+  ],
+  [
+   2.906e-06,
+   3.837e-09
+  ],
+  [
+   3.321e-06,
+   3.28e-09
+  ],
+  [
+   3.737e-06,
+   2.823e-09
+  ],
+  [
+   4.152e-06,
+   2.471e-09
+  ],
+  [
+   4.567e-06,
+   2.17e-09
+  ],
+  [
+   4.983e-06,
+   1.912e-09
+  ],
+  [
+   5.398e-06,
+   1.694e-09
+  ],
+  [
+   5.813e-06,
+   4.031e-08
+  ],
+  [
+   6.229e-06,
+   1.447e-07
+  ],
+  [
+   6.644e-06,
+   5.2e-07
+  ],
+  [
+   6.948e-06,
+   9.99e-07
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "DarkSRF_2023",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Light-shining-through-wall (LSW) dark photon search with two 1.3 GHz SRF cavities; not a dark-matter search so no density dependence. Curve is the blue 95% C.L. observed exclusion boundary (region above excluded) from Fig. 4, extracted as vector strokes from e-print file run0result_01242023_ZL.pdf (blue RGB 0.192,0.388,0.808, fill=None). Axis calibration from tick labels: log-x m_gamma' 1e-7..1e-5 eV, log-y epsilon 1e-9..1e-6, frame 80.3-645.2 (x), 61.4-410.6 (y) px. The wedge dips to a minimum epsilon=1.7e-9 at m~5.4e-6 eV, the cavity resonance mass (f0=1.298 GHz -> 5.37e-6 eV); matches the abstract's stated best limit epsilon=1.6e-9. Abstract quotes world's-best range 2.1e-7 - 5.7e-6 eV; the extracted boundary extends slightly beyond on both sides where the blue curve is drawn (down to the left frame edge ~4e-8 eV and up the steep right branch to ~7e-6 eV where it exits the top of the plot). Two off-frame vertices at m<4e-8 eV (clamped to the top edge) were dropped. y-variable is the kinetic mixing chi (= epsilon in the paper).",
+ "num_points": 19,
+ "arxiv_id": "2301.11512",
+ "elapsed_s": 155.1252419948578,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 154825,
+  "duration_api_ms": 152342,
+  "total_cost_usd": 0.6864640000000001,
+  "usage": {
+   "input_tokens": 323,
+   "output_tokens": 10285,
+   "cache_creation_input_tokens": 30602,
+   "cache_read_input_tokens": 243408
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2301.11512.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:10:19-0500"
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "paper_title": "3D template-based Fermi-LAT constraints on the diffuse supernova axion-like particle background",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-12,
+   3.76e-11
+  ],
+  [
+   1e-10,
+   3.76e-11
+  ],
+  [
+   1.165e-10,
+   3.855e-11
+  ],
+  [
+   1.351e-10,
+   3.973e-11
+  ],
+  [
+   1.566e-10,
+   4.11e-11
+  ],
+  [
+   1.815e-10,
+   4.269e-11
+  ],
+  [
+   2.104e-10,
+   4.453e-11
+  ],
+  [
+   2.439e-10,
+   4.666e-11
+  ],
+  [
+   2.724e-10,
+   4.847e-11
+  ],
+  [
+   3.043e-10,
+   5.05e-11
+  ],
+  [
+   3.4e-10,
+   5.277e-11
+  ],
+  [
+   3.798e-10,
+   5.531e-11
+  ],
+  [
+   4.243e-10,
+   5.814e-11
+  ],
+  [
+   4.74e-10,
+   6.13e-11
+  ],
+  [
+   5.295e-10,
+   6.483e-11
+  ],
+  [
+   5.916e-10,
+   6.878e-11
+  ],
+  [
+   6.608e-10,
+   7.319e-11
+  ],
+  [
+   7.383e-10,
+   7.811e-11
+  ],
+  [
+   8.247e-10,
+   8.362e-11
+  ],
+  [
+   9.56e-10,
+   9.197e-11
+  ],
+  [
+   1.029e-09,
+   9.77e-11
+  ],
+  [
+   1.333e-09,
+   1.285e-10
+  ],
+  [
+   1.791e-09,
+   1.75e-10
+  ],
+  [
+   2.591e-09,
+   2.563e-10
+  ],
+  [
+   4.035e-09,
+   4.029e-10
+  ],
+  [
+   7.021e-09,
+   7.061e-10
+  ],
+  [
+   1.392e-08,
+   1.406e-09
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "FermiLAT_DSNALPB_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Observed 95% CL upper limit (solid crimson line) from Fig. 10, benchmark DSNALPB scenario (f_fail-CC=20%, Salpeter IMF, fiducial SNR). Curve extracted from the vector PDF ancillary figure file ALP_joint_upper_limits_redshifted_DSNALPB_flux_w_HeavyNuclei_Mfail_20percent_statistical_uncertainty.pdf, crimson stroke RGB(0.863,0.078,0.235); light-red dashed (Calore et al. spectrum-only comparison) excluded. Axes calibrated from tick-label positions (191.2 px/decade in m, 148.45 px/decade in g); flat portion anchored to the paper's headline value g_agamma <= 3.76e-11 GeV^-1 for m_a << 1e-11 eV. Limit is flat at 3.76e-11 GeV^-1 up to ~1e-10 eV then rises; curve traced to top of plot frame (~1.4e-9 GeV^-1 near 1.4e-8 eV). Not a dark-matter search (diffuse SN ALP gamma-ray background), so no DM density dependence. Systematic band spans g_agamma in [2.38,7.04]e-11 GeV^-1 (Table V) but headline/benchmark curve reported here.",
+ "num_points": 27,
+ "arxiv_id": "2110.03679",
+ "elapsed_s": 127.27941393852234,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 126951,
+  "duration_api_ms": 121698,
+  "total_cost_usd": 0.74759975,
+  "usage": {
+   "input_tokens": 419,
+   "output_tokens": 8625,
+   "cache_creation_input_tokens": 43473,
+   "cache_read_input_tokens": 456107
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2110.03679.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:48:52-0500"
+ }
+}

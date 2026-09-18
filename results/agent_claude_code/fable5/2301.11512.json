@@ -1,0 +1,299 @@
+{
+ "paper_title": "New Exclusion Limit for Dark Photons from an SRF Cavity-Based Search (Dark SRF)",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4e-08,
+   3.448e-07
+  ],
+  [
+   4.0692e-08,
+   3.39e-07
+  ],
+  [
+   4.1397e-08,
+   3.332e-07
+  ],
+  [
+   4.644e-08,
+   2.97e-07
+  ],
+  [
+   5.2098e-08,
+   2.647e-07
+  ],
+  [
+   5.8446e-08,
+   2.36e-07
+  ],
+  [
+   6.5567e-08,
+   2.103e-07
+  ],
+  [
+   7.3556e-08,
+   1.875e-07
+  ],
+  [
+   8.2518e-08,
+   1.671e-07
+  ],
+  [
+   9.2571e-08,
+   1.489e-07
+  ],
+  [
+   1.0385e-07,
+   1.328e-07
+  ],
+  [
+   1.165e-07,
+   1.183e-07
+  ],
+  [
+   1.307e-07,
+   1.055e-07
+  ],
+  [
+   1.4662e-07,
+   9.401e-08
+  ],
+  [
+   1.6449e-07,
+   8.38e-08
+  ],
+  [
+   1.8453e-07,
+   7.469e-08
+  ],
+  [
+   2.0701e-07,
+   6.658e-08
+  ],
+  [
+   2.3237e-07,
+   5.93e-08
+  ],
+  [
+   2.6084e-07,
+   5.282e-08
+  ],
+  [
+   2.928e-07,
+   4.705e-08
+  ],
+  [
+   3.2868e-07,
+   4.191e-08
+  ],
+  [
+   3.6895e-07,
+   3.733e-08
+  ],
+  [
+   4.1416e-07,
+   3.325e-08
+  ],
+  [
+   4.6483e-07,
+   2.957e-08
+  ],
+  [
+   5.2169e-07,
+   2.631e-08
+  ],
+  [
+   5.8551e-07,
+   2.34e-08
+  ],
+  [
+   6.5714e-07,
+   2.082e-08
+  ],
+  [
+   7.3753e-07,
+   1.852e-08
+  ],
+  [
+   8.2775e-07,
+   1.647e-08
+  ],
+  [
+   9.1618e-07,
+   1.484e-08
+  ],
+  [
+   1.0141e-06,
+   1.337e-08
+  ],
+  [
+   1.1224e-06,
+   1.204e-08
+  ],
+  [
+   1.2423e-06,
+   1.085e-08
+  ],
+  [
+   1.3672e-06,
+   9.796e-09
+  ],
+  [
+   1.5047e-06,
+   8.844e-09
+  ],
+  [
+   1.6561e-06,
+   7.985e-09
+  ],
+  [
+   1.851e-06,
+   6.782e-09
+  ],
+  [
+   2.0689e-06,
+   5.761e-09
+  ],
+  [
+   2.2665e-06,
+   5.157e-09
+  ],
+  [
+   2.4829e-06,
+   4.616e-09
+  ],
+  [
+   2.6824e-06,
+   4.21e-09
+  ],
+  [
+   2.8979e-06,
+   3.84e-09
+  ],
+  [
+   3.0986e-06,
+   3.548e-09
+  ],
+  [
+   3.3133e-06,
+   3.278e-09
+  ],
+  [
+   3.5137e-06,
+   3.044e-09
+  ],
+  [
+   3.7263e-06,
+   2.826e-09
+  ],
+  [
+   3.9274e-06,
+   2.642e-09
+  ],
+  [
+   4.1393e-06,
+   2.47e-09
+  ],
+  [
+   4.3424e-06,
+   2.317e-09
+  ],
+  [
+   4.5556e-06,
+   2.172e-09
+  ],
+  [
+   4.7571e-06,
+   2.039e-09
+  ],
+  [
+   4.9675e-06,
+   1.914e-09
+  ],
+  [
+   5.1712e-06,
+   1.801e-09
+  ],
+  [
+   5.3832e-06,
+   1.695e-09
+  ],
+  [
+   5.5867e-06,
+   8.271e-09
+  ],
+  [
+   5.7978e-06,
+   4.036e-08
+  ],
+  [
+   6.0014e-06,
+   7.647e-08
+  ],
+  [
+   6.2122e-06,
+   1.449e-07
+  ],
+  [
+   6.4139e-06,
+   2.745e-07
+  ],
+  [
+   6.6221e-06,
+   5.2e-07
+  ],
+  [
+   6.7729e-06,
+   7.211e-07
+  ],
+  [
+   6.9273e-06,
+   1e-06
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.93,
+ "suggested_experiment_name": "DarkSRF_2023",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Observed 95% C.L. (CLs) exclusion on kinetic mixing epsilon from the Dark SRF pathfinder LSW run (Fig. 4, blue curve), extracted from the vector paths of the e-print figure file run0result_01242023_ZL.pdf. Axes calibrated to the labeled decade ticks (x: 1e-7/1e-6/1e-5 eV; y: 1e-9..1e-6). Curve clipped to the plotted frame (m ~ 4.0e-8 eV to 6.9e-6 eV); minimum extracted epsilon = 1.70e-9 at m = 5.38e-6 eV, consistent with the quoted best limit 1.6e-9 near the 1.3 GHz cavity frequency. Light-shining-through-wall laboratory bound: no dark-matter density assumption, no rescaling applied.",
+ "num_points": 62,
+ "arxiv_id": "2301.11512",
+ "elapsed_s": 110.74993205070496,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 8,
+  "duration_ms": 110406,
+  "duration_api_ms": 107727,
+  "total_cost_usd": 1.038617,
+  "usage": {
+   "input_tokens": 239,
+   "output_tokens": 7769,
+   "cache_creation_input_tokens": 34253,
+   "cache_read_input_tokens": 161242
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2301.11512.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T14:01:05-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

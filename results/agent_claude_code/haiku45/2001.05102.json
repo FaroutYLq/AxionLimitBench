@@ -1,0 +1,110 @@
+{
+ "paper_title": "Axion Dark Matter Search around 6.7 \u00b5eV",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   6.63e-06,
+   8.28e-15
+  ],
+  [
+   6.66e-06,
+   5.66e-15
+  ],
+  [
+   6.67e-06,
+   5.77e-15
+  ],
+  [
+   6.69e-06,
+   6.33e-15
+  ],
+  [
+   6.7e-06,
+   6.38e-15
+  ],
+  [
+   6.71e-06,
+   6.4e-15
+  ],
+  [
+   6.72e-06,
+   7.24e-15
+  ],
+  [
+   6.74e-06,
+   6.49e-15
+  ],
+  [
+   6.75e-06,
+   6.67e-15
+  ],
+  [
+   6.76e-06,
+   6.02e-15
+  ],
+  [
+   6.77e-06,
+   5.69e-15
+  ],
+  [
+   6.78e-06,
+   5.6e-15
+  ],
+  [
+   6.79e-06,
+   5.34e-15
+  ],
+  [
+   6.81e-06,
+   5.2e-15
+  ],
+  [
+   6.82e-06,
+   7.48e-15
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "CAPP8TB_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "90% C.L. exclusion limit from CAPP-8TB haloscope over axion mass range 6.62-6.82 \u00b5eV. Extracted from Figure 3 main plot by visual analysis. Limit reaches approximately 2\u00d7 KSVZ coupling level. Dark matter density assumed: \u03c1a = 0.45 GeV/cm\u00b3. Figure shows limit is most sensitive in this mass range to date.",
+ "num_points": 15,
+ "arxiv_id": "2001.05102",
+ "elapsed_s": 227.1799921989441,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 226106,
+  "duration_api_ms": 214424,
+  "total_cost_usd": 0.2768181,
+  "usage": {
+   "input_tokens": 126,
+   "output_tokens": 21404,
+   "cache_creation_input_tokens": 52705,
+   "cache_read_input_tokens": 642621
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2001.05102.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:08:41-0500"
+ }
+}

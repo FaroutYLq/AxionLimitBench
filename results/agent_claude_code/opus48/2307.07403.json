@@ -1,0 +1,438 @@
+{
+ "paper_title": "Robust bounds on ALP dark matter from dwarf spheroidal galaxies in the optical MUSE-Faint survey",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.7132,
+   1.969e-12
+  ],
+  [
+   2.7377,
+   1.582e-12
+  ],
+  [
+   2.7673,
+   4.623e-13
+  ],
+  [
+   2.7905,
+   3.297e-13
+  ],
+  [
+   2.8162,
+   4.948e-13
+  ],
+  [
+   2.8441,
+   1.141e-12
+  ],
+  [
+   2.8657,
+   7.806e-13
+  ],
+  [
+   2.8922,
+   1.95e-12
+  ],
+  [
+   2.9194,
+   1.449e-12
+  ],
+  [
+   2.9476,
+   3.055e-13
+  ],
+  [
+   2.9704,
+   4.149e-13
+  ],
+  [
+   2.9952,
+   9.712e-13
+  ],
+  [
+   3.0203,
+   1.202e-12
+  ],
+  [
+   3.047,
+   1.234e-12
+  ],
+  [
+   3.0756,
+   6.868e-13
+  ],
+  [
+   3.1006,
+   3.353e-13
+  ],
+  [
+   3.127,
+   2.843e-13
+  ],
+  [
+   3.1508,
+   3.559e-13
+  ],
+  [
+   3.1781,
+   2.533e-13
+  ],
+  [
+   3.2017,
+   3.002e-13
+  ],
+  [
+   3.2288,
+   4.545e-13
+  ],
+  [
+   3.2531,
+   8.406e-13
+  ],
+  [
+   3.277,
+   3.736e-13
+  ],
+  [
+   3.3041,
+   4.612e-13
+  ],
+  [
+   3.3285,
+   3.969e-13
+  ],
+  [
+   3.3566,
+   3.439e-13
+  ],
+  [
+   3.3838,
+   2.221e-13
+  ],
+  [
+   3.4079,
+   2.576e-13
+  ],
+  [
+   3.4336,
+   4.077e-13
+  ],
+  [
+   3.4602,
+   5.056e-13
+  ],
+  [
+   3.4858,
+   5.693e-13
+  ],
+  [
+   3.5145,
+   3.99e-13
+  ],
+  [
+   3.5371,
+   5.716e-13
+  ],
+  [
+   3.5634,
+   5.605e-13
+  ],
+  [
+   3.5895,
+   3.685e-13
+  ],
+  [
+   3.6141,
+   3.312e-13
+  ],
+  [
+   3.6373,
+   4.394e-13
+  ],
+  [
+   3.6682,
+   6.274e-13
+  ],
+  [
+   3.6931,
+   9.776e-13
+  ],
+  [
+   3.7184,
+   6.077e-13
+  ],
+  [
+   3.7415,
+   6.075e-13
+  ],
+  [
+   3.7686,
+   5.323e-13
+  ],
+  [
+   3.7967,
+   4.145e-13
+  ],
+  [
+   3.8215,
+   3.143e-13
+  ],
+  [
+   3.8475,
+   4.929e-13
+  ],
+  [
+   3.8734,
+   5.187e-13
+  ],
+  [
+   3.8989,
+   3.042e-13
+  ],
+  [
+   3.9236,
+   3.485e-13
+  ],
+  [
+   3.9486,
+   2.859e-13
+  ],
+  [
+   3.9767,
+   2.899e-13
+  ],
+  [
+   4.0048,
+   4.78e-13
+  ],
+  [
+   4.0271,
+   4.825e-13
+  ],
+  [
+   4.0531,
+   6.224e-13
+  ],
+  [
+   4.0772,
+   4.923e-13
+  ],
+  [
+   4.1034,
+   4.821e-13
+  ],
+  [
+   4.1307,
+   4.279e-13
+  ],
+  [
+   4.1528,
+   5.853e-13
+  ],
+  [
+   4.2708,
+   1.2e-12
+  ],
+  [
+   4.2832,
+   3.008e-13
+  ],
+  [
+   4.3144,
+   2.863e-13
+  ],
+  [
+   4.3366,
+   3.204e-13
+  ],
+  [
+   4.3633,
+   2.719e-13
+  ],
+  [
+   4.3879,
+   2.62e-13
+  ],
+  [
+   4.4138,
+   2.716e-13
+  ],
+  [
+   4.44,
+   3.001e-13
+  ],
+  [
+   4.4664,
+   2.551e-13
+  ],
+  [
+   4.4922,
+   2.792e-13
+  ],
+  [
+   4.5147,
+   3.056e-13
+  ],
+  [
+   4.5406,
+   2.827e-13
+  ],
+  [
+   4.5688,
+   3.39e-13
+  ],
+  [
+   4.5942,
+   2.455e-13
+  ],
+  [
+   4.6193,
+   2.926e-13
+  ],
+  [
+   4.6448,
+   2.514e-13
+  ],
+  [
+   4.671,
+   2.869e-13
+  ],
+  [
+   4.6964,
+   2.597e-13
+  ],
+  [
+   4.721,
+   4.077e-13
+  ],
+  [
+   4.7493,
+   2.884e-13
+  ],
+  [
+   4.7756,
+   3.408e-13
+  ],
+  [
+   4.7981,
+   3.485e-13
+  ],
+  [
+   4.8255,
+   2.911e-13
+  ],
+  [
+   4.8521,
+   3.198e-13
+  ],
+  [
+   4.8783,
+   2.473e-13
+  ],
+  [
+   4.9031,
+   2.816e-13
+  ],
+  [
+   4.928,
+   2.825e-13
+  ],
+  [
+   4.9557,
+   2.736e-13
+  ],
+  [
+   4.9806,
+   2.789e-13
+  ],
+  [
+   5.0051,
+   3.041e-13
+  ],
+  [
+   5.0331,
+   2.956e-13
+  ],
+  [
+   5.0568,
+   3.328e-13
+  ],
+  [
+   5.0834,
+   3.022e-13
+  ],
+  [
+   5.1102,
+   3.281e-13
+  ],
+  [
+   5.1333,
+   2.499e-13
+  ],
+  [
+   5.1594,
+   2.948e-13
+  ],
+  [
+   5.185,
+   2.991e-13
+  ],
+  [
+   5.2122,
+   2.9e-13
+  ],
+  [
+   5.237,
+   3.444e-13
+  ],
+  [
+   5.262,
+   3.1e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "MUSE-Faint_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Combined 95% C.L. upper limit on the ALP-two-photon coupling (NFW profile), the headline result. Extracted as the lower boundary of the blue excluded region (This work curve) in the left panel of Fig.5 (e-print summary_compare.pdf, vector drawing idx 48); identical to the Combined panel of Fig.2. Paper Lagrangian L=-(1/4)g_ag a F Ftilde matches the canonical convention exactly, so no conversion applied. The boundary is intrinsically spiky (fluctuates from ~2e-13 to ~2e-12 due to imperfect sky-line subtraction); reported as median-per-mass-bin over ~97 bins spanning 2.7-5.3 eV. A narrow gap near m~4.15-4.26 eV (blocking filter at 5820-5970 A) is bridged by the plotted line. This is an ALP DM decay search assuming ALPs are all the DM; the bound depends on per-dwarf DM profiles from a Jeans analysis (D-factors), not a single local density, so dm_density_assumed is null. coreNFWtides profile (Fig.4) gives comparable bounds.",
+ "num_points": 97,
+ "arxiv_id": "2307.07403",
+ "elapsed_s": 251.79119086265564,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 251512,
+  "duration_api_ms": 248128,
+  "total_cost_usd": 1.1903305,
+  "usage": {
+   "input_tokens": 489,
+   "output_tokens": 14926,
+   "cache_creation_input_tokens": 48693,
+   "cache_read_input_tokens": 655611
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2307.07403.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:44:34-0500"
+ }
+}

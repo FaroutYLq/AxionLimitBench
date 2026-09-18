@@ -1,0 +1,178 @@
+{
+ "paper_title": "The Grenoble Axion Haloscope platform (GrAHal): development plan and first results",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.63623e-05,
+   3.471e-13
+  ],
+  [
+   2.63624e-05,
+   3.355e-13
+  ],
+  [
+   2.63625e-05,
+   3.193e-13
+  ],
+  [
+   2.63626e-05,
+   3.069e-13
+  ],
+  [
+   2.63627e-05,
+   3.001e-13
+  ],
+  [
+   2.63629e-05,
+   2.982e-13
+  ],
+  [
+   2.6363e-05,
+   3.019e-13
+  ],
+  [
+   2.63631e-05,
+   3.106e-13
+  ],
+  [
+   2.63632e-05,
+   2.736e-13
+  ],
+  [
+   2.63633e-05,
+   2.718e-13
+  ],
+  [
+   2.63635e-05,
+   2.617e-13
+  ],
+  [
+   2.63636e-05,
+   2.562e-13
+  ],
+  [
+   2.63637e-05,
+   2.564e-13
+  ],
+  [
+   2.63638e-05,
+   2.535e-13
+  ],
+  [
+   2.63639e-05,
+   2.303e-13
+  ],
+  [
+   2.6364e-05,
+   2.279e-13
+  ],
+  [
+   2.63642e-05,
+   2.261e-13
+  ],
+  [
+   2.63643e-05,
+   2.218e-13
+  ],
+  [
+   2.63644e-05,
+   2.216e-13
+  ],
+  [
+   2.63645e-05,
+   2.242e-13
+  ],
+  [
+   2.63646e-05,
+   2.253e-13
+  ],
+  [
+   2.63647e-05,
+   2.255e-13
+  ],
+  [
+   2.63648e-05,
+   2.313e-13
+  ],
+  [
+   2.63649e-05,
+   2.364e-13
+  ],
+  [
+   2.63651e-05,
+   2.416e-13
+  ],
+  [
+   2.63652e-05,
+   2.823e-13
+  ],
+  [
+   2.63653e-05,
+   2.884e-13
+  ],
+  [
+   2.63654e-05,
+   2.982e-13
+  ],
+  [
+   2.63656e-05,
+   3.479e-13
+  ],
+  [
+   2.63657e-05,
+   3.645e-13
+  ],
+  [
+   2.63658e-05,
+   3.87e-13
+  ],
+  [
+   2.6366e-05,
+   4.147e-13
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "GrAHal_2021",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "GrAHal pathfinding-run haloscope limit (Fig.4 of PDF = Fig5.jpg in e-print), the thick blue COMBINED exclusion curve over 6.3744-6.3752 GHz (m_a=26.36-26.37 ueV). y-axis is g/g_KSVZ; converted using paper native g_KSVZ=1.0e-14 GeV^-1 derived from abstract/conclusion statement g_agamma<=2.2e-13 GeV^-1 = 22 x g_KSVZ at 6.375 GHz. Mass from m_a[eV]=h*f=4.135668e-6*f[GHz]. Curve traced by color(31,107,255) pixel extraction, thickest-run per column, vertical step connectors removed; minimum reproduces headline 2.2e-13. 95% CL, assumes axions are all local DM but paper states no numeric density value (dm_density null). Individual tuning-step curves (other colors) not reported.",
+ "num_points": 32,
+ "arxiv_id": "2110.14406",
+ "elapsed_s": 160.35945177078247,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 160037,
+  "duration_api_ms": 155942,
+  "total_cost_usd": 0.71914375,
+  "usage": {
+   "input_tokens": 428,
+   "output_tokens": 10830,
+   "cache_creation_input_tokens": 34107,
+   "cache_read_input_tokens": 405930
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2110.14406.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:56:49-0500"
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "paper_title": "Getting the most on supernova axions",
+ "coupling_type": "AxionProton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0001,
+   6.19e-10
+  ],
+  [
+   1.0,
+   6.19e-10
+  ],
+  [
+   10000.0,
+   6.19e-10
+  ],
+  [
+   1000000.0,
+   6.19e-10
+  ],
+  [
+   10000000.0,
+   6.2e-10
+  ],
+  [
+   20000000.0,
+   6.19e-10
+  ],
+  [
+   30000000.0,
+   6.26e-10
+  ],
+  [
+   60100000.0,
+   6.54e-10
+  ],
+  [
+   90100000.0,
+   6.93e-10
+  ],
+  [
+   120000000.0,
+   7.53e-10
+  ],
+  [
+   150000000.0,
+   8.43e-10
+  ],
+  [
+   180000000.0,
+   9.73e-10
+  ],
+  [
+   210000000.0,
+   1.16e-09
+  ],
+  [
+   240000000.0,
+   1.43e-09
+  ],
+  [
+   270000000.0,
+   1.88e-09
+  ],
+  [
+   280000000.0,
+   2.11e-09
+  ],
+  [
+   291000000.0,
+   2.43e-09
+  ],
+  [
+   301000000.0,
+   3.03e-09
+  ],
+  [
+   306000000.0,
+   3.99e-09
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "SN1987A_2023",
+ "coupling_convention": "g_ap (dimensionless)",
+ "notes": "Lower boundary (strongest/reach edge) of the combined SN1987A excluded region in the g_ap vs m_a plane, Fig.3 (vector extraction from Figure3.pdf; frame calibrated from decade ticks). Paper sets g_an=0 (KSVZ-inspired C_ap=-0.47, C_an=0). Coupling is already in the canonical 2m_N convention: L = g_a (d^mu a/2m_N)[C_ap pbar gamma_mu gamma5 p + ...], g_ap = g_a*C_ap (Eq. in Appendix A), so g_ap = C_p m_N/f_a; no conversion applied. The reported curve is the lower edge of the SN1987A cooling region (blue), which dominates the lower envelope; the SN1987A(events)/KII region (green) sits at higher couplings (g_ap>~2.4e-7) and does not affect the lower reach. Flat cooling bound g_ap~6.2e-10 for m_a up to ~2e7 eV (abstract/Sec.III: 6e-10, upper trapping edge ~2.5e-6), rising and closing near m_a~3e8 eV (~O(100 MeV)); consistent with text 7e-10 lower bound at m~O(100 MeV). SNO(red) region is external (Ref.[3]), not this paper's result. Non-DM astrophysical bound so dm_density and statistical CL are null.",
+ "num_points": 19,
+ "arxiv_id": "2306.01048",
+ "elapsed_s": 378.6560220718384,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 378340,
+  "duration_api_ms": 375474,
+  "total_cost_usd": 1.6274709999999997,
+  "usage": {
+   "input_tokens": 663,
+   "output_tokens": 25333,
+   "cache_creation_input_tokens": 55576,
+   "cache_read_input_tokens": 870142
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2306.01048.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:37:30-0500"
+ }
+}

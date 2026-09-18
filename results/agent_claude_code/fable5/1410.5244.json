@@ -1,0 +1,131 @@
+{
+ "paper_title": "Cryogenic resonant microwave cavity searches for hidden sector photons",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.20322e-06,
+   9.483131e-05
+  ],
+  [
+   6.42585e-06,
+   6.061386e-05
+  ],
+  [
+   7.935767e-06,
+   3.87429e-05
+  ],
+  [
+   9.800477e-06,
+   2.476351e-05
+  ],
+  [
+   1.210335e-05,
+   1.582823e-05
+  ],
+  [
+   1.494734e-05,
+   1.011702e-05
+  ],
+  [
+   1.84596e-05,
+   6.466552e-06
+  ],
+  [
+   2.279715e-05,
+   4.133262e-06
+  ],
+  [
+   2.815392e-05,
+   2.64188e-06
+  ],
+  [
+   3.158881e-05,
+   2.135081e-06
+  ],
+  [
+   3.458332e-05,
+   2.198744e-06
+  ],
+  [
+   3.638033e-05,
+   2.410112e-06
+  ],
+  [
+   3.827072e-05,
+   2.812087e-06
+  ],
+  [
+   3.976745e-05,
+   4.450355e-06
+  ],
+  [
+   4.132325e-05,
+   4.878323e-06
+  ],
+  [
+   4.353726e-05,
+   2.64188e-06
+  ],
+  [
+   4.579954e-05,
+   1.024317e-06
+  ],
+  [
+   5.006362e-05,
+   3.105188e-07
+  ],
+  [
+   5.274592e-05,
+   1.687818e-07
+  ],
+  [
+   5.27723e-05,
+   9.483131e-05
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "LSW-UWA_2014",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline result: light-shining-through-wall exclusion on hidden-photon kinetic mixing chi (black 'UWA 2013' region of Fig. 5), extracted from the vector polygon in the e-print figure chiV2_cropped.pdf with axes calibrated on tick labels. Deepest point recovers chi=1.68e-7 at m=5.28e-5 eV, matching the quoted chi<1.7e-7 at 53 ueV (12.76 GHz TM020 mode). Limit rises as ~m^-2 toward low mass (curve clipped at chi~1e-4 at plot top, m~5.2e-6 eV) and terminates at the resonance mass, where the final point closes the excluded wedge along the vertical edge. Laboratory LSW bound: no dark-matter density assumed. The paper's separate single-mass CDM hidden-photon limits (chi<6.14e-14 homogeneous / 5.32e-15 inhomogeneous at 53 ueV) are not the reported curve. Confidence level not stated in the paper; 0.95 assumed.",
+ "num_points": 20,
+ "arxiv_id": "1410.5244",
+ "elapsed_s": 154.38816809654236,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 10,
+  "duration_ms": 154134,
+  "duration_api_ms": 151469,
+  "total_cost_usd": 1.5163319999999998,
+  "usage": {
+   "input_tokens": 284,
+   "output_tokens": 11809,
+   "cache_creation_input_tokens": 34915,
+   "cache_read_input_tokens": 224742
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1410.5244.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T21:55:13-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

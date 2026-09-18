@@ -1,0 +1,266 @@
+{
+ "paper_title": "Improved bounds on ultralight scalar dark matter in the radio-frequency range",
+ "coupling_type": "ScalarElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.92e-10,
+   132640.0
+  ],
+  [
+   2.5e-10,
+   134200.0
+  ],
+  [
+   3.07e-10,
+   124690.0
+  ],
+  [
+   3.76e-10,
+   210360.0
+  ],
+  [
+   4.54e-10,
+   178340.0
+  ],
+  [
+   5.62e-10,
+   187920.0
+  ],
+  [
+   6.52e-10,
+   281410.0
+  ],
+  [
+   8e-10,
+   295690.0
+  ],
+  [
+   9.32e-10,
+   348110.0
+  ],
+  [
+   1.181e-09,
+   541910.0
+  ],
+  [
+   1.375e-09,
+   727370.0
+  ],
+  [
+   1.676e-09,
+   947700.0
+  ],
+  [
+   1.893e-09,
+   970060.0
+  ],
+  [
+   2.331e-09,
+   974220.0
+  ],
+  [
+   2.713e-09,
+   1206300.0
+  ],
+  [
+   3.434e-09,
+   1670800.0
+  ],
+  [
+   3.712e-09,
+   1586300.0
+  ],
+  [
+   4.486e-09,
+   2118600.0
+  ],
+  [
+   4.895e-09,
+   2907300.0
+  ],
+  [
+   5.495e-09,
+   5484000.0
+  ],
+  [
+   5.598e-09,
+   4349600.0
+  ],
+  [
+   6.225e-09,
+   3601600.0
+  ],
+  [
+   6.794e-09,
+   2714100.0
+  ],
+  [
+   8.077e-09,
+   1938700.0
+  ],
+  [
+   9.41e-09,
+   1975500.0
+  ],
+  [
+   1.1588e-08,
+   2146500.0
+  ],
+  [
+   1.3356e-08,
+   2032700.0
+  ],
+  [
+   1.6292e-08,
+   2128200.0
+  ],
+  [
+   1.9103e-08,
+   2257100.0
+  ],
+  [
+   2.3063e-08,
+   2490700.0
+  ],
+  [
+   2.6486e-08,
+   2518100.0
+  ],
+  [
+   3.3164e-08,
+   2852500.0
+  ],
+  [
+   3.8465e-08,
+   3244400.0
+  ],
+  [
+   4.4437e-08,
+   3464600.0
+  ],
+  [
+   4.7596e-08,
+   3645600.0
+  ],
+  [
+   5.6818e-08,
+   4362000.0
+  ],
+  [
+   6.593e-08,
+   5180800.0
+  ],
+  [
+   7.9826e-08,
+   5843700.0
+  ],
+  [
+   8.669e-08,
+   6578800.0
+  ],
+  [
+   1.0057e-07,
+   8017200.0
+  ],
+  [
+   1.0844e-07,
+   7355500.0
+  ],
+  [
+   1.3593e-07,
+   9309300.0
+  ],
+  [
+   1.4454e-07,
+   9590400.0
+  ],
+  [
+   1.6653e-07,
+   11227000.0
+  ],
+  [
+   1.787e-07,
+   13008000.0
+  ],
+  [
+   2.0523e-07,
+   18685000.0
+  ],
+  [
+   2.246e-07,
+   19647000.0
+  ],
+  [
+   2.5286e-07,
+   20871000.0
+  ],
+  [
+   2.7092e-07,
+   23818000.0
+  ],
+  [
+   3.0482e-07,
+   33839000.0
+  ],
+  [
+   3.3004e-07,
+   40163000.0
+  ],
+  [
+   3.8064e-07,
+   47071000.0
+  ],
+  [
+   4.0659e-07,
+   52854000.0
+  ],
+  [
+   4.0864e-07,
+   62821000.0
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.55,
+ "suggested_experiment_name": "CsScalarDM_2022",
+ "coupling_convention": "d_me (dimensionless)",
+ "notes": "Scalar UDM search via Cs optical spectroscopy (two apparatus). Headline single-coupling exclusion traced from Fig. 3 (vector file dmedirectionv.pdf), the solid red 'Exp. B, only d_me != 0' curve, which is the measured 95% C.L. bound (Exp. A is described as ultimate/projected sensitivity; Exp. B sets the actual limits, apply Eq.(5)). Galactic-halo scenario, rho_DM ~ 3e-6 eV^4 ~ 0.4 GeV/cm^3 (paper native density; not rescaled). The paper defines d_me = g_e * M_Pl^reduced / m_e,0 with reduced Planck mass M_Pl^reduced=2.4e18 GeV; the canonical convention uses kappa=sqrt(4pi)/M_Pl with M_Pl=1.22e19 GeV. Conversion d_me(canonical)=sqrt(2)*d_me(paper) applied to all points (factor sqrt(8pi/4pi)=sqrt(2)). The paper equally reports g_gamma (fine-structure coupling, Fig 2 bottom -> ScalarPhoton d_e); ScalarElectron/d_me chosen because Fig 3 presents it directly in the canonical variable. Curve spans m_phi ~ 2e-10 to 4e-7 eV (g_e bound applies for f>f_c1~50 kHz). The bump near ~5e-9 eV is a real feature of the plotted curve.",
+ "num_points": 54,
+ "arxiv_id": "2201.02042",
+ "elapsed_s": 203.98391890525818,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 17,
+  "duration_ms": 203711,
+  "duration_api_ms": 201392,
+  "total_cost_usd": 0.8871072499999999,
+  "usage": {
+   "input_tokens": 480,
+   "output_tokens": 15520,
+   "cache_creation_input_tokens": 36973,
+   "cache_read_input_tokens": 468057
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2201.02042.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:07:08-0500"
+ }
+}

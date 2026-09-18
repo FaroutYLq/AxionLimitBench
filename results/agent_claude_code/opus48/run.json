@@ -1,0 +1,21 @@
+{
+ "system": "agent_claude_code",
+ "driver_version": "0.1.4",
+ "model": "claude-opus-4-8",
+ "effort": "default",
+ "task_card_sha256": "503a9033a0f9b64515fead0f9179cebeee02a6ccf2168878954aafa6e1a3ceeb",
+ "workers": 3,
+ "timeout_s": 1800,
+ "max_budget_usd": 10.0,
+ "transport_start": "cli",
+ "n_ids": 329,
+ "started_at": "2026-09-17T21:01:25-0500",
+ "claude_version": "2.1.195 (Claude Code)",
+ "finished_at": "2026-09-18T03:27:46-0500",
+ "transport_end": "cli",
+ "switched_at": null,
+ "total_cost_usd_reported": 344.65514624999986,
+ "transport_used": "cli (subscription) throughout",
+ "task_card_sha256_at_run": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+ "task_card_note": "The card text at run time was identical to docs/TASK.md except for a version label in its first line ('task card (v0.1.1)'); sha256 of that text is task_card_sha256_at_run."
+}

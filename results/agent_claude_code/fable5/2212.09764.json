@@ -1,0 +1,251 @@
+{
+ "paper_title": "Updated constraints on axion-like particles from temporal information in supernova SN1987A gamma-ray data",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.0000403150942564e-11,
+   5.214407339889128e-12
+  ],
+  [
+   1.1514439229932554e-11,
+   5.216325355059982e-12
+  ],
+  [
+   1.3257696592693277e-11,
+   5.218244075734232e-12
+  ],
+  [
+   1.526487876951866e-11,
+   5.220163502171426e-12
+  ],
+  [
+   1.7575943318579562e-11,
+   5.222083634631142e-12
+  ],
+  [
+   2.0236897272631345e-11,
+   5.224004473373057e-12
+  ],
+  [
+   2.3300713014368732e-11,
+   5.225926018657003e-12
+  ],
+  [
+   2.6828382813022992e-11,
+   5.227848270742848e-12
+  ],
+  [
+   3.089013301516793e-11,
+   5.2297712298905524e-12
+  ],
+  [
+   3.556682206098465e-11,
+   5.231694896360238e-12
+  ],
+  [
+   4.095155015669888e-11,
+   5.2336192704120585e-12
+  ],
+  [
+   4.715151264740771e-11,
+   5.2355443523062605e-12
+  ],
+  [
+   5.429013398592863e-11,
+   5.237470142303253e-12
+  ],
+  [
+   6.250952477920373e-11,
+   5.239483396484183e-12
+  ],
+  [
+   7.197331082540058e-11,
+   5.243030921046507e-12
+  ],
+  [
+   8.286989046016761e-11,
+   5.2465808475499315e-12
+  ],
+  [
+   9.541618505698259e-11,
+   5.2501331776207535e-12
+  ],
+  [
+   1.0986195734389697e-10,
+   5.253687912886367e-12
+  ],
+  [
+   1.264947835026551e-10,
+   5.25724505497525e-12
+  ],
+  [
+   1.4564577803121034e-10,
+   5.249239728644149e-12
+  ],
+  [
+   1.6769618533614417e-10,
+   5.2060340177569906e-12
+  ],
+  [
+   1.9308496927571803e-10,
+   5.1235522538367605e-12
+  ],
+  [
+   2.223175517408117e-10,
+   4.99876535424574e-12
+  ],
+  [
+   2.559758742352002e-10,
+   4.853932716320622e-12
+  ],
+  [
+   2.9472998275397216e-10,
+   4.7089300586454125e-12
+  ],
+  [
+   3.3935136658363977e-10,
+   4.586002854634976e-12
+  ],
+  [
+   3.907283165632776e-10,
+   4.5290938797374676e-12
+  ],
+  [
+   4.49883608548088e-10,
+   4.60038965733562e-12
+  ],
+  [
+   5.179948641052039e-10,
+   4.89544184367779e-12
+  ],
+  [
+   5.964179937680193e-10,
+   5.53805694744173e-12
+  ],
+  [
+   6.867141895407366e-10,
+   6.583776318350395e-12
+  ],
+  [
+   7.906810040007199e-10,
+   7.496061864631678e-12
+  ],
+  [
+   9.103881346993746e-10,
+   8.536812493772238e-12
+  ],
+  [
+   1.0482186262320424e-09,
+   9.844768450549002e-12
+  ],
+  [
+   1.2069163101984236e-09,
+   1.1249428247284902e-11
+  ],
+  [
+   1.3896404274546023e-09,
+   1.2626150925606186e-11
+  ],
+  [
+   1.60002852003776e-09,
+   1.3962677365307285e-11
+  ],
+  [
+   1.8422688447712486e-09,
+   1.5331505930736846e-11
+  ],
+  [
+   2.1211837501088386e-09,
+   1.6838480277652797e-11
+  ],
+  [
+   2.4423256760250427e-09,
+   1.87779535424264e-11
+  ],
+  [
+   2.8120876880492287e-09,
+   2.2055435161567933e-11
+  ],
+  [
+   3.237830745876745e-09,
+   2.7404465760749756e-11
+  ],
+  [
+   3.728030240129977e-09,
+   3.2800289650243724e-11
+  ],
+  [
+   4.292444714419496e-09,
+   3.4734292506062845e-11
+  ],
+  [
+   4.942310131504073e-09,
+   4.160012230274926e-11
+  ],
+  [
+   5.690563550862438e-09,
+   4.7472922509775836e-11
+  ],
+  [
+   6.552100670491393e-09,
+   5.5332420089598975e-11
+  ],
+  [
+   7.544072359889084e-09,
+   6.34546002854108e-11
+  ],
+  [
+   8.686226087392227e-09,
+   7.306126487705968e-11
+  ],
+  [
+   1.000129903875985e-08,
+   8.260241901540631e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "SN1987A-gamma_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline result: 95% CL limit on g_agamma from ALP-photon conversion in the Galactic magnetic field of ALPs emitted by SN1987A, using the paper's new Poisson likelihood lambda_P with temporal information (black 'This work (lambda_P)' curve, left panel of the 'Updated limits' figure, sec. 4). Curve recovered from the vector PDF figure sn1987a_alp_conversion_limits.pdf in the arXiv e-print, calibrated against axis tick marks, resampled to 50 log-spaced masses over the plotted range 1e-11 to 1e-8 eV; the limit is flat (~5.2e-12 GeV^-1) below ~2e-10 eV. The paper also derives a 95% CL ALP-decay limit at higher masses (right panel), but the conversion limit (improved by a factor 1.4 via timing information) is the abstract's headline result. No dark-matter density assumption (astrophysical flux limit). Confidence threshold lambda_P = 5.14 (half chi2_1 + half chi2_2 mixture).",
+ "num_points": 50,
+ "arxiv_id": "2212.09764",
+ "elapsed_s": 118.77445697784424,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 118473,
+  "duration_api_ms": 116258,
+  "total_cost_usd": 1.1947699999999999,
+  "usage": {
+   "input_tokens": 412,
+   "output_tokens": 9333,
+   "cache_creation_input_tokens": 28540,
+   "cache_read_input_tokens": 310175
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2212.09764.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:52:43-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,250 @@
+{
+ "paper_title": "First Search for Axion-Like Particles in a Storage Ring Using a Polarized Deuteron Beam",
+ "coupling_type": "AxionEDM",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.9634e-10,
+   1.591e-07
+  ],
+  [
+   4.9644e-10,
+   1.559e-07
+  ],
+  [
+   4.9657e-10,
+   1.457e-07
+  ],
+  [
+   4.9669e-10,
+   1.672e-07
+  ],
+  [
+   4.9682e-10,
+   1.641e-07
+  ],
+  [
+   4.9693e-10,
+   1.798e-07
+  ],
+  [
+   4.9705e-10,
+   1.591e-07
+  ],
+  [
+   4.9719e-10,
+   1.762e-07
+  ],
+  [
+   4.9729e-10,
+   1.744e-07
+  ],
+  [
+   4.9743e-10,
+   1.25e-07
+  ],
+  [
+   4.9754e-10,
+   1.212e-07
+  ],
+  [
+   4.9767e-10,
+   1.072e-07
+  ],
+  [
+   4.9778e-10,
+   1.177e-07
+  ],
+  [
+   4.979e-10,
+   1.25e-07
+  ],
+  [
+   4.9802e-10,
+   1.34e-07
+  ],
+  [
+   4.9815e-10,
+   1.61e-07
+  ],
+  [
+   4.9827e-10,
+   1.67e-07
+  ],
+  [
+   4.9838e-10,
+   1.717e-07
+  ],
+  [
+   4.9851e-10,
+   1.875e-07
+  ],
+  [
+   4.9862e-10,
+   1.677e-07
+  ],
+  [
+   4.9876e-10,
+   1.447e-07
+  ],
+  [
+   4.9887e-10,
+   1.792e-07
+  ],
+  [
+   4.9899e-10,
+   1.541e-07
+  ],
+  [
+   4.9911e-10,
+   1.714e-07
+  ],
+  [
+   4.9923e-10,
+   1.818e-07
+  ],
+  [
+   4.9936e-10,
+   1.681e-07
+  ],
+  [
+   4.9948e-10,
+   1.7e-07
+  ],
+  [
+   4.9959e-10,
+   1.381e-07
+  ],
+  [
+   4.9971e-10,
+   1.122e-07
+  ],
+  [
+   4.9985e-10,
+   1.716e-07
+  ],
+  [
+   4.9995e-10,
+   1.607e-07
+  ],
+  [
+   5.0008e-10,
+   2.227e-07
+  ],
+  [
+   5.002e-10,
+   1.958e-07
+  ],
+  [
+   5.0032e-10,
+   1.75e-07
+  ],
+  [
+   5.0044e-10,
+   1.943e-07
+  ],
+  [
+   5.0056e-10,
+   1.896e-07
+  ],
+  [
+   5.0068e-10,
+   1.651e-07
+  ],
+  [
+   5.008e-10,
+   1.765e-07
+  ],
+  [
+   5.0092e-10,
+   1.768e-07
+  ],
+  [
+   5.0105e-10,
+   1.689e-07
+  ],
+  [
+   5.0116e-10,
+   1.901e-07
+  ],
+  [
+   5.0129e-10,
+   1.643e-07
+  ],
+  [
+   5.0141e-10,
+   1.715e-07
+  ],
+  [
+   5.0153e-10,
+   1.606e-07
+  ],
+  [
+   5.0165e-10,
+   1.661e-07
+  ],
+  [
+   5.0178e-10,
+   1.808e-07
+  ],
+  [
+   5.019e-10,
+   2.055e-07
+  ],
+  [
+   5.0202e-10,
+   1.844e-07
+  ],
+  [
+   5.0213e-10,
+   2.139e-07
+  ],
+  [
+   5.0225e-10,
+   1.656e-07
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.55,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.65,
+ "suggested_experiment_name": "JEDI_2023",
+ "coupling_convention": "g_d [GeV^-2]",
+ "notes": "JEDI storage-ring ALP search at COSY with a polarized deuteron beam. Main measured result: 90% CL upper bound on the oscillating deuteron EDM |d_AC^d|<6.4e-23 e.cm (Eq.37), converted to the axion-deuteron EDM coupling |g_adgamma|<1.7e-7 GeV^-2 (Eq.38), which equals the canonical AxionEDM coupling g_d=g_aNgamma (paper Eq.8 L=-(1/2)g_aNgamma a Nbar sigma_munu gamma5 N F^munu matches L=-(i/2)g_d a Nbar sigma gamma5 N F). Curve traced from the vector Fig.17 (sensitivity_plot_atten.pdf): the darker limit line = lower boundary of the excluded (filled) region, frequency 120.0-121.4 kHz mapped to m_a=h*f_AC=0.496-0.502 neV via the paper top axis. d_AC(f) converted point-by-point to g_adgamma using g=K*d_AC[e.cm]*m_a[eV] with K=5.31e24 anchored to the paper native pair (6.4e-23 e.cm <-> 1.7e-7 GeV^-2 at m_a=0.5 neV), reflecting g_adgamma ~ d_AC/a_0 with a_0 ~ 1/m_a (Eq.38). Only the directly-measured narrow mass band is reported, NOT the extrapolated diagonal cyan line in Fig.19 (which assumes equal sensitivity at all masses). Spiky limit line downsampled to 50 median-per-bin points. Assumed local DM density rho_LDM=0.55 GeV/cm^3 (enters a_0, hence g_adgamma; not rescaled). Green (Delta p=0.112) and blue (Delta p=0.138) ramp segments combined. Paper also derives ALP-gluon C_G^d/f_a (Fig.19/Axion_fa) and axion-neutron C_n/f_a (Fig.AxionNeutron) bounds; AxionEDM/g_adgamma is the headline coupling compared to nEDM/CASPEr/BeamEDM in Fig.19.",
+ "num_points": 50,
+ "arxiv_id": "2208.07293",
+ "elapsed_s": 235.02660369873047,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 234726,
+  "duration_api_ms": 229933,
+  "total_cost_usd": 1.2894710000000003,
+  "usage": {
+   "input_tokens": 469,
+   "output_tokens": 16772,
+   "cache_creation_input_tokens": 55045,
+   "cache_read_input_tokens": 634752
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2208.07293.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:34:27-0500"
+ }
+}

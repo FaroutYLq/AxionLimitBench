@@ -1,0 +1,58 @@
+{
+ "paper_title": "First Search for Axion-Like Particles in a Storage Ring Using a Polarized Deuteron Beam",
+ "coupling_type": "AxionEDM",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.95e-10,
+   1.7e-07
+  ],
+  [
+   5.02e-10,
+   1.7e-07
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "JEDI_2023",
+ "coupling_convention": "g_d [GeV^-2]",
+ "notes": "90% CL upper limit on oscillating deuteron EDM coupling from frequency scan 120.0\u2013121.4 kHz (m_a = 0.495\u20130.502 neV/c\u00b2). No ALP resonance observed. Limit |g_ad*| < 1.7\u00d710^-7 GeV^-2 from Eq. (38), reported as flat across narrow mass range. JEDI Collaboration at COSY, published May 2023.",
+ "num_points": 2,
+ "arxiv_id": "2208.07293",
+ "elapsed_s": 110.32069301605225,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 109993,
+  "duration_api_ms": 108082,
+  "total_cost_usd": 0.1761164,
+  "usage": {
+   "input_tokens": 76,
+   "output_tokens": 9448,
+   "cache_creation_input_tokens": 52613,
+   "cache_read_input_tokens": 235744
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2208.07293.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:44:21-0500"
+ }
+}

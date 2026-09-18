@@ -1,0 +1,314 @@
+{
+ "paper_title": "Search for axion-like dark matter with ferromagnets",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.2e-05,
+   5.216645e-10
+  ],
+  [
+   1.335466e-05,
+   4.489251e-10
+  ],
+  [
+   1.486225e-05,
+   4.46125e-10
+  ],
+  [
+   1.654002e-05,
+   2.386258e-10
+  ],
+  [
+   1.84072e-05,
+   1.308723e-10
+  ],
+  [
+   2.048516e-05,
+   1.018948e-10
+  ],
+  [
+   2.279769e-05,
+   1.569106e-10
+  ],
+  [
+   2.537129e-05,
+   1.702073e-10
+  ],
+  [
+   2.823541e-05,
+   1.712757e-10
+  ],
+  [
+   3.142286e-05,
+   2.431474e-10
+  ],
+  [
+   3.497014e-05,
+   1.608873e-10
+  ],
+  [
+   3.891786e-05,
+   1.221677e-10
+  ],
+  [
+   4.331124e-05,
+   1.184049e-10
+  ],
+  [
+   4.820057e-05,
+   1.112233e-10
+  ],
+  [
+   5.364186e-05,
+   1.147579e-10
+  ],
+  [
+   5.96974e-05,
+   1.119214e-10
+  ],
+  [
+   6.643655e-05,
+   1.147579e-10
+  ],
+  [
+   7.393646e-05,
+   1.191481e-10
+  ],
+  [
+   8.228303e-05,
+   1.198959e-10
+  ],
+  [
+   9.157183e-05,
+   1.169324e-10
+  ],
+  [
+   0.0001019092,
+   1.16203e-10
+  ],
+  [
+   0.0001134136,
+   1.176663e-10
+  ],
+  [
+   0.0001262167,
+   1.198959e-10
+  ],
+  [
+   0.0001404651,
+   1.206484e-10
+  ],
+  [
+   0.0001563219,
+   1.221677e-10
+  ],
+  [
+   0.0001739689,
+   1.244826e-10
+  ],
+  [
+   0.0001936079,
+   1.260502e-10
+  ],
+  [
+   0.000215464,
+   1.316938e-10
+  ],
+  [
+   0.0002397874,
+   1.30056e-10
+  ],
+  [
+   0.0002668566,
+   1.316938e-10
+  ],
+  [
+   0.0002969817,
+   1.341891e-10
+  ],
+  [
+   0.0003305074,
+   1.3759e-10
+  ],
+  [
+   0.0003678179,
+   1.384536e-10
+  ],
+  [
+   0.0004093403,
+   1.410771e-10
+  ],
+  [
+   0.00045555,
+   1.501863e-10
+  ],
+  [
+   0.0005069763,
+   1.455605e-10
+  ],
+  [
+   0.0005642081,
+   1.559318e-10
+  ],
+  [
+   0.0006279006,
+   1.501863e-10
+  ],
+  [
+   0.0006987833,
+   1.578954e-10
+  ],
+  [
+   0.0007776679,
+   1.549592e-10
+  ],
+  [
+   0.0008654575,
+   1.569106e-10
+  ],
+  [
+   0.0009631576,
+   1.608873e-10
+  ],
+  [
+   0.001071887,
+   1.629133e-10
+  ],
+  [
+   0.001192891,
+   1.649648e-10
+  ],
+  [
+   0.001327554,
+   1.680906e-10
+  ],
+  [
+   0.001477419,
+   1.691457e-10
+  ],
+  [
+   0.001644203,
+   1.734325e-10
+  ],
+  [
+   0.001829814,
+   1.756165e-10
+  ],
+  [
+   0.002036379,
+   1.778279e-10
+  ],
+  [
+   0.002266263,
+   1.811975e-10
+  ],
+  [
+   0.002522098,
+   1.846309e-10
+  ],
+  [
+   0.002806813,
+   1.869559e-10
+  ],
+  [
+   0.00312367,
+   1.904984e-10
+  ],
+  [
+   0.003476296,
+   1.928973e-10
+  ],
+  [
+   0.003868729,
+   1.965524e-10
+  ],
+  [
+   0.004305464,
+   2.002767e-10
+  ],
+  [
+   0.004791501,
+   2.027987e-10
+  ],
+  [
+   0.005332406,
+   2.066414e-10
+  ],
+  [
+   0.005934372,
+   2.118785e-10
+  ],
+  [
+   0.006604294,
+   2.158933e-10
+  ],
+  [
+   0.007349842,
+   2.199841e-10
+  ],
+  [
+   0.008179554,
+   3.324598e-10
+  ],
+  [
+   0.009102931,
+   2.312759e-10
+  ],
+  [
+   0.01013055,
+   2.386258e-10
+  ],
+  [
+   0.01127417,
+   2.446735e-10
+  ],
+  [
+   0.012,
+   2.637519e-10
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "SHAFT_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Limits extracted from Figure 4(c), showing 95% CL exclusion region (blue shaded area) from the SHAFT (Search for Halo Axions with Ferromagnetic Toroids) experiment. Mass range 12 \u03bceV to 12 meV. Analysis assumes standard halo model with local dark matter density 0.45 GeV/cm\u00b3 and local circular velocity 220 km/s. Measured in the 3 kHz - 3 MHz Compton frequency range (10^4-10^6 Hz). Figure 4(c) compares to CAST helioscope limit (black line) and ABRACADABRA limits (gray region).",
+ "num_points": 66,
+ "arxiv_id": "2003.03348",
+ "elapsed_s": 274.5928499698639,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 33,
+  "duration_ms": 273901,
+  "duration_api_ms": 255554,
+  "total_cost_usd": 0.3454799,
+  "usage": {
+   "input_tokens": 232,
+   "output_tokens": 18645,
+   "cache_creation_input_tokens": 61545,
+   "cache_read_input_tokens": 1289329
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2003.03348.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:13:16-0500"
+ }
+}

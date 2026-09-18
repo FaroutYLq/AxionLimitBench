@@ -1,0 +1,90 @@
+{
+ "paper_title": "Cooling of young neutron stars and dark gauge bosons",
+ "coupling_type": "VectorBL",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-06,
+   5e-13
+  ],
+  [
+   0.0001,
+   5e-13
+  ],
+  [
+   0.01,
+   5e-13
+  ],
+  [
+   1.0,
+   5e-13
+  ],
+  [
+   100.0,
+   5e-13
+  ],
+  [
+   10000.0,
+   5e-13
+  ],
+  [
+   40000.0,
+   5e-13
+  ],
+  [
+   80000.0,
+   6.9e-13
+  ],
+  [
+   150000.0,
+   4.8e-12
+  ],
+  [
+   310000.0,
+   2.3e-10
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "CasA_2021",
+ "coupling_convention": "g_BL (dimensionless)",
+ "notes": "Neutron-star (Cassiopeia A) rapid-cooling constraint on the U(1)_B-L gauge boson. The paper constrains two dark gauge bosons: the dark photon (kinetic mixing eps, Fig. 6, eps*m_gamma' < 1.5e-8 MeV) and the U(1)_B-L boson (coupling e', Fig. 7). The U(1)_B-L bound is the paper's physically distinctive/headline result (the boson couples directly to neutrons via n3P2 PBF with no plasma suppression, opening new parameter space, and carries the 'hint' discussion), so it is reported here. e' IS the U(1)_B-L gauge coupling, so g_BL = e' directly, no conversion (report g not alpha). Headline conservative bound (Eq. 40): e' < 5e-13 for m_gamma' < T_c(n3P2) = O(0.1) MeV = ~1e5 eV; mass-independent (flat) below that, so a flat line at 5e-13. Value 5e-13 taken from text/Eq. 40; the low-mass extent (~1e-6 eV) and the sharp high-mass turn-up beyond ~1e5 eV (bound weakens rapidly) read from the red 'Cas A (all eta)' region in Fig. 7 (raster figure B-LConstraints.pdf), normalized to the text value 5e-13. A deeper region 1e-13 < e' < 5e-13 (Eq. 41) is only excluded if envelope light-element parameter eta < 1e-11, so not included in this conservative headline curve. Not a dark-matter search: bound is density-independent (dm_density null). Paper does not state a statistical CL for the cooling bound (order-of-magnitude luminosity argument), so confidence_level null. Alternative plane (dark photon, Fig. 6) not reported here.",
+ "num_points": 10,
+ "arxiv_id": "2012.05427",
+ "elapsed_s": 303.0271530151367,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 302720,
+  "duration_api_ms": 297009,
+  "total_cost_usd": 1.3459695,
+  "usage": {
+   "input_tokens": 502,
+   "output_tokens": 21180,
+   "cache_creation_input_tokens": 51825,
+   "cache_read_input_tokens": 591419
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2012.05427.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:15:44-0500"
+ }
+}

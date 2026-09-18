@@ -1,0 +1,190 @@
+{
+ "paper_title": "Shining Light on the Dark Sector: Search for Axion-like Particles and Other New Physics in Photonic Final States with FASER",
+ "coupling_type": null,
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   70000000.0,
+   8.08e-05
+  ],
+  [
+   82100000.0,
+   7.59e-05
+  ],
+  [
+   94100000.0,
+   7.09e-05
+  ],
+  [
+   106200000.0,
+   6.66e-05
+  ],
+  [
+   118200000.0,
+   6.29e-05
+  ],
+  [
+   130300000.00000001,
+   5.99e-05
+  ],
+  [
+   142400000.0,
+   5.76e-05
+  ],
+  [
+   154400000.0,
+   5.57e-05
+  ],
+  [
+   166500000.0,
+   5.44e-05
+  ],
+  [
+   178500000.0,
+   5.35e-05
+  ],
+  [
+   190600000.0,
+   5.29e-05
+  ],
+  [
+   202600000.0,
+   5.27e-05
+  ],
+  [
+   214700000.0,
+   5.27e-05
+  ],
+  [
+   226800000.0,
+   5.3e-05
+  ],
+  [
+   238800000.0,
+   5.36e-05
+  ],
+  [
+   250900000.0,
+   5.44e-05
+  ],
+  [
+   262899999.99999997,
+   5.55e-05
+  ],
+  [
+   275000000.0,
+   5.68e-05
+  ],
+  [
+   287100000.0,
+   5.83e-05
+  ],
+  [
+   299100000.0,
+   6e-05
+  ],
+  [
+   311200000.0,
+   6.19e-05
+  ],
+  [
+   323200000.0,
+   6.41e-05
+  ],
+  [
+   335300000.0,
+   6.65e-05
+  ],
+  [
+   347400000.0,
+   6.91e-05
+  ],
+  [
+   359400000.0,
+   7.2e-05
+  ],
+  [
+   371500000.0,
+   7.52e-05
+  ],
+  [
+   383500000.0,
+   7.86e-05
+  ],
+  [
+   395600000.0,
+   8.23e-05
+  ],
+  [
+   407600000.0,
+   8.64e-05
+  ],
+  [
+   419700000.0,
+   9.07e-05
+  ],
+  [
+   431800000.0,
+   9.54e-05
+  ],
+  [
+   443800000.0,
+   0.0001
+  ],
+  [
+   455900000.0,
+   0.000106
+  ],
+  [
+   467900000.0,
+   0.000112
+  ],
+  [
+   480000000.0,
+   0.000118
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "FASER_2023",
+ "coupling_convention": "g_aWW [GeV^-1]",
+ "notes": "ALP-W coupling limit extracted from Figure 10 (Observed Limit at 90% CL). The ALP-W model describes ALPs coupling to weak gauge bosons (W bosons) in the electroweak-symmetric phase. Mass range: 70-480 MeV. Coupling g_aWW in units of GeV^-1. This is the primary result of the paper as stated in the abstract.",
+ "num_points": 35,
+ "arxiv_id": "2410.10363",
+ "elapsed_s": 254.52463698387146,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 27,
+  "duration_ms": 253964,
+  "duration_api_ms": 242763,
+  "total_cost_usd": 0.37713379999999996,
+  "usage": {
+   "input_tokens": 194,
+   "output_tokens": 26816,
+   "cache_creation_input_tokens": 70100,
+   "cache_read_input_tokens": 1026598
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2410.10363.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:33:38-0500"
+ }
+}

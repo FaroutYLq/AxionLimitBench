@@ -1,0 +1,370 @@
+{
+ "paper_title": "Constraints on axionlike dark matter with masses down to 10^-23 eV/c^2",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.382e-24,
+   3.915e-10
+  ],
+  [
+   5.005e-24,
+   3.887e-10
+  ],
+  [
+   5.864e-24,
+   3.833e-10
+  ],
+  [
+   6.871e-24,
+   3.779e-10
+  ],
+  [
+   8.089e-24,
+   3.726e-10
+  ],
+  [
+   9.478e-24,
+   3.7e-10
+  ],
+  [
+   1.111e-23,
+   3.648e-10
+  ],
+  [
+   1.307e-23,
+   3.597e-10
+  ],
+  [
+   1.532e-23,
+   3.572e-10
+  ],
+  [
+   1.795e-23,
+   3.522e-10
+  ],
+  [
+   2.103e-23,
+   3.472e-10
+  ],
+  [
+   2.476e-23,
+   3.448e-10
+  ],
+  [
+   2.901e-23,
+   3.472e-10
+  ],
+  [
+   3.399e-23,
+   3.497e-10
+  ],
+  [
+   4.002e-23,
+   3.522e-10
+  ],
+  [
+   4.689e-23,
+   3.448e-10
+  ],
+  [
+   5.494e-23,
+   3.236e-10
+  ],
+  [
+   6.437e-23,
+   3.026e-10
+  ],
+  [
+   7.578e-23,
+   2.83e-10
+  ],
+  [
+   8.879e-23,
+   3.124e-10
+  ],
+  [
+   1.04e-22,
+   3.887e-10
+  ],
+  [
+   1.225e-22,
+   3.584e-10
+  ],
+  [
+   1.435e-22,
+   2.601e-10
+  ],
+  [
+   1.682e-22,
+   2.791e-10
+  ],
+  [
+   1.97e-22,
+   2.761e-10
+  ],
+  [
+   2.319e-22,
+   2.932e-10
+  ],
+  [
+   2.718e-22,
+   2.81e-10
+  ],
+  [
+   3.184e-22,
+   3.213e-10
+  ],
+  [
+   3.749e-22,
+   3.485e-10
+  ],
+  [
+   4.393e-22,
+   3.124e-10
+  ],
+  [
+   5.147e-22,
+   3.572e-10
+  ],
+  [
+   6.059e-22,
+   3.294e-10
+  ],
+  [
+   7.099e-22,
+   2.801e-10
+  ],
+  [
+   8.318e-22,
+   3.846e-10
+  ],
+  [
+   9.747e-22,
+   2.891e-10
+  ],
+  [
+   1.147e-21,
+   3.294e-10
+  ],
+  [
+   1.344e-21,
+   3.026e-10
+  ],
+  [
+   1.575e-21,
+   3.635e-10
+  ],
+  [
+   1.854e-21,
+   3.102e-10
+  ],
+  [
+   2.173e-21,
+   3.388e-10
+  ],
+  [
+   2.546e-21,
+   3.124e-10
+  ],
+  [
+   2.983e-21,
+   3.168e-10
+  ],
+  [
+   3.512e-21,
+   3.026e-10
+  ],
+  [
+   4.115e-21,
+   3.282e-10
+  ],
+  [
+   4.822e-21,
+   3.572e-10
+  ],
+  [
+   5.676e-21,
+   3.412e-10
+  ],
+  [
+   6.651e-21,
+   3.713e-10
+  ],
+  [
+   7.793e-21,
+   3.472e-10
+  ],
+  [
+   9.131e-21,
+   3.572e-10
+  ],
+  [
+   1.075e-20,
+   3.282e-10
+  ],
+  [
+   1.26e-20,
+   3.329e-10
+  ],
+  [
+   1.476e-20,
+   3.424e-10
+  ],
+  [
+   1.737e-20,
+   3.559e-10
+  ],
+  [
+   2.036e-20,
+   3.887e-10
+  ],
+  [
+   2.385e-20,
+   3.317e-10
+  ],
+  [
+   2.808e-20,
+   3.635e-10
+  ],
+  [
+   3.29e-20,
+   3.534e-10
+  ],
+  [
+   3.855e-20,
+   3.915e-10
+  ],
+  [
+   4.517e-20,
+   4.686e-10
+  ],
+  [
+   5.318e-20,
+   4.752e-10
+  ],
+  [
+   6.231e-20,
+   3.572e-10
+  ],
+  [
+   7.301e-20,
+   3.329e-10
+  ],
+  [
+   8.594e-20,
+   3.236e-10
+  ],
+  [
+   1.007e-19,
+   3.191e-10
+  ],
+  [
+   1.18e-19,
+   3.213e-10
+  ],
+  [
+   1.383e-19,
+   3.179e-10
+  ],
+  [
+   1.628e-19,
+   3.27e-10
+  ],
+  [
+   1.907e-19,
+   3.282e-10
+  ],
+  [
+   2.235e-19,
+   3.282e-10
+  ],
+  [
+   2.631e-19,
+   3.305e-10
+  ],
+  [
+   3.082e-19,
+   3.364e-10
+  ],
+  [
+   3.612e-19,
+   3.46e-10
+  ],
+  [
+   4.232e-19,
+   3.597e-10
+  ],
+  [
+   4.982e-19,
+   3.766e-10
+  ],
+  [
+   5.837e-19,
+   4.098e-10
+  ],
+  [
+   6.839e-19,
+   4.413e-10
+  ],
+  [
+   8.051e-19,
+   5.172e-10
+  ],
+  [
+   9.434e-19,
+   6.345e-10
+  ],
+  [
+   1.105e-18,
+   8.744e-10
+  ],
+  [
+   1.262e-18,
+   1.335e-09
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "EotWash_2019",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Eot-Wash rotating spin-pendulum axion-wind search on the electron. Curve traced (yellow/green boundary = black 95% CL Rice limit) from Fig.5 bottom panel (fig5cmerged: equilibrium halo model, v_a = XY component of v_sun, |v_a|=240 km/s), the headline result shown with astro comparisons; the X- and Y-direction panels (top/middle) are similar. Paper reports limit on C_e/F_a in PeV^-1 with L = C_e (d_mu a/2F_a) e-bar gamma^mu gamma_5 e, i.e. F_a=f_a. Converted to canonical g_ae = C_e m_e/f_a = m_e*(C_e/F_a), m_e=5.10999e5 eV, so g_ae[dimensionless] = (C_e/F_a [PeV^-1]) * 5.11e-10. Flat part ~0.5-0.7 PeV^-1 matches abstract F_a/C_e>2e15 eV (=0.5 PeV^-1). Features: sidereal bump near 47 zeV, high-mass rise from finite-duration attenuation. dm density 0.45 GeV/cm^3 (limit scales with assumed density via a_tilde_0); not rescaled.",
+ "num_points": 80,
+ "arxiv_id": "1902.04246",
+ "elapsed_s": 234.53224205970764,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 234210,
+  "duration_api_ms": 226138,
+  "total_cost_usd": 1.3216809999999999,
+  "usage": {
+   "input_tokens": 542,
+   "output_tokens": 17492,
+   "cache_creation_input_tokens": 51873,
+   "cache_read_input_tokens": 725882
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1902.04246.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:14:33-0500"
+ }
+}

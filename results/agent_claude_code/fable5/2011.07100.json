@@ -1,0 +1,291 @@
+{
+ "paper_title": "Search of spin-dependent fifth forces with precision magnetometry",
+ "coupling_type": "MonopoleDipole",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.0285e-12,
+   5.6868e-32
+  ],
+  [
+   2.7221e-12,
+   5.6868e-32
+  ],
+  [
+   3.6529e-12,
+   5.6868e-32
+  ],
+  [
+   4.902e-12,
+   5.6868e-32
+  ],
+  [
+   6.5782e-12,
+   5.6868e-32
+  ],
+  [
+   8.8276e-12,
+   5.6868e-32
+  ],
+  [
+   1.1846e-11,
+   5.6868e-32
+  ],
+  [
+   1.5897e-11,
+   5.6868e-32
+  ],
+  [
+   2.1333e-11,
+   5.6868e-32
+  ],
+  [
+   2.8627e-11,
+   5.6868e-32
+  ],
+  [
+   3.8416e-11,
+   5.6868e-32
+  ],
+  [
+   5.1553e-11,
+   5.6868e-32
+  ],
+  [
+   6.9181e-11,
+   5.6868e-32
+  ],
+  [
+   9.2837e-11,
+   5.6868e-32
+  ],
+  [
+   1.2458e-10,
+   5.6868e-32
+  ],
+  [
+   1.6718e-10,
+   5.6868e-32
+  ],
+  [
+   2.2435e-10,
+   5.6868e-32
+  ],
+  [
+   3.0106e-10,
+   5.6868e-32
+  ],
+  [
+   4.0401e-10,
+   5.6868e-32
+  ],
+  [
+   5.4216e-10,
+   5.6868e-32
+  ],
+  [
+   7.2755e-10,
+   5.6868e-32
+  ],
+  [
+   9.7633e-10,
+   5.6868e-32
+  ],
+  [
+   1.3102e-09,
+   5.6868e-32
+  ],
+  [
+   1.7582e-09,
+   5.6868e-32
+  ],
+  [
+   2.3594e-09,
+   5.6868e-32
+  ],
+  [
+   3.1662e-09,
+   5.6868e-32
+  ],
+  [
+   4.2488e-09,
+   5.6868e-32
+  ],
+  [
+   5.7017e-09,
+   5.6868e-32
+  ],
+  [
+   7.6514e-09,
+   5.6868e-32
+  ],
+  [
+   1.0268e-08,
+   5.6868e-32
+  ],
+  [
+   1.3779e-08,
+   5.6889e-32
+  ],
+  [
+   1.849e-08,
+   5.6889e-32
+  ],
+  [
+   2.4813e-08,
+   5.6889e-32
+  ],
+  [
+   3.3298e-08,
+   5.6889e-32
+  ],
+  [
+   4.4684e-08,
+   5.6889e-32
+  ],
+  [
+   5.9963e-08,
+   5.6911e-32
+  ],
+  [
+   8.0467e-08,
+   5.6911e-32
+  ],
+  [
+   1.0798e-07,
+   5.6949e-32
+  ],
+  [
+   1.4491e-07,
+   5.701e-32
+  ],
+  [
+   1.9446e-07,
+   5.7123e-32
+  ],
+  [
+   2.6095e-07,
+   5.7307e-32
+  ],
+  [
+   3.5018e-07,
+   5.7618e-32
+  ],
+  [
+   4.6992e-07,
+   5.812e-32
+  ],
+  [
+   6.3061e-07,
+   5.8986e-32
+  ],
+  [
+   8.4624e-07,
+   6.0477e-32
+  ],
+  [
+   1.1356e-06,
+   6.2946e-32
+  ],
+  [
+   1.5239e-06,
+   6.7054e-32
+  ],
+  [
+   2.045e-06,
+   7.3985e-32
+  ],
+  [
+   2.7443e-06,
+   8.5809e-32
+  ],
+  [
+   3.6827e-06,
+   1.0636e-31
+  ],
+  [
+   4.942e-06,
+   1.4399e-31
+  ],
+  [
+   6.6319e-06,
+   2.1708e-31
+  ],
+  [
+   8.8996e-06,
+   3.7202e-31
+  ],
+  [
+   1.1943e-05,
+   7.3649e-31
+  ],
+  [
+   1.6027e-05,
+   1.7271e-30
+  ],
+  [
+   2.1507e-05,
+   4.9957e-30
+  ],
+  [
+   2.8861e-05,
+   1.8889e-29
+  ],
+  [
+   3.873e-05,
+   1.0253e-28
+  ],
+  [
+   5.1973e-05,
+   9.0428e-28
+  ],
+  [
+   6.9745e-05,
+   1.5306e-26
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "QUAX-gpgs_2022",
+ "coupling_convention": "g_s g_p (dimensionless)",
+ "notes": "Electron-nucleon monopole-dipole coupling g_p^e g_s^N (upper panel of Fig. 4), the paper's main result; the electron-electron limit g_p^e g_s^e (inset) is secondary. 'This work' curve extracted from vector paths of fig4.pdf in the e-print; axes calibrated from tick marks (lambda = 0.01-1e4 m, g = 1e-34-1e-28). Mass converted via m = 1.97e-7 eV.m / lambda (reduced Compton wavelength), verified against the figure's top axis (20 ueV at 0.01 m). The figure's flat asymptote reads 3.8e-32 while the abstract/text quote g_p^e g_s^N <= 5.7e-32 at 95% C.L. (figure apparently normalised to 2.36*sigma_R = 0.47 aT without the measured amplitude a_B; text uses 2.36*sigma_R + a_B = 0.73 aT). Curve rescaled by 1.495 so the flat region matches the quoted 95% C.L. value 5.7e-32. Laboratory fifth-force search: no dark-matter density assumption. Mass range ~2e-12 to 7e-5 eV (lambda ~ 3 mm to 1e5 m).",
+ "num_points": 60,
+ "arxiv_id": "2011.07100",
+ "elapsed_s": 191.10258412361145,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 190649,
+  "duration_api_ms": 187063,
+  "total_cost_usd": 2.01218,
+  "usage": {
+   "input_tokens": 416,
+   "output_tokens": 13235,
+   "cache_creation_input_tokens": 45321,
+   "cache_read_input_tokens": 439850
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2011.07100.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T01:38:32-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

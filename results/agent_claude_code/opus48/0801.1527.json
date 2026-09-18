@@ -1,0 +1,134 @@
+{
+ "paper_title": "Helioscope Bounds on Hidden Sector Photons",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0010036,
+   0.001776
+  ],
+  [
+   1.1274,
+   1.324e-09
+  ],
+  [
+   5.9314,
+   4.692e-12
+  ],
+  [
+   11.874,
+   5.474e-13
+  ],
+  [
+   18.037,
+   3.082e-13
+  ],
+  [
+   39.227,
+   1.093e-13
+  ],
+  [
+   81.69,
+   4.424e-14
+  ],
+  [
+   179.77,
+   1.602e-14
+  ],
+  [
+   218.96,
+   1.316e-14
+  ],
+  [
+   239.75,
+   1.274e-14
+  ],
+  [
+   260.45,
+   1.316e-14
+  ],
+  [
+   275.24,
+   1.448e-14
+  ],
+  [
+   288.58,
+   1.839e-14
+  ],
+  [
+   299.0,
+   8.242e-14
+  ],
+  [
+   327.4,
+   1.773e-13
+  ],
+  [
+   375.86,
+   2.478e-13
+  ],
+  [
+   795.16,
+   4.767e-13
+  ],
+  [
+   5015.7,
+   3.616e-12
+  ],
+  [
+   19944.0,
+   5.03e-10
+  ],
+  [
+   39769.0,
+   4.697e-07
+  ],
+  [
+   49991.0,
+   3.397e-05
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "SolarLifetime_Redondo2008",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Hidden (dark) photon kinetic mixing chi vs mass. Headline result is the Solar energy-loss / lifetime bound (abstract: chi <~ 1e-14), obtained by requiring the exotic hidden-photon luminosity be < L_sun = 3.83e26 W. Extracted the black \"T-Lifetime\" curve from Fig.6 (e-print vector file A2.pdf) via get_drawings; the paper states the L contribution (red L-Lifetime curve) does not change the limit appreciably, so T-Lifetime is the effective solar-lifetime bound. Calibration from axis tick strokes and label glyphs: x = Log10 m[eV] (-4 at x=48.4, 0 at 194.35), y = Log10 chi (-4 at y=36.5, -14 at y=307.1). Below ~1 eV the bound is a straight line of slope -2 (chi^2 m^4 flux); resonant production drives the minimum to chi~1.3e-14 near m~200-295 eV; beyond 295 eV it worsens (bulk emission), curve ends ~5e4 eV. chi reported directly (not chi^2). Curve clipped at the visible frame top (Log10 chi ~ -2.75); true bound continues to higher chi at lower mass off-plot. confidence_level is nominal: the energy-loss criterion is a luminosity bound, not a statistical CL. The separate CAST helioscope curve (blue) is a distinct, generally weaker recast and was not selected. No dark-matter density dependence (solar production).",
+ "num_points": 21,
+ "arxiv_id": "0801.1527",
+ "elapsed_s": 270.13969111442566,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 26,
+  "duration_ms": 269756,
+  "duration_api_ms": 266509,
+  "total_cost_usd": 1.6253985,
+  "usage": {
+   "input_tokens": 562,
+   "output_tokens": 19023,
+   "cache_creation_input_tokens": 69404,
+   "cache_read_input_tokens": 905947
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "0801.1527.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:05:57-0500"
+ }
+}

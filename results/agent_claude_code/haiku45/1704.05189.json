@@ -1,0 +1,49 @@
+{
+ "paper_title": "Axion-Like Particles and Recent Observations of the Cosmic Infrared Background Radiation",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.0,
+ "suggested_experiment_name": null,
+ "coupling_convention": null,
+ "notes": "Paper presents a theoretical framework for ALP-photon oscillations to resolve tension between TeV gamma-ray observations and cosmic infrared background measurements. Figure 5 shows an ALLOWED/PREFERRED parameter region in the (m_a, g_a\u03b3) plane where the model can explain observations, not an exclusion limit. Inside the contour: m_a ~ 7\u00d710^-10 - 5\u00d710^-8 eV and 1.5\u00d710^-11 \u2272 g_a\u03b3 \u2272 8.8\u00d710^-10 GeV^-1 (95% C.L., from \u03c7\u00b2 fits to H2356_309 and 1ES1101_232). This is a reinterpretation of existing CIBER, Fermi, and H.E.S.S. data through a theoretical lens, not a direct exclusion limit from a new measurement or search. The paper constrains ALP parameter space indirectly, but does not present the type of exclusion limit suitable for AxionLimitBench compilation (which tracks experiments that set bounds by failing to detect particles, not by requiring them to explain discrepancies).",
+ "num_points": 0,
+ "arxiv_id": "1704.05189",
+ "elapsed_s": 98.91372394561768,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 97900,
+  "duration_api_ms": 88456,
+  "total_cost_usd": 0.15241020000000002,
+  "usage": {
+   "input_tokens": 84,
+   "output_tokens": 9106,
+   "cache_creation_input_tokens": 37866,
+   "cache_read_input_tokens": 310642
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1704.05189.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:23:46-0500"
+ }
+}

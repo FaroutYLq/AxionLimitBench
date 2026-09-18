@@ -1,0 +1,242 @@
+{
+ "paper_title": "Search for ultralight dark matter from long-term frequency comparisons of optical and microwave atomic clocks",
+ "coupling_type": "ScalarElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.595316933679265e-22,
+   3.567814240818033e-06
+  ],
+  [
+   1.879409216659474e-22,
+   3.1777732509685437e-06
+  ],
+  [
+   2.1426974565598025e-22,
+   2.9041347252180766e-06
+  ],
+  [
+   2.5242666603455775e-22,
+   2.553588053980085e-06
+  ],
+  [
+   2.973785287803825e-22,
+   2.2744244134386865e-06
+  ],
+  [
+   3.3903857212416125e-22,
+   2.0785733900107075e-06
+  ],
+  [
+   3.9941418773990304e-22,
+   1.875308083711791e-06
+  ],
+  [
+   4.553685044204264e-22,
+   1.7360133981016307e-06
+  ],
+  [
+   5.364600262910838e-22,
+   1.7138250266061829e-06
+  ],
+  [
+   6.319922370883256e-22,
+   1.7360133981016307e-06
+  ],
+  [
+   7.205286357920648e-22,
+   1.7812556585361114e-06
+  ],
+  [
+   8.488395818952275e-22,
+   1.9998875952290967e-06
+  ],
+  [
+   1e-21,
+   2.553588053980085e-06
+  ],
+  [
+   1.1400909592048859e-21,
+   2.9417336744431106e-06
+  ],
+  [
+   1.3431171018902817e-21,
+   3.8048294593659265e-06
+  ],
+  [
+   1.5822979165173554e-21,
+   4.674344000342603e-06
+  ],
+  [
+   1.803963549390164e-21,
+   5.454560668092543e-06
+  ],
+  [
+   2.1252113919598386e-21,
+   5.742567982844661e-06
+  ],
+  [
+   2.422934294372643e-21,
+   5.525179206490107e-06
+  ],
+  [
+   2.85440776567331e-21,
+   6.530885459348539e-06
+  ],
+  [
+   3.3627175576570012e-21,
+   8.556388646745028e-06
+  ],
+  [
+   3.833803885844282e-21,
+   1.0647865823204285e-05
+  ],
+  [
+   4.516523460515875e-21,
+   1.1066807261225857e-05
+  ],
+  [
+   5.3208209853170465e-21,
+   1.1954788563585858e-05
+  ],
+  [
+   6.066219900907547e-21,
+   1.8753080837117912e-05
+  ],
+  [
+   7.146485661476024e-21,
+   1.713825026606183e-05
+  ],
+  [
+   8.419123959228984e-21,
+   2.052006683435434e-05
+  ],
+  [
+   9.598567110342209e-21,
+   2.2453544915827386e-05
+  ],
+  [
+   1.130786937257476e-20,
+   3.2605892276074686e-05
+  ],
+  [
+   1.3321562299589479e-20,
+   3.2605892276074686e-05
+  ],
+  [
+   1.518779274024649e-20,
+   3.854089429439076e-05
+  ],
+  [
+   1.7892418148475458e-20,
+   4.921154943640283e-05
+  ],
+  [
+   2.039898416939029e-20,
+   4.734861310783858e-05
+  ],
+  [
+   2.4031612809389632e-20,
+   5.816915264371727e-05
+  ],
+  [
+   2.8311135957790263e-20,
+   6.701086922737425e-05
+  ],
+  [
+   3.227727015029677e-20,
+   8.447027549554755e-05
+  ],
+  [
+   3.679902388616707e-20,
+   7.620986164426282e-05
+  ],
+  [
+   4.4796651440251116e-20,
+   0.00010113842847291198
+  ],
+  [
+   5.1072257309682406e-20,
+   0.0001325057232318358
+  ],
+  [
+   6.016714865681968e-20,
+   0.00015264660542250896
+  ],
+  [
+   7.088164824086353e-20,
+   0.0001691920249598058
+  ],
+  [
+   8.08115263329494e-20,
+   0.00018513393560076665
+  ],
+  [
+   9.520235396247578e-20,
+   0.00022744244134386844
+  ],
+  [
+   1.085393430476412e-19,
+   0.00029417336744431136
+  ],
+  [
+   1.2786790974721323e-19,
+   0.0002904134725218074
+  ],
+  [
+   1.506384863223732e-19,
+   0.00033455634721418667
+  ],
+  [
+   1.7174157636444655e-19,
+   0.000380482945936593
+  ],
+  [
+   2.023251271824464e-19,
+   0.0004734861310783863
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.82,
+ "suggested_experiment_name": "YbCs_NMIJ_2022",
+ "coupling_convention": "d_me (dimensionless)",
+ "notes": "Scalar-DM search via Yb optical / Cs microwave clock frequency ratio at NMIJ. Headline result is the limit on the scalar-electron coupling d_me (paper Eq.2: m_e(phi)=m_e(1+d_me phi), phi dimensionless relative to Planck scale, Damour-Donoghue/Arvanitaki convention = canonical d_me; no conversion needed). Curve traced from Fig.4(b), the red Yb/Cs lower boundary of the excluded (shaded) region, extracted by rendering the vector PDF (upperbound.pdf) at 4x and thresholding the saturated-red stroke, taking the bottom edge per column; Yb/Cs text label masked. Log axes calibrated on tick labels. Minimum d_me ~= 1.71e-6 at m_phi ~= 4.7e-22 eV, matching the abstract/text quote 'd_me <~ 1.6e-6 at m_phi ~ 5e-22 eV'. Curve spans m_phi ~1.6e-22 to 2e-19 eV as plotted (paper states new best limits over 1e-22 to 1e-20 eV; beyond ~1e-20 Yb/Cs is weaker than Si/H but still the paper's own measured curve). Plotted limits already include the factor-3.0 rescaling the paper applies for scalar-field oscillation interference. rho_DM = 0.3 GeV/cm^3 assumed (Eq.5). 95% CL.",
+ "num_points": 48,
+ "arxiv_id": "2212.05721",
+ "elapsed_s": 310.58618807792664,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 26,
+  "duration_ms": 310248,
+  "duration_api_ms": 302747,
+  "total_cost_usd": 1.3817769999999998,
+  "usage": {
+   "input_tokens": 689,
+   "output_tokens": 19160,
+   "cache_creation_input_tokens": 49801,
+   "cache_read_input_tokens": 802644
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2212.05721.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:59:11-0500"
+ }
+}

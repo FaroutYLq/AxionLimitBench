@@ -1,0 +1,218 @@
+{
+ "paper_title": "The Cosmological Evolution of Light Dark Photon Dark Matter",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-22,
+   0.17475
+  ],
+  [
+   1e-14,
+   1.7475e-09
+  ],
+  [
+   1.12202e-14,
+   7.94206e-13
+  ],
+  [
+   1.99526e-14,
+   1.00854e-13
+  ],
+  [
+   2.81838e-14,
+   5.56332e-14
+  ],
+  [
+   3.16228e-14,
+   4.93452e-14
+  ],
+  [
+   6.30957e-14,
+   4.29985e-14
+  ],
+  [
+   7.07946e-14,
+   2.54792e-15
+  ],
+  [
+   1.58489e-13,
+   2.41499e-15
+  ],
+  [
+   2.51189e-13,
+   2.56832e-15
+  ],
+  [
+   2.81838e-13,
+   2.21291e-14
+  ],
+  [
+   1.77828e-12,
+   1.76871e-14
+  ],
+  [
+   3.16228e-12,
+   1.41763e-14
+  ],
+  [
+   5.01187e-12,
+   8.31285e-15
+  ],
+  [
+   7.07946e-12,
+   3.62556e-15
+  ],
+  [
+   7.94328e-12,
+   3.15319e-15
+  ],
+  [
+   1.25893e-11,
+   2.40773e-15
+  ],
+  [
+   2.51189e-11,
+   2.33749e-15
+  ],
+  [
+   7.07946e-11,
+   2.66993e-15
+  ],
+  [
+   1.58489e-10,
+   4.58406e-15
+  ],
+  [
+   2.51189e-10,
+   1.02962e-14
+  ],
+  [
+   2.81838e-10,
+   1.46428e-14
+  ],
+  [
+   3.16228e-10,
+   1.30736e-12
+  ],
+  [
+   8.91251e-10,
+   1.05964e-12
+  ],
+  [
+   1.58489e-09,
+   1.2446e-12
+  ],
+  [
+   1e-08,
+   2.66044e-12
+  ],
+  [
+   3.54813e-08,
+   4.89282e-12
+  ],
+  [
+   1e-07,
+   8.64983e-12
+  ],
+  [
+   2.23872e-07,
+   1.52983e-11
+  ],
+  [
+   6.30957e-07,
+   1.86194e-11
+  ],
+  [
+   2.81838e-06,
+   3.56903e-11
+  ],
+  [
+   1.58489e-05,
+   8.9314e-11
+  ],
+  [
+   3.98107e-05,
+   1.81113e-10
+  ],
+  [
+   7.07946e-05,
+   3.96593e-10
+  ],
+  [
+   0.000158489,
+   2.42887e-09
+  ],
+  [
+   0.00354813,
+   5.03811e-09
+  ],
+  [
+   0.00398107,
+   4.35499e-09
+  ],
+  [
+   0.00446684,
+   5.29889e-09
+  ],
+  [
+   0.00630957,
+   5.71253e-09
+  ],
+  [
+   0.00707946,
+   4.45834e-09
+  ],
+  [
+   0.00794328,
+   5.74036e-09
+  ],
+  [
+   0.01,
+   6.30892e-09
+  ]
+ ],
+ "data_source": "ancillary_file",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "McDermott_Witte_2020",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Dark photon dark matter cosmological limits on kinetic mixing epsilon (=chi) vs mass m_A'. Headline result is Fig. 3 (scenario rho_A' = rho_CDM: dark photon is the entirety of dark matter), whose envelope of the strongest constraint at each mass is shipped as the ancillary file anc/DarkPhoton_DM_Constraint_Summary.dat (mass_eV, epsilon). Points are that file (401 rows) downsampled via RDP in log-log space to 42 points. Constraint combines resonant/non-resonant conversion bounds: Delta rho_CDM (10% DM depletion), mu/y-type & N_eff spectral distortions (FIRAS), dark-ages optical depth, He++ reionization heating. Reported epsilon directly (not epsilon^2). Cosmological bound, not a haloscope; no local DM density dependence (dm_density_assumed null). No statistical CL stated (bounds set at fixed physical thresholds e.g. 10% depletion, Delta N_eff<0.5).",
+ "num_points": 42,
+ "arxiv_id": "1911.05086",
+ "elapsed_s": 73.17653036117554,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 10,
+  "duration_ms": 72878,
+  "duration_api_ms": 71370,
+  "total_cost_usd": 0.40495049999999994,
+  "usage": {
+   "input_tokens": 236,
+   "output_tokens": 4219,
+   "cache_creation_input_tokens": 22075,
+   "cache_read_input_tokens": 155091
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1911.05086.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:34:38-0500"
+ }
+}

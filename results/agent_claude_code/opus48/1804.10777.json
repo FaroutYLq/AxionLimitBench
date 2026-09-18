@@ -1,0 +1,170 @@
+{
+ "paper_title": "Constraints on hidden photons produced in nuclear reactors",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.117577,
+   0.9985
+  ],
+  [
+   0.135245,
+   0.7549
+  ],
+  [
+   0.162754,
+   0.52
+  ],
+  [
+   0.195859,
+   0.3582
+  ],
+  [
+   0.236231,
+   0.2481
+  ],
+  [
+   0.284282,
+   0.1709
+  ],
+  [
+   0.342879,
+   0.1177
+  ],
+  [
+   0.412623,
+   0.08107
+  ],
+  [
+   0.496552,
+   0.05584
+  ],
+  [
+   0.598904,
+   0.03846
+  ],
+  [
+   0.720724,
+   0.02649
+  ],
+  [
+   0.869284,
+   0.01835
+  ],
+  [
+   1.0461,
+   0.01264
+  ],
+  [
+   1.2617,
+   0.008706
+  ],
+  [
+   1.5184,
+   0.005997
+  ],
+  [
+   1.8272,
+   0.00413
+  ],
+  [
+   2.2039,
+   0.002845
+  ],
+  [
+   2.6521,
+   0.00196
+  ],
+  [
+   3.1988,
+   0.00135
+  ],
+  [
+   3.8494,
+   0.0009349
+  ],
+  [
+   4.6324,
+   0.000644
+  ],
+  [
+   5.5873,
+   0.0004436
+  ],
+  [
+   6.7238,
+   0.0003055
+  ],
+  [
+   8.1097,
+   0.0002104
+  ],
+  [
+   9.7593,
+   0.000145
+  ],
+  [
+   11.7444,
+   9.985e-05
+  ],
+  [
+   14.1652,
+   6.877e-05
+  ],
+  [
+   17.0465,
+   4.763e-05
+  ],
+  [
+   20.5602,
+   3.466e-05
+  ],
+  [
+   998781.3,
+   3.466e-05
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "TEXONO_2018",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline result is the solid black TEXONO curve in Fig. 1 (95% CL exclusion in the (m_X, epsilon) plane), a new limit derived by the authors from a recalculation of published TEXONO neutrino-scattering data (Deniz et al.; Park PRL 119, 081801). Extracted from the vector figure fig_lim.pdf in the arXiv e-print (path with stroke width 2.5, matching the TEXONO label at loge~0..-4.5). Curve = excluded region boundary (excluded region lies above/right): diagonal falling from (m_X~0.12 eV, chi=1) to (m_X~20 eV, chi~3.5e-5), then flat at chi~3.5e-5 out to m_X=1 MeV (right frame). Reactor production+detection experiment; limit not dark-matter-density dependent, so dm_density_assumed=null. Axis calibration: x -2..6 over px 80.2..488.1, y 0..-15 over px 14.2..329.2; reproduces paper text (mass-independent limit ~1e-5, insensitivity for m_X<~20 eV). chi (=epsilon) reported directly as the paper uses epsilon = kinetic mixing.",
+ "num_points": 30,
+ "arxiv_id": "1804.10777",
+ "elapsed_s": 133.9331178665161,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 133628,
+  "duration_api_ms": 131426,
+  "total_cost_usd": 0.7499575,
+  "usage": {
+   "input_tokens": 247,
+   "output_tokens": 9331,
+   "cache_creation_input_tokens": 39425,
+   "cache_read_input_tokens": 242395
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1804.10777.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:01:42-0500"
+ }
+}

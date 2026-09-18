@@ -1,0 +1,330 @@
+{
+ "paper_title": "Searches for electron interactions induced by new physics in the EDELWEISS-III germanium bolometers",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   835.7,
+   1.505e-12
+  ],
+  [
+   915.3,
+   1.979e-12
+  ],
+  [
+   1002.5,
+   2.393e-12
+  ],
+  [
+   1098.1,
+   1.094e-12
+  ],
+  [
+   1198.2,
+   6.249e-13
+  ],
+  [
+   1307.4,
+   4.219e-13
+  ],
+  [
+   1432.1,
+   3.745e-13
+  ],
+  [
+   1568.6,
+   4.178e-13
+  ],
+  [
+   1718.1,
+   5.036e-13
+  ],
+  [
+   1874.7,
+   3.757e-13
+  ],
+  [
+   2045.6,
+   3.534e-13
+  ],
+  [
+   2240.6,
+   4.301e-13
+  ],
+  [
+   2454.1,
+   6.031e-13
+  ],
+  [
+   2677.9,
+   5.389e-13
+  ],
+  [
+   2922.0,
+   5.02e-13
+  ],
+  [
+   3200.5,
+   6.817e-13
+  ],
+  [
+   3505.6,
+   8.763e-13
+  ],
+  [
+   3839.7,
+   9.467e-13
+  ],
+  [
+   4189.7,
+   1.57e-12
+  ],
+  [
+   4571.7,
+   8.323e-13
+  ],
+  [
+   5007.5,
+   1.178e-12
+  ],
+  [
+   5484.7,
+   2.024e-12
+  ],
+  [
+   6007.5,
+   1.56e-12
+  ],
+  [
+   6555.2,
+   1.261e-12
+  ],
+  [
+   7152.8,
+   1.803e-12
+  ],
+  [
+   7834.6,
+   3.673e-12
+  ],
+  [
+   8581.3,
+   6.289e-12
+  ],
+  [
+   9363.6,
+   2.577e-12
+  ],
+  [
+   10217.3,
+   6.433e-13
+  ],
+  [
+   11191.1,
+   7.2e-13
+  ],
+  [
+   12257.8,
+   7.108e-13
+  ],
+  [
+   13426.1,
+   7.779e-13
+  ],
+  [
+   14650.2,
+   6.839e-13
+  ],
+  [
+   15985.8,
+   8.35e-13
+  ],
+  [
+   17509.4,
+   7.484e-13
+  ],
+  [
+   19178.3,
+   1.152e-12
+  ],
+  [
+   21006.3,
+   1.167e-12
+  ],
+  [
+   22921.4,
+   1.398e-12
+  ],
+  [
+   25011.0,
+   1.109e-12
+  ],
+  [
+   27394.9,
+   1.626e-12
+  ],
+  [
+   30006.0,
+   1.763e-12
+  ],
+  [
+   32741.6,
+   1.74e-12
+  ],
+  [
+   35726.5,
+   1.245e-12
+  ],
+  [
+   39131.8,
+   1.116e-12
+  ],
+  [
+   42861.6,
+   1e-12
+  ],
+  [
+   46946.9,
+   8.963e-13
+  ],
+  [
+   51226.9,
+   8.19e-13
+  ],
+  [
+   55897.0,
+   8.404e-13
+  ],
+  [
+   61224.8,
+   8.763e-13
+  ],
+  [
+   67060.4,
+   9.108e-13
+  ],
+  [
+   73452.2,
+   1.06e-12
+  ],
+  [
+   80148.6,
+   1.253e-12
+  ],
+  [
+   87455.4,
+   1.453e-12
+  ],
+  [
+   95791.2,
+   1.6e-12
+  ],
+  [
+   104921.4,
+   1.221e-11
+  ],
+  [
+   114486.7,
+   9.286e-12
+  ],
+  [
+   124924.1,
+   1.621e-11
+  ],
+  [
+   136831.1,
+   1.134e-11
+  ],
+  [
+   149873.0,
+   1.398e-11
+  ],
+  [
+   164158.0,
+   1.917e-11
+  ],
+  [
+   179123.7,
+   2.363e-11
+  ],
+  [
+   195453.8,
+   2.97e-11
+  ],
+  [
+   214083.3,
+   2.215e-11
+  ],
+  [
+   234488.4,
+   2.722e-11
+  ],
+  [
+   256838.4,
+   2.848e-11
+  ],
+  [
+   280253.5,
+   3.733e-11
+  ],
+  [
+   305803.3,
+   2.951e-11
+  ],
+  [
+   334950.6,
+   4.046e-11
+  ],
+  [
+   366876.0,
+   3.229e-11
+  ],
+  [
+   400322.9,
+   4.329e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.6,
+ "suggested_experiment_name": "EDELWEISS-III_2018",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Curve is the EDELWEISS-III bound on the ALP dark-matter absorption coupling to electrons g_ae vs ALP mass, Fig. 5 left (alp_dm.png), the thick red solid line (EDELWEISS-II is the red dashed line above it). g_ae here is already the canonical dimensionless axion-electron coupling. 90% C.L. Direct DM absorption search; paper assumes local DM density rho_DM=0.3 GeV/cm^3 (Eq.3), not rescaled. Extracted by pixel analysis of the raster figure: x-axis 1keV@col392.5,10keV@695,100keV@999.5 (~303.5 px/decade); y-axis 1e-10@row21,1e-14@row736. Per column I took the bottommost bright-red run (EDELWEISS-III lies below EDELWEISS-II wherever both appear), then per log-mass bin took the median, tracing through the dense radioactive-line forest (peaks at K/L-shell energies ~10keV). Clipped to the papers stated range >0.8 keV (upper edge ~400-500 keV). The forest oscillates by a factor of a few between line peaks and troughs, so localized values are uncertain though the overall rising trend is robust. Paper also reports other limits not chosen here: solar-axion CBRD g_ae<1.1e-11 (Fig.3, massless limit), 57Fe combination g_ae*g_aN^eff<3.5e-17 (Fig.4), and a hidden-photon DM kinetic-mixing chi limit (Fig.5 right). The ALP-electron DM absorption curve was selected as the main mass-dependent AxionElectron result.",
+ "num_points": 70,
+ "arxiv_id": "1808.02340",
+ "elapsed_s": 392.4229657649994,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 392112,
+  "duration_api_ms": 389146,
+  "total_cost_usd": 1.5849370000000005,
+  "usage": {
+   "input_tokens": 577,
+   "output_tokens": 25927,
+   "cache_creation_input_tokens": 57240,
+   "cache_read_input_tokens": 722954
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1808.02340.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:10:06-0500"
+ }
+}

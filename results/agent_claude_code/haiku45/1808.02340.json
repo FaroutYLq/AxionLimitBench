@@ -1,0 +1,370 @@
+{
+ "paper_title": "Searches for electron interactions induced by new physics in the EDELWEISS-III germanium bolometers",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   806.13,
+   2.1816e-13
+  ],
+  [
+   903.84,
+   2.7347e-13
+  ],
+  [
+   1189.5,
+   1.3516e-12
+  ],
+  [
+   1307.2,
+   8.5555e-14
+  ],
+  [
+   1494.8,
+   1.7879e-14
+  ],
+  [
+   1601.6,
+   1.2739e-14
+  ],
+  [
+   1676.6,
+   1.1943e-14
+  ],
+  [
+   1715.4,
+   1.2334e-14
+  ],
+  [
+   2106.8,
+   1.4263e-14
+  ],
+  [
+   2257.4,
+   1.1017e-14
+  ],
+  [
+   2419.1,
+   1.0667e-14
+  ],
+  [
+   2835.6,
+   4.0069e-14
+  ],
+  [
+   2903.5,
+   4.2741e-14
+  ],
+  [
+   2973.3,
+   4.0069e-14
+  ],
+  [
+   3253.6,
+   2.3906e-14
+  ],
+  [
+   4000.0,
+   9.7346e-14
+  ],
+  [
+   4385.5,
+   1.1256e-13
+  ],
+  [
+   4590.8,
+   1.5545e-13
+  ],
+  [
+   4909.6,
+   6.2286e-13
+  ],
+  [
+   5517.9,
+   8.1511e-14
+  ],
+  [
+   6618.7,
+   1.8072e-12
+  ],
+  [
+   6912.2,
+   5.1319e-13
+  ],
+  [
+   8910.8,
+   7.4788e-12
+  ],
+  [
+   9301.5,
+   2.1237e-12
+  ],
+  [
+   10231.0,
+   1.8465e-11
+  ],
+  [
+   12256.0,
+   2.9966e-14
+  ],
+  [
+   13475.0,
+   7.3988e-14
+  ],
+  [
+   14085.0,
+   4.8631e-14
+  ],
+  [
+   15097.0,
+   1.2007e-13
+  ],
+  [
+   18531.0,
+   9.893e-14
+  ],
+  [
+   20346.0,
+   5.9984e-14
+  ],
+  [
+   21704.0,
+   2.0125e-13
+  ],
+  [
+   22269.0,
+   2.1816e-13
+  ],
+  [
+   22758.0,
+   2.0125e-13
+  ],
+  [
+   23845.0,
+   2.1124e-13
+  ],
+  [
+   24396.0,
+   1.8268e-13
+  ],
+  [
+   28658.0,
+   2.9646e-13
+  ],
+  [
+   29938.0,
+   1.1626e-13
+  ],
+  [
+   32112.0,
+   5.3003e-13
+  ],
+  [
+   32836.0,
+   4.8111e-13
+  ],
+  [
+   33518.0,
+   5.5632e-13
+  ],
+  [
+   35232.0,
+   5.1319e-13
+  ],
+  [
+   36865.0,
+   1.0782e-12
+  ],
+  [
+   38573.0,
+   4.367e-13
+  ],
+  [
+   42207.0,
+   1.2268e-12
+  ],
+  [
+   45297.0,
+   9.7871e-13
+  ],
+  [
+   46220.0,
+   6.644e-13
+  ],
+  [
+   49584.0,
+   3.1284e-12
+  ],
+  [
+   53156.0,
+   1.1879e-12
+  ],
+  [
+   56852.0,
+   3.0291e-12
+  ],
+  [
+   59507.0,
+   2.1237e-12
+  ],
+  [
+   63639.0,
+   1.9277e-12
+  ],
+  [
+   65303.0,
+   2.2654e-12
+  ],
+  [
+   68438.0,
+   5.7767e-12
+  ],
+  [
+   71574.0,
+   2.8859e-12
+  ],
+  [
+   78329.0,
+   1.7879e-11
+  ],
+  [
+   83819.0,
+   2.5776e-12
+  ],
+  [
+   96396.0,
+   3.8796e-11
+  ],
+  [
+   107790.0,
+   1.9071e-11
+  ],
+  [
+   110380.0,
+   2.0343e-11
+  ],
+  [
+   113060.0,
+   1.7311e-11
+  ],
+  [
+   123700.0,
+   1.1815e-10
+  ],
+  [
+   132610.0,
+   2.9487e-11
+  ],
+  [
+   135890.0,
+   3.4097e-11
+  ],
+  [
+   148720.0,
+   2.6055e-10
+  ],
+  [
+   166520.0,
+   4.8631e-11
+  ],
+  [
+   186760.0,
+   4.4381e-10
+  ],
+  [
+   200280.0,
+   1.5545e-10
+  ],
+  [
+   209140.0,
+   4.8111e-10
+  ],
+  [
+   224820.0,
+   3.3192e-10
+  ],
+  [
+   240400.0,
+   2.7495e-09
+  ],
+  [
+   263410.0,
+   2.8704e-10
+  ],
+  [
+   308850.0,
+   3.8381e-10
+  ],
+  [
+   354880.0,
+   2.7495e-09
+  ],
+  [
+   380760.0,
+   3.964e-10
+  ],
+  [
+   407620.0,
+   2.5776e-09
+  ],
+  [
+   425060.0,
+   6.862e-10
+  ],
+  [
+   466330.0,
+   1.9277e-09
+  ],
+  [
+   477600.0,
+   2.1237e-09
+  ],
+  [
+   497890.0,
+   2.1583e-09
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "EDELWEISS-III_2018",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "ALP dark matter absorption limits from Figure 5 (left), mass range 0.8-500 keV/c\u00b2. Extracted via image analysis of the raster figure. Axes calibrated using stated mass range and inferred coupling range from figure extent. This is the observed limit (red line) for bosonic DM absorption. Local DM halo density \u03c1_DM \u2248 0.3 GeV/cm\u00b3.",
+ "num_points": 80,
+ "arxiv_id": "1808.02340",
+ "elapsed_s": 209.90873885154724,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 207926,
+  "duration_api_ms": 192683,
+  "total_cost_usd": 0.3604654,
+  "usage": {
+   "input_tokens": 148,
+   "output_tokens": 15898,
+   "cache_creation_input_tokens": 59492,
+   "cache_read_input_tokens": 889044
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1808.02340.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:39:04-0500"
+ }
+}

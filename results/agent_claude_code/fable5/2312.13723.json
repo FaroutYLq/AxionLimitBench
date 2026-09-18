@@ -1,0 +1,315 @@
+{
+ "paper_title": "Ultralight Dark Matter Search with Space-Time Separated Atomic Clocks and Cavities",
+ "coupling_type": "ScalarElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   9.991131e-20,
+   2620100.0
+  ],
+  [
+   1.810521e-19,
+   2548900.0
+  ],
+  [
+   1.909523e-19,
+   226.32
+  ],
+  [
+   2.405014e-19,
+   96.433
+  ],
+  [
+   2.872029e-19,
+   120.18
+  ],
+  [
+   3.399434e-19,
+   96.433
+  ],
+  [
+   3.849076e-19,
+   123.53
+  ],
+  [
+   4.319692e-19,
+   107.65
+  ],
+  [
+   9.600052e-19,
+   116.92
+  ],
+  [
+   1.0125e-18,
+   99.123
+  ],
+  [
+   1.166949e-18,
+   110.66
+  ],
+  [
+   1.45677e-18,
+   101.89
+  ],
+  [
+   1.509404e-18,
+   113.75
+  ],
+  [
+   1.755157e-18,
+   101.89
+  ],
+  [
+   1.935108e-18,
+   116.92
+  ],
+  [
+   2.152524e-18,
+   99.123
+  ],
+  [
+   3.097021e-18,
+   149.78
+  ],
+  [
+   3.832037e-18,
+   361.33
+  ],
+  [
+   5.321224e-18,
+   88.791
+  ],
+  [
+   5.919082e-18,
+   110.66
+  ],
+  [
+   6.76173e-18,
+   99.123
+  ],
+  [
+   6.94414e-18,
+   113.75
+  ],
+  [
+   7.131472e-18,
+   101.89
+  ],
+  [
+   7.521433e-18,
+   123.53
+  ],
+  [
+   8.07475e-18,
+   107.65
+  ],
+  [
+   9.473125e-18,
+   126.98
+  ],
+  [
+   1.053746e-17,
+   107.65
+  ],
+  [
+   1.182585e-17,
+   141.76
+  ],
+  [
+   1.315452e-17,
+   126.98
+  ],
+  [
+   1.859363e-17,
+   176.67
+  ],
+  [
+   2.013939e-17,
+   153.96
+  ],
+  [
+   2.124064e-17,
+   191.87
+  ],
+  [
+   2.581939e-17,
+   181.6
+  ],
+  [
+   3.369403e-17,
+   239.13
+  ],
+  [
+   3.617275e-17,
+   214.2
+  ],
+  [
+   3.781371e-17,
+   266.95
+  ],
+  [
+   4.095731e-17,
+   232.64
+  ],
+  [
+   5.067771e-17,
+   282.06
+  ],
+  [
+   5.250869e-17,
+   252.66
+  ],
+  [
+   5.440583e-17,
+   282.06
+  ],
+  [
+   6.270505e-17,
+   252.66
+  ],
+  [
+   7.099903e-17,
+   298.02
+  ],
+  [
+   7.62221e-17,
+   29524.0
+  ],
+  [
+   1.0125e-16,
+   23047.0
+  ],
+  [
+   1.058432e-16,
+   27943.0
+  ],
+  [
+   1.146423e-16,
+   23047.0
+  ],
+  [
+   1.187843e-16,
+   27185.0
+  ],
+  [
+   1.786583e-16,
+   23690.0
+  ],
+  [
+   2.040923e-16,
+   26447.0
+  ],
+  [
+   2.230295e-16,
+   23047.0
+  ],
+  [
+   2.270227e-16,
+   25729.0
+  ],
+  [
+   2.784206e-16,
+   23690.0
+  ],
+  [
+   2.809021e-16,
+   26447.0
+  ],
+  [
+   3.475685e-16,
+   27943.0
+  ],
+  [
+   4.041579e-16,
+   24351.0
+  ],
+  [
+   4.416586e-16,
+   28723.0
+  ],
+  [
+   5.919082e-16,
+   28723.0
+  ],
+  [
+   6.642792e-16,
+   32960.0
+  ],
+  [
+   7.259159e-16,
+   29524.0
+  ],
+  [
+   8.146718e-16,
+   36795.0
+  ],
+  [
+   8.516291e-16,
+   32065.0
+  ],
+  [
+   1.236233e-15,
+   45857.0
+  ],
+  [
+   1.280898e-15,
+   42223.0
+  ],
+  [
+   1.731951e-15,
+   55599.0
+  ],
+  [
+   1.859363e-15,
+   52622.0
+  ],
+  [
+   2.142995e-15,
+   73213.0
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "SpaceTimeClocksCavities_2023",
+ "coupling_convention": "d_me (dimensionless)",
+ "notes": "Combined lower envelope of the two 95% C.L. observed constraints on |d_me| from Fig. 2 (right panel) of arXiv:2312.13723v2: 'GPS (this work)' (Rb GPS satellite clocks vs H-maser, 1.8e-19 to 7.1e-17 eV, the stronger bound where it exists) and 'Cavities (this work)' (NPL/PTB 2220 km fiber-linked cavity comparison, 1e-19 to 2.1e-15 eV). Extracted from the raster panel of the e-print figure combined.pdf by color masking of the boundary lines (GPS RGB 199,62,4; Cavities coral 255,127,80 incl. its composite 216,81,27 over the GPS fill), with axes calibrated from tick marks (decade ticks at 259.5 px, checked against axis labels). Calibration cross-checked by reproducing the |d_me| floors from the Fig. 1 amplitude limits via Eqs. (11) and (13) (GPS ~1e2, cavities ~1e4.5-1e5). 'Space Clocks (spatial/temporal)' dashed/dotted curves are future projections and were excluded. Paper's convention matches Damour-Donoghue: m_e -> m_e(1 + d_me kappa phi), kappa = sqrt(4pi)/M_Pl (Eqs. 2-3). Stochastic-field correction (xi ~ 1/3) already included by the paper; rho_DM = 0.4 GeV/cm^3 assumed.",
+ "num_points": 66,
+ "arxiv_id": "2312.13723",
+ "elapsed_s": 358.7562680244446,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 358424,
+  "duration_api_ms": 351821,
+  "total_cost_usd": 2.534195,
+  "usage": {
+   "input_tokens": 500,
+   "output_tokens": 22194,
+   "cache_creation_input_tokens": 57076,
+   "cache_read_input_tokens": 649555
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2312.13723.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T22:23:28-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

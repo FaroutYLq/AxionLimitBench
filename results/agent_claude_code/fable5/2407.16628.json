@@ -1,0 +1,275 @@
+{
+ "paper_title": "Constraining dark photon parameters based on the very high energy observations of blazars",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.021806,
+   1.0
+  ],
+  [
+   0.0225,
+   1.0634e-06
+  ],
+  [
+   0.028627,
+   4.1096e-07
+  ],
+  [
+   0.036422,
+   1.7807e-07
+  ],
+  [
+   0.046339,
+   1.1436e-07
+  ],
+  [
+   0.058958,
+   8.0021e-08
+  ],
+  [
+   0.075012,
+   8.73e-08
+  ],
+  [
+   0.095437,
+   9.7752e-08
+  ],
+  [
+   0.12142,
+   1.34e-07
+  ],
+  [
+   0.15449,
+   1.4627e-07
+  ],
+  [
+   0.19656,
+   2.0729e-07
+  ],
+  [
+   0.25008,
+   2.3909e-07
+  ],
+  [
+   0.31817,
+   1.9442e-07
+  ],
+  [
+   0.40481,
+   1.177e-07
+  ],
+  [
+   0.51504,
+   1.1384e-07
+  ],
+  [
+   0.65529,
+   1.8698e-07
+  ],
+  [
+   0.83372,
+   3.0279e-07
+  ],
+  [
+   1.0607,
+   4.327e-07
+  ],
+  [
+   1.3496,
+   6.4887e-07
+  ],
+  [
+   1.7171,
+   7.0994e-07
+  ],
+  [
+   2.1846,
+   8.0682e-07
+  ],
+  [
+   2.7795,
+   1.2026e-06
+  ],
+  [
+   3.5364,
+   1.2868e-06
+  ],
+  [
+   4.4993,
+   1.4973e-06
+  ],
+  [
+   5.7245,
+   2.2299e-06
+  ],
+  [
+   7.2832,
+   2.3373e-06
+  ],
+  [
+   9.2664,
+   2.7873e-06
+  ],
+  [
+   11.79,
+   4.1277e-06
+  ],
+  [
+   15.0,
+   4.2698e-06
+  ],
+  [
+   19.084,
+   5.2281e-06
+  ],
+  [
+   24.281,
+   7.5019e-06
+  ],
+  [
+   30.893,
+   7.9305e-06
+  ],
+  [
+   39.305,
+   1.0005e-05
+  ],
+  [
+   50.008,
+   1.3682e-05
+  ],
+  [
+   63.625,
+   1.5687e-05
+  ],
+  [
+   80.95,
+   2.0659e-05
+  ],
+  [
+   102.99,
+   2.5767e-05
+  ],
+  [
+   131.04,
+   3.8225e-05
+  ],
+  [
+   166.72,
+   4.4237e-05
+  ],
+  [
+   212.12,
+   4.8e-05
+  ],
+  [
+   269.87,
+   7.1477e-05
+  ],
+  [
+   343.36,
+   8.0754e-05
+  ],
+  [
+   436.86,
+   9.0174e-05
+  ],
+  [
+   555.81,
+   0.00013402
+  ],
+  [
+   707.16,
+   0.0001497
+  ],
+  [
+   899.72,
+   0.00017421
+  ],
+  [
+   1144.7,
+   0.00025724
+  ],
+  [
+   1456.4,
+   0.00030659
+  ],
+  [
+   1853.0,
+   0.00039594
+  ],
+  [
+   2357.6,
+   0.00047148
+  ],
+  [
+   2999.5,
+   0.00067054
+  ],
+  [
+   3816.3,
+   0.0008487
+  ],
+  [
+   4855.5,
+   0.00086544
+  ],
+  [
+   6177.6,
+   0.0012571
+  ],
+  [
+   7859.8,
+   0.0015575
+  ],
+  [
+   10000.0,
+   0.0016303
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "Blazars_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Main result: Fig. 4 (e-print figure/NFW_HEGRA_2.3_4.pdf), 95% CL exclusion on kinetic mixing epsilon from photon-dark photon scattering of HEGRA VHE photons in the DM spike (NFW, gamma_sp=2.3, R_em=4R_s), host galaxy, IGM and Milky Way, using the ECPL spectral model and Dominguez EBL model. Reported curve is the lower envelope (union of excluded regions) of the Mrk 421 (red) and Mrk 501 (black) solid curves extracted from the vector PDF; Mrk 421 dominates over most of the range, Mrk 501 extends the low-mass edge down to ~0.022 eV. First point marks the steep left wall of the contour rising to epsilon=1. Limit depends on the assumed DM spike/line-of-sight density, not the local halo density, so no rho_DM rescaling applied.",
+ "num_points": 56,
+ "arxiv_id": "2407.16628",
+ "elapsed_s": 154.98285007476807,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 154451,
+  "duration_api_ms": 151465,
+  "total_cost_usd": 1.074324,
+  "usage": {
+   "input_tokens": 334,
+   "output_tokens": 9431,
+   "cache_creation_input_tokens": 25193,
+   "cache_read_input_tokens": 226149
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2407.16628.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:06:35-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

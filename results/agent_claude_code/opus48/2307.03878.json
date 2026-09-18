@@ -1,0 +1,274 @@
+{
+ "paper_title": "New Constraints on ALP Electron and Photon Couplings from ArgoNeuT and the MiniBooNE Beam Dump",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   978.3,
+   0.0002202
+  ],
+  [
+   4626.0,
+   0.0002202
+  ],
+  [
+   13270.0,
+   0.0002199
+  ],
+  [
+   24440.0,
+   0.0002174
+  ],
+  [
+   36040.0,
+   0.0002088
+  ],
+  [
+   50270.0,
+   0.0001873
+  ],
+  [
+   62760.0,
+   0.0001643
+  ],
+  [
+   92550.0,
+   0.0001193
+  ],
+  [
+   129100.0,
+   8.686e-05
+  ],
+  [
+   170400.0,
+   6.599e-05
+  ],
+  [
+   245000.0,
+   4.596e-05
+  ],
+  [
+   313700.0,
+   3.593e-05
+  ],
+  [
+   434300.0,
+   2.596e-05
+  ],
+  [
+   645200.0,
+   1.746e-05
+  ],
+  [
+   872500.0,
+   1.291e-05
+  ],
+  [
+   1188000.0,
+   9.488e-06
+  ],
+  [
+   1647000.0,
+   6.844e-06
+  ],
+  [
+   2444000.0,
+   4.611e-06
+  ],
+  [
+   3309000.0,
+   3.405e-06
+  ],
+  [
+   4499000.0,
+   2.504e-06
+  ],
+  [
+   6246000.0,
+   1.805e-06
+  ],
+  [
+   8755000.0,
+   1.285e-06
+  ],
+  [
+   12530000.0,
+   8.976e-07
+  ],
+  [
+   34200000.0,
+   3.251e-07
+  ],
+  [
+   41390000.0,
+   2.669e-07
+  ],
+  [
+   51680000.0,
+   2.106e-07
+  ],
+  [
+   68190000.0,
+   1.518e-07
+  ],
+  [
+   90010000.0,
+   1.306e-07
+  ],
+  [
+   124000000.0,
+   1.424e-07
+  ],
+  [
+   168800000.0,
+   1.723e-07
+  ],
+  [
+   172800000.0,
+   2.522e-07
+  ],
+  [
+   169700000.0,
+   2.863e-07
+  ],
+  [
+   151000000.0,
+   4.758e-07
+  ],
+  [
+   137700000.0,
+   6.535e-07
+  ],
+  [
+   124000000.0,
+   8.976e-07
+  ],
+  [
+   110900000.0,
+   1.233e-06
+  ],
+  [
+   98630000.0,
+   1.694e-06
+  ],
+  [
+   87130000.0,
+   2.326e-06
+  ],
+  [
+   76210000.0,
+   3.191e-06
+  ],
+  [
+   67270000.0,
+   4.389e-06
+  ],
+  [
+   60400000.0,
+   5.657e-06
+  ],
+  [
+   52790000.0,
+   7.771e-06
+  ],
+  [
+   46250000.0,
+   1.04e-05
+  ],
+  [
+   40060000.0,
+   1.466e-05
+  ],
+  [
+   34760000.0,
+   2.014e-05
+  ],
+  [
+   30130000.0,
+   2.766e-05
+  ],
+  [
+   26560000.0,
+   3.612e-05
+  ],
+  [
+   23420000.0,
+   4.898e-05
+  ],
+  [
+   20120000.0,
+   6.663e-05
+  ],
+  [
+   17530000.0,
+   9.24e-05
+  ],
+  [
+   15130000.0,
+   0.0001269
+  ],
+  [
+   13500000.0,
+   0.0001636
+  ],
+  [
+   11550000.0,
+   0.0002226
+  ],
+  [
+   10050000.0,
+   0.0003087
+  ],
+  [
+   8755000.0,
+   0.0004034
+  ],
+  [
+   7490000.0,
+   0.0005696
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "MiniBooNE-Dump_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline limit: red \"MiniBooNE Dump\" 2 sigma C.L. closed exclusion contour from Fig.7 (vector file figures/MB_ARGONEUT_photon_limits2sigma.pdf), extracted by crimson RGB (0.863,0.078,0.235). Paper Lagrangian L = -(1/4) g_agamma a F Ftilde matches canonical convention directly (no conversion). Beam-dump laboratory limit (not dark matter), so dm_density is null. The contour is a closed region: points trace the drawn boundary from the low-mass flat top (~2.2e-4 GeV^-1, clipped at plot left edge m=1e3 eV) down the main diagonal (min-coupling reach), around the high-mass nose (~1.7e8 eV, ~1.3e-7 GeV^-1), and up the right edge which exits the top of the plot near m~7.5e6 eV (upper coupling boundary clipped by y-axis range). ArgoNeuT curves in the same figure are sensitivity projections (3/20/100 events, no dedicated analysis) and are NOT the measured limit. The paper also reports a g_ae limit (Fig.8) in the same way; photon coupling reported here as it is presented first in Sec.IV Results. Axis calibration from centered tick labels.",
+ "num_points": 56,
+ "arxiv_id": "2307.03878",
+ "elapsed_s": 430.4691262245178,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 430177,
+  "duration_api_ms": 425469,
+  "total_cost_usd": 1.6349605000000003,
+  "usage": {
+   "input_tokens": 687,
+   "output_tokens": 25592,
+   "cache_creation_input_tokens": 54357,
+   "cache_read_input_tokens": 896311
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2307.03878.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T01:46:02-0500"
+ }
+}

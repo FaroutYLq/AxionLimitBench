@@ -1,0 +1,214 @@
+{
+ "paper_title": "White dwarfs as a probe of exceptionally light QCD axions",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-20,
+   5.888436553555884e-17
+  ],
+  [
+   1e-20,
+   1.9054607179632444e-10
+  ],
+  [
+   1e-14,
+   1.9054607179632444e-10
+  ],
+  [
+   2.5118864315095823e-14,
+   4.3651583224016655e-10
+  ],
+  [
+   8.51138038202376e-14,
+   1.5135612484362073e-09
+  ],
+  [
+   2.818382931264449e-13,
+   4.897788193684457e-09
+  ],
+  [
+   9.54992586021437e-13,
+   1.698243652461746e-08
+  ],
+  [
+   3.235936569296281e-12,
+   5.6234132519034905e-08
+  ],
+  [
+   1.0964781961431828e-11,
+   1.9054607179632483e-07
+  ],
+  [
+   3.6307805477010174e-11,
+   6.30957344480193e-07
+  ],
+  [
+   1.2302687708123812e-10,
+   1.5488166189124828e-06
+  ],
+  [
+   1.9952623149688828e-10,
+   2.5118864315095823e-06
+  ],
+  [
+   3.715352290971728e-10,
+   4.570881896148752e-06
+  ],
+  [
+   6.760829753919819e-10,
+   8.31763771102671e-06
+  ],
+  [
+   1.6218100973589331e-09,
+   2.0417379446695274e-05
+  ],
+  [
+   3.019951720402019e-09,
+   3.715352290971728e-05
+  ],
+  [
+   5.495408738576248e-09,
+   6.760829753919819e-05
+  ],
+  [
+   1.071519305237607e-08,
+   9.120108393559096e-05
+  ],
+  [
+   0.7079457843841379,
+   9.120108393559096e-05
+  ],
+  [
+   0.003019951720402016,
+   4.677351412871981e-07
+  ],
+  [
+   0.0008912509381337459,
+   1.380384264602884e-07
+  ],
+  [
+   0.00026302679918953814,
+   4.168693834703355e-08
+  ],
+  [
+   7.943282347242822e-05,
+   1.202264434617413e-08
+  ],
+  [
+   2.344228815319923e-05,
+   3.6307805477010177e-09
+  ],
+  [
+   6.9183097091893625e-06,
+   1.0715193052376049e-09
+  ],
+  [
+   2.0417379446695273e-06,
+   3.2359365692962813e-10
+  ],
+  [
+   6.165950018614822e-07,
+   9.549925860214369e-11
+  ],
+  [
+   1.8197008586099824e-07,
+   2.8840315031266117e-11
+  ],
+  [
+   5.3703179637025324e-08,
+   8.317637711026709e-12
+  ],
+  [
+   1.5848931924611143e-08,
+   2.4547089156850334e-12
+  ],
+  [
+   4.78630092322638e-09,
+   7.413102413009162e-13
+  ],
+  [
+   1.4125375446227555e-09,
+   2.1379620895022323e-13
+  ],
+  [
+   4.1686938347033463e-10,
+   6.606934480075965e-14
+  ],
+  [
+   1.2302687708123812e-10,
+   1.9054607179632443e-14
+  ],
+  [
+   3.6307805477010174e-11,
+   5.754399373371566e-15
+  ],
+  [
+   1.0964781961431828e-11,
+   1.698243652461746e-15
+  ],
+  [
+   3.235936569296281e-12,
+   5.128613839913659e-16
+  ],
+  [
+   9.54992586021437e-13,
+   1.7378008287493762e-16
+  ],
+  [
+   2.818382931264449e-13,
+   9.549925860214369e-17
+  ],
+  [
+   1.698243652461746e-13,
+   5.888436553555884e-17
+  ],
+  [
+   1e-20,
+   5.888436553555884e-17
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.55,
+ "suggested_experiment_name": "WhiteDwarfs_2022",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Headline result is the red 'White Dwarfs' excluded region in Fig.1 (MoneyPlotv2, epsilon-model), plane log10(GeV/f) vs log10(m_phi/eV); y-axis GeV/f = 1/f[GeV^-1] = the AxionMass canonical variable. Figure PDF is fully rasterized, so points were read by vision after pixel calibration (x: -20..0 at px195..1711; y: -5..-20 at px61..986.5). Excluded region is a 2D band, so data_points trace the CLOSED boundary polygon (left edge -> top-flat -> upper diagonal frontier -> top plot edge -> right diagonal frontier -> bottom-flat -> close), NOT a single-valued curve. Flat top at 1/f=1.9e-10 (f=5.5e9 GeV) and flat bottom at 1/f=6e-17 (f=1.1e16 GeV) match Eq.(17) f in [5.5e9,1.1e16] GeV (95% CL); the two slope-1 diagonal frontiers correspond to the eps in [2e-20,2e-7] bounds of Eq.(15). Top-right of region extends to the plot top edge (log10(GeV/f)=-4.0); part of the WD region overlaps the Sun (darker red) and SN1987A (brown = red under SN overlay). WD bound does NOT require axions to be dark matter (dm_density null). m_phi is the tuned (exceptionally light) axion mass, decoupled from the canonical QCD mass by epsilon.",
+ "num_points": 41,
+ "arxiv_id": "2211.02661",
+ "elapsed_s": 513.8072550296783,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 513405,
+  "duration_api_ms": 509402,
+  "total_cost_usd": 1.9417845,
+  "usage": {
+   "input_tokens": 602,
+   "output_tokens": 36959,
+   "cache_creation_input_tokens": 61815,
+   "cache_read_input_tokens": 793299
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2211.02661.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:51:41-0500"
+ }
+}

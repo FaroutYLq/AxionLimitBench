@@ -1,0 +1,254 @@
+{
+ "paper_title": "Pulsar Polarization Array Limits on Ultralight Axion-like Dark Matter",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.158e-24,
+   1.433e-14
+  ],
+  [
+   3.976e-24,
+   1.019e-14
+  ],
+  [
+   5.006e-24,
+   8.401e-15
+  ],
+  [
+   6.302e-24,
+   6.257e-15
+  ],
+  [
+   7.934e-24,
+   6.129e-15
+  ],
+  [
+   9.988e-24,
+   8.577e-15
+  ],
+  [
+   1.257e-23,
+   2.513e-14
+  ],
+  [
+   1.583e-23,
+   3.946e-14
+  ],
+  [
+   1.993e-23,
+   4.076e-14
+  ],
+  [
+   2.509e-23,
+   2.768e-14
+  ],
+  [
+   3.158e-23,
+   2.813e-14
+  ],
+  [
+   3.976e-23,
+   3.649e-14
+  ],
+  [
+   5.006e-23,
+   5.025e-14
+  ],
+  [
+   6.302e-23,
+   4.52e-14
+  ],
+  [
+   7.934e-23,
+   3.821e-14
+  ],
+  [
+   9.988e-23,
+   3.359e-14
+  ],
+  [
+   1.257e-22,
+   1.914e-13
+  ],
+  [
+   1.583e-22,
+   1.578e-13
+  ],
+  [
+   1.993e-22,
+   3.29e-14
+  ],
+  [
+   2.509e-22,
+   9.123e-14
+  ],
+  [
+   3.158e-22,
+   1.812e-13
+  ],
+  [
+   3.976e-22,
+   2.213e-13
+  ],
+  [
+   5.006e-22,
+   3.041e-13
+  ],
+  [
+   6.302e-22,
+   2.535e-13
+  ],
+  [
+   7.934e-22,
+   5.874e-13
+  ],
+  [
+   9.988e-22,
+   2.466e-13
+  ],
+  [
+   1.257e-21,
+   6.997e-13
+  ],
+  [
+   1.583e-21,
+   8.788e-13
+  ],
+  [
+   1.993e-21,
+   1.342e-12
+  ],
+  [
+   2.509e-21,
+   2.54e-12
+  ],
+  [
+   3.158e-21,
+   1.442e-12
+  ],
+  [
+   3.976e-21,
+   3.629e-12
+  ],
+  [
+   5.006e-21,
+   3.11e-12
+  ],
+  [
+   6.302e-21,
+   3.075e-12
+  ],
+  [
+   7.934e-21,
+   3.257e-12
+  ],
+  [
+   9.988e-21,
+   2.709e-12
+  ],
+  [
+   1.257e-20,
+   3.434e-12
+  ],
+  [
+   1.583e-20,
+   6.064e-12
+  ],
+  [
+   1.993e-20,
+   8.624e-12
+  ],
+  [
+   2.509e-20,
+   6.93e-12
+  ],
+  [
+   3.158e-20,
+   1.145e-11
+  ],
+  [
+   3.976e-20,
+   3.3e-11
+  ],
+  [
+   5.006e-20,
+   6.536e-10
+  ],
+  [
+   6.302e-20,
+   1.632e-11
+  ],
+  [
+   7.934e-20,
+   2.481e-11
+  ],
+  [
+   9.988e-20,
+   6.581e-10
+  ],
+  [
+   1.257e-19,
+   1.59e-10
+  ],
+  [
+   1.583e-19,
+   8.98e-10
+  ],
+  [
+   1.993e-19,
+   9.512e-10
+  ],
+  [
+   2.509e-19,
+   8.19e-10
+  ],
+  [
+   3.158e-19,
+   5.487e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "PPTA_PPPA_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "First Parkes Pulsar Polarization Array (PPPA) search for ultralight axion-like dark matter via the ALDM Chern-Simons (axion-photon) coupling g_agamma inducing cosmic-birefringence oscillation of pulsar polarization position angles, using 22 MSPs from PPTA DR3. Curve traced from Fig. 2 (constraint_main.pdf in e-print), the solid red 'Full-corr' curve = full-correlation signal model WITH ionospheric subtraction, which is the paper's headline limit (dashed red = without ionospheric subtraction; blue = autocorrelation-only, presented as reference to show the crucial role of cross-correlation). Values recovered from the vector PDF via pymupdf get_drawings, calibrated to log-log axes (x: log10(m_a/eV), decades at px 103.1/189.5/275.9/362.3/448.7; y: log10(g_agamma/GeV^-1), decades at px 51.5..346.3, 58.96 px/decade). Cross-check: at m_a=1e-22 eV the traced value g~3.4e-14 (10^-13.5) matches the abstract's quoted 10^-13.5 to 10^-12.2 GeV^-1 over 10^-22 to 10^-21 eV. 95% upper limits. Benchmark local DM density rho_0 = 0.4 GeV/cm^3 (limit scales as rho_0^-1/2); not rescaled per task card. Full plotted mass range ~3e-24 to 3e-19 eV reported; limit weakens as m_a^2 above 1/T_obs.",
+ "num_points": 51,
+ "arxiv_id": "2412.02229",
+ "elapsed_s": 254.9116771221161,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 254594,
+  "duration_api_ms": 251223,
+  "total_cost_usd": 1.16392,
+  "usage": {
+   "input_tokens": 541,
+   "output_tokens": 14649,
+   "cache_creation_input_tokens": 46679,
+   "cache_read_input_tokens": 656400
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2412.02229.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:58:24-0500"
+ }
+}

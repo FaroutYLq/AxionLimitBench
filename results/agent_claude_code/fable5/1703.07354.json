@@ -1,0 +1,371 @@
+{
+ "paper_title": "A New Bound on Axion-Like Particles",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-14,
+   1.486e-12
+  ],
+  [
+   1.0938e-14,
+   1.486e-12
+  ],
+  [
+   1.1965e-14,
+   1.486e-12
+  ],
+  [
+   1.3088e-14,
+   1.4861e-12
+  ],
+  [
+   1.4316e-14,
+   1.4861e-12
+  ],
+  [
+   1.5659e-14,
+   1.4861e-12
+  ],
+  [
+   1.7129e-14,
+   1.4861e-12
+  ],
+  [
+   1.8736e-14,
+   1.4862e-12
+  ],
+  [
+   2.0494e-14,
+   1.4862e-12
+  ],
+  [
+   2.2417e-14,
+   1.4862e-12
+  ],
+  [
+   2.4521e-14,
+   1.4862e-12
+  ],
+  [
+   2.6822e-14,
+   1.4843e-12
+  ],
+  [
+   2.9339e-14,
+   1.4726e-12
+  ],
+  [
+   3.2092e-14,
+   1.4638e-12
+  ],
+  [
+   3.5104e-14,
+   1.4605e-12
+  ],
+  [
+   3.8398e-14,
+   1.465e-12
+  ],
+  [
+   4.2001e-14,
+   1.48e-12
+  ],
+  [
+   4.5943e-14,
+   1.5435e-12
+  ],
+  [
+   5.0254e-14,
+   1.6326e-12
+  ],
+  [
+   5.497e-14,
+   1.7287e-12
+  ],
+  [
+   6.0128e-14,
+   1.8232e-12
+  ],
+  [
+   6.5771e-14,
+   1.9064e-12
+  ],
+  [
+   7.1943e-14,
+   1.9484e-12
+  ],
+  [
+   7.8694e-14,
+   1.925e-12
+  ],
+  [
+   8.6078e-14,
+   1.8875e-12
+  ],
+  [
+   9.4156e-14,
+   1.8441e-12
+  ],
+  [
+   1.0299e-13,
+   1.8115e-12
+  ],
+  [
+   1.1266e-13,
+   1.8046e-12
+  ],
+  [
+   1.2323e-13,
+   1.8033e-12
+  ],
+  [
+   1.3479e-13,
+   1.8063e-12
+  ],
+  [
+   1.4744e-13,
+   1.8118e-12
+  ],
+  [
+   1.6128e-13,
+   1.8153e-12
+  ],
+  [
+   1.7641e-13,
+   1.8153e-12
+  ],
+  [
+   1.9297e-13,
+   1.8153e-12
+  ],
+  [
+   2.1107e-13,
+   1.8153e-12
+  ],
+  [
+   2.3088e-13,
+   1.8153e-12
+  ],
+  [
+   2.5255e-13,
+   1.824e-12
+  ],
+  [
+   2.7625e-13,
+   1.8376e-12
+  ],
+  [
+   3.0217e-13,
+   1.8452e-12
+  ],
+  [
+   3.3052e-13,
+   1.8424e-12
+  ],
+  [
+   3.6154e-13,
+   1.8253e-12
+  ],
+  [
+   3.9547e-13,
+   1.7404e-12
+  ],
+  [
+   4.3258e-13,
+   1.6269e-12
+  ],
+  [
+   4.7317e-13,
+   1.526e-12
+  ],
+  [
+   5.1757e-13,
+   1.4496e-12
+  ],
+  [
+   5.6614e-13,
+   1.4069e-12
+  ],
+  [
+   6.1927e-13,
+   1.4927e-12
+  ],
+  [
+   6.7738e-13,
+   1.6528e-12
+  ],
+  [
+   7.4095e-13,
+   1.8537e-12
+  ],
+  [
+   8.1048e-13,
+   2.0831e-12
+  ],
+  [
+   8.8654e-13,
+   2.3198e-12
+  ],
+  [
+   9.6973e-13,
+   2.3861e-12
+  ],
+  [
+   1.0607e-12,
+   2.394e-12
+  ],
+  [
+   1.1603e-12,
+   2.3799e-12
+  ],
+  [
+   1.2691e-12,
+   2.3598e-12
+  ],
+  [
+   1.3882e-12,
+   2.3495e-12
+  ],
+  [
+   1.5185e-12,
+   2.4034e-12
+  ],
+  [
+   1.661e-12,
+   2.4915e-12
+  ],
+  [
+   1.8169e-12,
+   2.6227e-12
+  ],
+  [
+   1.9874e-12,
+   2.8083e-12
+  ],
+  [
+   2.1739e-12,
+   3.0783e-12
+  ],
+  [
+   2.3779e-12,
+   3.5815e-12
+  ],
+  [
+   2.601e-12,
+   4.2169e-12
+  ],
+  [
+   2.8451e-12,
+   4.979e-12
+  ],
+  [
+   3.1121e-12,
+   5.8497e-12
+  ],
+  [
+   3.4041e-12,
+   6.7024e-12
+  ],
+  [
+   3.7236e-12,
+   7.2181e-12
+  ],
+  [
+   4.073e-12,
+   7.6466e-12
+  ],
+  [
+   4.4552e-12,
+   8.006e-12
+  ],
+  [
+   4.8733e-12,
+   8.3494e-12
+  ],
+  [
+   5.3306e-12,
+   8.7392e-12
+  ],
+  [
+   5.8308e-12,
+   9.1472e-12
+  ],
+  [
+   6.378e-12,
+   9.6311e-12
+  ],
+  [
+   6.9765e-12,
+   1.0152e-11
+  ],
+  [
+   7.6312e-12,
+   1.072e-11
+  ],
+  [
+   8.3473e-12,
+   1.1357e-11
+  ],
+  [
+   9.1306e-12,
+   1.2033e-11
+  ],
+  [
+   9.9874e-12,
+   1.2739e-11
+  ],
+  [
+   1.0925e-11,
+   1.3419e-11
+  ],
+  [
+   1.195e-11,
+   1.4031e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "M87_2017",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "95% CL 'M87 (95% c.l.)' contour of Figure 6 (file Bayesian.pdf in the e-print), the paper's stated main result, for the benchmark Virgo magnetic-field model (B0=31.5 muG); flat level 1.49e-12 GeV^-1 for ma<~1e-13 eV matches Eq. (5.3). Curve extracted from vector paths; axes calibrated with decade tick marks and cross-checked against the SN1987A line, which lands at 5.3e-12 GeV^-1 as quoted. Curve spans the plotted range 1e-14 to 1.2e-11 eV; the flat low-mass bound extends below 1e-14 eV. The abstract also quotes a weaker, more conservative bound of 2.6e-12 GeV^-1 from alternative B-field model 2 (B0=35 muG, alpha=0.67, Fig. 10 right); the benchmark Fig. 6 curve is reported here as the headline. Not a dark-matter search, so no rho_DM rescaling.",
+ "num_points": 80,
+ "arxiv_id": "1703.07354",
+ "elapsed_s": 223.4876148700714,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 223151,
+  "duration_api_ms": 218343,
+  "total_cost_usd": 2.5512290000000006,
+  "usage": {
+   "input_tokens": 569,
+   "output_tokens": 16823,
+   "cache_creation_input_tokens": 51511,
+   "cache_read_input_tokens": 674169
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1703.07354.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:14:21-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

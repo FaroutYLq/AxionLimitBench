@@ -1,0 +1,110 @@
+{
+ "paper_title": "Search for Dark Photon Dark Matter: Dark E-Field Radio Pilot Experiment",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.068e-07,
+   1e-11
+  ],
+  [
+   2.482e-07,
+   3.162e-11
+  ],
+  [
+   2.895e-07,
+   6.31e-11
+  ],
+  [
+   3.309e-07,
+   7.943e-11
+  ],
+  [
+   4.136e-07,
+   1.259e-10
+  ],
+  [
+   4.963e-07,
+   1.585e-10
+  ],
+  [
+   5.79e-07,
+   1.995e-10
+  ],
+  [
+   6.618e-07,
+   2.512e-10
+  ],
+  [
+   7.445e-07,
+   3.162e-10
+  ],
+  [
+   8.272e-07,
+   3.981e-10
+  ],
+  [
+   9.099e-07,
+   6.31e-10
+  ],
+  [
+   9.926e-07,
+   1e-09
+  ],
+  [
+   1.075e-06,
+   1.259e-09
+  ],
+  [
+   1.158e-06,
+   1.585e-09
+  ],
+  [
+   1.241e-06,
+   1.995e-09
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "DEFRA_Pilot_2021",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Measured pilot-phase limits from 50-300 MHz frequency scan (Figure 12, blue curve). Dark photon mass derived from frequency via E=hf. Paper explicitly states kinetic mixing parameter \u03b5 = 6.4\u00d710^-11 at 70.5 MHz from signal injection test (page 7). Four spot-frequency measurements at 63.9, 70.5, 152, and 247 MHz (orange dots in Figure 12) extrapolated to one month integration time using sensitivity scaling law. Kinetic mixing parameter \u03b5 and \u03c7 are equivalent (\u03c7 used in AxionLimitBench convention). This is a proof-of-concept pilot run with limited integration time (3.8 hours base data); Phase-I and Phase-II projections shown in green and black curves would achieve better sensitivity with longer integration and improved electronics.",
+ "num_points": 15,
+ "arxiv_id": "2101.02805",
+ "elapsed_s": 156.33935165405273,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 8,
+  "duration_ms": 155440,
+  "duration_api_ms": 152339,
+  "total_cost_usd": 0.1616938,
+  "usage": {
+   "input_tokens": 54,
+   "output_tokens": 14480,
+   "cache_creation_input_tokens": 37410,
+   "cache_read_input_tokens": 144198
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2101.02805.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:44:32-0500"
+ }
+}

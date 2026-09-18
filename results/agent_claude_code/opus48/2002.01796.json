@@ -1,0 +1,190 @@
+{
+ "paper_title": "Axion and dark photon limits from Crab Nebula high energy gamma-rays",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.9e-08,
+   5.892e-10
+  ],
+  [
+   3.033e-08,
+   5.232e-10
+  ],
+  [
+   2.749e-08,
+   4.439e-10
+  ],
+  [
+   2.819e-08,
+   3.19e-10
+  ],
+  [
+   3.617e-08,
+   2.125e-10
+  ],
+  [
+   4.65e-08,
+   1.722e-10
+  ],
+  [
+   5.142e-08,
+   1.67e-10
+  ],
+  [
+   5.818e-08,
+   1.745e-10
+  ],
+  [
+   6.765e-08,
+   1.967e-10
+  ],
+  [
+   8.483e-08,
+   2.777e-10
+  ],
+  [
+   9.597e-08,
+   3.802e-10
+  ],
+  [
+   6.765e-08,
+   5.219e-10
+  ],
+  [
+   5.818e-08,
+   5.541e-10
+  ],
+  [
+   3.9e-08,
+   5.892e-10
+  ],
+  [
+   5.818e-08,
+   9.992e-10
+  ],
+  [
+   7.867e-08,
+   6.934e-10
+  ],
+  [
+   1.173e-07,
+   6.142e-10
+  ],
+  [
+   1.173e-07,
+   5.286e-10
+  ],
+  [
+   1.116e-07,
+   4.979e-10
+  ],
+  [
+   1.116e-07,
+   4.55e-10
+  ],
+  [
+   1.061e-07,
+   4.351e-10
+  ],
+  [
+   1.061e-07,
+   3.474e-10
+  ],
+  [
+   1.088e-07,
+   3.175e-10
+  ],
+  [
+   1.399e-07,
+   2.246e-10
+  ],
+  [
+   1.936e-07,
+   1.714e-10
+  ],
+  [
+   3.114e-07,
+   1.66e-10
+  ],
+  [
+   4.004e-07,
+   1.285e-10
+  ],
+  [
+   5.68e-07,
+   1.632e-10
+  ],
+  [
+   8.709e-07,
+   3.061e-10
+  ],
+  [
+   8.93e-07,
+   3.662e-10
+  ],
+  [
+   8.076e-07,
+   4.8e-10
+  ],
+  [
+   1.299e-06,
+   6.28e-10
+  ],
+  [
+   1.437e-06,
+   7.859e-10
+  ],
+  [
+   1.401e-06,
+   9.992e-10
+  ],
+  [
+   5.818e-08,
+   9.992e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.72,
+ "suggested_experiment_name": "CrabNebula_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline ALP-photon result from Fig.3: 95% C.L. exclusion region in the (m_a, g_agamma) plane from a joint fit to Tibet ASgamma + HAWC + HEGRA + MAGIC Crab Nebula gamma-ray spectra (chi^2<53.4). Coupling already in canonical L=-(1/4)g a F Ftilde convention (paper Eq.1, g_agamma=1/f). Excluded region consists of TWO disjoint closed lobes, both open at the top (g>1e-9, off-plot); points are the vector outlines of both lobes in native traversal order (path9 left lobe first, then path10 right lobe), NOT monotonic in mass. Deepest exclusion g~1.3e-10 GeV^-1 at m~4e-7 eV (abstract quotes 'below 1.8e-10 for 2-6e-7 eV'). Axes log-log; calibration cross-checked against the overplotted CAST 6.6e-11 GeV^-1 horizontal line. Limit is from photon-ALP oscillation in the galactic B-field, independent of DM density. This paper also sets a dark-photon kinetic-mixing limit (Fig.4, eps>1e-3, DarkPhoton) but the ALP g_agamma bound is the headline result.",
+ "num_points": 35,
+ "arxiv_id": "2002.01796",
+ "elapsed_s": 184.29679894447327,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 183986,
+  "duration_api_ms": 181811,
+  "total_cost_usd": 0.825961,
+  "usage": {
+   "input_tokens": 395,
+   "output_tokens": 12480,
+   "cache_creation_input_tokens": 33555,
+   "cache_read_input_tokens": 352872
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2002.01796.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:41:36-0500"
+ }
+}

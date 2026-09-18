@@ -1,0 +1,371 @@
+{
+ "paper_title": "Wideband Direct Detection Constraints on Hidden Photon Dark Matter with the QUALIPHIDE Experiment",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.97124e-05,
+   1.37e-12
+  ],
+  [
+   1.98491e-05,
+   1.353e-12
+  ],
+  [
+   1.99858e-05,
+   1.336e-12
+  ],
+  [
+   2.01226e-05,
+   1.295e-12
+  ],
+  [
+   2.02593e-05,
+   1.37e-12
+  ],
+  [
+   2.0396e-05,
+   1.37e-12
+  ],
+  [
+   2.05328e-05,
+   1.387e-12
+  ],
+  [
+   2.06695e-05,
+   1.388e-12
+  ],
+  [
+   2.08062e-05,
+   1.387e-12
+  ],
+  [
+   2.0943e-05,
+   1.432e-12
+  ],
+  [
+   2.10797e-05,
+   1.238e-12
+  ],
+  [
+   2.12164e-05,
+   1.497e-12
+  ],
+  [
+   2.13532e-05,
+   1.319e-12
+  ],
+  [
+   2.14899e-05,
+   1.353e-12
+  ],
+  [
+   2.16266e-05,
+   1.535e-12
+  ],
+  [
+   2.17633e-05,
+   1.414e-12
+  ],
+  [
+   2.19001e-05,
+   1.379e-12
+  ],
+  [
+   2.20368e-05,
+   1.423e-12
+  ],
+  [
+   2.21735e-05,
+   1.362e-12
+  ],
+  [
+   2.23103e-05,
+   1.45e-12
+  ],
+  [
+   2.2447e-05,
+   1.516e-12
+  ],
+  [
+   2.25837e-05,
+   1.37e-12
+  ],
+  [
+   2.27205e-05,
+   1.441e-12
+  ],
+  [
+   2.28572e-05,
+   1.506e-12
+  ],
+  [
+   2.29939e-05,
+   1.594e-12
+  ],
+  [
+   2.31307e-05,
+   1.506e-12
+  ],
+  [
+   2.32674e-05,
+   1.584e-12
+  ],
+  [
+   2.34041e-05,
+   1.535e-12
+  ],
+  [
+   2.35409e-05,
+   1.535e-12
+  ],
+  [
+   2.36776e-05,
+   1.497e-12
+  ],
+  [
+   2.38143e-05,
+   1.554e-12
+  ],
+  [
+   2.39511e-05,
+   1.525e-12
+  ],
+  [
+   2.40878e-05,
+   1.516e-12
+  ],
+  [
+   2.42245e-05,
+   1.574e-12
+  ],
+  [
+   2.43612e-05,
+   1.625e-12
+  ],
+  [
+   2.4498e-05,
+   1.635e-12
+  ],
+  [
+   2.46347e-05,
+   1.617e-12
+  ],
+  [
+   2.47714e-05,
+   1.574e-12
+  ],
+  [
+   2.49082e-05,
+   1.615e-12
+  ],
+  [
+   2.50449e-05,
+   1.535e-12
+  ],
+  [
+   2.51816e-05,
+   1.574e-12
+  ],
+  [
+   2.53184e-05,
+   1.545e-12
+  ],
+  [
+   2.54551e-05,
+   1.71e-12
+  ],
+  [
+   2.55918e-05,
+   1.731e-12
+  ],
+  [
+   2.57286e-05,
+   1.554e-12
+  ],
+  [
+   2.58653e-05,
+   1.678e-12
+  ],
+  [
+   2.6002e-05,
+   1.677e-12
+  ],
+  [
+   2.61388e-05,
+   1.645e-12
+  ],
+  [
+   2.62755e-05,
+   1.698e-12
+  ],
+  [
+   2.64122e-05,
+   1.635e-12
+  ],
+  [
+   2.65489e-05,
+   1.709e-12
+  ],
+  [
+   2.66857e-05,
+   1.809e-12
+  ],
+  [
+   2.68224e-05,
+   1.604e-12
+  ],
+  [
+   2.69591e-05,
+   1.72e-12
+  ],
+  [
+   2.70959e-05,
+   1.764e-12
+  ],
+  [
+   2.72326e-05,
+   1.635e-12
+  ],
+  [
+   2.73693e-05,
+   1.677e-12
+  ],
+  [
+   2.75061e-05,
+   1.742e-12
+  ],
+  [
+   2.76428e-05,
+   1.666e-12
+  ],
+  [
+   2.77795e-05,
+   1.72e-12
+  ],
+  [
+   2.79163e-05,
+   1.775e-12
+  ],
+  [
+   2.8053e-05,
+   1.677e-12
+  ],
+  [
+   2.81897e-05,
+   1.656e-12
+  ],
+  [
+   2.83265e-05,
+   1.786e-12
+  ],
+  [
+   2.84632e-05,
+   1.742e-12
+  ],
+  [
+   2.85999e-05,
+   1.787e-12
+  ],
+  [
+   2.87367e-05,
+   1.879e-12
+  ],
+  [
+   2.88734e-05,
+   1.753e-12
+  ],
+  [
+   2.90101e-05,
+   1.855e-12
+  ],
+  [
+   2.91468e-05,
+   1.786e-12
+  ],
+  [
+   2.92836e-05,
+   1.965e-12
+  ],
+  [
+   2.94203e-05,
+   1.879e-12
+  ],
+  [
+   2.9557e-05,
+   1.939e-12
+  ],
+  [
+   2.96938e-05,
+   1.879e-12
+  ],
+  [
+   2.98305e-05,
+   1.977e-12
+  ],
+  [
+   2.99672e-05,
+   2.132e-12
+  ],
+  [
+   3.0104e-05,
+   2.095e-12
+  ],
+  [
+   3.02407e-05,
+   2.159e-12
+  ],
+  [
+   3.03774e-05,
+   2.389e-12
+  ],
+  [
+   3.05142e-05,
+   2.419e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "QUALIPHIDE_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "95% CL limit on kinetic mixing chi from Fig. 5 (gray QUALIPHIDE region, black noisy boundary curve), digitized from the e-print raster JPL_DPDM_limits.png by color extraction. Axis calibration verified: plot frame spans exactly 1e-7 to 1e-15 in chi and mass ticks 5-40 ueV; extracted mass range 19.64-30.58 ueV matches the quoted [1.97,3.05]e-5 eV. Points are per-mass-bin medians (80 bins) of the noisy limit curve, which fluctuates ~+-30% around these values; columns contaminated by vertical cut-out boundary lines were excluded. Paper assumes rho_DM=0.3 GeV/cm^3 and random hidden-photon polarization orientations (gas model) coupled to a single-polarization antenna.",
+ "num_points": 80,
+ "arxiv_id": "2209.03419",
+ "elapsed_s": 150.7923641204834,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 150198,
+  "duration_api_ms": 146324,
+  "total_cost_usd": 1.335983,
+  "usage": {
+   "input_tokens": 316,
+   "output_tokens": 11017,
+   "cache_creation_input_tokens": 34612,
+   "cache_read_input_tokens": 285273
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2209.03419.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:55:24-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

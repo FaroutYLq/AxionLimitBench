@@ -1,0 +1,363 @@
+{
+ "paper_title": "Precision Metrology Meets Cosmology: Improved Constraints on Ultralight Dark Matter from Atom-Cavity Frequency Comparisons",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.5757e-21,
+   5.155e-06
+  ],
+  [
+   2.857e-21,
+   3.924e-06
+  ],
+  [
+   4.4643e-21,
+   4e-06
+  ],
+  [
+   6.0115e-21,
+   4.03e-06
+  ],
+  [
+   8.0948e-21,
+   7.943e-06
+  ],
+  [
+   9.3933e-21,
+   1.028e-05
+  ],
+  [
+   1.09e-20,
+   9.942e-06
+  ],
+  [
+   1.2649e-20,
+   8.211e-06
+  ],
+  [
+   1.4678e-20,
+   9.147e-06
+  ],
+  [
+   1.7032e-20,
+   1.199e-05
+  ],
+  [
+   1.9764e-20,
+   1.695e-05
+  ],
+  [
+   2.2935e-20,
+   1.477e-05
+  ],
+  [
+   2.6614e-20,
+   2.211e-05
+  ],
+  [
+   3.0883e-20,
+   1.761e-05
+  ],
+  [
+   3.5837e-20,
+   3.099e-05
+  ],
+  [
+   4.1586e-20,
+   3.148e-05
+  ],
+  [
+   4.8257e-20,
+   4.095e-05
+  ],
+  [
+   5.5998e-20,
+   3.457e-05
+  ],
+  [
+   6.498e-20,
+   5.293e-05
+  ],
+  [
+   7.5404e-20,
+   4.582e-05
+  ],
+  [
+   8.75e-20,
+   4.808e-05
+  ],
+  [
+   1.0154e-19,
+   6.096e-05
+  ],
+  [
+   1.1782e-19,
+   5.578e-05
+  ],
+  [
+   1.3672e-19,
+   6.077e-05
+  ],
+  [
+   1.5866e-19,
+   4.858e-05
+  ],
+  [
+   1.8411e-19,
+   5.177e-05
+  ],
+  [
+   2.1364e-19,
+   4.619e-05
+  ],
+  [
+   2.4791e-19,
+   4.717e-05
+  ],
+  [
+   2.8768e-19,
+   5.653e-05
+  ],
+  [
+   3.3383e-19,
+   6.305e-05
+  ],
+  [
+   3.8738e-19,
+   6.956e-05
+  ],
+  [
+   4.4952e-19,
+   6.261e-05
+  ],
+  [
+   5.2163e-19,
+   7.525e-05
+  ],
+  [
+   6.053e-19,
+   9.931e-05
+  ],
+  [
+   7.024e-19,
+   8.086e-05
+  ],
+  [
+   8.1508e-19,
+   8.943e-05
+  ],
+  [
+   9.4583e-19,
+   7.559e-05
+  ],
+  [
+   1.0976e-18,
+   0.0001008
+  ],
+  [
+   1.2736e-18,
+   8.059e-05
+  ],
+  [
+   1.4779e-18,
+   0.0001054
+  ],
+  [
+   1.715e-18,
+   0.0001117
+  ],
+  [
+   1.9901e-18,
+   0.0001194
+  ],
+  [
+   2.3093e-18,
+   0.0001179
+  ],
+  [
+   2.6798e-18,
+   0.0001157
+  ],
+  [
+   3.1097e-18,
+   0.0001314
+  ],
+  [
+   3.6085e-18,
+   0.0001214
+  ],
+  [
+   4.1873e-18,
+   0.0001405
+  ],
+  [
+   4.8591e-18,
+   0.0001497
+  ],
+  [
+   5.6385e-18,
+   0.0001566
+  ],
+  [
+   6.543e-18,
+   0.0001586
+  ],
+  [
+   7.5926e-18,
+   0.0001636
+  ],
+  [
+   8.8105e-18,
+   0.0001763
+  ],
+  [
+   1.0224e-17,
+   0.0001889
+  ],
+  [
+   1.1864e-17,
+   0.0001985
+  ],
+  [
+   1.3767e-17,
+   0.0002033
+  ],
+  [
+   1.5975e-17,
+   0.0002273
+  ],
+  [
+   1.8538e-17,
+   0.0002334
+  ],
+  [
+   2.1512e-17,
+   0.0002555
+  ],
+  [
+   2.4963e-17,
+   0.0002627
+  ],
+  [
+   2.8967e-17,
+   0.0002787
+  ],
+  [
+   3.3614e-17,
+   0.0003018
+  ],
+  [
+   3.9006e-17,
+   0.0003197
+  ],
+  [
+   4.5263e-17,
+   0.0003395
+  ],
+  [
+   5.2524e-17,
+   0.0003813
+  ],
+  [
+   6.0949e-17,
+   0.0003969
+  ],
+  [
+   7.0726e-17,
+   0.0004325
+  ],
+  [
+   8.2072e-17,
+   0.0004679
+  ],
+  [
+   9.5237e-17,
+   0.0005008
+  ],
+  [
+   1.1051e-16,
+   0.0005808
+  ],
+  [
+   1.2824e-16,
+   0.000616
+  ],
+  [
+   1.4881e-16,
+   0.000675
+  ],
+  [
+   1.7269e-16,
+   0.0007133
+  ],
+  [
+   2.0039e-16,
+   0.0008226
+  ],
+  [
+   2.3253e-16,
+   0.0009162
+  ],
+  [
+   2.6983e-16,
+   0.0009481
+  ],
+  [
+   3.1312e-16,
+   0.001077
+  ],
+  [
+   3.6335e-16,
+   0.00115
+  ],
+  [
+   4.2163e-16,
+   0.001291
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "JILA_SrSi_2020",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Limit on the electromagnetic gauge modulus d_e (Damour-Donoghue convention, L = kappa*phi*(de/4)F^2 with kappa=sqrt(4 pi G_N), Eq. 1) from Fig. 2(a) of the paper. Curve is the lower envelope of the paper's two observed 95% CL limits: H maser vs Si cavity (blue, ~1.5e-21 to ~1e-19 eV where it is lowest) and Sr clock vs Si cavity (red, dominant above ~1.5e-19 eV up to 4.5e-16 eV). Extracted from the vector paths of figure_2_v3.pdf in the arXiv e-print; the noisy spectral limit was reduced to a median per log-mass bin (85 bins), which stays within the width of the plotted band. The Sr/Si Projected (green dotted) sensitivity curve and the dynamical-decoupling high-frequency limits of Fig. 3 were excluded; the d_me limit (Fig. 2b, ScalarElectron) is a secondary result not reported here. Paper assumes phi is all of a local DM density of 0.3 GeV/cm^3 and applies the stochastic-amplitude treatment (limits already include the factor-3 rescaling per Centers et al.).",
+ "num_points": 78,
+ "arxiv_id": "2008.08773",
+ "elapsed_s": 107.5036609172821,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 107130,
+  "duration_api_ms": 103538,
+  "total_cost_usd": 1.1865305,
+  "usage": {
+   "input_tokens": 364,
+   "output_tokens": 7983,
+   "cache_creation_input_tokens": 31182,
+   "cache_read_input_tokens": 332233
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.08773.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:14:24-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

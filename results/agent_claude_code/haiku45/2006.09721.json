@@ -1,0 +1,94 @@
+{
+ "paper_title": "Excess Electronic Recoil Events in XENON1T",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   100.0,
+   1e-12
+  ],
+  [
+   200.0,
+   5e-13
+  ],
+  [
+   300.0,
+   3e-13
+  ],
+  [
+   500.0,
+   1.5e-13
+  ],
+  [
+   1000.0,
+   5e-13
+  ],
+  [
+   2000.0,
+   5e-13
+  ],
+  [
+   5000.0,
+   5e-13
+  ],
+  [
+   10000.0,
+   5e-13
+  ],
+  [
+   20000.0,
+   1e-12
+  ],
+  [
+   50000.0,
+   5e-12
+  ],
+  [
+   100000.0,
+   5e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "XENON1T_2020",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Bosonic pseudoscalar ALP search. Constraints from Figure 10 (top plot). The search was performed by iterating over fixed masses between 1 and 210 keV/c^2 to search for peak-like excesses in the electronic recoil spectrum. The limits represent 90% C.L. upper bounds on the ALP-electron coupling. The middle mass range (1-30 keV) shows approximately constant sensitivity. Data extracted from figure by visual inspection; confidence reduced due to ambiguity in separating XENON1T curve from other experimental limits shown in the same plot.",
+ "num_points": 11,
+ "arxiv_id": "2006.09721",
+ "elapsed_s": 344.4627752304077,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 35,
+  "duration_ms": 343486,
+  "duration_api_ms": 315284,
+  "total_cost_usd": 0.512298,
+  "usage": {
+   "input_tokens": 258,
+   "output_tokens": 27113,
+   "cache_creation_input_tokens": 88183,
+   "cache_read_input_tokens": 2001090
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2006.09721.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:21:15-0500"
+ }
+}

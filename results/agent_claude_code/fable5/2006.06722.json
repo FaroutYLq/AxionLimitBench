@@ -1,0 +1,95 @@
+{
+ "paper_title": "Search for Axionlike-Particle-Induced Prompt Gamma-Ray Emission from Extragalactic Core-Collapse Supernovae with the Fermi Large Area Telescope",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-10,
+   2.6303e-11
+  ],
+  [
+   1.4677e-10,
+   2.6303e-11
+  ],
+  [
+   2.1542e-10,
+   2.6303e-11
+  ],
+  [
+   3.1618e-10,
+   2.6916e-11
+  ],
+  [
+   4.6407e-10,
+   2.8184e-11
+  ],
+  [
+   6.8113e-10,
+   3.1811e-11
+  ],
+  [
+   9.9971e-10,
+   4.8418e-11
+  ],
+  [
+   1.4673e-09,
+   7.1615e-11
+  ],
+  [
+   2.1536e-09,
+   1.0116e-10
+  ],
+  [
+   3.1609e-09,
+   1.5311e-10
+  ],
+  [
+   4.6394e-09,
+   2.3174e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "Fermi-LAT_ExtragalacticSN_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Median observed combined 95% CL upper limit (solid blue line) from Fig. 2, extracted from the vector paths of the e-print figure combined_limits_Mprog10_SN-Ib-mid-nest_default_jansson12.pdf. Baseline scenario: 10 Msun progenitors, NiCo optical light-curve model, Jansson & Farrar 2012 Galactic magnetic field; limit valid under the assumption that at least one SN was in the LAT field of view (probability 88.5%). Flat level 2.63e-11 GeV^-1 at low mass matches the quoted headline value 2.6e-11 GeV^-1 for ma < 3e-10 eV. Curve rises above the plotted range beyond ~4.6e-9 eV. Astrophysical (non-DM) bound, no density rescaling.",
+ "num_points": 11,
+ "arxiv_id": "2006.06722",
+ "elapsed_s": 99.08362174034119,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 6,
+  "duration_ms": 98803,
+  "duration_api_ms": 94641,
+  "total_cost_usd": 0.945114,
+  "usage": {
+   "input_tokens": 160,
+   "output_tokens": 5994,
+   "cache_creation_input_tokens": 35983,
+   "cache_read_input_tokens": 134589
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2006.06722.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T23:02:12-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

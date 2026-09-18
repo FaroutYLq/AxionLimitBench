@@ -1,0 +1,214 @@
+{
+ "paper_title": "Search for oscillations of fundamental constants using molecular spectroscopy",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.389e-14,
+   10770.0
+  ],
+  [
+   8.904e-14,
+   11850.0
+  ],
+  [
+   1.315e-13,
+   11930.0
+  ],
+  [
+   2.041e-13,
+   13840.0
+  ],
+  [
+   3.142e-13,
+   11590.0
+  ],
+  [
+   4.86e-13,
+   16810.0
+  ],
+  [
+   7.401e-13,
+   22220.0
+  ],
+  [
+   1.15e-12,
+   34860.0
+  ],
+  [
+   1.851e-12,
+   44340.0
+  ],
+  [
+   2.797e-12,
+   57000.0
+  ],
+  [
+   4.337e-12,
+   77490.0
+  ],
+  [
+   6.8e-12,
+   109700.0
+  ],
+  [
+   1.028e-11,
+   161000.0
+  ],
+  [
+   1.593e-11,
+   271000.0
+  ],
+  [
+   2.498e-11,
+   449200.0
+  ],
+  [
+   3.917e-11,
+   822800.0
+  ],
+  [
+   6.069e-11,
+   1520000.0
+  ],
+  [
+   9.179e-11,
+   2580000.0
+  ],
+  [
+   1.439e-10,
+   4697000.0
+  ],
+  [
+   2.216e-10,
+   9507000.0
+  ],
+  [
+   3.276e-10,
+   23390000.0
+  ],
+  [
+   4.521e-10,
+   1431000.0
+  ],
+  [
+   6.727e-10,
+   2188000.0
+  ],
+  [
+   9.991e-10,
+   3088000.0
+  ],
+  [
+   1.463e-09,
+   4834000.0
+  ],
+  [
+   2.189e-09,
+   6887000.0
+  ],
+  [
+   3.121e-09,
+   9685000.0
+  ],
+  [
+   4.553e-09,
+   14190000.0
+  ],
+  [
+   6.706e-09,
+   20480000.0
+  ],
+  [
+   9.696e-09,
+   29030000.0
+  ],
+  [
+   1.4e-08,
+   42590000.0
+  ],
+  [
+   1.976e-08,
+   58970000.0
+  ],
+  [
+   2.775e-08,
+   82710000.0
+  ],
+  [
+   3.922e-08,
+   116700000.0
+  ],
+  [
+   5.541e-08,
+   171200000.0
+  ],
+  [
+   7.616e-08,
+   257400000.0
+  ],
+  [
+   1.041e-07,
+   408800000.0
+  ],
+  [
+   1.419e-07,
+   693100000.0
+  ],
+  [
+   1.941e-07,
+   1242000000.0
+  ],
+  [
+   2.637e-07,
+   2402000000.0
+  ],
+  [
+   3.607e-07,
+   5106000000.0
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.4,
+ "suggested_experiment_name": "I2-spectroscopy_2021",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Scalar (dilaton-like) UDM search with molecular iodine spectroscopy. Curve is the coupling to the fine-structure constant, panel (a) of Fig. 4 (dadme.pdf in e-print), extracted from the vector PDF: combined boundary of the excluded (shaded) region from Experiment A (red, ~10 Hz-1e5 Hz) and Experiment B (blue, 1e5 Hz-1e8 Hz). Mass from Compton freq via m_eV = 4.13567e-15 * f_Hz. The two experiments overlap in mass near ~4e-10 eV; both branches retained, hence the small non-monotonic step there (Expt A rising near its Nyquist edge, Expt B more sensitive above it). Convention: paper defines alpha(phi)=alpha(1 - d_alpha phi/M_Pl) with reduced M_Pl=2.4e18 GeV (Eq.3); canonical Damour-Donoghue d_e uses kappa=sqrt(4pi)/M_Pl_full, giving d_e = sqrt(2) * d_alpha. Applied factor sqrt(2). Curves are for the standard galactic UDM halo scenario (rho_DM=0.3 GeV/cm^3, page 3), 95% detection threshold (Fig.2b). NOTE the paper's own headline result is the FIRST bound on the QCD-sector (gluon+quark) combination Q_N.d (Fig.3), which has no clean canonical plane; the paper also reports d_me (panel b). d_alpha (=this plane) chosen as the main electromagnetic result because Expt A is dominantly alpha-sensitive (cavity R_alpha=1). The paper's limits are mostly weaker than existing bounds except in narrow bands (10-50 Hz, 5-10 kHz, 5-100 MHz).",
+ "num_points": 41,
+ "arxiv_id": "2111.06883",
+ "elapsed_s": 489.8725788593292,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 489555,
+  "duration_api_ms": 482775,
+  "total_cost_usd": 1.87373275,
+  "usage": {
+   "input_tokens": 667,
+   "output_tokens": 35382,
+   "cache_creation_input_tokens": 71218,
+   "cache_read_input_tokens": 1020578
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2111.06883.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:03:37-0500"
+ }
+}

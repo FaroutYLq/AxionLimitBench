@@ -1,0 +1,302 @@
+{
+ "paper_title": "Extended Search for the Invisible Axion with the Axion Dark Matter Experiment",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.80639e-06,
+   3.2163e-16
+  ],
+  [
+   2.8138e-06,
+   3.5004e-16
+  ],
+  [
+   2.8212e-06,
+   3.5004e-16
+  ],
+  [
+   2.82861e-06,
+   3.1623e-16
+  ],
+  [
+   2.83602e-06,
+   3.2345e-16
+  ],
+  [
+   2.84343e-06,
+   3.3083e-16
+  ],
+  [
+   2.85083e-06,
+   3.2163e-16
+  ],
+  [
+   2.85824e-06,
+   3.5202e-16
+  ],
+  [
+   2.86565e-06,
+   3.5004e-16
+  ],
+  [
+   2.87305e-06,
+   3.4807e-16
+  ],
+  [
+   2.88046e-06,
+   3.621e-16
+  ],
+  [
+   2.88787e-06,
+   3.621e-16
+  ],
+  [
+   2.89528e-06,
+   3.6415e-16
+  ],
+  [
+   2.90268e-06,
+   3.5602e-16
+  ],
+  [
+   2.91009e-06,
+   3.3839e-16
+  ],
+  [
+   2.9175e-06,
+   3.5401e-16
+  ],
+  [
+   2.9249e-06,
+   3.621e-16
+  ],
+  [
+   2.93231e-06,
+   3.5202e-16
+  ],
+  [
+   2.93972e-06,
+   3.4611e-16
+  ],
+  [
+   2.94713e-06,
+   3.1802e-16
+  ],
+  [
+   2.95453e-06,
+   3.1982e-16
+  ],
+  [
+   2.96194e-06,
+   3.2897e-16
+  ],
+  [
+   2.96935e-06,
+   3.2528e-16
+  ],
+  [
+   2.97675e-06,
+   3.3648e-16
+  ],
+  [
+   2.98416e-06,
+   3.4807e-16
+  ],
+  [
+   2.99157e-06,
+   3.403e-16
+  ],
+  [
+   2.99898e-06,
+   3.4611e-16
+  ],
+  [
+   3.007e-06,
+   3.2712e-16
+  ],
+  [
+   3.01379e-06,
+   2.793e-16
+  ],
+  [
+   3.0212e-06,
+   3.4807e-16
+  ],
+  [
+   3.0286e-06,
+   3.4416e-16
+  ],
+  [
+   3.03601e-06,
+   3.4807e-16
+  ],
+  [
+   3.04342e-06,
+   3.4611e-16
+  ],
+  [
+   3.05083e-06,
+   3.4807e-16
+  ],
+  [
+   3.05823e-06,
+   3.2528e-16
+  ],
+  [
+   3.06564e-06,
+   3.1802e-16
+  ],
+  [
+   3.07305e-06,
+   3.5004e-16
+  ],
+  [
+   3.08045e-06,
+   2.9056e-16
+  ],
+  [
+   3.08724e-06,
+   3.4611e-16
+  ],
+  [
+   3.14712e-06,
+   3.5803e-16
+  ],
+  [
+   3.15453e-06,
+   3.5803e-16
+  ],
+  [
+   3.16193e-06,
+   3.2345e-16
+  ],
+  [
+   3.16934e-06,
+   3.5602e-16
+  ],
+  [
+   3.17675e-06,
+   3.403e-16
+  ],
+  [
+   3.18415e-06,
+   3.3648e-16
+  ],
+  [
+   3.19156e-06,
+   3.6006e-16
+  ],
+  [
+   3.19897e-06,
+   3.5803e-16
+  ],
+  [
+   3.20638e-06,
+   3.5803e-16
+  ],
+  [
+   3.21378e-06,
+   3.5202e-16
+  ],
+  [
+   3.22119e-06,
+   3.2163e-16
+  ],
+  [
+   3.2286e-06,
+   3.1802e-16
+  ],
+  [
+   3.23601e-06,
+   3.7669e-16
+  ],
+  [
+   3.24341e-06,
+   3.7669e-16
+  ],
+  [
+   3.25082e-06,
+   3.9187e-16
+  ],
+  [
+   3.25823e-06,
+   4.0081e-16
+  ],
+  [
+   3.26563e-06,
+   3.7246e-16
+  ],
+  [
+   3.27304e-06,
+   4.5637e-16
+  ],
+  [
+   3.28045e-06,
+   4.7744e-16
+  ],
+  [
+   3.28786e-06,
+   5.0232e-16
+  ],
+  [
+   3.29526e-06,
+   5.2256e-16
+  ],
+  [
+   3.30267e-06,
+   4.9949e-16
+  ],
+  [
+   3.31008e-06,
+   1.3111e-15
+  ],
+  [
+   3.31748e-06,
+   1.553e-15
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "ADMX_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ADMX Run1B (data taken Jan-Oct 2018). 90% CL exclusion on g_agamma vs axion mass from Fig.4 (raster PNG run1b_sensitivity_prelim.png; no ancillary data). Headline curve = 'This work' green forest; I traced the darker-green Maxwell-Boltzmann (MB) standard-halo fill (rho_a=0.45 GeV/cm^3, per Eq.1 and Ref.[30]). The lighter-green companion is the N-body-halo result (rho_a=0.63 GeV/cm^3, Ref.[31]) which reaches slightly lower; not reported here. Curve is per-column bottom edge of the excluded fill, binned (median) to ~60 points. Two gaps preserved: ~726.6 MHz and the wide ~747-760 MHz (753.844 MHz) mode-crossing regions where no limit set (Table I); three narrower mode crossings (704.7,715.1,717.0 MHz) are sub-pixel and not resolved. Axes calibrated from tick marks: freq 625-825 MHz (x), g_agamma 1e-16 to 1e-14 log (y); mass=4.135667e-9*f[MHz] eV; y-cal cross-checked against KSVZ(~1.2e-15) and DFSZ(~4.6e-16) black reference lines. Limit excludes DFSZ over 2.81-3.31 ueV. Edge points near 3.31 ueV rise as sensitivity falls off.",
+ "num_points": 63,
+ "arxiv_id": "1910.08638",
+ "elapsed_s": 194.79612588882446,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 194497,
+  "duration_api_ms": 192023,
+  "total_cost_usd": 0.8154119999999999,
+  "usage": {
+   "input_tokens": 334,
+   "output_tokens": 13201,
+   "cache_creation_input_tokens": 33777,
+   "cache_read_input_tokens": 291894
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1910.08638.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:35:37-0500"
+ }
+}

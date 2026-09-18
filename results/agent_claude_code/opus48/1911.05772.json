@@ -1,0 +1,242 @@
+{
+ "paper_title": "ADMX SLIC: Results from a Superconducting LC Circuit Investigating Cold Axions",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.7500675010506122e-07,
+   5.277595755674569e-12
+  ],
+  [
+   1.7501859449941732e-07,
+   3.5271779541821258e-12
+  ],
+  [
+   1.7503043889377336e-07,
+   3.5271779541821258e-12
+  ],
+  [
+   1.7504228328812946e-07,
+   2.3573204346110876e-12
+  ],
+  [
+   1.7505412768248556e-07,
+   3.2540604860220103e-12
+  ],
+  [
+   1.7506597207684166e-07,
+   3.125537732670749e-12
+  ],
+  [
+   1.7507781647119773e-07,
+   1.7077001657791004e-12
+  ],
+  [
+   1.750896608655538e-07,
+   1.7077001657791004e-12
+  ],
+  [
+   1.7510150525990992e-07,
+   2.174787713805292e-12
+  ],
+  [
+   1.7511334965426602e-07,
+   2.174787713805292e-12
+  ],
+  [
+   1.751251940486221e-07,
+   2.5551733606733625e-12
+  ],
+  [
+   1.7513703844297816e-07,
+   5.4946115768256254e-12
+  ],
+  [
+   1.7514888283733426e-07,
+   6.997489365447795e-12
+  ],
+  [
+   1.7516072723169036e-07,
+   2.174787713805292e-12
+  ],
+  [
+   1.7517257162604643e-07,
+   2.6602426139320292e-12
+  ],
+  [
+   1.7517405217534094e-07,
+   2.6602426139320292e-12
+  ],
+  [
+   1.7733106823879386e-07,
+   3.823218521569994e-12
+  ],
+  [
+   1.7733456764992124e-07,
+   3.823218521569994e-12
+  ],
+  [
+   1.7733806706104863e-07,
+   5.989476557447051e-13
+  ],
+  [
+   1.7734156647217602e-07,
+   8.607890719822119e-13
+  ],
+  [
+   1.773450658833034e-07,
+   8.607890719822119e-13
+  ],
+  [
+   1.773485652944308e-07,
+   1.5754690303748914e-12
+  ],
+  [
+   1.7735206470555818e-07,
+   1.5754690303748914e-12
+  ],
+  [
+   1.7735556411668556e-07,
+   1.5754690303748914e-12
+  ],
+  [
+   1.7735906352781292e-07,
+   5.989476557447051e-13
+  ],
+  [
+   1.773625629389403e-07,
+   8.961848953726676e-13
+  ],
+  [
+   1.7736606235006772e-07,
+   8.961848953726676e-13
+  ],
+  [
+   1.7736956176119508e-07,
+   5.525697668424816e-13
+  ],
+  [
+   1.7737306117232247e-07,
+   6.235765063341411e-13
+  ],
+  [
+   1.7737656058344988e-07,
+   6.235765063341411e-13
+  ],
+  [
+   1.7738005999457724e-07,
+   6.759140819095418e-13
+  ],
+  [
+   1.7738101437943017e-07,
+   6.759140819095418e-13
+  ],
+  [
+   1.8007741948644042e-07,
+   2.5551733606733625e-12
+  ],
+  [
+   1.8008155515413642e-07,
+   5.307454067366035e-13
+  ],
+  [
+   1.8008569082183245e-07,
+   5.307454067366035e-13
+  ],
+  [
+   1.8008982648952845e-07,
+   5.752915491172291e-13
+  ],
+  [
+   1.8009396215722442e-07,
+   5.752915491172291e-13
+  ],
+  [
+   1.8009809782492045e-07,
+   5.989476557447051e-13
+  ],
+  [
+   1.8010223349261642e-07,
+   6.492181003169895e-13
+  ],
+  [
+   1.8010636916031242e-07,
+   6.492181003169895e-13
+  ],
+  [
+   1.8011050482800845e-07,
+   6.492181003169895e-13
+  ],
+  [
+   1.8011464049570445e-07,
+   5.989476557447051e-13
+  ],
+  [
+   1.8011877616340042e-07,
+   6.759140819095418e-13
+  ],
+  [
+   1.8012291183109644e-07,
+   1.0529339283820783e-12
+  ],
+  [
+   1.8012704749879242e-07,
+   1.5754690303748914e-12
+  ],
+  [
+   1.8013118316648844e-07,
+   1.9271443483557902e-12
+  ],
+  [
+   1.8013531883418444e-07,
+   2.7696323364591502e-12
+  ],
+  [
+   1.801355365009053e-07,
+   2.7696323364591502e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "ADMX_SLIC_2019",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Axion haloscope (lumped-element superconducting LC circuit). Headline curve is the blue \"90% Limit, RFI Limit\" (the actual measured exclusion given observed RFI excesses) from FIG. 4 panels b/c/d (limit_1.png, limit_2a.png, limit_2b.png in the e-print), covering three narrow mass windows at B=4.5,5.0,7.0 T. The orange \"90% Limit without RFI estimated\" curve (an estimate of what could be achieved if RFI candidates were removed) is NOT reported. Figures are raster PNGs; curve read by pixel extraction with tick calibration (x log-free freq axis, y log10 coupling; verified endpoints against abstract mass ranges 1.7498-1.7519e-7, 1.7734-1.7738e-7, 1.8007-1.8015e-7 eV). Frequency converted to mass via m_a = h*f (h=4.1357e-15 eV*s), reproducing the paper stated eV values. Vertical scan-edge walls (rising to the ~1e-10 CAST ceiling) trimmed. Coupling axis label \"Coupling (GeV^-1)\" = g_agamma in L=-g a E.B, equivalent to the canonical L=-(g/4)aFFdual. The paper does not state an assumed local dark-matter density, so dm_density_assumed is null (the limit does depend on density but no value is given).",
+ "num_points": 48,
+ "arxiv_id": "1911.05772",
+ "elapsed_s": 304.54326605796814,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 304241,
+  "duration_api_ms": 300682,
+  "total_cost_usd": 1.2192204999999996,
+  "usage": {
+   "input_tokens": 680,
+   "output_tokens": 18751,
+   "cache_creation_input_tokens": 44040,
+   "cache_read_input_tokens": 613291
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1911.05772.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:38:31-0500"
+ }
+}

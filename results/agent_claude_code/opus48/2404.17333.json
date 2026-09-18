@@ -1,0 +1,74 @@
+{
+ "paper_title": "Bounds on heavy axions with an X-ray free electron laser",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.001,
+   0.000391
+  ],
+  [
+   44.0,
+   0.000391
+  ],
+  [
+   340.0,
+   0.00031
+  ],
+  [
+   460.0,
+   0.000387
+  ],
+  [
+   1100.0,
+   0.000369
+  ],
+  [
+   2400.0,
+   0.000276
+  ]
+ ],
+ "data_source": "table",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "EuXFEL_2025",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Laboratory light-shining-through-wall Primakoff search at EuXFEL (HED/HiBEF). Headline bounds are the pink 'EuXFEL' curve in Fig.5, tabulated in Table I as g_agamma[GeV^-1] at five detuning angles / masses: (dtheta=0.0 mrad, m_a<=44 eV, 3.91e-4), (1.0 mrad, 340 eV, 3.10e-4), (1.8 mrad, 460 eV, 3.87e-4), (10.0 mrad, 1.1 keV, 3.69e-4), (50.0 mrad, 2.4 keV, 2.76e-4). The first (on-Bragg, dtheta=0) search is broadband, sensitive over a wide mass range up to the ~44 eV valence plasma frequency (Eq.2), so I represent it as a flat limit from 1e-3 eV to 44 eV at 3.91e-4; the other four are narrow off-Bragg searches (~1e-3 eV wide) centered at the listed masses. The bounds are 90% CL upper limits from observation of zero axion-consistent events (N_det=2.3, Eq.9). Not a DM search: g_agamma already in canonical L=g_agamma E.B a convention (Eq.1), Heaviside-Lorentz, so no conversion needed; dm_density null. The blue 'xi_B=1' region in Fig.5 is shown only to illustrate potential improvement and is NOT the headline result.",
+ "num_points": 6,
+ "arxiv_id": "2404.17333",
+ "elapsed_s": 41.09135699272156,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 4,
+  "duration_ms": 40793,
+  "duration_api_ms": 40103,
+  "total_cost_usd": 0.35273150000000003,
+  "usage": {
+   "input_tokens": 84,
+   "output_tokens": 2952,
+   "cache_creation_input_tokens": 25347,
+   "cache_read_input_tokens": 50083
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2404.17333.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:16:59-0500"
+ }
+}

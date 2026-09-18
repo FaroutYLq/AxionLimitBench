@@ -1,0 +1,290 @@
+{
+ "paper_title": "Search for QCD coupled axion dark matter with the MICROSCOPE space experiment",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.016e-20,
+   2.54e-16
+  ],
+  [
+   1.305e-20,
+   2.913e-16
+  ],
+  [
+   1.73e-20,
+   3.341e-16
+  ],
+  [
+   2.223e-20,
+   3.703e-16
+  ],
+  [
+   2.947e-20,
+   4.247e-16
+  ],
+  [
+   3.907e-20,
+   5.041e-16
+  ],
+  [
+   5.02e-20,
+   5.587e-16
+  ],
+  [
+   6.655e-20,
+   6.409e-16
+  ],
+  [
+   8.822e-20,
+   7.607e-16
+  ],
+  [
+   1.134e-19,
+   8.431e-16
+  ],
+  [
+   1.503e-19,
+   9.67e-16
+  ],
+  [
+   1.931e-19,
+   1.109e-15
+  ],
+  [
+   2.56e-19,
+   1.272e-15
+  ],
+  [
+   3.393e-19,
+   1.459e-15
+  ],
+  [
+   4.36e-19,
+   1.673e-15
+  ],
+  [
+   5.78e-19,
+   1.855e-15
+  ],
+  [
+   7.662e-19,
+   2.201e-15
+  ],
+  [
+   9.845e-19,
+   2.525e-15
+  ],
+  [
+   1.305e-18,
+   2.799e-15
+  ],
+  [
+   1.677e-18,
+   3.322e-15
+  ],
+  [
+   2.223e-18,
+   3.81e-15
+  ],
+  [
+   2.947e-18,
+   4.223e-15
+  ],
+  [
+   3.786e-18,
+   4.68e-15
+  ],
+  [
+   5.02e-18,
+   5.749e-15
+  ],
+  [
+   6.655e-18,
+   6.371e-15
+  ],
+  [
+   8.55e-18,
+   7.061e-15
+  ],
+  [
+   1.134e-17,
+   8.382e-15
+  ],
+  [
+   1.456e-17,
+   3.173e-13
+  ],
+  [
+   1.931e-17,
+   1.03e-14
+  ],
+  [
+   2.56e-17,
+   1.222e-14
+  ],
+  [
+   3.289e-17,
+   1.354e-14
+  ],
+  [
+   4.36e-17,
+   1.501e-14
+  ],
+  [
+   5.78e-17,
+   1.722e-14
+  ],
+  [
+   7.426e-17,
+   1.844e-14
+  ],
+  [
+   9.845e-17,
+   1.608e-14
+  ],
+  [
+   1.265e-16,
+   1.722e-14
+  ],
+  [
+   1.677e-16,
+   1.908e-14
+  ],
+  [
+   2.223e-16,
+   2.044e-14
+  ],
+  [
+   2.856e-16,
+   2.189e-14
+  ],
+  [
+   3.786e-16,
+   2.344e-14
+  ],
+  [
+   5.02e-16,
+   2.598e-14
+  ],
+  [
+   6.449e-16,
+   2.782e-14
+  ],
+  [
+   8.55e-16,
+   2.98e-14
+  ],
+  [
+   1.099e-15,
+   2.98e-14
+  ],
+  [
+   1.456e-15,
+   3.084e-14
+  ],
+  [
+   1.931e-15,
+   3.191e-14
+  ],
+  [
+   2.481e-15,
+   3.302e-14
+  ],
+  [
+   3.289e-15,
+   3.302e-14
+  ],
+  [
+   4.36e-15,
+   3.302e-14
+  ],
+  [
+   5.601e-15,
+   6.517e-13
+  ],
+  [
+   7.426e-15,
+   1.294e-12
+  ],
+  [
+   9.541e-15,
+   1.053e-12
+  ],
+  [
+   1.265e-14,
+   2.163e-12
+  ],
+  [
+   1.677e-14,
+   7.181e-12
+  ],
+  [
+   2.154e-14,
+   1.16e-11
+  ],
+  [
+   2.856e-14,
+   1.875e-11
+  ],
+  [
+   3.786e-14,
+   9.075e-11
+  ],
+  [
+   4.865e-14,
+   1.115e-10
+  ],
+  [
+   6.449e-14,
+   1.467e-10
+  ],
+  [
+   8.55e-14,
+   1.801e-10
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "MICROSCOPE_2025",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Reanalysis of MICROSCOPE final EP data to bound the ALP-gluon coupling 1/f_a (axion-gluon coupling in convention L includes E_P g3^2/(32pi^2) a/f_a G Gtilde, so plotted y-axis IS 1/f_a in GeV^-1 = canonical AxionMass plane). Headline curve = lower boundary of red 95%% excluded region in Fig.2 (file Figs/1_fa_Micro_final.png), traced by pixel analysis of the raster. Axes: x=10^-13 eV at px655 (73.5px/dec), y=10^-9 at px41 (67.17px/dec). Extracted per-column bottommost red pixel (deepest reach = lower envelope of the spiky high-mass blind-band structure). Static UFF signal (Eotvos), no positive DM signal. Endpoints: most stringent ~2.5e-16 (text quotes 1.7e-16) at m_a=1e-20 eV, weakening to ~1.8e-10 near 8.5e-14 eV (text: 1.3e-10 at 7.7e-14 eV); both anchors match to ~15-50%%. DM density rho_DM=0.4 GeV/cm3 (limit scales as 1/sqrt(rho_DM)). Grey region = existing lab bounds (not this work).",
+ "num_points": 60,
+ "arxiv_id": "2504.00720",
+ "elapsed_s": 205.20557498931885,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 204884,
+  "duration_api_ms": 202507,
+  "total_cost_usd": 1.0331805,
+  "usage": {
+   "input_tokens": 446,
+   "output_tokens": 13067,
+   "cache_creation_input_tokens": 43683,
+   "cache_read_input_tokens": 534891
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2504.00720.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T03:11:08-0500"
+ }
+}

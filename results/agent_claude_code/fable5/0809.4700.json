@@ -1,0 +1,199 @@
+{
+ "paper_title": "Limits on new long-range nuclear spin-dependent forces set with a K-3He co-magnetometer",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.0303e-10,
+   8.5397e-05
+  ],
+  [
+   2.2656e-08,
+   8.5397e-05
+  ],
+  [
+   5.8444e-08,
+   8.5931e-05
+  ],
+  [
+   9.7772e-08,
+   8.7014e-05
+  ],
+  [
+   1.6571e-07,
+   8.9964e-05
+  ],
+  [
+   2.1365e-07,
+   9.2627e-05
+  ],
+  [
+   2.7631e-07,
+   9.697e-05
+  ],
+  [
+   3.2625e-07,
+   0.0001011
+  ],
+  [
+   3.877e-07,
+   0.00010695
+  ],
+  [
+   4.9175e-07,
+   0.00011919
+  ],
+  [
+   5.8439e-07,
+   0.00013228
+  ],
+  [
+   6.4228e-07,
+   0.00014199
+  ],
+  [
+   7.6579e-07,
+   0.00016776
+  ],
+  [
+   8.3619e-07,
+   0.0001858
+  ],
+  [
+   9.3715e-07,
+   0.00021813
+  ],
+  [
+   1.0676e-06,
+   0.0002749
+  ],
+  [
+   1.228e-06,
+   0.00039095
+  ],
+  [
+   1.3585e-06,
+   0.0005797
+  ],
+  [
+   1.4689e-06,
+   0.0010433
+  ],
+  [
+   1.5374e-06,
+   0.0040854
+  ],
+  [
+   1.5831e-06,
+   0.001351
+  ],
+  [
+   1.6461e-06,
+   0.0009599
+  ],
+  [
+   1.757e-06,
+   0.0007585
+  ],
+  [
+   1.857e-06,
+   0.00069637
+  ],
+  [
+   1.9627e-06,
+   0.00067213
+  ],
+  [
+   2.1016e-06,
+   0.00067213
+  ],
+  [
+   2.2504e-06,
+   0.00069637
+  ],
+  [
+   2.4413e-06,
+   0.00075376
+  ],
+  [
+   2.5972e-06,
+   0.00081929
+  ],
+  [
+   3.0665e-06,
+   0.00112
+  ],
+  [
+   3.4256e-06,
+   0.0014869
+  ],
+  [
+   3.9149e-06,
+   0.0022605
+  ],
+  [
+   4.6526e-06,
+   0.00445
+  ],
+  [
+   5.4931e-06,
+   0.010115
+  ],
+  [
+   5.998e-06,
+   0.016854
+  ],
+  [
+   6.4641e-06,
+   0.027388
+  ],
+  [
+   6.5108e-06,
+   0.032337
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.68,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "Vasilakis_2009",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Solid 'this work' curve of Fig. 4 (1-sigma limit on (g_p^n)^2/4pi vs boson mass m in meV), digitized from the vector EPS axionlimitMore_g2.eps in the arXiv e-print; axis calibration from tick-mark coordinates, cross-checked against the quoted massless limit (g_p^n)^2/4pi < 5.8e-10 (flat level reproduces it to <1%) and the reference lines at 2.5e-8 (gravity, ref [6]) and 2.3e-5 (Ramsey). Converted via g_an = sqrt(4pi * y) and m_eV = 1e-3 * m_meV. The paper's derivative coupling L = (g_p/2M_n) psibar gamma^mu gamma5 psi d_mu phi matches the canonical g_an normalization exactly, so no 2m_N factor is needed. The curve is non-monotonic: a sharp spike to g_an~4e-3 at m~1.5e-6 eV and a dip to ~7e-4 near 2e-6 eV (geometric cancellation of the dipole-dipole potential), then rises off the top of the plot at ~6.5e-6 eV. Limit is on the neutron coupling only (87% neutron polarization in 3He assumed by the paper); confidence level is 1 sigma (~68%) as stated. Not a dark-matter search, so no density assumption.",
+ "num_points": 37,
+ "arxiv_id": "0809.4700",
+ "elapsed_s": 262.1754047870636,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 20,
+  "duration_ms": 261733,
+  "duration_api_ms": 257466,
+  "total_cost_usd": 2.3910295,
+  "usage": {
+   "input_tokens": 612,
+   "output_tokens": 19328,
+   "cache_creation_input_tokens": 54185,
+   "cache_read_input_tokens": 644102
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "0809.4700.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T20:52:26-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,230 @@
+{
+ "paper_title": "Shedding Infrared Light on QCD Axion and ALP Dark Matter with JWST",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.4698,
+   4.3214e-11
+  ],
+  [
+   0.4732,
+   3.9044e-11
+  ],
+  [
+   0.4848,
+   3.5275e-11
+  ],
+  [
+   0.4967,
+   3.2483e-11
+  ],
+  [
+   0.5114,
+   3.0876e-11
+  ],
+  [
+   0.5214,
+   2.8252e-11
+  ],
+  [
+   0.5342,
+   2.6516e-11
+  ],
+  [
+   0.5539,
+   2.4729e-11
+  ],
+  [
+   0.5716,
+   2.3357e-11
+  ],
+  [
+   0.5942,
+   2.2342e-11
+  ],
+  [
+   0.6073,
+   2.4572e-11
+  ],
+  [
+   0.6252,
+   2.1102e-11
+  ],
+  [
+   0.6499,
+   1.9187e-11
+  ],
+  [
+   0.6773,
+   1.7226e-11
+  ],
+  [
+   0.7109,
+   1.6167e-11
+  ],
+  [
+   0.748,
+   1.5465e-11
+  ],
+  [
+   0.7813,
+   1.5077e-11
+  ],
+  [
+   0.8161,
+   1.4887e-11
+  ],
+  [
+   0.8608,
+   1.3884e-11
+  ],
+  [
+   0.9101,
+   1.3536e-11
+  ],
+  [
+   0.9415,
+   1.3031e-11
+  ],
+  [
+   0.9716,
+   1.3031e-11
+  ],
+  [
+   1.0027,
+   1.2704e-11
+  ],
+  [
+   1.0423,
+   1.2386e-11
+  ],
+  [
+   1.0914,
+   1.2152e-11
+  ],
+  [
+   1.14,
+   1.1999e-11
+  ],
+  [
+   1.1966,
+   1.1699e-11
+  ],
+  [
+   1.2469,
+   1.1848e-11
+  ],
+  [
+   1.3025,
+   1.2076e-11
+  ],
+  [
+   1.3572,
+   1.1625e-11
+  ],
+  [
+   1.4143,
+   1.1551e-11
+  ],
+  [
+   1.4737,
+   1.1848e-11
+  ],
+  [
+   1.5283,
+   1.2624e-11
+  ],
+  [
+   1.5925,
+   1.1923e-11
+  ],
+  [
+   1.6595,
+   1.1333e-11
+  ],
+  [
+   1.7209,
+   1.0773e-11
+  ],
+  [
+   1.8151,
+   1.0111e-11
+  ],
+  [
+   1.9519,
+   9.2514e-12
+  ],
+  [
+   2.0339,
+   8.6828e-12
+  ],
+  [
+   2.1349,
+   8.3057e-12
+  ],
+  [
+   2.2085,
+   7.8948e-12
+  ],
+  [
+   2.3125,
+   7.697e-12
+  ],
+  [
+   2.4156,
+   7.4095e-12
+  ],
+  [
+   2.5049,
+   7.5519e-12
+  ],
+  [
+   2.5478,
+   7.697e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "JWST_NIRSpec_2025",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Decaying ALP DM two-photon line search with JWST NIRSpec IFU spectroscopy (a->2gamma). Headline combined limit from Fig. 1 ('Our work (combined)', navy solid boundary = lower edge of blue excluded region), extracted from the vector file simple_limit.pdf (drawing idx 52). This is the union/envelope of the three grating datasets (G395, G235, G140) shown separately in Fig. 2. Axis calibration: x-axis log with ticks 0.6/1/2 eV (~952 px/decade); y-axis log 1e-11 to 1e-10 (364 px/decade). Curve spans m_a = 0.47-2.55 eV, strongest g_agamma ~7.4e-12 GeV^-1 near 2.4 eV; small upward spike at ~0.61 eV is a real feature of the traced curve. 95% CL upper limit (Delta chi^2 = 2.71). MW halo NFW profile assumed (rho_s=0.18 GeV/cm^3, r_s=24 kpc); decay flux depends on the line-of-sight D-factor rather than a single local density, so dm_density_assumed left null per convention for these D-factor decay searches.",
+ "num_points": 45,
+ "arxiv_id": "2503.14582",
+ "elapsed_s": 128.195650100708,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 19,
+  "duration_ms": 127866,
+  "duration_api_ms": 125164,
+  "total_cost_usd": 0.9875214999999999,
+  "usage": {
+   "input_tokens": 513,
+   "output_tokens": 9062,
+   "cache_creation_input_tokens": 44250,
+   "cache_read_input_tokens": 631813
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2503.14582.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T03:09:36-0500"
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "paper_title": "Limits on new long-range nuclear spin-dependent forces set with a K-3He co-magnetometer",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-10,
+   8.542e-05
+  ],
+  [
+   6.471e-08,
+   8.667e-05
+  ],
+  [
+   1.586e-07,
+   9.284e-05
+  ],
+  [
+   2.777e-07,
+   0.000107
+  ],
+  [
+   3.801e-07,
+   0.0001253
+  ],
+  [
+   5.32e-07,
+   0.0001667
+  ],
+  [
+   6.807e-07,
+   0.0002376
+  ],
+  [
+   7.787e-07,
+   0.0003154
+  ],
+  [
+   8.71e-07,
+   0.0004457
+  ],
+  [
+   9.743e-07,
+   0.000831
+  ],
+  [
+   1.042e-06,
+   0.004082
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.68,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "KHe3Comagnetometer_2009",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Solid curve ('this work', derivative coupling) from Fig. 4, extracted from the vector EPS (axionlimitMore_g2.eps -> PDF, pymupdf get_drawings, fill region idx7 lower boundary). This is a dipole-dipole (spin-spin) search between neutrons via a pseudoscalar boson; the plotted y-axis is (g_p^n)^2/(4pi). The paper's pseudoscalar coupling is defined via L^Der = (g_p/2M_n) psibar gamma_mu gamma5 psi d^mu phi (Eq. 2), which is identical to the canonical g_an normalisation L=(g_an/2m_n) d_mu a nbar gamma^mu gamma5 n, so g_p^n = g_an directly (no 2m_N factor needed; the 2M_n is already in the paper's Lagrangian). Converted g_an = sqrt(4pi * [(g_p^n)^2/4pi]). Flat massless-boson value (g_p^n)^2/4pi < 5.8e-10 (quoted, 1sigma) -> g_an < 8.54e-5; calibration verified against this value (y=403.5px). x-axis m in meV converted to eV (x1e-3). Curve is flat for m below ~1e-7 eV then rises steeply near m~1e-6 eV (10^-3 meV) as the Yukawa/r^3 exchange is suppressed beyond the ~48.7 cm source-detector range. Paper states a 1sigma (68% CL) limit, so confidence_level=0.68 (not 0.90/0.95). This constrains the neutron coupling with the source also being a neutron spin (^3He), i.e. g_an^2; reported as the single canonical g_an.",
+ "num_points": 11,
+ "arxiv_id": "0809.4700",
+ "elapsed_s": 216.459645986557,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 216143,
+  "duration_api_ms": 213248,
+  "total_cost_usd": 0.9433594999999999,
+  "usage": {
+   "input_tokens": 417,
+   "output_tokens": 15974,
+   "cache_creation_input_tokens": 35767,
+   "cache_read_input_tokens": 368509
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "0809.4700.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:05:47-0500"
+ }
+}

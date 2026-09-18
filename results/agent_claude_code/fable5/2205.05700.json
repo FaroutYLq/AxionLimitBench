@@ -1,0 +1,371 @@
+{
+ "paper_title": "First indirect detection constraints on axions in the Solar basin",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5080.0,
+   2.27102e-10
+  ],
+  [
+   5193.75,
+   1.36605e-10
+  ],
+  [
+   5310.05,
+   9.05594e-11
+  ],
+  [
+   5428.95,
+   6.31758e-11
+  ],
+  [
+   5550.52,
+   3.86587e-11
+  ],
+  [
+   5674.81,
+   3.84982e-11
+  ],
+  [
+   5801.88,
+   3.1137e-11
+  ],
+  [
+   5931.8,
+   2.46759e-11
+  ],
+  [
+   6064.62,
+   2.03539e-11
+  ],
+  [
+   6200.42,
+   1.64902e-11
+  ],
+  [
+   6367.4,
+   1.36774e-11
+  ],
+  [
+   6509.98,
+   1.15738e-11
+  ],
+  [
+   6655.76,
+   9.62254e-12
+  ],
+  [
+   6804.79,
+   8.775e-12
+  ],
+  [
+   6957.17,
+   7.31453e-12
+  ],
+  [
+   7112.95,
+   6.89049e-12
+  ],
+  [
+   7272.23,
+   5.89948e-12
+  ],
+  [
+   7435.07,
+   4.39648e-12
+  ],
+  [
+   7601.55,
+   3.39095e-12
+  ],
+  [
+   7771.77,
+   2.93114e-12
+  ],
+  [
+   7945.8,
+   2.87824e-12
+  ],
+  [
+   8123.72,
+   2.82937e-12
+  ],
+  [
+   8305.63,
+   2.8837e-12
+  ],
+  [
+   8491.61,
+   3.00293e-12
+  ],
+  [
+   8681.75,
+   3.1725e-12
+  ],
+  [
+   8876.16,
+   3.21736e-12
+  ],
+  [
+   9074.91,
+   3.06232e-12
+  ],
+  [
+   9278.12,
+   2.72627e-12
+  ],
+  [
+   9485.88,
+   2.60612e-12
+  ],
+  [
+   9698.29,
+   2.5742e-12
+  ],
+  [
+   9959.46,
+   2.64794e-12
+  ],
+  [
+   10182.5,
+   2.77284e-12
+  ],
+  [
+   10410.5,
+   2.95265e-12
+  ],
+  [
+   10643.6,
+   3.00986e-12
+  ],
+  [
+   10881.9,
+   2.83511e-12
+  ],
+  [
+   11125.6,
+   2.45835e-12
+  ],
+  [
+   11374.7,
+   2.27063e-12
+  ],
+  [
+   11629.4,
+   2.47412e-12
+  ],
+  [
+   11889.8,
+   3.055e-12
+  ],
+  [
+   12156.1,
+   3.71646e-12
+  ],
+  [
+   12428.3,
+   4.05812e-12
+  ],
+  [
+   12706.6,
+   3.85918e-12
+  ],
+  [
+   12991.1,
+   3.65297e-12
+  ],
+  [
+   13282.0,
+   3.73272e-12
+  ],
+  [
+   13579.4,
+   3.78495e-12
+  ],
+  [
+   13883.5,
+   3.81098e-12
+  ],
+  [
+   14194.4,
+   3.99787e-12
+  ],
+  [
+   14512.2,
+   4.40805e-12
+  ],
+  [
+   14837.2,
+   5.38053e-12
+  ],
+  [
+   15169.4,
+   6.96723e-12
+  ],
+  [
+   15577.9,
+   9.0343e-12
+  ],
+  [
+   15926.8,
+   8.52445e-12
+  ],
+  [
+   16283.4,
+   8.31496e-12
+  ],
+  [
+   16648.0,
+   9.81946e-12
+  ],
+  [
+   17020.8,
+   1.19574e-11
+  ],
+  [
+   17401.9,
+   1.44992e-11
+  ],
+  [
+   17791.6,
+   1.48228e-11
+  ],
+  [
+   18190.0,
+   1.37082e-11
+  ],
+  [
+   18597.3,
+   1.63049e-11
+  ],
+  [
+   19013.7,
+   2.27411e-11
+  ],
+  [
+   19439.5,
+   2.46237e-11
+  ],
+  [
+   19874.8,
+   2.5701e-11
+  ],
+  [
+   20319.8,
+   3.51935e-11
+  ],
+  [
+   20774.8,
+   4.26561e-11
+  ],
+  [
+   21240.0,
+   4.61809e-11
+  ],
+  [
+   21715.6,
+   5.04332e-11
+  ],
+  [
+   22201.9,
+   5.53328e-11
+  ],
+  [
+   22699.0,
+   5.89511e-11
+  ],
+  [
+   23207.3,
+   7.73364e-11
+  ],
+  [
+   23727.0,
+   1.21744e-10
+  ],
+  [
+   24366.0,
+   1.24016e-10
+  ],
+  [
+   24911.6,
+   1.48638e-10
+  ],
+  [
+   25469.4,
+   1.942e-10
+  ],
+  [
+   26039.7,
+   1.73039e-10
+  ],
+  [
+   26622.8,
+   2.14851e-10
+  ],
+  [
+   27218.9,
+   3.89047e-10
+  ],
+  [
+   27828.4,
+   4.23254e-10
+  ],
+  [
+   28451.6,
+   3.92061e-10
+  ],
+  [
+   29088.6,
+   5.77568e-10
+  ],
+  [
+   29740.0,
+   9.42602e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "SolarBasin_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Curve from Fig. 2 (figs/lim_photon_all.pdf in e-print): 90% CL NuSTAR quiescent-Sun limits on g_agamma with g_aee=0 (photon coupling responsible for both Primakoff production and a->2gamma decay), i.e. the paper's model-independent axion-photon result. Extracted the vector paths of all three method curves (Poisson, Yellin, CLs) and report the lower envelope of the union excluded region: below m~7 keV (CLs cutoff from the 4 keV photon-energy threshold) the boundary is the Yellin/Poisson curve; above, the CLs curve, which the paper states is the most stringent. Axis calibration verified via tick labels and the 1e-9 GeV^-1 clipping bound. Masses converted keV->eV. Not a dark-matter search (solar basin decay flux), so no rho_DM rescaling. The paper's Fig. 1 'universal coupling' limit on f (g_agamma=alpha/2pi f, g_aee=me/f) is stronger but model-dependent; not used.",
+ "num_points": 80,
+ "arxiv_id": "2205.05700",
+ "elapsed_s": 171.92003202438354,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 171603,
+  "duration_api_ms": 161818,
+  "total_cost_usd": 1.6183239999999999,
+  "usage": {
+   "input_tokens": 445,
+   "output_tokens": 12400,
+   "cache_creation_input_tokens": 39324,
+   "cache_read_input_tokens": 448174
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2205.05700.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:24:51-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "paper_title": "Low-Energy Supernovae Severely Constrain Radiative Particle Decays",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   991490.0,
+   4.4039e-09
+  ],
+  [
+   5051800.0,
+   8.7899e-10
+  ],
+  [
+   10184000.0,
+   4.3943e-10
+  ],
+  [
+   20529000.0,
+   2.7507e-10
+  ],
+  [
+   30909000.0,
+   2.4505e-10
+  ],
+  [
+   51797000.0,
+   2.1493e-10
+  ],
+  [
+   83422000.0,
+   2.0509e-10
+  ],
+  [
+   104420000.0,
+   2.0003e-10
+  ],
+  [
+   157490000.0,
+   1.9817e-10
+  ],
+  [
+   210490000.0,
+   2.4201e-10
+  ],
+  [
+   317470000.0,
+   4.7215e-10
+  ],
+  [
+   370850000.0,
+   7.1975e-10
+  ],
+  [
+   424310000.0,
+   1.2012e-09
+  ],
+  [
+   446100000.0,
+   1.4994e-09
+  ],
+  [
+   467390000.0,
+   1.8716e-09
+  ],
+  [
+   478000000.0,
+   2.2016e-09
+  ],
+  [
+   510420000.0,
+   5.2455e-09
+  ],
+  [
+   478000000.0,
+   9.0039e-09
+  ],
+  [
+   424310000.0,
+   1.3985e-08
+  ],
+  [
+   370850000.0,
+   2.0664e-08
+  ],
+  [
+   317470000.0,
+   3.1012e-08
+  ],
+  [
+   210490000.0,
+   8.2939e-08
+  ],
+  [
+   114420000.0,
+   4.0025e-07
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "LowEnergySN_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline result: red-shaded exclusion region of Fig. 2 (MainPlot.pdf in e-print), for radiative energy deposition E_mantle < 0.1 B and progenitor radius R_* = 5e13 cm (the main reference case; the R_*=3e12 dotted and E<1B thin-solid curves are secondary variants not reported). Coordinates recovered from the red vector fill outline; axis log-calibrated from tick labels (x: 1,10,100 MeV; y: 1e-10..1e-7 GeV^-1). Paper's coupling L = G_agammagamma a E.B equals the canonical g_agamma since F.Ftilde = -4 E.B, so no conversion needed. The exclusion is a closed 'island': points trace the lower boundary (G ~ 1/m_a free-streaming line, low mass 1 MeV down to min ~2e-10 GeV^-1 near 150 MeV) then up the high-mass/trapping right edge (turnover near m_a ~ 510 MeV) back to the top plot frame (~4e-7 GeV^-1, cut off by plot at m_a ~ 114 MeV) rather than a single-valued curve; ordering follows the traced contour. Astrophysical calorimetric bound from the low-energy supernova population, not a statistical CL and not DM-density dependent.",
+ "num_points": 23,
+ "arxiv_id": "2201.09890",
+ "elapsed_s": 175.53132796287537,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 175268,
+  "duration_api_ms": 173229,
+  "total_cost_usd": 0.66007675,
+  "usage": {
+   "input_tokens": 355,
+   "output_tokens": 12054,
+   "cache_creation_input_tokens": 31381,
+   "cache_read_input_tokens": 258446
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2201.09890.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:06:52-0500"
+ }
+}

@@ -1,0 +1,451 @@
+{
+ "paper_title": "Searching for axionlike time-dependent cosmic birefringence with data from SPT-3G",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.779e-22,
+   4.5957e-13
+  ],
+  [
+   5.257e-22,
+   5.7364e-13
+  ],
+  [
+   5.4959e-22,
+   6.2212e-13
+  ],
+  [
+   5.7349e-22,
+   6.5414e-13
+  ],
+  [
+   6.0922e-22,
+   6.512e-13
+  ],
+  [
+   6.4518e-22,
+   6.1617e-13
+  ],
+  [
+   6.6908e-22,
+   6.036e-13
+  ],
+  [
+   7.0482e-22,
+   6.1331e-13
+  ],
+  [
+   7.5262e-22,
+   6.494e-13
+  ],
+  [
+   7.8856e-22,
+   7.1206e-13
+  ],
+  [
+   8.1246e-22,
+   7.9255e-13
+  ],
+  [
+   8.7212e-22,
+   1.1333e-12
+  ],
+  [
+   9.1992e-22,
+   1.3607e-12
+  ],
+  [
+   9.6772e-22,
+   1.3762e-12
+  ],
+  [
+   1.0036e-21,
+   1.3112e-12
+  ],
+  [
+   1.0872e-21,
+   1.1615e-12
+  ],
+  [
+   1.147e-21,
+   1.226e-12
+  ],
+  [
+   1.2067e-21,
+   1.2683e-12
+  ],
+  [
+   1.2664e-21,
+   1.3452e-12
+  ],
+  [
+   1.338e-21,
+   1.2393e-12
+  ],
+  [
+   1.3979e-21,
+   1.33e-12
+  ],
+  [
+   1.4933e-21,
+   2.3149e-12
+  ],
+  [
+   1.5652e-21,
+   2.2185e-12
+  ],
+  [
+   1.6369e-21,
+   1.4935e-12
+  ],
+  [
+   1.7562e-21,
+   2.6502e-12
+  ],
+  [
+   1.8517e-21,
+   2.1921e-12
+  ],
+  [
+   1.9434e-21,
+   1.9294e-12
+  ],
+  [
+   2.079e-21,
+   2.5366e-12
+  ],
+  [
+   2.1585e-21,
+   2.4823e-12
+  ],
+  [
+   2.2841e-21,
+   2.5943e-12
+  ],
+  [
+   2.4193e-21,
+   2.4831e-12
+  ],
+  [
+   2.557e-21,
+   3.8358e-12
+  ],
+  [
+   2.6761e-21,
+   3.8176e-12
+  ],
+  [
+   2.8037e-21,
+   2.9293e-12
+  ],
+  [
+   2.963e-21,
+   3.2957e-12
+  ],
+  [
+   3.1303e-21,
+   3.5369e-12
+  ],
+  [
+   3.3119e-21,
+   3.7002e-12
+  ],
+  [
+   3.5007e-21,
+   4.4319e-12
+  ],
+  [
+   3.656e-21,
+   5.9446e-12
+  ],
+  [
+   3.8554e-21,
+   5.6509e-12
+  ],
+  [
+   4.0719e-21,
+   4.027e-12
+  ],
+  [
+   4.295e-21,
+   5.3946e-12
+  ],
+  [
+   4.5352e-21,
+   5.2275e-12
+  ],
+  [
+   4.7912e-21,
+   4.8044e-12
+  ],
+  [
+   5.0519e-21,
+   4.6841e-12
+  ],
+  [
+   5.385e-21,
+   7.1908e-12
+  ],
+  [
+   5.6063e-21,
+   8.0731e-12
+  ],
+  [
+   5.931e-21,
+   8.0999e-12
+  ],
+  [
+   6.2093e-21,
+   5.9394e-12
+  ],
+  [
+   6.551e-21,
+   8.9967e-12
+  ],
+  [
+   6.8852e-21,
+   6.2682e-12
+  ],
+  [
+   7.3092e-21,
+   1.0512e-11
+  ],
+  [
+   7.7484e-21,
+   8.6239e-12
+  ],
+  [
+   8.1308e-21,
+   1.0992e-11
+  ],
+  [
+   8.5174e-21,
+   1.1374e-11
+  ],
+  [
+   9.0397e-21,
+   1.3689e-11
+  ],
+  [
+   9.5386e-21,
+   9.4898e-12
+  ],
+  [
+   1.006e-20,
+   1.1092e-11
+  ],
+  [
+   1.0607e-20,
+   1.1598e-11
+  ],
+  [
+   1.1131e-20,
+   1.4693e-11
+  ],
+  [
+   1.1809e-20,
+   1.3971e-11
+  ],
+  [
+   1.2485e-20,
+   1.734e-11
+  ],
+  [
+   1.3155e-20,
+   1.3792e-11
+  ],
+  [
+   1.3802e-20,
+   1.6095e-11
+  ],
+  [
+   1.4545e-20,
+   1.4316e-11
+  ],
+  [
+   1.5406e-20,
+   1.7123e-11
+  ],
+  [
+   1.6233e-20,
+   1.7044e-11
+  ],
+  [
+   1.7146e-20,
+   2.0822e-11
+  ],
+  [
+   1.7993e-20,
+   2.068e-11
+  ],
+  [
+   1.9043e-20,
+   2.1663e-11
+  ],
+  [
+   2.0043e-20,
+   2.1616e-11
+  ],
+  [
+   2.1122e-20,
+   2.4293e-11
+  ],
+  [
+   2.2254e-20,
+   2.6316e-11
+  ],
+  [
+   2.3434e-20,
+   2.9353e-11
+  ],
+  [
+   2.4749e-20,
+   2.9526e-11
+  ],
+  [
+   2.6002e-20,
+   3.0143e-11
+  ],
+  [
+   2.7496e-20,
+   3.209e-11
+  ],
+  [
+   2.8955e-20,
+   3.7493e-11
+  ],
+  [
+   3.0642e-20,
+   4.3174e-11
+  ],
+  [
+   3.2215e-20,
+   3.8135e-11
+  ],
+  [
+   3.4007e-20,
+   3.835e-11
+  ],
+  [
+   3.5853e-20,
+   4.0721e-11
+  ],
+  [
+   3.7822e-20,
+   4.7347e-11
+  ],
+  [
+   3.9973e-20,
+   4.6396e-11
+  ],
+  [
+   4.2071e-20,
+   4.6373e-11
+  ],
+  [
+   4.4191e-20,
+   5.2262e-11
+  ],
+  [
+   4.6743e-20,
+   5.9808e-11
+  ],
+  [
+   4.9538e-20,
+   5.5795e-11
+  ],
+  [
+   5.1839e-20,
+   6.6207e-11
+  ],
+  [
+   5.4829e-20,
+   6.9793e-11
+  ],
+  [
+   5.7627e-20,
+   7.4838e-11
+  ],
+  [
+   6.0994e-20,
+   7.8829e-11
+  ],
+  [
+   6.4037e-20,
+   7.9942e-11
+  ],
+  [
+   6.7628e-20,
+   8.0967e-11
+  ],
+  [
+   7.1465e-20,
+   8.6781e-11
+  ],
+  [
+   7.5341e-20,
+   9.2184e-11
+  ],
+  [
+   7.9446e-20,
+   9.9737e-11
+  ],
+  [
+   8.3669e-20,
+   1.0365e-10
+  ],
+  [
+   8.8512e-20,
+   1.139e-10
+  ],
+  [
+   9.34e-20,
+   1.1829e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "SPT-3G_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Observed 95% C.L. upper limit on g_phi-gamma (solid red 'SPT-3G 2019 limit (this work)' curve) extracted from the vector PDF of Fig. 4 (parameter_space_limits.pdf in the e-print), axes calibrated from tick-label positions (log-log). The ~1100-vertex jagged per-frequency-bin curve was downsampled to 100 log-mass bins by geometric mean; binned curve agrees with the full jagged curve within a factor of 2 pointwise and with the paper's smoothed fit Eq. (12), g < 1.25e-12 GeV^-1 (m/1e-21 eV)/sinc(m/1.72e-19 eV), to within 0.69-1.93 (median 0.92). Mass range 4.8e-22 to 9.6e-20 eV corresponds to oscillation periods of 100 days down to 12 hours. Assumes axions are all of the local dark matter with rho0 = 0.3 GeV/cm^3 (paper-native, not rescaled). Projected full-survey SPT-3G and CMB-S4 curves in the same figure were ignored.",
+ "num_points": 100,
+ "arxiv_id": "2203.16567",
+ "elapsed_s": 159.44355297088623,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 158894,
+  "duration_api_ms": 155531,
+  "total_cost_usd": 1.2096685,
+  "usage": {
+   "input_tokens": 383,
+   "output_tokens": 10954,
+   "cache_creation_input_tokens": 27080,
+   "cache_read_input_tokens": 257996
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2203.16567.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:46:11-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

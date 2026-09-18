@@ -1,0 +1,427 @@
+{
+ "paper_title": "Recurrent Axinovae and their Cosmological Constraints",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.023e-20,
+   3.545e-17
+  ],
+  [
+   1.246e-20,
+   3.911e-17
+  ],
+  [
+   1.515e-20,
+   4.312e-17
+  ],
+  [
+   2.245e-20,
+   5.246e-17
+  ],
+  [
+   4.925e-20,
+   7.761e-17
+  ],
+  [
+   2.705e-19,
+   1.817e-16
+  ],
+  [
+   3.3e-19,
+   2.007e-16
+  ],
+  [
+   4.025e-19,
+   2.216e-16
+  ],
+  [
+   5.991e-19,
+   2.693e-16
+  ],
+  [
+   8.914e-19,
+   3.282e-16
+  ],
+  [
+   1.327e-18,
+   3.997e-16
+  ],
+  [
+   1.613e-18,
+   4.39e-16
+  ],
+  [
+   1.96e-18,
+   4.942e-16
+  ],
+  [
+   2.381e-18,
+   5.991e-16
+  ],
+  [
+   2.893e-18,
+   7.365e-16
+  ],
+  [
+   3.516e-18,
+   8.577e-16
+  ],
+  [
+   4.272e-18,
+   9.291e-16
+  ],
+  [
+   5.192e-18,
+   1.008e-15
+  ],
+  [
+   6.309e-18,
+   1.094e-15
+  ],
+  [
+   7.793e-18,
+   1.197e-15
+  ],
+  [
+   9.632e-18,
+   1.306e-15
+  ],
+  [
+   1.47e-17,
+   1.573e-15
+  ],
+  [
+   1.815e-17,
+   1.731e-15
+  ],
+  [
+   2.244e-17,
+   1.906e-15
+  ],
+  [
+   3.424e-17,
+   2.318e-15
+  ],
+  [
+   4.171e-17,
+   2.556e-15
+  ],
+  [
+   5.081e-17,
+   2.831e-15
+  ],
+  [
+   7.541e-17,
+   3.528e-15
+  ],
+  [
+   9.18e-17,
+   4.022e-15
+  ],
+  [
+   1.118e-16,
+   4.591e-15
+  ],
+  [
+   1.66e-16,
+   5.882e-15
+  ],
+  [
+   2.056e-16,
+   6.802e-15
+  ],
+  [
+   2.545e-16,
+   7.809e-15
+  ],
+  [
+   3.152e-16,
+   8.944e-15
+  ],
+  [
+   3.903e-16,
+   8.73e-15
+  ],
+  [
+   4.833e-16,
+   8.2e-15
+  ],
+  [
+   5.986e-16,
+   8.735e-15
+  ],
+  [
+   7.417e-16,
+   1.002e-14
+  ],
+  [
+   9.185e-16,
+   1.148e-14
+  ],
+  [
+   1.132e-15,
+   1.306e-14
+  ],
+  [
+   1.397e-15,
+   1.482e-14
+  ],
+  [
+   2.126e-15,
+   1.884e-14
+  ],
+  [
+   4.925e-15,
+   2.959e-14
+  ],
+  [
+   2.359e-14,
+   6.636e-14
+  ],
+  [
+   1.289e-13,
+   1.555e-13
+  ],
+  [
+   6.297e-13,
+   3.336e-13
+  ],
+  [
+   2.98e-12,
+   6.932e-13
+  ],
+  [
+   1.61e-11,
+   1.53e-12
+  ],
+  [
+   1.96e-11,
+   1.667e-12
+  ],
+  [
+   2.387e-11,
+   1.823e-12
+  ],
+  [
+   2.906e-11,
+   1.985e-12
+  ],
+  [
+   3.537e-11,
+   2.14e-12
+  ],
+  [
+   4.307e-11,
+   2.309e-12
+  ],
+  [
+   5.243e-11,
+   2.444e-12
+  ],
+  [
+   6.384e-11,
+   2.972e-12
+  ],
+  [
+   7.771e-11,
+   3.489e-12
+  ],
+  [
+   9.618e-11,
+   3.56e-12
+  ],
+  [
+   1.19e-10,
+   3.689e-12
+  ],
+  [
+   1.473e-10,
+   4.146e-12
+  ],
+  [
+   1.824e-10,
+   4.637e-12
+  ],
+  [
+   2.258e-10,
+   5.191e-12
+  ],
+  [
+   2.794e-10,
+   5.827e-12
+  ],
+  [
+   4.279e-10,
+   7.312e-12
+  ],
+  [
+   5.276e-10,
+   8.198e-12
+  ],
+  [
+   6.504e-10,
+   9.208e-12
+  ],
+  [
+   8.019e-10,
+   1.055e-11
+  ],
+  [
+   9.887e-10,
+   1.225e-11
+  ],
+  [
+   1.219e-09,
+   1.439e-11
+  ],
+  [
+   1.503e-09,
+   1.696e-11
+  ],
+  [
+   1.853e-09,
+   2.026e-11
+  ],
+  [
+   2.285e-09,
+   2.478e-11
+  ],
+  [
+   2.778e-09,
+   2.777e-11
+  ],
+  [
+   3.376e-09,
+   2.196e-11
+  ],
+  [
+   4.104e-09,
+   2.365e-11
+  ],
+  [
+   4.991e-09,
+   2.808e-11
+  ],
+  [
+   6.064e-09,
+   3.292e-11
+  ],
+  [
+   7.374e-09,
+   3.723e-11
+  ],
+  [
+   8.96e-09,
+   4.131e-11
+  ],
+  [
+   1.089e-08,
+   4.611e-11
+  ],
+  [
+   1.347e-08,
+   5.137e-11
+  ],
+  [
+   1.664e-08,
+   5.75e-11
+  ],
+  [
+   2.541e-08,
+   7.212e-11
+  ],
+  [
+   5.927e-08,
+   1.13e-10
+  ],
+  [
+   2.883e-07,
+   2.565e-10
+  ],
+  [
+   1.599e-06,
+   6.051e-10
+  ],
+  [
+   8.602e-06,
+   1.398e-09
+  ],
+  [
+   4.13e-05,
+   3.047e-09
+  ],
+  [
+   0.0002265,
+   7.361e-09
+  ],
+  [
+   0.0002755,
+   8.103e-09
+  ],
+  [
+   0.0003352,
+   8.971e-09
+  ],
+  [
+   0.0004962,
+   1.109e-08
+  ],
+  [
+   0.0007346,
+   1.357e-08
+  ],
+  [
+   0.0008936,
+   1.5e-08
+  ],
+  [
+   0.001087,
+   1.648e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "Axinovae_2023",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Fig. 1 (plots/ma_fa.pdf in e-print), m_a [eV] vs f_a^-1 [GeV^-1]. Cosmological bound from recurrent axion-star explosions (axinovae) converting DM to dark radiation, derived from the decaying-DM constraint f_dDM <= 2.62% at 2 sigma (Eq. 16). Figure shows three nested excluded regions (green: conservative, T_osc=1 keV; red: power-law growth, T_osc=1 keV; blue: optimized over T_osc ~ sqrt(m_a M_pl)). Reported curve is the lower boundary of the blue region, the strongest bound and outer boundary of the total claimed exclusion (excluded region is at 1/f_a above the curve, i.e. f_a below ~10^7.8-10^16.4 GeV depending on mass). Curve extracted from vector paths with axis calibration from tick labels; bound is independent of SM couplings and of local DM density (assumes axions are all of DM, post-inflationary scenario).",
+ "num_points": 94,
+ "arxiv_id": "2302.00685",
+ "elapsed_s": 176.73383903503418,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 176351,
+  "duration_api_ms": 173755,
+  "total_cost_usd": 1.6310634999999998,
+  "usage": {
+   "input_tokens": 479,
+   "output_tokens": 12560,
+   "cache_creation_input_tokens": 41601,
+   "cache_read_input_tokens": 420406
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2302.00685.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:03:32-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "paper_title": "Axion search with quantum nondemolition detection of magnons",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.3117e-05,
+   2.6e-06
+  ],
+  [
+   3.313e-05,
+   2.6e-06
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": "MagnonQND_2022",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Direct search for axion-electron coupling using quantum nondemolition (QND) detection of magnons in a YIG ferrimagnetic crystal coupled to a superconducting qubit. No signal detected. Upper limit from qubit spectroscopy analysis with null result (\u03c7\u00b2=167.1/193 consistent with null hypothesis). Limit: g_aee < 2.6\u00d710^-6 (Eq. 40). Mass range: 33.117-33.130 \u00b5eV. Dark matter density: 0.45 GeV/cm\u00b3, velocity: 220 km/s. This is reanalysis of data from Ref. [28] without intentional Kittel mode excitation.",
+ "num_points": 2,
+ "arxiv_id": "2102.08764",
+ "elapsed_s": 70.62083888053894,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 4,
+  "duration_ms": 69863,
+  "duration_api_ms": 69709,
+  "total_cost_usd": 0.14494089999999998,
+  "usage": {
+   "input_tokens": 28,
+   "output_tokens": 8629,
+   "cache_creation_input_tokens": 47203,
+   "cache_read_input_tokens": 73619
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2102.08764.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T16:47:23-0500"
+ }
+}

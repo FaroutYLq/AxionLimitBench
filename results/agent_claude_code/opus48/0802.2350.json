@@ -1,0 +1,74 @@
+{
+ "paper_title": "Improved constraints on non-Newtonian forces at 10 microns",
+ "coupling_type": "ScalarNucleon",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0029848,
+   150.0
+  ],
+  [
+   0.0057941,
+   250.0
+  ],
+  [
+   0.010944,
+   1100.0
+  ],
+  [
+   0.0197,
+   14000.0
+  ],
+  [
+   0.032833,
+   460000.0
+  ],
+  [
+   0.04925,
+   31000000.0
+  ]
+ ],
+ "data_source": "table",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "StanfordCantilever_2008",
+ "coupling_convention": "alpha (Yukawa strength relative to gravity)",
+ "notes": "Non-Newtonian gravity (Yukawa) fifth-force test with a cryogenic micro-cantilever. Headline result is the 95% CL exclusion on |alpha| (Yukawa strength relative to Newtonian gravity, V = -G m1 m2/r (1 + alpha exp(-r/lambda))) versus range lambda, from Table V (also plotted as 'Stanford 3' in Fig. 9). Values (lambda[um], alpha): (4, 3.1e7), (6, 4.6e5), (10, 1.4e4), (18, 1.1e3), (34, 2.5e2), (66, 1.5e2). Best bound |alpha|>14000 at lambda=10 um. Range lambda converted to mediator mass via m = 1.97e-7 eV*m / lambda_m (task-card ScalarNucleon fifth-force rule); e.g. lambda=10 um -> m=1.97e-2 eV. Reported in native alpha (Yukawa strength) variable since the paper does not provide a scalar-nucleon coupling g_N. Limit does not depend on dark-matter density.",
+ "num_points": 6,
+ "arxiv_id": "0802.2350",
+ "elapsed_s": 44.361934185028076,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 9,
+  "duration_ms": 43991,
+  "duration_api_ms": 42652,
+  "total_cost_usd": 0.44732500000000003,
+  "usage": {
+   "input_tokens": 158,
+   "output_tokens": 2610,
+   "cache_creation_input_tokens": 32554,
+   "cache_read_input_tokens": 111490
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "0802.2350.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:02:11-0500"
+ }
+}

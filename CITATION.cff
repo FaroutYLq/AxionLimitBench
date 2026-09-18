@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use AxionLimitBench, please cite it and the AxionLimits compilation that provides the reference curves."
+title: "AxionLimitBench: can AI curate a dark matter constraint repository?"
+version: 0.1.0
+date-released: 2026-09-18
+license: MIT
+repository-code: "https://github.com/FaroutYLq/AxionLimitBench"
+authors:
+  - family-names: Yuan
+    given-names: Lanqing
+    affiliation: "Department of Physics, Washington University in St. Louis"
+    orcid: "https://orcid.org/0000-0003-0024-8017"
+references:
+  - type: software
+    title: "AxionLimits"
+    authors:
+      - family-names: O'Hare
+        given-names: Ciaran A. J.
+    url: "https://github.com/cajohare/AxionLimits"
+    year: 2020
+    notes: "Reference curves (limit_data/) are taken from this compilation under its MIT licence."

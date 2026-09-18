@@ -1,0 +1,371 @@
+{
+ "paper_title": "Search for ultralight dark matter in the SuperMAG high-fidelity dataset",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.38024e-18,
+   0.00287587
+  ],
+  [
+   4.77277e-18,
+   0.0023917
+  ],
+  [
+   5.20048e-18,
+   0.00198008
+  ],
+  [
+   5.66651e-18,
+   0.00165443
+  ],
+  [
+   6.17431e-18,
+   0.00136007
+  ],
+  [
+   6.72762e-18,
+   0.00115521
+  ],
+  [
+   7.3305e-18,
+   0.00092948
+  ],
+  [
+   7.98742e-18,
+   0.000783339
+  ],
+  [
+   8.7032e-18,
+   0.000635062
+  ],
+  [
+   9.48313e-18,
+   0.000491978
+  ],
+  [
+   1.0333e-17,
+   0.000390677
+  ],
+  [
+   1.12589e-17,
+   0.000330886
+  ],
+  [
+   1.22679e-17,
+   0.000266503
+  ],
+  [
+   1.33673e-17,
+   0.00022832
+  ],
+  [
+   1.45652e-17,
+   0.000195041
+  ],
+  [
+   1.58704e-17,
+   0.00015976
+  ],
+  [
+   1.72926e-17,
+   0.000126913
+  ],
+  [
+   1.88423e-17,
+   9.91629e-05
+  ],
+  [
+   2.05308e-17,
+   8.50216e-05
+  ],
+  [
+   2.23706e-17,
+   6.70158e-05
+  ],
+  [
+   2.43754e-17,
+   5.58165e-05
+  ],
+  [
+   2.65597e-17,
+   4.88604e-05
+  ],
+  [
+   2.89399e-17,
+   3.93378e-05
+  ],
+  [
+   3.15333e-17,
+   3.52276e-05
+  ],
+  [
+   3.43591e-17,
+   2.88008e-05
+  ],
+  [
+   3.74382e-17,
+   2.40839e-05
+  ],
+  [
+   4.07931e-17,
+   2.19902e-05
+  ],
+  [
+   4.44488e-17,
+   1.85477e-05
+  ],
+  [
+   4.8432e-17,
+   1.63037e-05
+  ],
+  [
+   5.27722e-17,
+   1.36108e-05
+  ],
+  [
+   5.75013e-17,
+   1.08006e-05
+  ],
+  [
+   6.26542e-17,
+   9.42485e-06
+  ],
+  [
+   6.82689e-17,
+   8.32999e-06
+  ],
+  [
+   7.43868e-17,
+   7.36651e-06
+  ],
+  [
+   8.10529e-17,
+   6.25754e-06
+  ],
+  [
+   8.83163e-17,
+   5.53263e-06
+  ],
+  [
+   9.62307e-17,
+   4.92492e-06
+  ],
+  [
+   1.04854e-16,
+   4.54163e-06
+  ],
+  [
+   1.14251e-16,
+   3.60548e-06
+  ],
+  [
+   1.24489e-16,
+   2.98934e-06
+  ],
+  [
+   1.35645e-16,
+   2.40761e-06
+  ],
+  [
+   1.47801e-16,
+   2.3612e-06
+  ],
+  [
+   1.61046e-16,
+   1.90677e-06
+  ],
+  [
+   1.75478e-16,
+   1.62791e-06
+  ],
+  [
+   1.91203e-16,
+   1.4865e-06
+  ],
+  [
+   2.08338e-16,
+   1.26829e-06
+  ],
+  [
+   2.27008e-16,
+   1.04342e-06
+  ],
+  [
+   2.47351e-16,
+   8.97776e-07
+  ],
+  [
+   2.69517e-16,
+   7.25419e-07
+  ],
+  [
+   2.93669e-16,
+   6.41269e-07
+  ],
+  [
+   3.19986e-16,
+   5.72987e-07
+  ],
+  [
+   3.48661e-16,
+   5.0159e-07
+  ],
+  [
+   3.79906e-16,
+   4.39223e-07
+  ],
+  [
+   4.13951e-16,
+   3.79403e-07
+  ],
+  [
+   4.51047e-16,
+   3.05253e-07
+  ],
+  [
+   4.91467e-16,
+   2.64238e-07
+  ],
+  [
+   5.35509e-16,
+   2.36066e-07
+  ],
+  [
+   5.83498e-16,
+   1.83633e-07
+  ],
+  [
+   6.35788e-16,
+   1.71692e-07
+  ],
+  [
+   6.92763e-16,
+   1.54781e-07
+  ],
+  [
+   7.54845e-16,
+   1.28701e-07
+  ],
+  [
+   8.22489e-16,
+   1.023e-07
+  ],
+  [
+   8.96196e-16,
+   8.70235e-08
+  ],
+  [
+   9.76507e-16,
+   7.68805e-08
+  ],
+  [
+   1.06402e-15,
+   6.77652e-08
+  ],
+  [
+   1.15937e-15,
+   5.82366e-08
+  ],
+  [
+   1.26326e-15,
+   5.60055e-08
+  ],
+  [
+   1.37647e-15,
+   4.47312e-08
+  ],
+  [
+   1.49982e-15,
+   3.99753e-08
+  ],
+  [
+   1.63422e-15,
+   3.51884e-08
+  ],
+  [
+   1.78067e-15,
+   2.82364e-08
+  ],
+  [
+   1.94025e-15,
+   2.76514e-08
+  ],
+  [
+   2.11412e-15,
+   2.57403e-08
+  ],
+  [
+   2.30357e-15,
+   2.45308e-08
+  ],
+  [
+   2.51001e-15,
+   2.15369e-08
+  ],
+  [
+   2.73494e-15,
+   2.29446e-08
+  ],
+  [
+   2.98003e-15,
+   2.467e-08
+  ],
+  [
+   3.24708e-15,
+   2.82491e-08
+  ],
+  [
+   3.53806e-15,
+   3.67295e-08
+  ],
+  [
+   3.85512e-15,
+   7.51111e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "SuperMAG-HighFidelity_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Left panel of Fig. 4 (DPDM_bound.pdf in e-print): 95%-credible upper limit on kinetic mixing epsilon vs m_A' from the SuperMAG 1-second (high-fidelity) dataset, 4e-18 eV <= m <= 4e-15 eV (1e-3 Hz <= f <= 0.98 Hz). Paper also sets an axion-photon limit (right panel) but presents the DPDM bound as the headline (surpasses leading astrophysical constraint near 2e-15 eV). Extracted the solid lighter-blue 'SuperMAG 1-sec, smoothed' sliding-average curve (Gaussian log-space filter, Eq. 41) rather than the noisy dark-blue frequency-by-frequency band; the smoothed curve matches the band's per-log-bin median to ~6%. The 1.25x degradation factor from the resampling validation (Eq. 34) is already included in the plotted bound. Axes calibrated from decade label centers; frame edges reproduce the stated 1e-3-0.98 Hz band. rho_DM = 0.3 GeV/cm^3 assumed.",
+ "num_points": 80,
+ "arxiv_id": "2408.16045",
+ "elapsed_s": 132.98632192611694,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 132473,
+  "duration_api_ms": 129640,
+  "total_cost_usd": 1.2557295,
+  "usage": {
+   "input_tokens": 344,
+   "output_tokens": 10686,
+   "cache_creation_input_tokens": 30713,
+   "cache_read_input_tokens": 276612
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2408.16045.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T22:29:48-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

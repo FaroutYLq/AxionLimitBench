@@ -1,0 +1,215 @@
+{
+ "paper_title": "Stellar Basins of Gravitationally Bound Particles",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   188.58,
+   9.999e-11
+  ],
+  [
+   188.73,
+   1.372e-11
+  ],
+  [
+   198.08,
+   1.295e-11
+  ],
+  [
+   212.01,
+   9.21e-12
+  ],
+  [
+   267.44,
+   6.97e-12
+  ],
+  [
+   290.89,
+   4.736e-12
+  ],
+  [
+   308.28,
+   4.446e-12
+  ],
+  [
+   337.38,
+   4.604e-12
+  ],
+  [
+   401.54,
+   4.342e-12
+  ],
+  [
+   477.92,
+   3.795e-12
+  ],
+  [
+   536.78,
+   3.251e-12
+  ],
+  [
+   668.37,
+   2.782e-12
+  ],
+  [
+   701.77,
+   1.607e-12
+  ],
+  [
+   713.16,
+   1.669e-12
+  ],
+  [
+   843.22,
+   1.818e-12
+  ],
+  [
+   934.88,
+   1.699e-12
+  ],
+  [
+   980.64,
+   1.586e-12
+  ],
+  [
+   1003.8,
+   1.349e-12
+  ],
+  [
+   1265.9,
+   1.456e-12
+  ],
+  [
+   2013.4,
+   1.785e-12
+  ],
+  [
+   3811.9,
+   2.017e-12
+  ],
+  [
+   4039.5,
+   2e-12
+  ],
+  [
+   5096.1,
+   1.654e-12
+  ],
+  [
+   6065.5,
+   1.638e-12
+  ],
+  [
+   7218.9,
+   1.729e-12
+  ],
+  [
+   8990.0,
+   1.621e-12
+  ],
+  [
+   9526.5,
+   1.741e-12
+  ],
+  [
+   10054.0,
+   1.895e-12
+  ],
+  [
+   11008.0,
+   2.536e-12
+  ],
+  [
+   13102.0,
+   3.49e-12
+  ],
+  [
+   15052.0,
+   5.168e-12
+  ],
+  [
+   15837.0,
+   5.333e-12
+  ],
+  [
+   16630.0,
+   4.882e-12
+  ],
+  [
+   17088.0,
+   4.909e-12
+  ],
+  [
+   20383.0,
+   8.235e-12
+  ],
+  [
+   22932.0,
+   1.232e-11
+  ],
+  [
+   25537.0,
+   2.482e-11
+  ],
+  [
+   27080.0,
+   3.184e-11
+  ],
+  [
+   28868.0,
+   3.675e-11
+  ],
+  [
+   28986.0,
+   3.56e-11
+  ],
+  [
+   33197.0,
+   9.999e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "SolarBasin_2020",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Conservative 'Solar Axion Basin Limit' (boundary of the light-blue conclusively-excluded region) from Fig. 3 (plotgBasin.pdf in the e-print), recovered from the vector path of the figure. Axis calibration verified against the quoted flux-excess box (m: 0.1-1.5 keV, g_aee: 2.6e-12-3.7e-12). The limit recasts DM axion absorption-line searches (XENON1T S2 and S1+S2, LUX, PandaX-II) via Eq. 28 using the paper's Solar-basin density with the conservative gravitational ejection time tau ~ 1e7 y (Eq. 9); it does not assume axions are dark matter, so no DM-density rescaling applies (dm_density_assumed null). The fiducial and optimistic curves (thick/dashed blue) are presented as 'disfavored'/'conceivable signal' regions, not the headline exclusion. Curve endpoints at g=1e-10 are where the region meets the top of the plotted range; a tiny disconnected sliver near m~34-35 keV barely below 1e-10 was ignored. Underlying DM searches are 90% CL; the paper does not restate a CL for the recast. Masses converted from keV to eV.",
+ "num_points": 41,
+ "arxiv_id": "2006.12431",
+ "elapsed_s": 176.6680338382721,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 176354,
+  "duration_api_ms": 173202,
+  "total_cost_usd": 1.9951690000000002,
+  "usage": {
+   "input_tokens": 452,
+   "output_tokens": 14407,
+   "cache_creation_input_tokens": 52200,
+   "cache_read_input_tokens": 557829
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2006.12431.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T23:05:09-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

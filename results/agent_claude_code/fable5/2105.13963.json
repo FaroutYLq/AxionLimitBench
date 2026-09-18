@@ -1,0 +1,339 @@
+{
+ "paper_title": "First Constraints on Nuclear Coupling of Axionlike Particles from the Binary Neutron Star Gravitational Wave Event GW170817",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.001e-21,
+   6.396e-17
+  ],
+  [
+   2.639e-21,
+   6.406e-17
+  ],
+  [
+   1.107e-20,
+   6.424e-17
+  ],
+  [
+   2.931e-20,
+   6.436e-17
+  ],
+  [
+   1.268e-19,
+   6.454e-17
+  ],
+  [
+   3.213e-19,
+   6.464e-17
+  ],
+  [
+   8.441e-19,
+   6.476e-17
+  ],
+  [
+   3.648e-18,
+   6.494e-17
+  ],
+  [
+   9.625e-18,
+   6.506e-17
+  ],
+  [
+   2.631e-17,
+   6.518e-17
+  ],
+  [
+   1.11e-16,
+   6.536e-17
+  ],
+  [
+   2.903e-16,
+   6.546e-17
+  ],
+  [
+   1.262e-15,
+   6.565e-17
+  ],
+  [
+   3.317e-15,
+   6.577e-17
+  ],
+  [
+   8.398e-15,
+   6.589e-17
+  ],
+  [
+   3.651e-14,
+   6.607e-17
+  ],
+  [
+   1.193e-13,
+   6.621e-17
+  ],
+  [
+   1.352e-13,
+   6.622e-17
+  ],
+  [
+   1.533e-13,
+   6.624e-17
+  ],
+  [
+   1.774e-13,
+   6.625e-17
+  ],
+  [
+   1.965e-13,
+   6.627e-17
+  ],
+  [
+   2.145e-13,
+   6.522e-17
+  ],
+  [
+   2.342e-13,
+   6.546e-17
+  ],
+  [
+   2.545e-13,
+   6.673e-17
+  ],
+  [
+   2.778e-13,
+   6.893e-17
+  ],
+  [
+   3.153e-13,
+   7.334e-17
+  ],
+  [
+   3.467e-13,
+   7.722e-17
+  ],
+  [
+   3.813e-13,
+   8.12e-17
+  ],
+  [
+   4.158e-13,
+   7.869e-17
+  ],
+  [
+   4.529e-13,
+   8.094e-17
+  ],
+  [
+   4.934e-13,
+   8.875e-17
+  ],
+  [
+   5.374e-13,
+   9.965e-17
+  ],
+  [
+   5.9e-13,
+   9.079e-17
+  ],
+  [
+   6.427e-13,
+   8.42e-17
+  ],
+  [
+   6.98e-13,
+   8.233e-17
+  ],
+  [
+   7.613e-13,
+   7.885e-17
+  ],
+  [
+   8.306e-13,
+   7.098e-17
+  ],
+  [
+   9.062e-13,
+   5.738e-17
+  ],
+  [
+   9.887e-13,
+   4.162e-17
+  ],
+  [
+   1.08e-12,
+   4.365e-17
+  ],
+  [
+   1.206e-12,
+   6.039e-17
+  ],
+  [
+   1.325e-12,
+   7.456e-17
+  ],
+  [
+   1.456e-12,
+   8.711e-17
+  ],
+  [
+   1.6e-12,
+   9.867e-17
+  ],
+  [
+   1.759e-12,
+   1.083e-16
+  ],
+  [
+   1.921e-12,
+   1.157e-16
+  ],
+  [
+   2.097e-12,
+   1.216e-16
+  ],
+  [
+   2.291e-12,
+   1.26e-16
+  ],
+  [
+   2.502e-12,
+   1.291e-16
+  ],
+  [
+   2.712e-12,
+   1.32e-16
+  ],
+  [
+   2.959e-12,
+   1.337e-16
+  ],
+  [
+   3.226e-12,
+   1.332e-16
+  ],
+  [
+   3.543e-12,
+   1.297e-16
+  ],
+  [
+   3.862e-12,
+   1.234e-16
+  ],
+  [
+   4.21e-12,
+   1.13e-16
+  ],
+  [
+   4.602e-12,
+   1.005e-16
+  ],
+  [
+   5.054e-12,
+   8.645e-17
+  ],
+  [
+   5.727e-12,
+   6.773e-17
+  ],
+  [
+   6.289e-12,
+   5.663e-17
+  ],
+  [
+   6.907e-12,
+   5.076e-17
+  ],
+  [
+   7.515e-12,
+   4.921e-17
+  ],
+  [
+   8.262e-12,
+   4.85e-17
+  ],
+  [
+   9.017e-12,
+   4.797e-17
+  ],
+  [
+   9.842e-12,
+   4.679e-17
+  ],
+  [
+   1.074e-11,
+   4.231e-17
+  ],
+  [
+   1.172e-11,
+   3.767e-17
+  ],
+  [
+   1.335e-11,
+   3.132e-17
+  ],
+  [
+   1.521e-11,
+   2.618e-17
+  ],
+  [
+   1.65e-11,
+   2.368e-17
+  ],
+  [
+   1.79e-11,
+   2.176e-17
+  ],
+  [
+   1.941e-11,
+   2.04e-17
+  ],
+  [
+   1.973e-11,
+   2.02e-17
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.997,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "GW170817_2021",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "3-sigma exclusion from Bayesian analysis of GW170817 inspiral (Fig. 1, blue 'GW170817' region; vector paths extracted from constraints.pdf in the e-print, axes calibrated with tick-label positions). The excluded region is a BAND in the (m_a, 1/f_a) plane: 1e-18 GeV^-1 < 1/f_a < ~6.4e-17 GeV^-1 (i.e. 1.6e16 GeV < f_a < 1e18 GeV) for m_a below ~1e-11 eV; axions with f_a > 1e18 GeV are not sourced by neutron stars (no in-medium phase transition), so the band's lower boundary at 1/f_a = 1e-18 GeV^-1 is a theoretical applicability cutoff. The data_points trace the upper (data-driven) boundary of the excluded band, i.e. the measured constraint f_a < 1.6e16 GeV (flat part) including the per-sampled-mass wiggles at m_a ~ 1e-13 to 2e-11 eV; the constraint is extrapolated to the massless limit (figure starts at m_a = 1e-21 eV). Confidence level is 3 sigma (~99.7%), as stated in the abstract. No dark-matter density assumption (constraint from axion force/radiation in the binary inspiral).",
+ "num_points": 72,
+ "arxiv_id": "2105.13963",
+ "elapsed_s": 196.62154817581177,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 196298,
+  "duration_api_ms": 193747,
+  "total_cost_usd": 1.744168,
+  "usage": {
+   "input_tokens": 425,
+   "output_tokens": 14059,
+   "cache_creation_input_tokens": 43154,
+   "cache_read_input_tokens": 438218
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2105.13963.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T10:46:08-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "paper_title": "Weak nuclear decays deep-underground as a probe of axion dark matter",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.99166e-23,
+   9.67613e-15
+  ],
+  [
+   4.57503e-23,
+   1.47973e-14
+  ],
+  [
+   6.99641e-23,
+   2.2629e-14
+  ],
+  [
+   1.06993e-22,
+   3.46056e-14
+  ],
+  [
+   1.63621e-22,
+   5.2921e-14
+  ],
+  [
+   2.50219e-22,
+   8.093e-14
+  ],
+  [
+   3.8265e-22,
+   1.23763e-13
+  ],
+  [
+   5.85171e-22,
+   1.89266e-13
+  ],
+  [
+   8.94879e-22,
+   2.89437e-13
+  ],
+  [
+   1.3685e-21,
+   4.42625e-13
+  ],
+  [
+   2.0928e-21,
+   6.76889e-13
+  ],
+  [
+   3.20044e-21,
+   1.03514e-12
+  ],
+  [
+   4.8943e-21,
+   1.583e-12
+  ],
+  [
+   7.48467e-21,
+   2.42082e-12
+  ],
+  [
+   1.1446e-20,
+   3.70206e-12
+  ],
+  [
+   1.75039e-20,
+   5.66142e-12
+  ],
+  [
+   2.67681e-20,
+   8.65778e-12
+  ],
+  [
+   4.09354e-20,
+   1.324e-11
+  ],
+  [
+   6.26009e-20,
+   2.02474e-11
+  ],
+  [
+   9.5733e-20,
+   3.09636e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "K40Decay_2024",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Headline observed limit: recast of the Gran Sasso 40K electron-capture decay-rate modulation data (Bellotti et al.), Fig. 3 yellow region '40-K EC-decay'. Modulation amplitude I = |dGamma/dtheta^2 / Gamma| * rho_DM/(m_a f_a)^2 with |dGamma/dtheta^2/Gamma| = 18.8 (Eq. 4.13) and amplitude limit 6.8e-6 at 2 sigma for oscillation periods 6 h - 800 d (signal frequency 2 m_a, so m_a = pi*hbar/P). Gives 1/f_a = 3.23e8 GeV^-1 x (m_a/eV), a slope-1 line from 3.0e-23 to 9.6e-20 eV; reproduces the quoted excluded range f_a < 1.0e14 - 3.2e10 GeV and matches the vector-figure wedge coordinates. The weaker 137Cs beta-decay limit (amplitude 9.6e-5, |ratio| 2.13, masses 6.6e-23 - 9.6e-20 eV) is entirely contained in the 40K wedge and not reported. Paper assumes rho_DM = 0.45 GeV/cm^3 (canonical, no rescale). The future 40K measurement up to 1e-9 eV is a projection and excluded here.",
+ "num_points": 20,
+ "arxiv_id": "2412.20932",
+ "elapsed_s": 143.13632726669312,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 142812,
+  "duration_api_ms": 140637,
+  "total_cost_usd": 1.5469245,
+  "usage": {
+   "input_tokens": 333,
+   "output_tokens": 11536,
+   "cache_creation_input_tokens": 43586,
+   "cache_read_input_tokens": 363597
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2412.20932.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:29:35-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

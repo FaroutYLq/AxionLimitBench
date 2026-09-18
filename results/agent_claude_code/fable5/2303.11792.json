@@ -1,0 +1,355 @@
+{
+ "paper_title": "Searching for Time-Dependent Axion Dark Matter Signals in Pulsars",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   3.774e-06,
+   5.562e-11
+  ],
+  [
+   3.7799e-06,
+   5.47e-11
+  ],
+  [
+   3.9316e-06,
+   5.52e-11
+  ],
+  [
+   3.9395e-06,
+   5.417e-11
+  ],
+  [
+   3.9592e-06,
+   5.357e-11
+  ],
+  [
+   3.9809e-06,
+   5.601e-11
+  ],
+  [
+   3.9907e-06,
+   5.365e-11
+  ],
+  [
+   4.0006e-06,
+   5.453e-11
+  ],
+  [
+   4.0104e-06,
+   5.353e-11
+  ],
+  [
+   4.0203e-06,
+   5.397e-11
+  ],
+  [
+   4.0301e-06,
+   5.236e-11
+  ],
+  [
+   4.042e-06,
+   5.353e-11
+  ],
+  [
+   4.0518e-06,
+   5.287e-11
+  ],
+  [
+   4.0617e-06,
+   5.203e-11
+  ],
+  [
+   4.0715e-06,
+   5.522e-11
+  ],
+  [
+   4.0814e-06,
+   5.364e-11
+  ],
+  [
+   4.0952e-06,
+   5.342e-11
+  ],
+  [
+   4.105e-06,
+   5.316e-11
+  ],
+  [
+   4.1149e-06,
+   5.393e-11
+  ],
+  [
+   4.1247e-06,
+   5.426e-11
+  ],
+  [
+   4.1385e-06,
+   5.328e-11
+  ],
+  [
+   4.1484e-06,
+   5.494e-11
+  ],
+  [
+   4.1602e-06,
+   5.435e-11
+  ],
+  [
+   4.17e-06,
+   5.365e-11
+  ],
+  [
+   4.1799e-06,
+   5.4e-11
+  ],
+  [
+   4.1917e-06,
+   5.337e-11
+  ],
+  [
+   4.2016e-06,
+   5.439e-11
+  ],
+  [
+   4.2114e-06,
+   5.46e-11
+  ],
+  [
+   4.2213e-06,
+   5.337e-11
+  ],
+  [
+   4.2351e-06,
+   5.511e-11
+  ],
+  [
+   4.2449e-06,
+   5.459e-11
+  ],
+  [
+   4.2548e-06,
+   5.52e-11
+  ],
+  [
+   4.2646e-06,
+   5.473e-11
+  ],
+  [
+   4.2745e-06,
+   5.405e-11
+  ],
+  [
+   4.2843e-06,
+   5.378e-11
+  ],
+  [
+   4.2942e-06,
+   5.433e-11
+  ],
+  [
+   4.304e-06,
+   5.405e-11
+  ],
+  [
+   4.3139e-06,
+   5.49e-11
+  ],
+  [
+   4.3237e-06,
+   5.455e-11
+  ],
+  [
+   4.3356e-06,
+   5.357e-11
+  ],
+  [
+   4.3454e-06,
+   5.343e-11
+  ],
+  [
+   4.3553e-06,
+   5.34e-11
+  ],
+  [
+   4.3651e-06,
+   5.409e-11
+  ],
+  [
+   4.375e-06,
+   5.257e-11
+  ],
+  [
+   4.3848e-06,
+   5.396e-11
+  ],
+  [
+   4.3947e-06,
+   5.352e-11
+  ],
+  [
+   4.4045e-06,
+   5.386e-11
+  ],
+  [
+   4.4144e-06,
+   5.446e-11
+  ],
+  [
+   4.4262e-06,
+   5.443e-11
+  ],
+  [
+   4.4361e-06,
+   5.291e-11
+  ],
+  [
+   4.4459e-06,
+   5.345e-11
+  ],
+  [
+   4.4558e-06,
+   5.315e-11
+  ],
+  [
+   4.4656e-06,
+   5.331e-11
+  ],
+  [
+   4.4755e-06,
+   5.387e-11
+  ],
+  [
+   4.4853e-06,
+   5.312e-11
+  ],
+  [
+   4.4952e-06,
+   5.295e-11
+  ],
+  [
+   4.505e-06,
+   5.24e-11
+  ],
+  [
+   4.5168e-06,
+   5.252e-11
+  ],
+  [
+   4.5267e-06,
+   5.283e-11
+  ],
+  [
+   4.5366e-06,
+   5.214e-11
+  ],
+  [
+   4.5464e-06,
+   5.247e-11
+  ],
+  [
+   4.5563e-06,
+   5.102e-11
+  ],
+  [
+   4.5661e-06,
+   5.317e-11
+  ],
+  [
+   4.576e-06,
+   5.216e-11
+  ],
+  [
+   4.5858e-06,
+   5.308e-11
+  ],
+  [
+   4.5957e-06,
+   5.262e-11
+  ],
+  [
+   4.6075e-06,
+   5.311e-11
+  ],
+  [
+   4.6173e-06,
+   5.155e-11
+  ],
+  [
+   4.6272e-06,
+   5.223e-11
+  ],
+  [
+   4.637e-06,
+   5.251e-11
+  ],
+  [
+   4.6469e-06,
+   5.235e-11
+  ],
+  [
+   4.6567e-06,
+   5.249e-11
+  ],
+  [
+   4.6666e-06,
+   5.225e-11
+  ],
+  [
+   4.6765e-06,
+   5.213e-11
+  ],
+  [
+   4.6863e-06,
+   5.24e-11
+  ],
+  [
+   4.6981e-06,
+   5.196e-11
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "JodrellBank-MeerKAT_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Limit from MeerKAT time-domain observations of PSR J2144-3933 (Battye et al.). Curve digitised from Fig. 7 (new_limit_plot.png in the e-print): 2-sigma (~95% CL) upper limit on g_agamma vs axion mass for the fiducial parallax distance D=0.165 kpc, computed as the highest upper limit over the pulsar-geometry region |beta|<4 deg, alpha>20 deg. Headline quote: g_agamma < 5.5e-11 GeV^-1 over 3.9-4.7 ueV. Paper assumes rho_DM = 0.45 GeV/cm^3, identical to the canonical value, so no rescaling applied. Gaps in the curve (e.g. 3.78-3.93 ueV) are RFI-excised frequency channels. Digitisation via colour extraction of the raster figure; per-column mean of the noisy trace, so rapid vertical excursions are slightly smoothed (full trace spans ~4.9-5.6e-11).",
+ "num_points": 76,
+ "arxiv_id": "2303.11792",
+ "elapsed_s": 78.11318278312683,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 77768,
+  "duration_api_ms": 75519,
+  "total_cost_usd": 0.7099635,
+  "usage": {
+   "input_tokens": 289,
+   "output_tokens": 6021,
+   "cache_creation_input_tokens": 16297,
+   "cache_read_input_tokens": 202311
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2303.11792.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:13:17-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

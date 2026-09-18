@@ -1,0 +1,230 @@
+{
+ "paper_title": "Search for ultralight dark matter in the SuperMAG high-fidelity dataset",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.383003305696733e-18,
+   0.002969357937185246
+  ],
+  [
+   5.038513102198725e-18,
+   0.0021698840221113956
+  ],
+  [
+   5.857902747626718e-18,
+   0.0015939203405949895
+  ],
+  [
+   6.923111208360215e-18,
+   0.0011411900290918813
+  ],
+  [
+   8.070262254863255e-18,
+   0.0007980687057347242
+  ],
+  [
+   9.375942361537434e-18,
+   0.000528475868109515
+  ],
+  [
+   1.122423968067298e-17,
+   0.0003445874286436499
+  ],
+  [
+   1.2779357545241214e-17,
+   0.0002566593812515005
+  ],
+  [
+   1.5001121327626688e-17,
+   0.00019368890841770517
+  ],
+  [
+   1.7251607356615107e-17,
+   0.00013215072409806863
+  ],
+  [
+   2.065464749101131e-17,
+   8.718776722286855e-05
+  ],
+  [
+   2.3763475466191443e-17,
+   6.012342395275221e-05
+  ],
+  [
+   2.788203727599708e-17,
+   4.535602697166495e-05
+  ],
+  [
+   3.2713921634991906e-17,
+   3.357897864615513e-05
+  ],
+  [
+   3.7637661534738236e-17,
+   2.4546483609747173e-05
+  ],
+  [
+   4.415222249397415e-17,
+   1.957697971239e-05
+  ],
+  [
+   5.183002467403035e-17,
+   1.4803185980948643e-05
+  ],
+  [
+   6.021341932723319e-17,
+   1.0422545339184427e-05
+  ],
+  [
+   6.995606453012618e-17,
+   8.364479554644088e-06
+  ],
+  [
+   8.128106746291882e-17,
+   6.432473381923971e-06
+  ],
+  [
+   9.441948354598082e-17,
+   5.100157100698838e-06
+  ],
+  [
+   1.0971785252689901e-16,
+   4.102669907579394e-06
+  ],
+  [
+   1.261921096027058e-16,
+   2.9848194892343605e-06
+  ],
+  [
+   1.5255372853039298e-16,
+   2.226633453372035e-06
+  ],
+  [
+   1.7730473560726715e-16,
+   1.6374444657926867e-06
+  ],
+  [
+   2.0803311966919052e-16,
+   1.314051089087996e-06
+  ],
+  [
+   2.4170606311665297e-16,
+   1.0230493563128642e-06
+  ],
+  [
+   2.8366690637784866e-16,
+   6.904330646057351e-07
+  ],
+  [
+   3.2623210626360045e-16,
+   5.677157875966968e-07
+  ],
+  [
+   3.8289562884329574e-16,
+   4.4980299277527413e-07
+  ],
+  [
+   4.44701689505825e-16,
+   3.2706615597174505e-07
+  ],
+  [
+   5.219635392171915e-16,
+   2.825065727654861e-07
+  ],
+  [
+   6.125917516816121e-16,
+   1.898616132518284e-07
+  ],
+  [
+   6.975890172797375e-16,
+   1.591974847454241e-07
+  ],
+  [
+   8.351199059990573e-16,
+   1.0203866502020217e-07
+  ],
+  [
+   9.508365111785745e-16,
+   8.489316319132337e-08
+  ],
+  [
+   1.1271748094234076e-15,
+   6.626044572983736e-08
+  ],
+  [
+   1.3096893932032633e-15,
+   5.158300918743964e-08
+  ],
+  [
+   1.567979913019214e-15,
+   3.910194978866692e-08
+  ],
+  [
+   1.785662145251799e-15,
+   2.9030322349421095e-08
+  ],
+  [
+   2.074056085729829e-15,
+   2.5733660065633782e-08
+  ],
+  [
+   2.4831807884588672e-15,
+   2.2453385379072357e-08
+  ],
+  [
+   2.9427207072032815e-15,
+   2.4991637533041328e-08
+  ],
+  [
+   3.2852937891371525e-15,
+   2.970648269359265e-08
+  ],
+  [
+   3.8561860221675704e-15,
+   7.741609706826453e-08
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.78,
+ "suggested_experiment_name": "SuperMAG_HighFidelity_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "DPDM kinetic-mixing limit from Fig.3 left of the paper (e-print DPDM_bound.pdf), traced the light-blue smoothed 95%-credible upper limit curve (SuperMAG 1-sec, smoothed; drawing idx 190) rather than the raw spiky band. Vector extraction; x=m_Aprime[eV] bottom axis (consistent with top f_Aprime axis via m=h*f), y=epsilon (chi). Full analyzed range f_DM in 1e-3..0.98 Hz -> m ~4.4e-18..3.9e-15 eV. Density-dependent DM search: reported at paper native rho_DM=0.3 GeV/cm^3 (Eq.2), not rescaled. Paper also reports an axion-photon g_agamma limit (Fig.3 right); chose DPDM as it is listed first throughout and is the paper unique headline claim (surpasses leading astrophysical/Leo T constraint near m_Aprime~2e-15 eV). 25% degradation factor already applied to limits by the authors.",
+ "num_points": 45,
+ "arxiv_id": "2408.16045",
+ "elapsed_s": 162.21626782417297,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 161867,
+  "duration_api_ms": 159365,
+  "total_cost_usd": 1.0776845,
+  "usage": {
+   "input_tokens": 450,
+   "output_tokens": 11235,
+   "cache_creation_input_tokens": 49293,
+   "cache_read_input_tokens": 603259
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2408.16045.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:39:59-0500"
+ }
+}

@@ -1,0 +1,259 @@
+{
+ "paper_title": "Shaping Dark Photon Spectral Distortions",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.9076105896721965e-15,
+   1.0
+  ],
+  [
+   1.9775249778360328e-15,
+   4.118758898126986e-05
+  ],
+  [
+   2.0374524277784264e-15,
+   2.3008393329404797e-05
+  ],
+  [
+   2.1872709595293056e-15,
+   1.5065057588505266e-05
+  ],
+  [
+   2.6866707434582686e-15,
+   7.981805730512832e-06
+  ],
+  [
+   3.5356594227067968e-15,
+   4.956768815044676e-06
+  ],
+  [
+   5.3335479624896715e-15,
+   2.919490881452767e-06
+  ],
+  [
+   7.780706624693943e-15,
+   2.015494914427808e-06
+  ],
+  [
+   1.5481954553999655e-14,
+   1.1259046934176777e-06
+  ],
+  [
+   2.966623137433986e-14,
+   6.988442917497392e-07
+  ],
+  [
+   5.493888292854498e-14,
+   4.825301790511516e-07
+  ],
+  [
+   1.168737174255505e-13,
+   3.327754932995755e-07
+  ],
+  [
+   2.017864590275412e-13,
+   2.6933858367759e-07
+  ],
+  [
+   5.464450029102747e-13,
+   2.298206545531131e-07
+  ],
+  [
+   1.2487742024081485e-12,
+   2.5581926855698633e-07
+  ],
+  [
+   1.5285122488119449e-12,
+   2.8389781719780127e-07
+  ],
+  [
+   2.227867517770919e-12,
+   3.702142579955735e-07
+  ],
+  [
+   2.7374009256527693e-12,
+   5.085292216288104e-07
+  ],
+  [
+   3.1470322852035046e-12,
+   9.110016820233414e-07
+  ],
+  [
+   3.3668383831714532e-12,
+   2.2405740116964792e-06
+  ],
+  [
+   4.425889768757451e-12,
+   2.2405740116964792e-06
+  ],
+  [
+   1.2788693459124148e-11,
+   1.8130242139878438e-06
+  ],
+  [
+   2.2180889439996297e-11,
+   1.46705665296581e-06
+  ],
+  [
+   3.467082667302206e-11,
+   1.1259046934176777e-06
+  ],
+  [
+   5.0558194699054454e-11,
+   8.64201551565941e-07
+  ],
+  [
+   7.893622520149578e-11,
+   5.969269802976775e-07
+  ],
+  [
+   9.992014887912789e-11,
+   5.08846286460295e-07
+  ],
+  [
+   3.6516635220677417e-10,
+   1.516718958504625e-07
+  ],
+  [
+   6.98087069187883e-10,
+   7.751662000066053e-08
+  ],
+  [
+   8.208509471609286e-10,
+   6.255220483270791e-08
+  ],
+  [
+   9.652037792919613e-10,
+   4.700617995773844e-08
+  ],
+  [
+   1.0466387857928178e-09,
+   4.2280369490700275e-08
+  ],
+  [
+   1.1349421460518101e-09,
+   4.0531840039512675e-08
+  ],
+  [
+   1.3345302852311534e-09,
+   4.0988657452321606e-08
+  ],
+  [
+   2.5512162605605014e-09,
+   3.5882870401999186e-08
+  ],
+  [
+   5.288639026535509e-09,
+   3.3680867868188855e-08
+  ],
+  [
+   6.218686100537895e-09,
+   3.3384126270430975e-08
+  ],
+  [
+   7.929215932149336e-09,
+   3.5419439302148595e-08
+  ],
+  [
+   8.59821015371667e-09,
+   3.309776376904798e-08
+  ],
+  [
+   1.0110270280149673e-08,
+   3.130020720824066e-08
+  ],
+  [
+   1.5158250691996023e-08,
+   3.057589277333105e-08
+  ],
+  [
+   4.934860682431245e-07,
+   2.7955212746159796e-08
+  ],
+  [
+   9.433953620946559e-07,
+   2.6690784651703488e-08
+  ],
+  [
+   6.5909840087084555e-06,
+   2.704282908820304e-08
+  ],
+  [
+   1.4815755705792285e-05,
+   2.8536107052240177e-08
+  ],
+  [
+   2.611955355189952e-05,
+   3.198273082785305e-08
+  ],
+  [
+   3.970569791585895e-05,
+   3.850653509047604e-08
+  ],
+  [
+   5.71860595020883e-05,
+   5.2398365528682156e-08
+  ],
+  [
+   7.823872489153077e-05,
+   8.317497674815251e-08
+  ],
+  [
+   0.00010152245728440081,
+   1.540138580362111e-07
+  ],
+  [
+   0.00012640731176453396,
+   3.3267337689449654e-07
+  ],
+  [
+   0.00015650636718560863,
+   9.778226806217814e-07
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "COBEFIRAS_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Fiducial 95% CL COBE-FIRAS constraint on photon-to-dark-photon oscillations from Fig. 1 (mAp_eps_plt_allbounds.pdf), extracted from vector paths of the multicolor solid line (purple free-streaming era, blue y-era, green mu-y transition, orange mu-era, red T-era) plus the green dotted fiducial-treatment segment bridging 3e-7 to 3e-6 eV. Low-mass purple portion (m < 1e-10 eV) is stated to be identical to Caputo et al. 2020; the new limits of this paper cover 1e-10 to ~1.5e-4 eV. Curve truncated where the paper switches to red dotted (eps > ~1e-6, method invalid). Cosmological bound: no DM density assumption. Axis calibration from tick labels; PIXIE dashed projections excluded.",
+ "num_points": 52,
+ "arxiv_id": "2409.12940",
+ "elapsed_s": 172.57770013809204,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 172204,
+  "duration_api_ms": 168710,
+  "total_cost_usd": 1.2800305,
+  "usage": {
+   "input_tokens": 359,
+   "output_tokens": 11630,
+   "cache_creation_input_tokens": 30722,
+   "cache_read_input_tokens": 252543
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2409.12940.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T13:17:10-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

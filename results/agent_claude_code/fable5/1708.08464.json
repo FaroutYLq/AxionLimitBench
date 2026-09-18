@@ -1,0 +1,199 @@
+{
+ "paper_title": "Probing axions with neutron star inspirals and other stellar processes",
+ "coupling_type": "AxionMass",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-20,
+   2.891e-16
+  ],
+  [
+   2.002e-15,
+   2.888e-16
+  ],
+  [
+   2.052e-15,
+   2.961e-16
+  ],
+  [
+   2.104e-15,
+   3.037e-16
+  ],
+  [
+   2.212e-15,
+   3.192e-16
+  ],
+  [
+   2.445e-15,
+   3.527e-16
+  ],
+  [
+   2.986e-15,
+   4.309e-16
+  ],
+  [
+   4.454e-15,
+   6.428e-16
+  ],
+  [
+   1.06e-14,
+   1.53e-15
+  ],
+  [
+   2.383e-14,
+   3.438e-15
+  ],
+  [
+   5.27e-14,
+   7.606e-15
+  ],
+  [
+   1.247e-13,
+   1.799e-14
+  ],
+  [
+   2.785e-13,
+   4.018e-14
+  ],
+  [
+   6.654e-13,
+   9.601e-14
+  ],
+  [
+   1.565e-12,
+   2.258e-13
+  ],
+  [
+   3.474e-12,
+   5.013e-13
+  ],
+  [
+   8.25e-12,
+   1.19e-12
+  ],
+  [
+   1.85e-11,
+   2.669e-12
+  ],
+  [
+   4.082e-11,
+   5.89e-12
+  ],
+  [
+   9.635e-11,
+   1.39e-11
+  ],
+  [
+   2.147e-10,
+   3.099e-11
+  ],
+  [
+   5.118e-10,
+   7.385e-11
+  ],
+  [
+   1.201e-09,
+   1.733e-10
+  ],
+  [
+   2.66e-09,
+   3.838e-10
+  ],
+  [
+   6.301e-09,
+   9.093e-10
+  ],
+  [
+   1.41e-08,
+   2.034e-09
+  ],
+  [
+   3.373e-08,
+   4.866e-09
+  ],
+  [
+   7.944e-08,
+   1.146e-08
+  ],
+  [
+   1.766e-07,
+   2.548e-08
+  ],
+  [
+   4.199e-07,
+   6.06e-08
+  ],
+  [
+   9.43e-07,
+   1.361e-07
+  ],
+  [
+   2.084e-06,
+   3.007e-07
+  ],
+  [
+   4.926e-06,
+   7.109e-07
+  ],
+  [
+   1.099e-05,
+   1.587e-06
+  ],
+  [
+   2.624e-05,
+   3.786e-06
+  ],
+  [
+   6.165e-05,
+   8.895e-06
+  ],
+  [
+   7.003e-05,
+   1.011e-05
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "Sun_2017",
+ "coupling_convention": "1/f_a [GeV^-1]",
+ "notes": "Hook & Huang derive exclusions on light QCD-type axions (potential suppressed by epsilon, eq 1.4) that get sourced by dense stellar objects (theta ~ pi inside). Curve is the boundary of the RED shaded 'Sun' region of Figure 6 (constraints.pdf, vector paths): excluded region lies ABOVE the curve (larger 1/f_a). Flat at 1/F_a = 10^-15.54 GeV^-1 for m_a <~ 2e-15 eV (condition 1/r_S < sqrt(rho)/f_a), rising with slope 1 (1/f_a = m_a/sqrt(sigma_N n_N)) at higher mass, drawn up to the plot frame top at 1/F_a ~ 1e-5 GeV^-1, m_a ~ 7e-5 eV. Bound comes from direct solar-core observables (Borexino Be7 neutrino line, pp-chain efficiency excluding theta ~ pi in the Sun; Section 4.1). The paper also derives a weaker analogous 'Earth' bound (blue region: flat at 3.2e-14 GeV^-1 up to m_a ~ 3.2e-14 eV then slope 1 along 1/f_a[GeV^-1] = m_a[eV]x10^0.0), fully contained within the Sun region; the Sun curve is reported as it is the stronger of the paper's own new bounds. Advanced LIGO neutron-star-inspiral, white-dwarf and neutron-star curves in the paper are future probes/projections, not limits. No confidence level stated by the paper (theory-derived exclusion); 0.95 entered as placeholder. No DM density assumption.",
+ "num_points": 37,
+ "arxiv_id": "1708.08464",
+ "elapsed_s": 191.70332217216492,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 191378,
+  "duration_api_ms": 188484,
+  "total_cost_usd": 1.753208,
+  "usage": {
+   "input_tokens": 323,
+   "output_tokens": 14432,
+   "cache_creation_input_tokens": 42995,
+   "cache_read_input_tokens": 310048
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1708.08464.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:22:06-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

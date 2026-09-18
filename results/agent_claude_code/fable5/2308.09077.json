@@ -1,0 +1,447 @@
+{
+ "paper_title": "Extended Axion Dark Matter Search Using the CAPP18T Haloscope",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.98827e-05,
+   8.4825e-15
+  ],
+  [
+   1.98832e-05,
+   5.5778e-15
+  ],
+  [
+   1.98836e-05,
+   5.754e-15
+  ],
+  [
+   1.98841e-05,
+   5.5781e-15
+  ],
+  [
+   1.98846e-05,
+   5.4021e-15
+  ],
+  [
+   1.9885e-05,
+   5.4023e-15
+  ],
+  [
+   1.98855e-05,
+   5.5785e-15
+  ],
+  [
+   1.9886e-05,
+   5.3145e-15
+  ],
+  [
+   1.98865e-05,
+   5.4027e-15
+  ],
+  [
+   1.98869e-05,
+   5.3147e-15
+  ],
+  [
+   1.98874e-05,
+   5.6671e-15
+  ],
+  [
+   1.98879e-05,
+   6.1074e-15
+  ],
+  [
+   1.98884e-05,
+   5.5793e-15
+  ],
+  [
+   1.98888e-05,
+   5.7555e-15
+  ],
+  [
+   1.98893e-05,
+   5.6676e-15
+  ],
+  [
+   1.98898e-05,
+   5.4916e-15
+  ],
+  [
+   1.98903e-05,
+   5.7559e-15
+  ],
+  [
+   1.98907e-05,
+   5.7561e-15
+  ],
+  [
+   1.98912e-05,
+   5.5801e-15
+  ],
+  [
+   1.98917e-05,
+   5.1399e-15
+  ],
+  [
+   1.98922e-05,
+   4.8758e-15
+  ],
+  [
+   1.98926e-05,
+   5.6685e-15
+  ],
+  [
+   1.98931e-05,
+   5.6687e-15
+  ],
+  [
+   1.98936e-05,
+   5.3165e-15
+  ],
+  [
+   1.98941e-05,
+   5.4047e-15
+  ],
+  [
+   1.98945e-05,
+   5.8452e-15
+  ],
+  [
+   1.9895e-05,
+   5.6692e-15
+  ],
+  [
+   1.98955e-05,
+   5.1409e-15
+  ],
+  [
+   1.9896e-05,
+   5.5814e-15
+  ],
+  [
+   1.98964e-05,
+   5.1411e-15
+  ],
+  [
+   1.98969e-05,
+   5.1412e-15
+  ],
+  [
+   1.98974e-05,
+   5.4056e-15
+  ],
+  [
+   1.98979e-05,
+   5.5819e-15
+  ],
+  [
+   1.98983e-05,
+   6.1106e-15
+  ],
+  [
+   1.98988e-05,
+   5.5822e-15
+  ],
+  [
+   1.98993e-05,
+   5.5823e-15
+  ],
+  [
+   1.98998e-05,
+   5.7587e-15
+  ],
+  [
+   1.99002e-05,
+   5.4945e-15
+  ],
+  [
+   1.99007e-05,
+   5.4065e-15
+  ],
+  [
+   1.99012e-05,
+   5.8472e-15
+  ],
+  [
+   1.99017e-05,
+   5.583e-15
+  ],
+  [
+   1.99021e-05,
+   5.5831e-15
+  ],
+  [
+   1.99026e-05,
+   5.5833e-15
+  ],
+  [
+   1.99031e-05,
+   5.4953e-15
+  ],
+  [
+   1.99036e-05,
+   6.0241e-15
+  ],
+  [
+   1.9904e-05,
+   5.4074e-15
+  ],
+  [
+   1.99045e-05,
+   5.4076e-15
+  ],
+  [
+   1.9905e-05,
+   5.4958e-15
+  ],
+  [
+   1.99055e-05,
+   5.7603e-15
+  ],
+  [
+   1.99059e-05,
+   5.5842e-15
+  ],
+  [
+   1.99064e-05,
+   5.5843e-15
+  ],
+  [
+   1.99069e-05,
+   5.4963e-15
+  ],
+  [
+   1.99074e-05,
+   6.0253e-15
+  ],
+  [
+   1.99078e-05,
+   5.4085e-15
+  ],
+  [
+   1.99083e-05,
+   5.4967e-15
+  ],
+  [
+   1.99088e-05,
+   5.4969e-15
+  ],
+  [
+   1.99093e-05,
+   5.4088e-15
+  ],
+  [
+   1.99097e-05,
+   5.409e-15
+  ],
+  [
+   1.99102e-05,
+   5.4973e-15
+  ],
+  [
+   1.99107e-05,
+   5.6737e-15
+  ],
+  [
+   1.99112e-05,
+   5.5857e-15
+  ],
+  [
+   1.99116e-05,
+   5.4095e-15
+  ],
+  [
+   1.99121e-05,
+   5.6741e-15
+  ],
+  [
+   1.99126e-05,
+   5.7624e-15
+  ],
+  [
+   1.99131e-05,
+   6.2033e-15
+  ],
+  [
+   1.99135e-05,
+   5.939e-15
+  ],
+  [
+   1.9914e-05,
+   6.0273e-15
+  ],
+  [
+   1.99145e-05,
+   6.0274e-15
+  ],
+  [
+   1.9915e-05,
+   6.0276e-15
+  ],
+  [
+   1.99154e-05,
+   6.0277e-15
+  ],
+  [
+   1.99159e-05,
+   5.6752e-15
+  ],
+  [
+   1.99164e-05,
+   6.028e-15
+  ],
+  [
+   1.99168e-05,
+   5.8518e-15
+  ],
+  [
+   1.99173e-05,
+   6.381e-15
+  ],
+  [
+   1.99178e-05,
+   6.6457e-15
+  ],
+  [
+   1.99183e-05,
+   6.0286e-15
+  ],
+  [
+   1.99187e-05,
+   6.2933e-15
+  ],
+  [
+   1.99192e-05,
+   6.4698e-15
+  ],
+  [
+   1.99197e-05,
+   6.3818e-15
+  ],
+  [
+   1.99202e-05,
+   6.1174e-15
+  ],
+  [
+   1.99206e-05,
+   6.2939e-15
+  ],
+  [
+   1.99211e-05,
+   6.5586e-15
+  ],
+  [
+   1.99216e-05,
+   7.1762e-15
+  ],
+  [
+   1.99221e-05,
+   7.0881e-15
+  ],
+  [
+   1.99225e-05,
+   6.7355e-15
+  ],
+  [
+   1.9923e-05,
+   6.5592e-15
+  ],
+  [
+   1.99235e-05,
+   6.0302e-15
+  ],
+  [
+   1.9924e-05,
+   6.8242e-15
+  ],
+  [
+   1.99244e-05,
+   6.4715e-15
+  ],
+  [
+   1.99249e-05,
+   6.8245e-15
+  ],
+  [
+   1.99254e-05,
+   6.8247e-15
+  ],
+  [
+   1.99259e-05,
+   7.0895e-15
+  ],
+  [
+   1.99263e-05,
+   7.9719e-15
+  ],
+  [
+   1.99268e-05,
+   8.3249e-15
+  ],
+  [
+   1.99273e-05,
+   1.0884e-14
+  ],
+  [
+   1.99278e-05,
+   1.2913e-14
+  ],
+  [
+   1.99282e-05,
+   1.6972e-14
+  ],
+  [
+   1.99287e-05,
+   2.059e-14
+  ],
+  [
+   1.9929e-05,
+   3.2413e-14
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "CAPP18T_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline Bayesian 90% credibility-level exclusion (light magenta region boundary in Fig. 4) of the CAPP18T run-2 haloscope search, 4.8077-4.8181 GHz (19.883-19.926 ueV), reaching ~0.7x|g_KSVZ|. Extracted from the e-print raster Fig4_limits_with_others5.png by pixel analysis: y-axis (|g_agamma|/|g_KSVZ|, linear) calibrated with the KSVZ (=1) and DFSZ (=0.3889) dashed lines, x-axis with the 1-MHz tick grid (4.778 GHz at px 129 to 4.819 GHz at px 1558). Converted to g_agamma via g_KSVZ = (alpha/2pi)*1.92/f_a with m_a = 5.7 ueV x (1e12 GeV/f_a), i.e. g_KSVZ = 3.912e-16 GeV^-1 x (m/ueV). Paper assumes rho_a = 0.45 GeV/cm^3 (matches canonical, no rescaling) and boosted Maxwell-Boltzmann lineshape. The frequentist limit (magenta, ~35% weaker) was not used. Steep rising edges of the shaded region at the scan boundaries are included.",
+ "num_points": 99,
+ "arxiv_id": "2308.09077",
+ "elapsed_s": 156.6615059375763,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 156210,
+  "duration_api_ms": 152426,
+  "total_cost_usd": 1.3633644999999999,
+  "usage": {
+   "input_tokens": 404,
+   "output_tokens": 11619,
+   "cache_creation_input_tokens": 31132,
+   "cache_read_input_tokens": 330852
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2308.09077.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T12:32:18-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

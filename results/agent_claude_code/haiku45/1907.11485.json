@@ -1,0 +1,178 @@
+{
+ "paper_title": "Light Dark Matter Search with Ionization Signals in XENON1T",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   199.86,
+   9.8928e-14
+  ],
+  [
+   219.67,
+   1.8224e-14
+  ],
+  [
+   241.45,
+   6.9404e-15
+  ],
+  [
+   265.38,
+   3.3175e-15
+  ],
+  [
+   291.68,
+   1.8229e-15
+  ],
+  [
+   320.69,
+   1.1214e-15
+  ],
+  [
+   352.82,
+   7.5667e-16
+  ],
+  [
+   388.53,
+   5.3831e-16
+  ],
+  [
+   427.4,
+   4.013e-16
+  ],
+  [
+   470.06,
+   3.1348e-16
+  ],
+  [
+   517.19,
+   2.5436e-16
+  ],
+  [
+   569.56,
+   2.1645e-16
+  ],
+  [
+   628.01,
+   1.8979e-16
+  ],
+  [
+   693.6,
+   1.7054e-16
+  ],
+  [
+   767.42,
+   1.5599e-16
+  ],
+  [
+   850.77,
+   1.4493e-16
+  ],
+  [
+   945.23,
+   1.3631e-16
+  ],
+  [
+   1052.9,
+   1.2962e-16
+  ],
+  [
+   1166.0,
+   1.2447e-16
+  ],
+  [
+   1286.5,
+   1.2066e-16
+  ],
+  [
+   1417.3,
+   1.1795e-16
+  ],
+  [
+   1561.6,
+   1.1618e-16
+  ],
+  [
+   1723.0,
+   1.152e-16
+  ],
+  [
+   1905.5,
+   1.1487e-16
+  ],
+  [
+   2114.0,
+   1.151e-16
+  ],
+  [
+   2354.6,
+   1.1579e-16
+  ],
+  [
+   2633.6,
+   1.1688e-16
+  ],
+  [
+   2958.7,
+   1.183e-16
+  ],
+  [
+   3339.0,
+   1.2e-16
+  ],
+  [
+   3785.6,
+   1.2195e-16
+  ],
+  [
+   4310.9,
+   1.2408e-16
+  ],
+  [
+   4928.9,
+   1.2637e-16
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.7,
+ "suggested_experiment_name": "XENON1T_2019",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Dark photon kinetic mixing limits from Figure 5F at 90% CL, extracted via vector path analysis of PDF. Paper's main dark photon result covers mass range 0.186-1 keV; curve shown extends to 5 keV. Minimum coupling ~1.2e-16 at ~1-1.5 keV. S2-only analysis using ionization signals from 180.7 day search data in XENON1T. Coupling extracted from photoelectric absorption rate.",
+ "num_points": 32,
+ "arxiv_id": "1907.11485",
+ "elapsed_s": 185.8976788520813,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 14,
+  "duration_ms": 185118,
+  "duration_api_ms": 170858,
+  "total_cost_usd": 0.27869879999999997,
+  "usage": {
+   "input_tokens": 108,
+   "output_tokens": 14929,
+   "cache_creation_input_tokens": 65547,
+   "cache_read_input_tokens": 728518
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1907.11485.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:56:53-0500"
+ }
+}

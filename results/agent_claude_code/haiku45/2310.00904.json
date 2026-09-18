@@ -1,0 +1,90 @@
+{
+ "paper_title": "Exclusion of ALP Cogenesis Dark Matter in a Mass Window Above 100 \u00b5eV",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.00010742,
+   4e-12
+  ],
+  [
+   0.000108,
+   4e-12
+  ],
+  [
+   0.0001085,
+   4e-12
+  ],
+  [
+   0.000109,
+   4e-12
+  ],
+  [
+   0.0001095,
+   4e-12
+  ],
+  [
+   0.00011,
+   4e-12
+  ],
+  [
+   0.0001105,
+   4e-12
+  ],
+  [
+   0.000111,
+   4e-12
+  ],
+  [
+   0.0001115,
+   4e-12
+  ],
+  [
+   0.00011193,
+   4e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "ORGAN_Phase1b_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Exclusion limits extracted from Figure 5. The paper reports ga\u03b3\u03b3 \u2265 4 \u00d7 10^-12 GeV^-1 excluded with 95% CL across the mass range 107.42-111.93 \u00b5eV. The limit curve is approximately flat at ~4 \u00d7 10^-12 GeV^-1. A notch at ~26 GHz (109.6 \u00b5eV) shows reduced sensitivity due to insufficient integration time early in the data taking run, but the paper confirms sufficient sensitivity to exclude ALP cogenesis in this region. Local dark matter density assumed: 0.45 GeV/cm\u00b3.",
+ "num_points": 10,
+ "arxiv_id": "2310.00904",
+ "elapsed_s": 84.05340600013733,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 10,
+  "duration_ms": 83718,
+  "duration_api_ms": 82070,
+  "total_cost_usd": 0.1680305,
+  "usage": {
+   "input_tokens": 78,
+   "output_tokens": 7352,
+   "cache_creation_input_tokens": 46939,
+   "cache_read_input_tokens": 373145
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2310.00904.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T19:42:54-0500"
+ }
+}

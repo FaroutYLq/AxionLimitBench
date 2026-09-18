@@ -1,0 +1,363 @@
+{
+ "paper_title": "New CAST Limit on the Axion-Photon Interaction",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.0001,
+   6.6074e-11
+  ],
+  [
+   0.00050002,
+   6.6074e-11
+  ],
+  [
+   0.00075002,
+   6.6074e-11
+  ],
+  [
+   0.001,
+   6.6074e-11
+  ],
+  [
+   0.0020001,
+   6.6074e-11
+  ],
+  [
+   0.0050002,
+   6.6103e-11
+  ],
+  [
+   0.0080005,
+   6.6261e-11
+  ],
+  [
+   0.010001,
+   6.6525e-11
+  ],
+  [
+   0.012501,
+   6.7177e-11
+  ],
+  [
+   0.015001,
+   6.8356e-11
+  ],
+  [
+   0.017501,
+   7.0295e-11
+  ],
+  [
+   0.020001,
+   7.3289e-11
+  ],
+  [
+   0.030002,
+   1.1201e-10
+  ],
+  [
+   0.032002,
+   1.3253e-10
+  ],
+  [
+   0.034003,
+   1.5434e-10
+  ],
+  [
+   0.036003,
+   1.6359e-10
+  ],
+  [
+   0.038003,
+   1.5717e-10
+  ],
+  [
+   0.040003,
+   1.529e-10
+  ],
+  [
+   0.041003,
+   1.5336e-10
+  ],
+  [
+   0.042003,
+   1.5551e-10
+  ],
+  [
+   0.043004,
+   1.5922e-10
+  ],
+  [
+   0.044004,
+   1.6403e-10
+  ],
+  [
+   0.045004,
+   1.6947e-10
+  ],
+  [
+   0.046004,
+   1.7529e-10
+  ],
+  [
+   0.047004,
+   1.8162e-10
+  ],
+  [
+   0.048004,
+   1.8832e-10
+  ],
+  [
+   0.049004,
+   1.9447e-10
+  ],
+  [
+   0.050004,
+   1.9917e-10
+  ],
+  [
+   0.051004,
+   2.0262e-10
+  ],
+  [
+   0.052004,
+   2.0518e-10
+  ],
+  [
+   0.053005,
+   2.0654e-10
+  ],
+  [
+   0.054004,
+   2.0724e-10
+  ],
+  [
+   0.055005,
+   2.0904e-10
+  ],
+  [
+   0.056004,
+   2.1267e-10
+  ],
+  [
+   0.057005,
+   2.1742e-10
+  ],
+  [
+   0.058004,
+   2.2281e-10
+  ],
+  [
+   0.059005,
+   2.2949e-10
+  ],
+  [
+   0.060005,
+   2.3757e-10
+  ],
+  [
+   0.061005,
+   2.451e-10
+  ],
+  [
+   0.062005,
+   2.5034e-10
+  ],
+  [
+   0.063005,
+   2.5346e-10
+  ],
+  [
+   0.064005,
+   2.5468e-10
+  ],
+  [
+   0.065005,
+   2.5381e-10
+  ],
+  [
+   0.066005,
+   2.521e-10
+  ],
+  [
+   0.067005,
+   2.5228e-10
+  ],
+  [
+   0.068006,
+   2.5617e-10
+  ],
+  [
+   0.069005,
+   2.6336e-10
+  ],
+  [
+   0.070005,
+   2.7167e-10
+  ],
+  [
+   0.071006,
+   2.7975e-10
+  ],
+  [
+   0.072006,
+   2.8791e-10
+  ],
+  [
+   0.073005,
+   2.9451e-10
+  ],
+  [
+   0.074007,
+   2.9767e-10
+  ],
+  [
+   0.075005,
+   2.9981e-10
+  ],
+  [
+   0.076005,
+   3.0219e-10
+  ],
+  [
+   0.077007,
+   3.0233e-10
+  ],
+  [
+   0.078007,
+   2.9978e-10
+  ],
+  [
+   0.079006,
+   2.9942e-10
+  ],
+  [
+   0.080006,
+   3.0533e-10
+  ],
+  [
+   0.081007,
+   3.154e-10
+  ],
+  [
+   0.082006,
+   3.2381e-10
+  ],
+  [
+   0.083006,
+   3.2921e-10
+  ],
+  [
+   0.084008,
+   3.3547e-10
+  ],
+  [
+   0.085007,
+   3.4252e-10
+  ],
+  [
+   0.086007,
+   3.4607e-10
+  ],
+  [
+   0.087008,
+   3.4566e-10
+  ],
+  [
+   0.088007,
+   3.4501e-10
+  ],
+  [
+   0.089007,
+   3.4534e-10
+  ],
+  [
+   0.090008,
+   3.4566e-10
+  ],
+  [
+   0.091007,
+   3.4896e-10
+  ],
+  [
+   0.092008,
+   3.5894e-10
+  ],
+  [
+   0.093009,
+   3.7309e-10
+  ],
+  [
+   0.094008,
+   3.825e-10
+  ],
+  [
+   0.095007,
+   3.8293e-10
+  ],
+  [
+   0.096008,
+   3.8127e-10
+  ],
+  [
+   0.097007,
+   3.8206e-10
+  ],
+  [
+   0.098008,
+   3.8446e-10
+  ],
+  [
+   0.099009,
+   3.8609e-10
+  ],
+  [
+   0.10001,
+   3.8846e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": "CAST_2017",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Red 'This work' curve digitised from the vector figure ExclusionPlot.pdf (Fig. 2) in the arXiv e-print: CAST 2013-2015 vacuum-phase solar axion (helioscope) 95% C.L. exclusion. Axis calibration from major tick marks; extracted flat level 6.61e-11 GeV^-1 for m_a <~ 0.02 eV agrees with the quoted headline limit g_agamma < 0.66e-10 GeV^-1 (Eq. 6). Curve is plotted from m_a = 1e-4 eV to 0.1 eV. Solar axion flux does not depend on the local dark-matter density, so no rescaling applied.",
+ "num_points": 78,
+ "arxiv_id": "1705.02290",
+ "elapsed_s": 123.95759892463684,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 10,
+  "duration_ms": 123646,
+  "duration_api_ms": 91856,
+  "total_cost_usd": 1.2076040000000001,
+  "usage": {
+   "input_tokens": 237,
+   "output_tokens": 7716,
+   "cache_creation_input_tokens": 30467,
+   "cache_read_input_tokens": 210094
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1705.02290.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:16:25-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

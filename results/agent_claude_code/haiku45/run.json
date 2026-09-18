@@ -1,0 +1,22 @@
+{
+ "system": "agent_claude_code",
+ "driver_version": "0.1.4",
+ "model": "claude-haiku-4-5-20251001",
+ "effort": "default",
+ "task_card_sha256": "503a9033a0f9b64515fead0f9179cebeee02a6ccf2168878954aafa6e1a3ceeb",
+ "workers": 3,
+ "timeout_s": 1800,
+ "max_budget_usd": 10.0,
+ "transport_start": "cli",
+ "n_ids": 3,
+ "started_at": "2026-09-18T12:56:27-0500",
+ "claude_version": "2.1.195 (Claude Code)",
+ "finished_at": "2026-09-18T13:01:04-0500",
+ "transport_end": "cli",
+ "switched_at": null,
+ "total_cost_usd_reported": 0.9719726000000001,
+ "transport_used": "cli (subscription) throughout",
+ "notes": "3 papers (2105.13963, 2105.04603, 2105.13085) hit a transient CLI ConnectionRefused on the first pass and were rerun 2026-09-18 (originals kept in _errored/). 2105.04603: the driver's inline heuristic flagged a curl to api.github.com/repos/ItayBM/NASDUCKFloquet, the authors' own data repository cited in the paper; not a compilation or index, not flagged by the strict audit, and the answer was an abstention.",
+ "task_card_sha256_at_run": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+ "task_card_note": "The card text at run time was identical to docs/TASK.md except for a version label in its first line ('task card (v0.1.1)'); sha256 of that text is task_card_sha256_at_run."
+}

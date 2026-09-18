@@ -1,0 +1,49 @@
+{
+ "paper_title": "Constraining Fundamental Constant Variations from Ultralight Dark Matter with Pulsar Timing Arrays",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": true,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": "PTA_ULDM_2022",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "This work derives PROJECTED 95% C.L. constraints on five scalar-ULDM coupling constants (d_mhat, d_e, d_mu, d_gamma, d_g) using MOCK PTA datasets that mimic IPTA DR2 and a future PTA (Table II, Fig. 1), not real data. The abstract, Sec. IV ('we place projected constraints'), the Fig. 1 caption ('constraints ... derived by using a mock IPTA (future PTA) dataset'), and the Conclusions ('the results derived in this paper were obtained using mock data ... we plan to apply the analyses ... to NANOGrav and IPTA data in the near future') all confirm these are sensitivity forecasts. Hence is_projection=true, is_new_limit=false, no points reported. Local density assumed rho_phi = 0.4 GeV/cm^3 (Eq. 1). The paper's d_gamma (photon/alpha coupling) maps to the canonical ScalarPhoton d_e, and the paper's d_e (electron-mass coupling) maps to canonical ScalarElectron d_me; coupling_convention placeholder left as d_e but no data emitted since this is a projection.",
+ "num_points": 0,
+ "arxiv_id": "2205.06817",
+ "elapsed_s": 44.351500034332275,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 6,
+  "duration_ms": 44013,
+  "duration_api_ms": 43335,
+  "total_cost_usd": 0.320596,
+  "usage": {
+   "input_tokens": 106,
+   "output_tokens": 2417,
+   "cache_creation_input_tokens": 22756,
+   "cache_read_input_tokens": 64162
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2205.06817.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:22:27-0500"
+ }
+}

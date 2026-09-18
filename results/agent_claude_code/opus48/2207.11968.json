@@ -1,0 +1,306 @@
+{
+ "paper_title": "Search for dark matter particle interactions with electron final states with DarkSide-50",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   30.55,
+   6.809e-13
+  ],
+  [
+   33.839,
+   6.143e-13
+  ],
+  [
+   37.481,
+   7.206e-13
+  ],
+  [
+   41.515,
+   9.369e-13
+  ],
+  [
+   45.983,
+   1.237e-12
+  ],
+  [
+   50.932,
+   1.151e-12
+  ],
+  [
+   56.703,
+   9.564e-13
+  ],
+  [
+   62.806,
+   7.626e-13
+  ],
+  [
+   69.566,
+   6.434e-13
+  ],
+  [
+   77.054,
+   5.658e-13
+  ],
+  [
+   85.347,
+   5.157e-13
+  ],
+  [
+   94.533,
+   4.652e-13
+  ],
+  [
+   104.708,
+   4.049e-13
+  ],
+  [
+   115.977,
+   3.615e-13
+  ],
+  [
+   128.46,
+   3.245e-13
+  ],
+  [
+   142.286,
+   2.943e-13
+  ],
+  [
+   158.408,
+   2.724e-13
+  ],
+  [
+   175.458,
+   2.641e-13
+  ],
+  [
+   194.343,
+   2.668e-13
+  ],
+  [
+   215.26,
+   2.795e-13
+  ],
+  [
+   238.429,
+   3.082e-13
+  ],
+  [
+   264.091,
+   8.823e-14
+  ],
+  [
+   292.515,
+   1.046e-13
+  ],
+  [
+   323.999,
+   1.202e-13
+  ],
+  [
+   358.871,
+   1.409e-13
+  ],
+  [
+   397.497,
+   1.768e-13
+  ],
+  [
+   440.28,
+   2.229e-13
+  ],
+  [
+   490.167,
+   2.883e-13
+  ],
+  [
+   542.924,
+   3.691e-13
+  ],
+  [
+   601.36,
+   4.605e-13
+  ],
+  [
+   666.085,
+   5.6e-13
+  ],
+  [
+   737.776,
+   6.602e-13
+  ],
+  [
+   817.184,
+   7.587e-13
+  ],
+  [
+   905.138,
+   8.584e-13
+  ],
+  [
+   1002.559,
+   9.564e-13
+  ],
+  [
+   1110.465,
+   1.049e-12
+  ],
+  [
+   1229.986,
+   1.133e-12
+  ],
+  [
+   1369.352,
+   1.218e-12
+  ],
+  [
+   1516.736,
+   1.237e-12
+  ],
+  [
+   1679.984,
+   1.206e-12
+  ],
+  [
+   1860.803,
+   1.116e-12
+  ],
+  [
+   2061.083,
+   1.028e-12
+  ],
+  [
+   2282.919,
+   9.813e-13
+  ],
+  [
+   2528.632,
+   9.813e-13
+  ],
+  [
+   2800.792,
+   1.044e-12
+  ],
+  [
+   3102.244,
+   1.128e-12
+  ],
+  [
+   3436.141,
+   5.026e-13
+  ],
+  [
+   3805.977,
+   4.488e-13
+  ],
+  [
+   4237.22,
+   5.21e-13
+  ],
+  [
+   4693.276,
+   6.143e-13
+  ],
+  [
+   5198.419,
+   7.47e-13
+  ],
+  [
+   5757.93,
+   9.564e-13
+  ],
+  [
+   6377.662,
+   1.302e-12
+  ],
+  [
+   7064.096,
+   1.765e-12
+  ],
+  [
+   7824.412,
+   2.236e-12
+  ],
+  [
+   8666.562,
+   2.53e-12
+  ],
+  [
+   9599.353,
+   2.819e-12
+  ],
+  [
+   10632.541,
+   2.892e-12
+  ],
+  [
+   11837.281,
+   2.623e-12
+  ],
+  [
+   13111.339,
+   2.504e-12
+  ],
+  [
+   14522.526,
+   2.517e-12
+  ],
+  [
+   16085.601,
+   2.848e-12
+  ],
+  [
+   17816.911,
+   3.959e-12
+  ],
+  [
+   19734.564,
+   5.648e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "DarkSide50_2022",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "DarkSide-50 ionization-only search. Solid red observed 90% C.L. limit on the axion-like-particle (ALP) axioelectric coupling g_Ae from Fig.2 middle-left panel (Axion-Like Particle g_Ae vs m_A in keV/c^2), traced by raster color extraction (saturated-red mask, thickest-run per column, text-label spike outliers rejected). Distinguished from the dotted red expected-limit line. g_Ae is the standard dimensionless axion-electron coupling of the absorption rate Eq.(2) R=N_T (rho/m_A)(3 m_A^2 g_Ae^2)/(16 pi alpha m_e^2) sigma_pe c; equals canonical g_ae, no conversion. x converted keV->eV. Two genuine sawtooth step-drops (near 0.25 keV and 3.5 keV) reproduced. rho_DM=0.3 GeV/cm^3 per paper (not rescaled). Paper also sets limits on DM-electron cross section (headline, not in table), dark-photon kinetic mixing kappa (DarkPhoton), and sterile-neutrino mixing; g_Ae chosen as the axion coupling main result.",
+ "num_points": 64,
+ "arxiv_id": "2207.11968",
+ "elapsed_s": 273.40051198005676,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 273087,
+  "duration_api_ms": 266572,
+  "total_cost_usd": 1.117457,
+  "usage": {
+   "input_tokens": 706,
+   "output_tokens": 15621,
+   "cache_creation_input_tokens": 38627,
+   "cache_read_input_tokens": 674264
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2207.11968.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:30:48-0500"
+ }
+}

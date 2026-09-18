@@ -1,0 +1,142 @@
+{
+ "paper_title": "Revised constraints and Belle II sensitivity for visible and invisible axion-like particles",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   10000.0,
+   6.31e-09
+  ],
+  [
+   20861000.0,
+   6.6e-09
+  ],
+  [
+   22980000.0,
+   7.27e-09
+  ],
+  [
+   54890000.0,
+   8.7e-09
+  ],
+  [
+   66608000.0,
+   1.06e-08
+  ],
+  [
+   80828000.0,
+   1.28e-08
+  ],
+  [
+   98084000.0,
+   1.55e-08
+  ],
+  [
+   119023000.0,
+   1.89e-08
+  ],
+  [
+   131113000.0,
+   2.16e-08
+  ],
+  [
+   144432000.0,
+   2.63e-08
+  ],
+  [
+   159104000.0,
+   3.19e-08
+  ],
+  [
+   175266000.0,
+   3.87e-08
+  ],
+  [
+   193070000.0,
+   4.69e-08
+  ],
+  [
+   212682000.0,
+   6.47e-08
+  ],
+  [
+   234287000.0,
+   9.53e-08
+  ],
+  [
+   258086000.0,
+   1.4e-07
+  ],
+  [
+   350000000.0,
+   1.41e-07
+  ],
+  [
+   461175000.0,
+   1.58e-07
+  ],
+  [
+   508022000.0,
+   5.59e-06
+  ],
+  [
+   559628000.0,
+   1.21e-05
+  ],
+  [
+   616476000.0,
+   2.63e-05
+  ],
+  [
+   679099000.0,
+   7.1e-05
+  ],
+  [
+   748083000.0,
+   0.000178
+  ]
+ ],
+ "data_source": "ancillary_file",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.5,
+ "suggested_experiment_name": "DolanFerber_2017",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Review/reinterpretation paper (Dolan, Ferber, Hearty, Kahlhoefer, Schmidt-Hoberg). Headline measured result is the revised existing constraints on the ALP-photon coupling g_agamma (Fig 2, left panel, photon-coupling case g_aZ=0); the Belle II sensitivity curves are projections (out of scope). Curve is the lower boundary (upper limit on g_agamma) of the paper OWN combined excluded region, built from the e-print ancillary exclusion grids (anc/*.dat, contour bound=0): DELPHI mono-photon (LEP), BaBar, radiative Upsilon (Y), electron beam dumps E137+E141, proton beam dumps CHARM+nuCal, and SN1987A energy-loss (Energylossexclusion.dat). Flat floor g~6.3e-9 GeV^-1 at low mass is the SN1987A energy-loss bound, matching the paper quoted value g_agamma<6e-9 for small m_a. Rise near 0.1-0.5 GeV is the E137 beam-dump turnoff; steep rise beyond ~0.5 GeV is the closing of the beam-dump/BaBar region toward the high-coupling collider band. NOT included: the deeper SN1987A a->gamma-gamma (visible burst) region reaching ~1e-10, which the paper borrows from ref [50] (its lower edge is off-plot/cropped at 1e-10) and is not the paper own derivation; the high-coupling LEP e+e->gg band (g>~5e-3, from ref [21]) and Pb-Pb heavy-ion strip. Masses converted GeV->eV (x1e9). CL 95% for all except BaBar (90%); difference imperceptible per paper.",
+ "num_points": 23,
+ "arxiv_id": "1709.00009",
+ "elapsed_s": 599.4007108211517,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 25,
+  "duration_ms": 599093,
+  "duration_api_ms": 594566,
+  "total_cost_usd": 2.3507735,
+  "usage": {
+   "input_tokens": 612,
+   "output_tokens": 41302,
+   "cache_creation_input_tokens": 77421,
+   "cache_read_input_tokens": 1081907
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1709.00009.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:03:34-0500"
+ }
+}

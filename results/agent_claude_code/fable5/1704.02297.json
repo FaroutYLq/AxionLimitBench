@@ -1,0 +1,59 @@
+{
+ "paper_title": "First Searches for Axions and Axion-Like Particles with the LUX Experiment",
+ "coupling_type": "AxionElectron",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.01,
+   3.5e-12
+  ],
+  [
+   1000.0,
+   3.5e-12
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "LUX_2017",
+ "coupling_convention": "g_ae (dimensionless)",
+ "notes": "Headline result: 90% C.L. upper limit on the axion-electron coupling g_Ae from solar axions with LUX 2013 data (95 live days x 118 kg), g_Ae < 3.5e-12, quoted in the abstract, Sec. V and Summary. The limit is flat in mass because the solar axion flux (Redondo 2013) is computed for a massless axion, stated to be valid for m_A < 1 keV/c^2; Fig. 6 plots the flat red limit line over m_A = 1e-5 to 1 keV/c^2 (0.01 eV to 1000 eV), which is the range reported here. The value 3.5e-12 is taken from the text; the flat line in Fig. 6 is consistent with it. The limit does not depend on the local dark matter density (solar flux source), hence dm_density_assumed is null. The paper also reports a secondary limit on galactic ALP dark matter over 1-16 keV/c^2 (g_Ae <= 4.2e-13 across the range, Fig. 7), not reported here as it is not the headline curve.",
+ "num_points": 2,
+ "arxiv_id": "1704.02297",
+ "elapsed_s": 103.78885293006897,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 8,
+  "duration_ms": 103245,
+  "duration_api_ms": 101553,
+  "total_cost_usd": 0.9433615000000001,
+  "usage": {
+   "input_tokens": 199,
+   "output_tokens": 6345,
+   "cache_creation_input_tokens": 32868,
+   "cache_read_input_tokens": 151584
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1704.02297.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T20:54:05-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

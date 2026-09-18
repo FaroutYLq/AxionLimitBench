@@ -1,0 +1,70 @@
+{
+ "paper_title": "Bounds on heavy axions with an X-ray free electron laser",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   44.0,
+   0.000391
+  ],
+  [
+   340.0,
+   0.00031
+  ],
+  [
+   460.0,
+   0.000387
+  ],
+  [
+   1100.0,
+   0.000369
+  ],
+  [
+   2400.0,
+   0.000276
+  ]
+ ],
+ "data_source": "table",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.95,
+ "suggested_experiment_name": "EuXFEL_2025",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Bounds from Table I, measured at crystal detuning angles \u0394\u03b8 = 0, 1.0, 1.8, 10.0, 50.0 mrad. \u0394\u03b8 = 0 (Bragg angle) provides broad sensitivity to masses \u2272 44 eV (plasma frequency of Ge); off-Bragg measurements probe narrow mass ranges (\u0394m_a ~ 10^-3 eV) centered at indicated masses. 90% CL based on observation of zero events (Ndet = 2.3 from Junk method). Bounds obtained via Primakoff effect in Laue-case X-ray diffraction through Ge crystals. Improves on prior synchrotron searches (Yamaji et al.) due to higher brightness of free electron laser.",
+ "num_points": 5,
+ "arxiv_id": "2404.17333",
+ "elapsed_s": 112.61752796173096,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 6,
+  "duration_ms": 112262,
+  "duration_api_ms": 111352,
+  "total_cost_usd": 0.15032079999999998,
+  "usage": {
+   "input_tokens": 44,
+   "output_tokens": 10724,
+   "cache_creation_input_tokens": 41676,
+   "cache_read_input_tokens": 133048
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2404.17333.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T20:02:09-0500"
+ }
+}

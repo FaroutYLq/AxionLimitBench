@@ -1,0 +1,162 @@
+{
+ "paper_title": "Particle dispersion in the classical vector dark matter background",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-11,
+   2.179e-20
+  ],
+  [
+   2.313e-11,
+   1.166e-19
+  ],
+  [
+   5.348e-11,
+   6.234e-19
+  ],
+  [
+   1.237e-10,
+   3.334e-18
+  ],
+  [
+   2.86e-10,
+   1.783e-17
+  ],
+  [
+   6.615e-10,
+   9.537e-17
+  ],
+  [
+   1.53e-09,
+   5.1e-16
+  ],
+  [
+   3.538e-09,
+   2.728e-15
+  ],
+  [
+   8.182e-09,
+   1.459e-14
+  ],
+  [
+   1.892e-08,
+   7.803e-14
+  ],
+  [
+   4.376e-08,
+   4.173e-13
+  ],
+  [
+   1.012e-07,
+   2.232e-12
+  ],
+  [
+   2.34e-07,
+   1.194e-11
+  ],
+  [
+   5.412e-07,
+   6.384e-11
+  ],
+  [
+   1.252e-06,
+   3.414e-10
+  ],
+  [
+   2.894e-06,
+   1.826e-09
+  ],
+  [
+   6.694e-06,
+   9.766e-09
+  ],
+  [
+   1.548e-05,
+   5.223e-08
+  ],
+  [
+   3.58e-05,
+   2.793e-07
+  ],
+  [
+   8.279e-05,
+   1.494e-06
+  ],
+  [
+   0.0001915,
+   7.99e-06
+  ],
+  [
+   0.0004428,
+   4.273e-05
+  ],
+  [
+   0.001024,
+   0.0002285
+  ],
+  [
+   0.002368,
+   0.001222
+  ],
+  [
+   0.005477,
+   0.006537
+  ],
+  [
+   0.01267,
+   0.03496
+  ],
+  [
+   0.02929,
+   0.187
+  ],
+  [
+   0.06774,
+   1.0
+  ]
+ ],
+ "data_source": "text",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.4,
+ "suggested_experiment_name": "VDM-Dispersion_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Phenomenology paper deriving NEW bounds on light vector DM (gauged U(1)) from the medium-induced modification of particle dispersion/normalization in the classical vector-DM background. Headline canonical result reported here: the dark photon model (Fig. 6, fig:DPBounds). The paper's own new dark-photon constraints are the dashed green (delta m_e^oplus, Eq. 35) and dashed black (Z-normalization, Eq. 39) lines. Over the whole plotted range (m < ~5 MeV) the black Z line is the more stringent upper bound and defines the boundary of the paper's new excluded region; the abstract/text emphasize this normalization bound as ruling out 'a huge region of the VDM parameter space'. Eq. 39: g_psi < 6.6e-39 (m_gamma'/1e-20 eV)^2 (0.3 GeV cm^-3 / rho)^{1/2}. For the dark photon the electron effective coupling is g_e = eps*e (e = sqrt(4*pi*alpha) = 0.3028), so chi = eps = g_psi/e = 2.18e-38 (m/1e-20 eV)^2 at rho=0.3 GeV/cm^3. Excluded region is chi ABOVE this rising line; curve truncated at chi=1. Bound is an order-of-magnitude estimate (2-sigma refers to the assumed local DM density 0.3 GeV/cm^3); no formal statistical CL is quoted, 0.95 recorded as nominal. Density-dependent DM bound reported at the paper's native rho=0.3, not rescaled. Other headline model (L_mu-L_tau) and B-L (Fig. 5) are not reported here as they are outside/less-central to the canonical DarkPhoton plane; brown DPDM region in Fig. 6 is borrowed from prior work, not the paper's own derivation.",
+ "num_points": 28,
+ "arxiv_id": "2205.03617",
+ "elapsed_s": 171.49174404144287,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 10,
+  "duration_ms": 171189,
+  "duration_api_ms": 169186,
+  "total_cost_usd": 0.7079742500000001,
+  "usage": {
+   "input_tokens": 221,
+   "output_tokens": 12838,
+   "cache_creation_input_tokens": 39183,
+   "cache_read_input_tokens": 216786
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2205.03617.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:19:10-0500"
+ }
+}

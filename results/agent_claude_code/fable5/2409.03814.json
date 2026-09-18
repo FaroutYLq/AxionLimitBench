@@ -1,0 +1,391 @@
+{
+ "paper_title": "First Search for Ultralight Dark Matter Using a Magnetically Levitated Particle",
+ "coupling_type": "VectorBL",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.103603e-13,
+   4.498e-20
+  ],
+  [
+   1.103606e-13,
+   1.2386e-20
+  ],
+  [
+   1.103638e-13,
+   5.7796e-20
+  ],
+  [
+   1.103647e-13,
+   1.422e-20
+  ],
+  [
+   1.103663e-13,
+   4.7275e-20
+  ],
+  [
+   1.103696e-13,
+   1.0659e-20
+  ],
+  [
+   1.103707e-13,
+   6.301e-20
+  ],
+  [
+   1.103723e-13,
+   1.1104e-20
+  ],
+  [
+   1.103734e-13,
+   4.4207e-20
+  ],
+  [
+   1.103764e-13,
+   8.8997e-21
+  ],
+  [
+   1.103781e-13,
+   3.6075e-20
+  ],
+  [
+   1.1038e-13,
+   9.2405e-21
+  ],
+  [
+   1.103813e-13,
+   2.8823e-20
+  ],
+  [
+   1.103816e-13,
+   9.8614e-21
+  ],
+  [
+   1.103841e-13,
+   2.7564e-20
+  ],
+  [
+   1.103843e-13,
+   9.9762e-21
+  ],
+  [
+   1.103846e-13,
+   4.0365e-20
+  ],
+  [
+   1.103849e-13,
+   1.0542e-20
+  ],
+  [
+   1.103868e-13,
+   3.6865e-20
+  ],
+  [
+   1.103873e-13,
+   7.0678e-21
+  ],
+  [
+   1.103898e-13,
+   2.6513e-20
+  ],
+  [
+   1.10392e-13,
+   8.0942e-21
+  ],
+  [
+   1.103936e-13,
+   2.9897e-20
+  ],
+  [
+   1.10395e-13,
+   5.5593e-21
+  ],
+  [
+   1.103969e-13,
+   2.9675e-20
+  ],
+  [
+   1.103977e-13,
+   5.3592e-21
+  ],
+  [
+   1.103991e-13,
+   2.9058e-20
+  ],
+  [
+   1.104002e-13,
+   5.3713e-21
+  ],
+  [
+   1.10401e-13,
+   1.7341e-20
+  ],
+  [
+   1.104013e-13,
+   4.5026e-21
+  ],
+  [
+   1.104037e-13,
+   1.6307e-20
+  ],
+  [
+   1.104048e-13,
+   5.8342e-21
+  ],
+  [
+   1.104054e-13,
+   1.8267e-20
+  ],
+  [
+   1.104076e-13,
+   3.8823e-21
+  ],
+  [
+   1.104098e-13,
+   2.5528e-20
+  ],
+  [
+   1.104128e-13,
+   3.364e-21
+  ],
+  [
+   1.104147e-13,
+   1.5383e-20
+  ],
+  [
+   1.104158e-13,
+   4.2157e-21
+  ],
+  [
+   1.104166e-13,
+   2.0018e-20
+  ],
+  [
+   1.104201e-13,
+   2.9877e-21
+  ],
+  [
+   1.104215e-13,
+   1.8041e-20
+  ],
+  [
+   1.104218e-13,
+   4.2582e-21
+  ],
+  [
+   1.10424e-13,
+   1.6235e-20
+  ],
+  [
+   1.104245e-13,
+   3.8768e-21
+  ],
+  [
+   1.104253e-13,
+   2.1052e-20
+  ],
+  [
+   1.104256e-13,
+   3.8407e-21
+  ],
+  [
+   1.104286e-13,
+   2.1987e-20
+  ],
+  [
+   1.104292e-13,
+   4.4428e-21
+  ],
+  [
+   1.104294e-13,
+   2.0564e-20
+  ],
+  [
+   1.104297e-13,
+   6.0849e-21
+  ],
+  [
+   1.104319e-13,
+   1.7804e-20
+  ],
+  [
+   1.10433e-13,
+   4.4508e-21
+  ],
+  [
+   1.104349e-13,
+   2.9708e-20
+  ],
+  [
+   1.104354e-13,
+   5.7188e-21
+  ],
+  [
+   1.104371e-13,
+   2.1932e-20
+  ],
+  [
+   1.104387e-13,
+   6.0752e-21
+  ],
+  [
+   1.104401e-13,
+   3.0981e-20
+  ],
+  [
+   1.10442e-13,
+   5.7588e-21
+  ],
+  [
+   1.104428e-13,
+   3.4044e-20
+  ],
+  [
+   1.104431e-13,
+   6.8812e-21
+  ],
+  [
+   1.104456e-13,
+   3.0664e-20
+  ],
+  [
+   1.104499e-13,
+   7.1592e-21
+  ],
+  [
+   1.10451e-13,
+   3.9665e-20
+  ],
+  [
+   1.104543e-13,
+   8.3671e-21
+  ],
+  [
+   1.104554e-13,
+   3.7088e-20
+  ],
+  [
+   1.104559e-13,
+   1.0165e-20
+  ],
+  [
+   1.104592e-13,
+   4.0616e-20
+  ],
+  [
+   1.104617e-13,
+   9.2574e-21
+  ],
+  [
+   1.10462e-13,
+   5.2611e-20
+  ],
+  [
+   1.104622e-13,
+   1.1663e-20
+  ],
+  [
+   1.104628e-13,
+   4.6317e-20
+  ],
+  [
+   1.104661e-13,
+   1.0169e-20
+  ],
+  [
+   1.104666e-13,
+   4.1536e-20
+  ],
+  [
+   1.104693e-13,
+   1.4706e-20
+  ],
+  [
+   1.104696e-13,
+   5.375e-20
+  ],
+  [
+   1.104707e-13,
+   1.3846e-20
+  ],
+  [
+   1.10471e-13,
+   4.8588e-20
+  ],
+  [
+   1.104729e-13,
+   1.1582e-20
+  ],
+  [
+   1.104737e-13,
+   6.2923e-20
+  ],
+  [
+   1.10474e-13,
+   1.6148e-20
+  ],
+  [
+   1.104764e-13,
+   4.6703e-20
+  ],
+  [
+   1.104792e-13,
+   1.8858e-20
+  ],
+  [
+   1.1048e-13,
+   1.1088e-19
+  ],
+  [
+   1.104822e-13,
+   1.3472e-20
+  ],
+  [
+   1.104844e-13,
+   5.8132e-20
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.92,
+ "suggested_experiment_name": "LeidenMagLev_2024",
+ "coupling_convention": "g_BL (dimensionless)",
+ "notes": "Observed 90% CL limit (dark-red 'Limit' curve) extracted from the vector paths of Fig. 3 (figs/limit.pdf in the e-print). Axis calibration from tick strokes: top frequency axis 26.685-26.715 Hz across the frame, y-axis log decades 1e-25..1e-19; mass = h*f with h=4.135668e-15 eV s. Reproduces the quoted best constraint g_B-L = 2.98e-21 at mDM = 1.1042e-13 eV (f = 26.6995 Hz) and the quoted mass range (1.10360-1.10485)e-13 eV. The jagged 433-bin data-driven curve was RDP-downsampled to 86 points in (mass, log g), force-keeping the global minimum and maximum. The median/expected limit and 1-2 sigma bands were ignored; POLONAISE projections (Fig. 4) are out of scope. Local DM density: the paper's rhoDM value is set in the supplement's standard halo parameters (rho ~ 0.4 GeV/cm^3 per its Eq. (1) normalization); limit scales as 1/sqrt(rhoDM).",
+ "num_points": 85,
+ "arxiv_id": "2409.03814",
+ "elapsed_s": 113.46237683296204,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 113160,
+  "duration_api_ms": 110840,
+  "total_cost_usd": 1.1366155,
+  "usage": {
+   "input_tokens": 299,
+   "output_tokens": 8900,
+   "cache_creation_input_tokens": 30776,
+   "cache_read_input_tokens": 246363
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2409.03814.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T22:31:24-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

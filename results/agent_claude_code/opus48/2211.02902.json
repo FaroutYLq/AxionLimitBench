@@ -1,0 +1,450 @@
+{
+ "paper_title": "Search for Dark Matter Axions with CAST-CAPP",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.9742e-05,
+   2.437e-13
+  ],
+  [
+   1.977e-05,
+   2.464e-13
+  ],
+  [
+   1.9792e-05,
+   2.359e-13
+  ],
+  [
+   1.983e-05,
+   2.866e-13
+  ],
+  [
+   1.9852e-05,
+   1.707e-13
+  ],
+  [
+   1.9878e-05,
+   2.628e-13
+  ],
+  [
+   1.9906e-05,
+   2.628e-13
+  ],
+  [
+   1.9934e-05,
+   2.235e-13
+  ],
+  [
+   1.996e-05,
+   2.804e-13
+  ],
+  [
+   1.9988e-05,
+   2.572e-13
+  ],
+  [
+   2.0015e-05,
+   1.985e-13
+  ],
+  [
+   2.0042e-05,
+   2.774e-13
+  ],
+  [
+   2.007e-05,
+   2.164e-13
+  ],
+  [
+   2.0097e-05,
+   2.141e-13
+  ],
+  [
+   2.0124e-05,
+   2.007e-13
+  ],
+  [
+   2.0152e-05,
+   1.964e-13
+  ],
+  [
+   2.0179e-05,
+   1.985e-13
+  ],
+  [
+   2.0206e-05,
+   1.985e-13
+  ],
+  [
+   2.0234e-05,
+   2.028e-13
+  ],
+  [
+   2.0261e-05,
+   2.095e-13
+  ],
+  [
+   2.0288e-05,
+   2.118e-13
+  ],
+  [
+   2.0316e-05,
+   2.073e-13
+  ],
+  [
+   2.0343e-05,
+   1.985e-13
+  ],
+  [
+   2.037e-05,
+   1.985e-13
+  ],
+  [
+   2.0396e-05,
+   1.964e-13
+  ],
+  [
+   2.0424e-05,
+   2.073e-13
+  ],
+  [
+   2.0452e-05,
+   2.095e-13
+  ],
+  [
+   2.0478e-05,
+   2.095e-13
+  ],
+  [
+   2.0506e-05,
+   2.05e-13
+  ],
+  [
+   2.0534e-05,
+   1.964e-13
+  ],
+  [
+   2.056e-05,
+   1.985e-13
+  ],
+  [
+   2.0588e-05,
+   1.943e-13
+  ],
+  [
+   2.0616e-05,
+   1.964e-13
+  ],
+  [
+   2.0642e-05,
+   2.073e-13
+  ],
+  [
+   2.067e-05,
+   2.028e-13
+  ],
+  [
+   2.0698e-05,
+   1.922e-13
+  ],
+  [
+   2.0724e-05,
+   2.007e-13
+  ],
+  [
+   2.0752e-05,
+   2.007e-13
+  ],
+  [
+   2.078e-05,
+   2.028e-13
+  ],
+  [
+   2.0806e-05,
+   2.028e-13
+  ],
+  [
+   2.0834e-05,
+   1.943e-13
+  ],
+  [
+   2.0862e-05,
+   2.188e-13
+  ],
+  [
+   2.0888e-05,
+   2.164e-13
+  ],
+  [
+   2.0916e-05,
+   2.007e-13
+  ],
+  [
+   2.0944e-05,
+   1.922e-13
+  ],
+  [
+   2.097e-05,
+   2.028e-13
+  ],
+  [
+   2.0998e-05,
+   2.028e-13
+  ],
+  [
+   2.1025e-05,
+   1.964e-13
+  ],
+  [
+   2.1052e-05,
+   2.118e-13
+  ],
+  [
+   2.1079e-05,
+   2.235e-13
+  ],
+  [
+   2.1106e-05,
+   2.164e-13
+  ],
+  [
+   2.1134e-05,
+   1.707e-13
+  ],
+  [
+   2.116e-05,
+   1.901e-13
+  ],
+  [
+   2.1188e-05,
+   1.964e-13
+  ],
+  [
+   2.1216e-05,
+   1.943e-13
+  ],
+  [
+   2.1242e-05,
+   1.763e-13
+  ],
+  [
+   2.127e-05,
+   1.943e-13
+  ],
+  [
+   2.1298e-05,
+   1.964e-13
+  ],
+  [
+   2.1324e-05,
+   1.331e-13
+  ],
+  [
+   2.1352e-05,
+   1.901e-13
+  ],
+  [
+   2.138e-05,
+   1.725e-13
+  ],
+  [
+   2.1406e-05,
+   1.801e-13
+  ],
+  [
+   2.1434e-05,
+   1.821e-13
+  ],
+  [
+   2.1462e-05,
+   2.118e-13
+  ],
+  [
+   2.1488e-05,
+   2.164e-13
+  ],
+  [
+   2.1516e-05,
+   2.05e-13
+  ],
+  [
+   2.1544e-05,
+   1.922e-13
+  ],
+  [
+   2.157e-05,
+   1.922e-13
+  ],
+  [
+   2.1598e-05,
+   2.073e-13
+  ],
+  [
+   2.1626e-05,
+   1.801e-13
+  ],
+  [
+   2.1652e-05,
+   1.901e-13
+  ],
+  [
+   2.168e-05,
+   2.05e-13
+  ],
+  [
+   2.1708e-05,
+   2.073e-13
+  ],
+  [
+   2.1734e-05,
+   1.841e-13
+  ],
+  [
+   2.1761e-05,
+   1.922e-13
+  ],
+  [
+   2.1788e-05,
+   1.565e-13
+  ],
+  [
+   2.1816e-05,
+   1.943e-13
+  ],
+  [
+   2.1843e-05,
+   1.467e-13
+  ],
+  [
+   2.187e-05,
+   8.459e-14
+  ],
+  [
+   2.1898e-05,
+   8.928e-14
+  ],
+  [
+   2.1925e-05,
+   8.928e-14
+  ],
+  [
+   2.1952e-05,
+   8.928e-14
+  ],
+  [
+   2.198e-05,
+   7.676e-14
+  ],
+  [
+   2.2007e-05,
+   7.676e-14
+  ],
+  [
+   2.2034e-05,
+   9.734e-14
+  ],
+  [
+   2.2062e-05,
+   1.346e-13
+  ],
+  [
+   2.2089e-05,
+   1.331e-13
+  ],
+  [
+   2.2116e-05,
+   1.261e-13
+  ],
+  [
+   2.2144e-05,
+   1.317e-13
+  ],
+  [
+   2.217e-05,
+   1.532e-13
+  ],
+  [
+   2.2198e-05,
+   1.617e-13
+  ],
+  [
+   2.2226e-05,
+   1.6e-13
+  ],
+  [
+   2.2252e-05,
+   1.6e-13
+  ],
+  [
+   2.228e-05,
+   1.634e-13
+  ],
+  [
+   2.2308e-05,
+   1.532e-13
+  ],
+  [
+   2.2334e-05,
+   1.515e-13
+  ],
+  [
+   2.2362e-05,
+   1.582e-13
+  ],
+  [
+   2.239e-05,
+   1.6e-13
+  ],
+  [
+   2.2416e-05,
+   1.565e-13
+  ],
+  [
+   2.2443e-05,
+   1.943e-13
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "CAST-CAPP_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "CAST-CAPP haloscope (Sikivie), AxionPhoton exclusion at 90% CL. Curve traced from Fig.5 left panel (raster fig5.png), lower boundary of the red CAST-CAPP filled region = bottommost red pixel per column, binned to 100 points taking the deepest reach per bin. Axis calibration: x from bottom m_a c^2 tick labels (19.5-22.5 ueV, linear), y log from frame decades 1e-11(top)-1e-15(bottom). Legend swatch (x-cols with the CAST-CAPP legend box) excluded. Mass range 19.74-22.47 ueV (4.774-5.434 GHz). Spiky curve: typical boundary ~2e-13, deepest spike reaches 7.7e-14 GeV^-1 near 22.0 ueV, consistent with the abstract headline g_agamma=8e-14 GeV^-1. rho=0.45 GeV/cm^3 (paper native, not rescaled). ADMX-Sidecar blue region also shown but not reported.",
+ "num_points": 100,
+ "arxiv_id": "2211.02902",
+ "elapsed_s": 294.66753697395325,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 30,
+  "duration_ms": 294137,
+  "duration_api_ms": 287244,
+  "total_cost_usd": 1.5984865,
+  "usage": {
+   "input_tokens": 764,
+   "output_tokens": 18266,
+   "cache_creation_input_tokens": 57787,
+   "cache_read_input_tokens": 1120293
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2211.02902.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:50:11-0500"
+ }
+}

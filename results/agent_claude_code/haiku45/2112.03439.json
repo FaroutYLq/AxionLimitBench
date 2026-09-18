@@ -1,0 +1,49 @@
+{
+ "paper_title": "A Model-Independent Radio Telescope Dark Matter Search in the L and S Bands",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.99,
+ "extraction_confidence": 0.5,
+ "suggested_experiment_name": "BL_RadioDM_2022",
+ "coupling_convention": null,
+ "notes": "This is a model-independent dark matter search using Breakthrough Listen data (1020-2700 MHz, L and S bands). The paper reports limits on generic dark matter annihilation cross-section (\u27e8\u03c3v\u27e9 \u2248 10\u207b\u00b3\u2070 cm\u00b3/s) and decay constant (\u03bb \u2248 10\u207b\u00b3\u00b2 s\u207b\u00b9), not on specific particle physics couplings like g_a\u03b3\u03b3 or other canonical variables. The search is designed to detect quasimonochromatic radio lines from any ultralight bosonic dark matter through decay or annihilation to photons, without assuming a specific particle model or coupling mechanism. Figure 9 shows the resulting limits as functions of frequency. This does not constitute a new measured limit on one of the canonical axion or dark matter coupling planes.",
+ "num_points": 0,
+ "arxiv_id": "2112.03439",
+ "elapsed_s": 43.294554233551025,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 5,
+  "duration_ms": 42985,
+  "duration_api_ms": 42018,
+  "total_cost_usd": 0.1039157,
+  "usage": {
+   "input_tokens": 36,
+   "output_tokens": 3517,
+   "cache_creation_input_tokens": 38734,
+   "cache_read_input_tokens": 88267
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2112.03439.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T18:16:36-0500"
+ }
+}

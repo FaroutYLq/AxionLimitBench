@@ -1,0 +1,49 @@
+{
+ "paper_title": "The State of the Art in Constraining Axion-to-Nucleon Coupling and Non-Newtonian Gravity from Laboratory Experiments",
+ "coupling_type": "AxionNeutron",
+ "is_new_limit": false,
+ "is_projection": false,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "Mostepanenko_Klimchitskaya_2020_review",
+ "coupling_convention": "g_an (dimensionless)",
+ "notes": "Review/comparison paper by Mostepanenko & Klimchitskaya. It reviews and compares constraints on the axion-to-nucleon coupling g_an (shown as g_an^2/(4pi) vs axion mass in Figs 6, 8, 10) and on Yukawa-type non-Newtonian gravity (Figs 3, 7, 9), obtained from Casimir-force and other laboratory experiments. Every exclusion curve is explicitly reproduced from previously published works (e.g. refs [26,37,69,70,71,72,74] Casimir/Casimir-less experiments; [35] magnetometer K-3He; [36] Cavendish; [38,39] molecular hydrogen; [76] recent Au-SiC Casimir), not derived anew in this paper. The 'proposed'/CANNEX curves (Figs 9,10) are sensitivity projections. The paper reports no new measured exclusion of its own, so is_new_limit=false with no points emitted. Main coupling reviewed is the axion-nucleon coupling g_an (assuming g_an=g_ap).",
+ "num_points": 0,
+ "arxiv_id": "2009.04517",
+ "elapsed_s": 32.70039081573486,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 6,
+  "duration_ms": 32380,
+  "duration_api_ms": 31564,
+  "total_cost_usd": 0.456121,
+  "usage": {
+   "input_tokens": 112,
+   "output_tokens": 2143,
+   "cache_creation_input_tokens": 36135,
+   "cache_read_input_tokens": 81272
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2009.04517.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:05:25-0500"
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "paper_title": "Constraints on hidden photons produced in nuclear reactors",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.16341381237575567,
+   0.16514251211783432
+  ],
+  [
+   0.1878042554417701,
+   0.12494557678863857
+  ],
+  [
+   0.22574117291732873,
+   0.08613973914134215
+  ],
+  [
+   0.2713414402150823,
+   0.05938650186909928
+  ],
+  [
+   0.32688634925186916,
+   0.04116656949385757
+  ],
+  [
+   0.3929193214897251,
+   0.028380977131695257
+  ],
+  [
+   0.47335044797675196,
+   0.01956635864618241
+  ],
+  [
+   0.5689683925205066,
+   0.013489401330142614
+  ],
+  [
+   0.683903366567332,
+   0.009299837110016192
+  ],
+  [
+   0.8239017031864001,
+   0.006411520859696898
+  ],
+  [
+   0.9903318559442811,
+   0.004420218374659423
+  ],
+  [
+   1.1930575907640468,
+   0.0030641054757075082
+  ],
+  [
+   1.434058132833441,
+   0.002112449701404742
+  ],
+  [
+   1.7276167889626217,
+   0.0014563610085695884
+  ],
+  [
+   2.076599592350611,
+   0.0010040416043380308
+  ],
+  [
+   2.496084968673802,
+   0.0006922044309822825
+  ],
+  [
+   3.007045669785933,
+   0.0004772182469345075
+  ],
+  [
+   3.6144762264128714,
+   0.000329002885584062
+  ],
+  [
+   4.354364490112272,
+   0.0002268205363436038
+  ],
+  [
+   5.233971821978971,
+   0.00015723140912735892
+  ],
+  [
+   6.291265027417016,
+   0.00010839817555100437
+  ],
+  [
+   7.579095646855818,
+   7.473218675516574e-05
+  ],
+  [
+   9.110091445741173,
+   5.152172040024871e-05
+  ],
+  [
+   10.974971355973052,
+   3.5520005345192115e-05
+  ],
+  [
+   13.191980357783093,
+   2.448813374089885e-05
+  ],
+  [
+   15.856792552774019,
+   1.6882562045934996e-05
+  ],
+  [
+   19.10275490655552,
+   1.163914344190375e-05
+  ],
+  [
+   22.96155797116712,
+   8.068280824616497e-06
+  ],
+  [
+   27.661900269934293,
+   5.875103244027e-06
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "TEXONO_2018",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Extracted from Figure 1 (black solid line) showing 95% CL exclusion limit on hidden photon mixing parameter \u03b5 versus mass mX. The curve shows weak sensitivity to photons lighter than ~0.1 eV (as stated in paper abstract) and progressive improvement in sensitivity with increasing mass. Curve spans from mX~0.16 eV to mX~30 eV where the coupling limit reaches ~10^-5.",
+ "num_points": 29,
+ "arxiv_id": "1804.10777",
+ "elapsed_s": 232.94788026809692,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 231214,
+  "duration_api_ms": 207260,
+  "total_cost_usd": 0.2903013,
+  "usage": {
+   "input_tokens": 164,
+   "output_tokens": 19355,
+   "cache_creation_input_tokens": 54832,
+   "cache_read_input_tokens": 836983
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1804.10777.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:35:34-0500"
+ }
+}

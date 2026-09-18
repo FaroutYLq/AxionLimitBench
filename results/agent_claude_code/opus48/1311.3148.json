@@ -1,0 +1,234 @@
+{
+ "paper_title": "Constraints on axionlike particles with H.E.S.S. from the irregularity of the PKS 2155-304 energy spectrum",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.6543e-08,
+   1.5521e-10
+  ],
+  [
+   1.597e-08,
+   1.4552e-10
+  ],
+  [
+   1.5147e-08,
+   1.3212e-10
+  ],
+  [
+   1.4558e-08,
+   1.2167e-10
+  ],
+  [
+   1.4115e-08,
+   1.1246e-10
+  ],
+  [
+   1.3566e-08,
+   1.0101e-10
+  ],
+  [
+   1.3096e-08,
+   9.3024e-11
+  ],
+  [
+   1.2587e-08,
+   8.506e-11
+  ],
+  [
+   1.2097e-08,
+   7.8057e-11
+  ],
+  [
+   1.1834e-08,
+   7.2404e-11
+  ],
+  [
+   1.1678e-08,
+   6.5264e-11
+  ],
+  [
+   1.1576e-08,
+   6.0106e-11
+  ],
+  [
+   1.1576e-08,
+   4.53e-11
+  ],
+  [
+   1.1576e-08,
+   4.9897e-11
+  ],
+  [
+   1.173e-08,
+   4.1719e-11
+  ],
+  [
+   1.2205e-08,
+   3.8148e-11
+  ],
+  [
+   1.2811e-08,
+   3.5258e-11
+  ],
+  [
+   1.3388e-08,
+   3.2472e-11
+  ],
+  [
+   1.4115e-08,
+   3.0228e-11
+  ],
+  [
+   1.5147e-08,
+   2.7839e-11
+  ],
+  [
+   1.6325e-08,
+   2.5823e-11
+  ],
+  [
+   1.7751e-08,
+   2.4211e-11
+  ],
+  [
+   1.9473e-08,
+   2.2782e-11
+  ],
+  [
+   2.1456e-08,
+   2.1824e-11
+  ],
+  [
+   2.4061e-08,
+   2.1437e-11
+  ],
+  [
+   2.6983e-08,
+   2.0981e-11
+  ],
+  [
+   3.0797e-08,
+   2.0831e-11
+  ],
+  [
+   3.469e-08,
+   2.0831e-11
+  ],
+  [
+   3.9246e-08,
+   2.1132e-11
+  ],
+  [
+   4.3052e-08,
+   2.2139e-11
+  ],
+  [
+   4.9793e-08,
+   2.4211e-11
+  ],
+  [
+   5.4863e-08,
+   2.6102e-11
+  ],
+  [
+   6.0717e-08,
+   2.8342e-11
+  ],
+  [
+   6.4297e-08,
+   3.0884e-11
+  ],
+  [
+   6.839e-08,
+   3.4019e-11
+  ],
+  [
+   7.2743e-08,
+   3.856e-11
+  ],
+  [
+   7.6021e-08,
+   4.3863e-11
+  ],
+  [
+   7.8058e-08,
+   4.9541e-11
+  ],
+  [
+   8.086e-08,
+   5.8619e-11
+  ],
+  [
+   8.4132e-08,
+   6.8619e-11
+  ],
+  [
+   8.9487e-08,
+   8.2659e-11
+  ],
+  [
+   9.5183e-08,
+   9.8861e-11
+  ],
+  [
+   1.0035e-07,
+   1.1909e-10
+  ],
+  [
+   1.0395e-07,
+   1.3547e-10
+  ],
+  [
+   1.096e-07,
+   1.5191e-10
+  ],
+  [
+   1.1254e-07,
+   1.5972e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.82,
+ "suggested_experiment_name": "HESS_2013",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "H.E.S.S. PKS 2155-304 spectral-irregularity ALP search. Curve = boundary of the conservative (galaxy-cluster magnetic field, B=1 uG) 95% C.L. excluded region, the paper headline/robust result (abstract: g_agamma<2.1e-11 GeV^-1 for m~15-60 neV; bottom of the U here reaches 2.08e-11 at m~30 neV). Extracted from fig7.pdf vector paths (green closed contour, path idx 100). Axis calibration validated against the plotted CAST line (recovered 8.79e-11 vs paper 8.8e-11 GeV^-1). Coupling L=g_ga E.B a equals canonical g_agamma (no conversion). Points kept in native traversal order (down left arm, around rounded bottom tip, up right arm); this is a closed excluded blob, not monotonic in mass. The alternative optimistic IGMF (B=1 nG) region (blue, path 97, reaches ~5e-11 near m~1 neV, x-axis here shows only >0.35 neV portion) was NOT chosen as it is the optimistic scenario. Not a DM search: limit independent of local DM density.",
+ "num_points": 46,
+ "arxiv_id": "1311.3148",
+ "elapsed_s": 174.68707609176636,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 174354,
+  "duration_api_ms": 172139,
+  "total_cost_usd": 1.0231655000000002,
+  "usage": {
+   "input_tokens": 321,
+   "output_tokens": 11781,
+   "cache_creation_input_tokens": 54767,
+   "cache_read_input_tokens": 358731
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1311.3148.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:27:07-0500"
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "paper_title": "Search for ultralight scalar dark matter with atomic spectroscopy",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1e-24,
+   1.4783752351033405e-06
+  ],
+  [
+   2.4383540982688266e-23,
+   6.345637990202973e-08
+  ],
+  [
+   3.534981105030095e-23,
+   4.8096693834053374e-08
+  ],
+  [
+   6.404004271197257e-23,
+   4.097465353449184e-08
+  ],
+  [
+   9.284145445194763e-23,
+   6.14806312630433e-08
+  ],
+  [
+   1.3459603241553643e-22,
+   6.723858940127065e-08
+  ],
+  [
+   1.4497406703726285e-22,
+   9.364360005508777e-08
+  ],
+  [
+   2.1017480113324786e-22,
+   1.0365898835441069e-07
+  ],
+  [
+   3.046989570903511e-22,
+   1.7400914259527662e-07
+  ],
+  [
+   4.757944314009394e-22,
+   2.031805707959906e-07
+  ],
+  [
+   5.519954321281573e-22,
+   3.5923434449754456e-07
+  ],
+  [
+   8.002502278161036e-22,
+   3.940693841829172e-07
+  ],
+  [
+   1.1601553017399667e-21,
+   7.502830813188086e-07
+  ],
+  [
+   1.4497406703726286e-21,
+   7.502830813188086e-07
+  ],
+  [
+   1.5615230060005028e-21,
+   9.738726401047978e-07
+  ],
+  [
+   2.1017480113324785e-21,
+   1.0866538139945124e-06
+  ],
+  [
+   5.945570708544383e-21,
+   3.3871023077271318e-06
+  ],
+  [
+   6.4040042711972564e-21,
+   5.2216740330093924e-05
+  ],
+  [
+   7.42963950759495e-21,
+   5.2216740330093924e-05
+  ],
+  [
+   3.0469895709035113e-20,
+   1.4987544443370369e-05
+  ],
+  [
+   4.417344703140064e-20,
+   1.3061572934254292e-05
+  ],
+  [
+   5.945570708544383e-20,
+   1.3893433288015277e-05
+  ],
+  [
+   1.0771050560367669e-19,
+   3.686764278804267e-05
+  ],
+  [
+   1.9512934226359582e-19,
+   4.289705896406175e-05
+  ],
+  [
+   5.945570708544382e-19,
+   0.00010024073245551
+  ],
+  [
+   9.284145445194764e-19,
+   0.00018938875147387377
+  ],
+  [
+   1.1601553017399667e-18,
+   0.00019537321039363168
+  ],
+  [
+   1.4497406703726285e-18,
+   0.0003500499787230371
+  ],
+  [
+   1.9512934226359583e-18,
+   0.00041151613049083733
+  ],
+  [
+   2.4383540982688265e-18,
+   0.0005889769907434838
+  ],
+  [
+   3.534981105030095e-18,
+   0.0006728220907549711
+  ],
+  [
+   4.101127070551304e-18,
+   0.0008963500616628769
+  ],
+  [
+   5.124805876960947e-18,
+   0.0009188060660363404
+  ],
+  [
+   6.8977853793876725e-18,
+   0.0015711046008919283
+  ],
+  [
+   1.561523006000503e-17,
+   0.0027583721263023686
+  ],
+  [
+   8.002502278161036e-16,
+   0.14930813153129868
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.8,
+ "suggested_experiment_name": "Dy_Spectroscopy_2015",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Observed 95% CL upper limit on the dilaton-like photon coupling |d_e| vs scalar DM mass m_phi from Fig. 4 of Van Tilburg et al. 2015 (dysprosium atomic spectroscopy). Extracted from the vector figure PlotdeLimTotal.pdf in the arXiv e-print: the thick observed-limit curves for the LT (2010-2012, red, path 19) and ST (19 Oct 2012, blue, path 28) datasets, combined as the lower envelope over their overlap and clipped to the plot frame (m_phi 1e-24 to ~8e-16 eV). Axis calibration from major tick strokes (x: log10 m_phi/eV, ticks -24,-22,-20,-18,-16; y: log10 d_e, ticks 0,-2,-4,-6,-8), cross-checked against the paper-quoted d_e~4.2e-8 at m_phi~1e-22 eV (extracted minimum 4.1e-8 at ~6e-23 eV). Bump near 7e-21 eV is the genuine sensitivity gap between the two datasets. Limit assumes phi is all of the DM at rho_DM=0.3 GeV/cm^3 (Eq.3); per task card, DM-search limits are reported at the paper native density and not rescaled. Canonical ScalarPhoton variable d_e (Damour-Donoghue) as defined in Eq.1 of the paper, identical to the task-card convention.",
+ "num_points": 36,
+ "arxiv_id": "1503.06886",
+ "elapsed_s": 224.26467204093933,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 12,
+  "duration_ms": 223645,
+  "duration_api_ms": 216166,
+  "total_cost_usd": 1.001694,
+  "usage": {
+   "input_tokens": 290,
+   "output_tokens": 16221,
+   "cache_creation_input_tokens": 45156,
+   "cache_read_input_tokens": 286318
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1503.06886.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T21:35:27-0500"
+ }
+}

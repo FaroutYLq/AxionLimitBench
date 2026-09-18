@@ -1,0 +1,198 @@
+{
+ "paper_title": "Deepest sensitivity to wavelike dark photon dark matter with superconducting radio frequency cavities",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.354041993670853e-06,
+   1.6061625918657097e-15
+  ],
+  [
+   5.354042439866526e-06,
+   1.4772876224542577e-15
+  ],
+  [
+   5.3540428860624134e-06,
+   1.3590312061735869e-15
+  ],
+  [
+   5.354043332258302e-06,
+   1.2505117072820125e-15
+  ],
+  [
+   5.354043778453761e-06,
+   1.1509219672576696e-15
+  ],
+  [
+   5.3540441800303175e-06,
+   1.0683135476956513e-15
+  ],
+  [
+   5.3540446262257756e-06,
+   9.837039397580657e-16
+  ],
+  [
+   5.354045072421664e-06,
+   9.06045575268321e-16
+  ],
+  [
+   5.3540455186175514e-06,
+   8.34764611173058e-16
+  ],
+  [
+   5.35404596481344e-06,
+   7.693351481942737e-16
+  ],
+  [
+   5.354046366389567e-06,
+   7.150531099359158e-16
+  ],
+  [
+   5.354046812585026e-06,
+   6.594485833294421e-16
+  ],
+  [
+   5.3540472587809136e-06,
+   6.084079096783371e-16
+  ],
+  [
+   5.354047704976802e-06,
+   5.61557700756667e-16
+  ],
+  [
+   5.35404815117269e-06,
+   5.185561553828992e-16
+  ],
+  [
+   5.354048597368578e-06,
+   4.790908659864667e-16
+  ],
+  [
+   5.354048998945135e-06,
+   4.463586494559655e-16
+  ],
+  [
+   5.354049445141023e-06,
+   4.1284461999032544e-16
+  ],
+  [
+   5.3540498913360516e-06,
+   3.8210367200603016e-16
+  ],
+  [
+   5.35405033753194e-06,
+   3.539164947257603e-16
+  ],
+  [
+   5.354050783727828e-06,
+   3.280830482754176e-16
+  ],
+  [
+   5.354051229923716e-06,
+   3.044222157207541e-16
+  ],
+  [
+   5.354051631500273e-06,
+   2.848493925389267e-16
+  ],
+  [
+   5.354052077696161e-06,
+   2.648797114753048e-16
+  ],
+  [
+   5.354052523892049e-06,
+   2.466542779858728e-16
+  ],
+  [
+   5.354052970087078e-06,
+   2.300579559367661e-16
+  ],
+  [
+   5.354053416282966e-06,
+   2.1499321598472127e-16
+  ],
+  [
+   5.354053862478854e-06,
+   2.0138225706301925e-16
+  ],
+  [
+   5.354054264055411e-06,
+   1.9032986990478715e-16
+  ],
+  [
+   5.35405471025044e-06,
+   1.7935657232731238e-16
+  ],
+  [
+   5.354055156447187e-06,
+   1.6977596832094756e-16
+  ],
+  [
+   5.354055602642216e-06,
+   1.616726576499648e-16
+  ],
+  [
+   5.354056048838963e-06,
+   1.5525593706262524e-16
+  ],
+  [
+   5.354056450413802e-06,
+   1.513000361627245e-16
+  ],
+  [
+   5.354056807371887e-06,
+   1.4984009485774485e-16
+  ],
+  [
+   5.354057164328253e-06,
+   1.5158850956410008e-16
+  ],
+  [
+   5.354057610523283e-06,
+   1.646522340043842e-16
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.45,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "SQMS_SRF_2022",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "SERAPH/SQMS proof-of-concept DPDM search with a 1.3 GHz SRF cavity (Q_L=4.7e9). Headline: chi_90% = 1.5e-16 at m_A' = 5.354 mueV (rho_DM=0.45 GeV/cm^3, randomly-polarized DP, standard halo). Curve traced from the orange 90% exclusion region in Fig.3 top (vector file chi_exclusion_publication.pdf, path idx 20 = lower/smallest-chi boundary). X-axis calibrated from bottom ticks 'm_A'(peV)-5.354056807 mueV' (-14..+2 peV), y-axis log via decade ticks 10^-16..10^-15; extracted minimum chi=1.498e-16 at 5.354056807 mueV matches the quoted 1.5e-16. Extremely narrow mass range (~16 peV): near-vertical single-resonance limit; asymmetric shape (low-mass tail from DP kinetic energy). Reported chi (not chi^2).",
+ "num_points": 37,
+ "arxiv_id": "2208.03183",
+ "elapsed_s": 127.98351287841797,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 127616,
+  "duration_api_ms": 124698,
+  "total_cost_usd": 0.6863255,
+  "usage": {
+   "input_tokens": 343,
+   "output_tokens": 9183,
+   "cache_creation_input_tokens": 31942,
+   "cache_read_input_tokens": 271231
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2208.03183.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:30:32-0500"
+ }
+}

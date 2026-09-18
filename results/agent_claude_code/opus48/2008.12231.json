@@ -1,0 +1,146 @@
+{
+ "paper_title": "Searching for Dark Matter with a Superconducting Qubit",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   2.48586e-05,
+   6.098e-13
+  ],
+  [
+   2.48587e-05,
+   4.97e-13
+  ],
+  [
+   2.48588e-05,
+   4.277e-13
+  ],
+  [
+   2.48588e-05,
+   3.735e-13
+  ],
+  [
+   2.48589e-05,
+   2.934e-13
+  ],
+  [
+   2.4859e-05,
+   2.5e-13
+  ],
+  [
+   2.48591e-05,
+   1.977e-13
+  ],
+  [
+   2.48592e-05,
+   1.345e-13
+  ],
+  [
+   2.48593e-05,
+   8.416e-14
+  ],
+  [
+   2.48594e-05,
+   1.024e-14
+  ],
+  [
+   2.48595e-05,
+   1.68e-15
+  ],
+  [
+   2.48595e-05,
+   1.68e-15
+  ],
+  [
+   2.48596e-05,
+   1.363e-14
+  ],
+  [
+   2.48597e-05,
+   1.68e-15
+  ],
+  [
+   2.48598e-05,
+   2.562e-14
+  ],
+  [
+   2.48599e-05,
+   1.011e-13
+  ],
+  [
+   2.486e-05,
+   1.77e-13
+  ],
+  [
+   2.48601e-05,
+   2.604e-13
+  ],
+  [
+   2.48601e-05,
+   3.66e-13
+  ],
+  [
+   2.48602e-05,
+   4.569e-13
+  ],
+  [
+   2.48603e-05,
+   6.33e-13
+  ],
+  [
+   2.48604e-05,
+   8.279e-13
+  ],
+  [
+   2.48605e-05,
+   9.488e-13
+  ],
+  [
+   2.48606e-05,
+   1.307e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.78,
+ "suggested_experiment_name": "Dixit_2021",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Hidden-photon (dark photon) dark matter search with a superconducting-qubit photon counter in a 6.011 GHz (24.86 ueV) cavity. Headline result: kinetic mixing chi = epsilon <= 1.68e-15 excluded at 90% CL on resonance (m_gammaprime c^2 = hbar omega_s), assuming rho_DM=0.4 GeV/cm^3 (not rescaled). Reported chi=epsilon directly (paper quotes epsilon, the kinetic mixing angle; never chi^2). Curve = the central resonance spike traced from the purple exclusion region of Fig 4 inset (dp_limplot_V6.pdf, vector paths); depth anchored to the text value epsilon=1.68e-15 (log-baseline calibration gave 2.1e-15, ~20% high). The search is single-frequency: the deep exclusion is a very narrow spike (deep part within a few kHz / <1e-11 eV of 6.011 GHz; -3dB at 3 kHz). Fig-4 inset also shows a comb of much weaker (epsilon~1e-9..1e-10) off-resonance teeth at odd multiples of the dispersive shift 2chi=1.13 MHz; these are not the headline limit and are omitted. Mass from m=h*f, f=6.011 GHz -> 2.4859e-5 eV.",
+ "num_points": 24,
+ "arxiv_id": "2008.12231",
+ "elapsed_s": 300.97988772392273,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 23,
+  "duration_ms": 300654,
+  "duration_api_ms": 296141,
+  "total_cost_usd": 1.3275735,
+  "usage": {
+   "input_tokens": 609,
+   "output_tokens": 20798,
+   "cache_creation_input_tokens": 48166,
+   "cache_read_input_tokens": 645837
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2008.12231.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:09:12-0500"
+ }
+}

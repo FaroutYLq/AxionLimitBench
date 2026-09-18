@@ -1,0 +1,295 @@
+{
+ "paper_title": "Short-range, spin-dependent interactions of electrons: a probe for exotic pseudo-Goldstone bosons",
+ "coupling_type": "MonopoleDipole",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.99066e-07,
+   8.52641e-29
+  ],
+  [
+   2.19251e-07,
+   8.52641e-29
+  ],
+  [
+   2.46681e-07,
+   8.52641e-29
+  ],
+  [
+   2.81913e-07,
+   8.52641e-29
+  ],
+  [
+   3.28881e-07,
+   8.52641e-29
+  ],
+  [
+   3.94729e-07,
+   8.52641e-29
+  ],
+  [
+   4.93331e-07,
+   8.52641e-29
+  ],
+  [
+   6.57721e-07,
+   8.54006e-29
+  ],
+  [
+   7.89408e-07,
+   8.54006e-29
+  ],
+  [
+   9.86598e-07,
+   8.54006e-29
+  ],
+  [
+   1.31536e-06,
+   8.54006e-29
+  ],
+  [
+   1.97307e-06,
+   8.54006e-29
+  ],
+  [
+   2.19328e-06,
+   8.54006e-29
+  ],
+  [
+   2.46769e-06,
+   8.54006e-29
+  ],
+  [
+   2.82013e-06,
+   8.54006e-29
+  ],
+  [
+   3.28998e-06,
+   8.54006e-29
+  ],
+  [
+   3.94589e-06,
+   8.55374e-29
+  ],
+  [
+   4.93506e-06,
+   8.55374e-29
+  ],
+  [
+   6.57954e-06,
+   8.58117e-29
+  ],
+  [
+   9.86949e-06,
+   8.63629e-29
+  ],
+  [
+   1.97377e-05,
+   8.9315e-29
+  ],
+  [
+   2.02344e-05,
+   8.94581e-29
+  ],
+  [
+   2.07731e-05,
+   8.97449e-29
+  ],
+  [
+   2.13262e-05,
+   8.98887e-29
+  ],
+  [
+   2.19251e-05,
+   9.01769e-29
+  ],
+  [
+   2.25568e-05,
+   9.0466e-29
+  ],
+  [
+   2.32067e-05,
+   9.07561e-29
+  ],
+  [
+   2.39092e-05,
+   9.11929e-29
+  ],
+  [
+   2.46681e-05,
+   9.14853e-29
+  ],
+  [
+   2.5451e-05,
+   9.19256e-29
+  ],
+  [
+   2.63148e-05,
+   9.23681e-29
+  ],
+  [
+   2.72079e-05,
+   9.28127e-29
+  ],
+  [
+   2.81913e-05,
+   9.34088e-29
+  ],
+  [
+   2.9231e-05,
+   9.40088e-29
+  ],
+  [
+   3.03522e-05,
+   9.47641e-29
+  ],
+  [
+   3.15611e-05,
+   9.55256e-29
+  ],
+  [
+   3.28881e-05,
+   9.64473e-29
+  ],
+  [
+   3.43197e-05,
+   9.7534e-29
+  ],
+  [
+   3.58645e-05,
+   9.86329e-29
+  ],
+  [
+   3.75854e-05,
+   1.00064e-28
+  ],
+  [
+   3.94729e-05,
+   1.01679e-28
+  ],
+  [
+   4.15436e-05,
+   1.03485e-28
+  ],
+  [
+   4.38473e-05,
+   1.0566e-28
+  ],
+  [
+   4.64104e-05,
+   1.08228e-28
+  ],
+  [
+   4.93331e-05,
+   1.11391e-28
+  ],
+  [
+   5.26263e-05,
+   1.15384e-28
+  ],
+  [
+   5.63791e-05,
+   1.20286e-28
+  ],
+  [
+   6.07005e-05,
+   1.26405e-28
+  ],
+  [
+   6.57721e-05,
+   1.34547e-28
+  ],
+  [
+   7.17244e-05,
+   1.45292e-28
+  ],
+  [
+   7.89408e-05,
+   1.60193e-28
+  ],
+  [
+   8.7689e-05,
+   1.82076e-28
+  ],
+  [
+   9.86598e-05,
+   2.15053e-28
+  ],
+  [
+   0.000112751,
+   2.69931e-28
+  ],
+  [
+   0.000131536,
+   3.70584e-28
+  ],
+  [
+   0.000157872,
+   5.87599e-28
+  ],
+  [
+   0.000197307,
+   1.19023e-27
+  ],
+  [
+   0.000263055,
+   3.8166e-27
+  ],
+  [
+   0.000394589,
+   3.43069e-26
+  ],
+  [
+   0.000493155,
+   1.57952e-25
+  ],
+  [
+   0.000617219,
+   1.00965e-24
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "EotWash_2015",
+ "coupling_convention": "g_s g_p (dimensionless)",
+ "notes": "Eot-Wash torsion-pendulum search (Terrano et al.). Curve is the 'this work' 2-sigma monopole-dipole limit |g_p^e g_s^N|/(hbar c) vs boson mass from Fig. 5, extracted from the vector EPS (sdrPRL.eps) in the arXiv e-print with axes calibrated from the tick marks (x: 0.2-1000 ueV log, y: 1e-29 to 1e-24 log). Masses converted from ueV to eV. The paper also reports a dipole-dipole (g_p^e)^2 limit (Fig. 4); the monopole-dipole g_s g_p curve is the one matching the canonical MonopoleDipole plane. Laboratory experiment, no DM density assumption. Shaded region excluded at 2 sigma (~95% CL).",
+ "num_points": 61,
+ "arxiv_id": "1508.02463",
+ "elapsed_s": 125.12232899665833,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.1",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 16,
+  "duration_ms": 124767,
+  "duration_api_ms": 122153,
+  "total_cost_usd": 1.5458629999999998,
+  "usage": {
+   "input_tokens": 427,
+   "output_tokens": 9647,
+   "cache_creation_input_tokens": 33123,
+   "cache_read_input_tokens": 396783
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1508.02463.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-15T22:01:20-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

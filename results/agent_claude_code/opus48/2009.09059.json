@@ -1,0 +1,114 @@
+{
+ "paper_title": "Constraints on Axion-like Particles from a Hard X-ray Observation of Betelgeuse",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.799e-12,
+   1.837e-11
+  ],
+  [
+   3.467e-11,
+   1.863e-11
+  ],
+  [
+   5.773e-11,
+   1.992e-11
+  ],
+  [
+   8.076e-11,
+   2.302e-11
+  ],
+  [
+   1.038e-10,
+   2.637e-11
+  ],
+  [
+   1.383e-10,
+   3.953e-11
+  ],
+  [
+   1.498e-10,
+   4.211e-11
+  ],
+  [
+   1.613e-10,
+   4.211e-11
+  ],
+  [
+   1.843e-10,
+   5.165e-11
+  ],
+  [
+   2.015e-10,
+   5.243e-11
+  ],
+  [
+   2.303e-10,
+   6.325e-11
+  ],
+  [
+   2.877e-10,
+   7.047e-11
+  ],
+  [
+   4.025e-10,
+   9.881e-11
+  ],
+  [
+   4.599e-10,
+   1.207e-10
+  ],
+  [
+   5.173e-10,
+   1.276e-10
+  ],
+  [
+   5.747e-10,
+   1.58e-10
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "NuSTAR_Betelgeuse_2020",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "ALP-photon limit from NuSTAR hard X-ray observation of Betelgeuse (ALPs produced via Primakoff in the stellar core, reconverted in the Galactic B-field). Headline 95% CL curve traced from Fig.3 (e-print upperlimits_v0908.pdf), red-band UPPER SOLID line = most conservative stellar model (t_cc=1.55e5 yr) and B_T=0.4 uG; this is the robust bound the paper emphasizes: g_agamma<1.8e-11 GeV^-1 for m_a<3.5e-11 eV. The band lower/dashed (most optimistic, t_cc=3.6 yr, B_T=3.0 uG) reaches g<5.2e-12 for m_a<5.5e-11 eV. Plot is transposed (horizontal axis=g_agamma, vertical=m_a); calibrated g-axis from minor tick marks (2e-11@x=138.7, 9e-11@x=86.2), m-axis from decade ticks (38 px/dec), validated by reproducing both quoted flat-limit values. Curve is flat ~1.84e-11 for m<~3.5e-11 eV then weakens as sin^2(q)/q^2 drops; left edge (5.8e-12 eV) is the plot boundary, not a physical cutoff. Not a dark-matter search, so no density dependence.",
+ "num_points": 16,
+ "arxiv_id": "2009.09059",
+ "elapsed_s": 231.97165298461914,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 15,
+  "duration_ms": 231669,
+  "duration_api_ms": 228613,
+  "total_cost_usd": 1.053782,
+  "usage": {
+   "input_tokens": 361,
+   "output_tokens": 17385,
+   "cache_creation_input_tokens": 42996,
+   "cache_read_input_tokens": 374784
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2009.09059.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:09:17-0500"
+ }
+}

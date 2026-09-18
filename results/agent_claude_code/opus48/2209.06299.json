@@ -1,0 +1,190 @@
+{
+ "paper_title": "Constraints on light decaying dark matter candidates from 16 years of INTEGRAL/SPI observations",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   60977.135384,
+   1.8212872778063788e-19
+  ],
+  [
+   72127.940785,
+   1.407210087636211e-19
+  ],
+  [
+   85317.87873,
+   7.773081409505123e-20
+  ],
+  [
+   100919.842597,
+   4.3935440022729067e-20
+  ],
+  [
+   116079.869548,
+   2.8744774695159557e-20
+  ],
+  [
+   137307.236629,
+   2.1692503439591187e-20
+  ],
+  [
+   162416.423315,
+   1.8835722362992617e-20
+  ],
+  [
+   192117.29265,
+   1.4941398869355362e-20
+  ],
+  [
+   227249.519363,
+   1.2921903450522118e-20
+  ],
+  [
+   268806.328356,
+   1.0184682804272192e-20
+  ],
+  [
+   317962.483383,
+   8.116892025349247e-21
+  ],
+  [
+   365726.433824,
+   8.145426189471325e-21
+  ],
+  [
+   432606.326888,
+   8.30792196160216e-21
+  ],
+  [
+   511716.454583,
+   6.851202431601234e-21
+  ],
+  [
+   605293.3432,
+   6.1342858166026805e-21
+  ],
+  [
+   715982.509533,
+   5.3012645163316556e-21
+  ],
+  [
+   846913.252419,
+   4.883038504281236e-21
+  ],
+  [
+   1001787.121295,
+   3.4759610273155916e-21
+  ],
+  [
+   1152274.07576,
+   2.0234256593377727e-21
+  ],
+  [
+   1362988.861022,
+   2.1931402140745008e-21
+  ],
+  [
+   1612236.771052,
+   1.821506081628581e-21
+  ],
+  [
+   1907064.305708,
+   1.271798924858313e-21
+  ],
+  [
+   2255806.548645,
+   1.6969407794358016e-21
+  ],
+  [
+   2668322.808874,
+   1.5301855472777842e-21
+  ],
+  [
+   3069154.247509,
+   1.0850396465849776e-21
+  ],
+  [
+   3630406.289715,
+   7.868108737538256e-22
+  ],
+  [
+   4294293.725738,
+   6.124718123131307e-22
+  ],
+  [
+   5079585.34976,
+   5.454264954896188e-22
+  ],
+  [
+   6008482.1797,
+   4.311587693168946e-22
+  ],
+  [
+   7107245.103281,
+   2.55829496653617e-22
+  ],
+  [
+   8406937.300865,
+   2.0152394095338722e-22
+  ],
+  [
+   9669814.776416,
+   1.736741104823586e-22
+  ],
+  [
+   11438120.587509,
+   1.9307301050652675e-22
+  ],
+  [
+   13529794.065289,
+   2.1183835143992145e-22
+  ],
+  [
+   16003969.012972,
+   1.7864344048522115e-22
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "INTEGRAL_SPI_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline result: blue shaded 'This work' region in Fig. 3 (upper limit on ALP-to-photon coupling g_agamma vs ALP mass m_a, 95% CL), from the 2gamma monochromatic-line decay analysis (a->gamma gamma). Curve is the lower boundary (limit) of the excluded blue region, extracted as vector paths from the e-print figure file Fig3_ALP_incl_Ebins.pdf. Axis calibration: x major ticks 10^2/10^3/10^4 keV at device x=165.7/288.7/411.7; y major ticks 10^-15..10^-23 GeV^-1 at device y=13.1..279.2. Mass converted keV->eV. Region spans ~61 keV to ~16 MeV, matching abstract. This is a decaying-DM (indirect) bound: it scales with the DM column density (D-factor D=1.289e29 keV/cm^2 for the |l|<47.5,|b|<47.5 ROI, NFW with r_s=9.98 kpc, rho_s=2.2e-24 g/cm^3); no single local density enters, so dm_density_assumed left null (compilation does not rescale). Native variable already canonical (g_agamma in GeV^-1); no conversion needed.",
+ "num_points": 35,
+ "arxiv_id": "2209.06299",
+ "elapsed_s": 198.9051651954651,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 198592,
+  "duration_api_ms": 195570,
+  "total_cost_usd": 0.9815090000000001,
+  "usage": {
+   "input_tokens": 487,
+   "output_tokens": 11857,
+   "cache_creation_input_tokens": 44969,
+   "cache_read_input_tokens": 465918
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2209.06299.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T00:40:34-0500"
+ }
+}

@@ -1,0 +1,290 @@
+{
+ "paper_title": "First search for dark photon dark matter with a MADMAX prototype",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   78.622,
+   2.644e-12
+  ],
+  [
+   78.706,
+   1.707e-12
+  ],
+  [
+   78.796,
+   1.707e-12
+  ],
+  [
+   78.886,
+   2.134e-12
+  ],
+  [
+   78.977,
+   2.037e-12
+  ],
+  [
+   79.067,
+   1.221e-12
+  ],
+  [
+   79.157,
+   1.082e-12
+  ],
+  [
+   79.247,
+   1.431e-12
+  ],
+  [
+   79.338,
+   1.378e-12
+  ],
+  [
+   79.428,
+   9.326e-13
+  ],
+  [
+   79.518,
+   6.672e-13
+  ],
+  [
+   79.609,
+   9.326e-13
+  ],
+  [
+   79.699,
+   8.985e-13
+  ],
+  [
+   79.789,
+   6.488e-13
+  ],
+  [
+   79.879,
+   4.269e-13
+  ],
+  [
+   79.97,
+   5.047e-13
+  ],
+  [
+   80.06,
+   5.437e-13
+  ],
+  [
+   80.15,
+   3.678e-13
+  ],
+  [
+   80.241,
+   2.247e-13
+  ],
+  [
+   80.331,
+   2.607e-13
+  ],
+  [
+   80.421,
+   2.489e-13
+  ],
+  [
+   80.511,
+   1.322e-13
+  ],
+  [
+   80.602,
+   1.182e-13
+  ],
+  [
+   80.692,
+   1.478e-13
+  ],
+  [
+   80.782,
+   1.78e-13
+  ],
+  [
+   80.873,
+   1.848e-13
+  ],
+  [
+   80.963,
+   2.757e-13
+  ],
+  [
+   81.053,
+   2.998e-13
+  ],
+  [
+   81.143,
+   2.915e-13
+  ],
+  [
+   81.234,
+   3.644e-13
+  ],
+  [
+   81.33,
+   4.229e-13
+  ],
+  [
+   81.421,
+   3.89e-13
+  ],
+  [
+   81.511,
+   4.037e-13
+  ],
+  [
+   81.601,
+   5.643e-13
+  ],
+  [
+   81.691,
+   6.079e-13
+  ],
+  [
+   81.782,
+   5.437e-13
+  ],
+  [
+   81.872,
+   5.19e-13
+  ],
+  [
+   81.962,
+   6.861e-13
+  ],
+  [
+   82.053,
+   7.671e-13
+  ],
+  [
+   82.143,
+   6.734e-13
+  ],
+  [
+   82.233,
+   5.488e-13
+  ],
+  [
+   82.323,
+   7.121e-13
+  ],
+  [
+   82.414,
+   8.738e-13
+  ],
+  [
+   82.504,
+   8.419e-13
+  ],
+  [
+   82.594,
+   6.925e-13
+  ],
+  [
+   82.685,
+   7.322e-13
+  ],
+  [
+   82.775,
+   9.954e-13
+  ],
+  [
+   82.865,
+   9.861e-13
+  ],
+  [
+   82.955,
+   7.888e-13
+  ],
+  [
+   83.046,
+   7.888e-13
+  ],
+  [
+   83.136,
+   1.014e-12
+  ],
+  [
+   83.226,
+   1.072e-12
+  ],
+  [
+   83.317,
+   9.069e-13
+  ],
+  [
+   83.407,
+   8.341e-13
+  ],
+  [
+   83.497,
+   9.861e-13
+  ],
+  [
+   83.587,
+   1.155e-12
+  ],
+  [
+   83.678,
+   1.123e-12
+  ],
+  [
+   83.768,
+   9.59e-13
+  ],
+  [
+   83.858,
+   1.072e-12
+  ],
+  [
+   83.955,
+   1.166e-12
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "MADMAX_2024",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "MADMAX dielectric-haloscope prototype DPDM search, no B-field. Headline 95% CL limit on kinetic mixing chi vs dark photon mass, Fig.4 (limit_v10.png), blue 'MADMAX Prototype' filled region; curve = lower edge of blue fill (excluded region above). Raster-only figure, no ancillary data. Axis calibration: x linear 70-85 ueV (ticks 70@px248,85@px2574,155.07px/ueV); y log via horizontal gridlines row529=1e-11,776=1e-12,1024=1e-13. Cross-checks match paper: peak sensitivity chi~1.1e-13 at 80.56 ueV (paper 1.1e-13 at 80.57), weakest chi~2.64e-12 at 78.62 ueV (paper chi>2.7e-12 over full range), mass range 78.62-83.95 ueV. Unpolarized DPDM, alpha_pol^2=1/3. rho_chi=0.3 GeV/cm^3 (paper-native, not rescaled).",
+ "num_points": 60,
+ "arxiv_id": "2408.02368",
+ "elapsed_s": 166.88799810409546,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 24,
+  "duration_ms": 166564,
+  "duration_api_ms": 161470,
+  "total_cost_usd": 1.1418270000000001,
+  "usage": {
+   "input_tokens": 655,
+   "output_tokens": 11967,
+   "cache_creation_input_tokens": 44257,
+   "cache_read_input_tokens": 793614
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2408.02368.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:34:02-0500"
+ }
+}

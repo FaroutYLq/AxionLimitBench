@@ -1,0 +1,451 @@
+{
+ "paper_title": "Constraints on light decaying dark matter candidates from 16 years of INTEGRAL/SPI observations",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   61000.0,
+   1.828e-19
+  ],
+  [
+   64510.0,
+   1.689e-19
+  ],
+  [
+   68230.0,
+   1.561e-19
+  ],
+  [
+   72150.0,
+   1.412e-19
+  ],
+  [
+   76310.0,
+   1.217e-19
+  ],
+  [
+   80700.0,
+   9.877e-20
+  ],
+  [
+   85350.0,
+   7.802e-20
+  ],
+  [
+   90260.0,
+   6.32e-20
+  ],
+  [
+   95460.0,
+   5.28e-20
+  ],
+  [
+   101000.0,
+   4.41e-20
+  ],
+  [
+   106800.0,
+   3.666e-20
+  ],
+  [
+   112900.0,
+   3.102e-20
+  ],
+  [
+   119400.0,
+   2.704e-20
+  ],
+  [
+   126300.0,
+   2.425e-20
+  ],
+  [
+   133600.0,
+   2.242e-20
+  ],
+  [
+   141200.0,
+   2.123e-20
+  ],
+  [
+   149400.0,
+   2.026e-20
+  ],
+  [
+   158000.0,
+   1.936e-20
+  ],
+  [
+   167100.0,
+   1.841e-20
+  ],
+  [
+   176700.0,
+   1.717e-20
+  ],
+  [
+   186900.0,
+   1.569e-20
+  ],
+  [
+   197600.0,
+   1.442e-20
+  ],
+  [
+   209000.0,
+   1.367e-20
+  ],
+  [
+   221000.0,
+   1.323e-20
+  ],
+  [
+   233800.0,
+   1.264e-20
+  ],
+  [
+   247200.0,
+   1.175e-20
+  ],
+  [
+   261400.0,
+   1.073e-20
+  ],
+  [
+   276500.0,
+   9.742e-21
+  ],
+  [
+   292400.0,
+   8.924e-21
+  ],
+  [
+   309200.0,
+   8.353e-21
+  ],
+  [
+   327000.0,
+   8.002e-21
+  ],
+  [
+   345900.0,
+   7.929e-21
+  ],
+  [
+   365800.0,
+   8.178e-21
+  ],
+  [
+   386800.0,
+   8.522e-21
+  ],
+  [
+   409100.0,
+   8.624e-21
+  ],
+  [
+   432700.0,
+   8.341e-21
+  ],
+  [
+   457600.0,
+   7.802e-21
+  ],
+  [
+   483900.0,
+   7.261e-21
+  ],
+  [
+   511800.0,
+   6.879e-21
+  ],
+  [
+   541300.0,
+   6.612e-21
+  ],
+  [
+   572400.0,
+   6.378e-21
+  ],
+  [
+   605400.0,
+   6.159e-21
+  ],
+  [
+   640200.0,
+   5.91e-21
+  ],
+  [
+   677100.0,
+   5.602e-21
+  ],
+  [
+   716100.0,
+   5.323e-21
+  ],
+  [
+   757300.0,
+   5.152e-21
+  ],
+  [
+   800900.0,
+   5.045e-21
+  ],
+  [
+   847000.0,
+   4.903e-21
+  ],
+  [
+   895700.0,
+   4.633e-21
+  ],
+  [
+   947300.0,
+   4.16e-21
+  ],
+  [
+   1030000.0,
+   3.121e-21
+  ],
+  [
+   1090000.0,
+   2.449e-21
+  ],
+  [
+   1152000.0,
+   2.032e-21
+  ],
+  [
+   1219000.0,
+   1.939e-21
+  ],
+  [
+   1289000.0,
+   2.061e-21
+  ],
+  [
+   1363000.0,
+   2.202e-21
+  ],
+  [
+   1441000.0,
+   2.218e-21
+  ],
+  [
+   1524000.0,
+   2.076e-21
+  ],
+  [
+   1612000.0,
+   1.829e-21
+  ],
+  [
+   1705000.0,
+   1.558e-21
+  ],
+  [
+   1803000.0,
+   1.348e-21
+  ],
+  [
+   1907000.0,
+   1.277e-21
+  ],
+  [
+   2017000.0,
+   1.374e-21
+  ],
+  [
+   2133000.0,
+   1.558e-21
+  ],
+  [
+   2256000.0,
+   1.704e-21
+  ],
+  [
+   2386000.0,
+   1.745e-21
+  ],
+  [
+   2523000.0,
+   1.681e-21
+  ],
+  [
+   2668000.0,
+   1.537e-21
+  ],
+  [
+   2822000.0,
+   1.348e-21
+  ],
+  [
+   2984000.0,
+   1.165e-21
+  ],
+  [
+   3156000.0,
+   1.026e-21
+  ],
+  [
+   3338000.0,
+   9.254e-22
+  ],
+  [
+   3530000.0,
+   8.352e-22
+  ],
+  [
+   3733000.0,
+   7.47e-22
+  ],
+  [
+   3948000.0,
+   6.75e-22
+  ],
+  [
+   4175000.0,
+   6.294e-22
+  ],
+  [
+   4416000.0,
+   6.045e-22
+  ],
+  [
+   4670000.0,
+   5.869e-22
+  ],
+  [
+   4939000.0,
+   5.634e-22
+  ],
+  [
+   5223000.0,
+   5.304e-22
+  ],
+  [
+   5524000.0,
+   4.942e-22
+  ],
+  [
+   5842000.0,
+   4.559e-22
+  ],
+  [
+   6178000.0,
+   4.061e-22
+  ],
+  [
+   6534000.0,
+   3.423e-22
+  ],
+  [
+   6910000.0,
+   2.805e-22
+  ],
+  [
+   7308000.0,
+   2.399e-22
+  ],
+  [
+   7729000.0,
+   2.201e-22
+  ],
+  [
+   8173000.0,
+   2.082e-22
+  ],
+  [
+   8644000.0,
+   1.964e-22
+  ],
+  [
+   9142000.0,
+   1.843e-22
+  ],
+  [
+   9668000.0,
+   1.745e-22
+  ],
+  [
+   10220000.0,
+   1.71e-22
+  ],
+  [
+   10810000.0,
+   1.778e-22
+  ],
+  [
+   11440000.0,
+   1.939e-22
+  ],
+  [
+   12090000.0,
+   2.101e-22
+  ],
+  [
+   12790000.0,
+   2.168e-22
+  ],
+  [
+   13530000.0,
+   2.128e-22
+  ],
+  [
+   14310000.0,
+   2.033e-22
+  ],
+  [
+   15130000.0,
+   1.923e-22
+  ],
+  [
+   16000000.0,
+   1.794e-22
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.93,
+ "suggested_experiment_name": "INTEGRAL_2022",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Curve digitised from the vector PDF Fig3_ALP_incl_Ebins.pdf in the arXiv e-print (Fig. 3 of the paper): 95% CL upper limit on g_agamma from a->2gamma decays, benchmark 1D global spectral fit of 16-yr INTEGRAL/SPI data, mass range 61 keV - 16 MeV. Axis calibration from tick marks; extraction verified by overlaying on a render and by back-converting to Gamma_2gamma via Eq. (6), which reproduces Fig. 1 (left). Limit assumes ALPs are all of the DM with an NFW Milky Way halo (Karukes et al. 2020: r_s=9.98 kpc, rho_s=2.2e-24 g/cm^3, D=1.289e29 keV/cm^2); it depends on the integrated Galactic D-factor rather than the local DM density (implied local density ~0.45 GeV/cm^3 at the solar radius), so no density rescaling was applied. Masses converted keV -> eV.",
+ "num_points": 100,
+ "arxiv_id": "2209.06299",
+ "elapsed_s": 105.53885197639465,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 13,
+  "duration_ms": 105207,
+  "duration_api_ms": 102332,
+  "total_cost_usd": 1.143383,
+  "usage": {
+   "input_tokens": 382,
+   "output_tokens": 7616,
+   "cache_creation_input_tokens": 31437,
+   "cache_read_input_tokens": 309993
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2209.06299.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:37:13-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

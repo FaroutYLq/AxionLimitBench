@@ -1,0 +1,430 @@
+{
+ "paper_title": "Search for dark photons using a multilayer dielectric haloscope equipped with a single-photon avalanche diode",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   1.1153,
+   5.666e-09
+  ],
+  [
+   1.1275,
+   5.666e-09
+  ],
+  [
+   1.1399,
+   8.692e-09
+  ],
+  [
+   1.1524,
+   8.692e-09
+  ],
+  [
+   1.1651,
+   2.088e-09
+  ],
+  [
+   1.1779,
+   1.569e-09
+  ],
+  [
+   1.1908,
+   1.656e-09
+  ],
+  [
+   1.2038,
+   2.495e-09
+  ],
+  [
+   1.217,
+   2.495e-09
+  ],
+  [
+   1.2304,
+   1.201e-09
+  ],
+  [
+   1.2439,
+   1.159e-09
+  ],
+  [
+   1.2576,
+   1.223e-09
+  ],
+  [
+   1.2714,
+   1.223e-09
+  ],
+  [
+   1.2853,
+   1.598e-09
+  ],
+  [
+   1.2994,
+   7.291e-10
+  ],
+  [
+   1.3137,
+   7.556e-10
+  ],
+  [
+   1.3281,
+   1.223e-09
+  ],
+  [
+   1.3426,
+   1.361e-09
+  ],
+  [
+   1.3574,
+   4.426e-10
+  ],
+  [
+   1.3723,
+   3.703e-10
+  ],
+  [
+   1.3873,
+   4.195e-10
+  ],
+  [
+   1.4026,
+   7.162e-10
+  ],
+  [
+   1.4179,
+   9.698e-10
+  ],
+  [
+   1.4335,
+   2.885e-10
+  ],
+  [
+   1.4492,
+   2.546e-10
+  ],
+  [
+   1.4651,
+   2.885e-10
+  ],
+  [
+   1.4812,
+   5.58e-10
+  ],
+  [
+   1.4975,
+   4.048e-10
+  ],
+  [
+   1.5139,
+   3.51e-10
+  ],
+  [
+   1.5305,
+   3.043e-10
+  ],
+  [
+   1.5473,
+   2.99e-10
+  ],
+  [
+   1.5643,
+   3.387e-10
+  ],
+  [
+   1.5814,
+   1.69e-10
+  ],
+  [
+   1.5988,
+   7.053e-11
+  ],
+  [
+   1.6163,
+   6.806e-11
+  ],
+  [
+   1.6341,
+   1.183e-10
+  ],
+  [
+   1.652,
+   2.371e-10
+  ],
+  [
+   1.6701,
+   1.783e-10
+  ],
+  [
+   1.6884,
+   2.169e-10
+  ],
+  [
+   1.707,
+   5.289e-10
+  ],
+  [
+   1.7257,
+   6.435e-10
+  ],
+  [
+   1.7446,
+   1.18e-09
+  ],
+  [
+   1.7638,
+   3.837e-10
+  ],
+  [
+   1.7831,
+   2.99e-10
+  ],
+  [
+   1.8027,
+   5.289e-10
+  ],
+  [
+   1.8225,
+   1.569e-09
+  ],
+  [
+   1.8425,
+   1.843e-09
+  ],
+  [
+   1.8627,
+   1.656e-09
+  ],
+  [
+   1.8831,
+   1.41e-09
+  ],
+  [
+   1.9038,
+   8.56e-10
+  ],
+  [
+   1.9247,
+   8.26e-10
+  ],
+  [
+   1.9458,
+   9.193e-10
+  ],
+  [
+   1.9672,
+   1.267e-09
+  ],
+  [
+   1.9887,
+   8.26e-10
+  ],
+  [
+   2.0106,
+   4.838e-10
+  ],
+  [
+   2.0326,
+   4.925e-10
+  ],
+  [
+   2.0549,
+   3.564e-09
+  ],
+  [
+   2.0775,
+   3.501e-09
+  ],
+  [
+   2.1003,
+   1.079e-09
+  ],
+  [
+   2.1233,
+   1.041e-09
+  ],
+  [
+   2.1466,
+   1.515e-09
+  ],
+  [
+   2.1702,
+   1.716e-09
+  ],
+  [
+   2.194,
+   6.21e-10
+  ],
+  [
+   2.2181,
+   6.21e-10
+  ],
+  [
+   2.2424,
+   2.408e-09
+  ],
+  [
+   2.267,
+   1.41e-09
+  ],
+  [
+   2.2919,
+   1.41e-09
+  ],
+  [
+   2.317,
+   1.436e-09
+  ],
+  [
+   2.3424,
+   2.125e-09
+  ],
+  [
+   2.3681,
+   3.26e-09
+  ],
+  [
+   2.3941,
+   3.379e-09
+  ],
+  [
+   2.4204,
+   2.586e-09
+  ],
+  [
+   2.447,
+   2.586e-09
+  ],
+  [
+   2.4738,
+   2.68e-09
+  ],
+  [
+   2.5009,
+   1.91e-09
+  ],
+  [
+   2.5284,
+   1.461e-09
+  ],
+  [
+   2.5561,
+   2.54e-09
+  ],
+  [
+   2.5842,
+   1.223e-09
+  ],
+  [
+   2.6125,
+   1.313e-09
+  ],
+  [
+   2.6412,
+   1.361e-09
+  ],
+  [
+   2.6702,
+   1.361e-09
+  ],
+  [
+   2.6995,
+   3.09e-09
+  ],
+  [
+   2.7291,
+   3.628e-09
+  ],
+  [
+   2.759,
+   1.201e-09
+  ],
+  [
+   2.7893,
+   1.223e-09
+  ],
+  [
+   2.8199,
+   2.051e-09
+  ],
+  [
+   2.8509,
+   2.632e-09
+  ],
+  [
+   2.8821,
+   3.26e-09
+  ],
+  [
+   2.9138,
+   3.26e-09
+  ],
+  [
+   2.9457,
+   2.878e-09
+  ],
+  [
+   2.9781,
+   2.777e-09
+  ],
+  [
+   3.0107,
+   1.361e-09
+  ],
+  [
+   3.0438,
+   1.313e-09
+  ],
+  [
+   3.0772,
+   3.146e-09
+  ],
+  [
+   3.094,
+   3.379e-09
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.3,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.83,
+ "suggested_experiment_name": "MuDHI_2021",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "MuDHI dielectric haloscope observed 90% CL upper limit on kinetic mixing chi vs dark photon mass. Curve traced from the magenta MuDHI curve in Fig. 11 of the v3 e-print (file Erratum_noLambda.png, the corrected/erratum version). Extracted by pixel analysis: axes calibrated from major ticks (x: col307=1eV, 844px/decade; y: row105=1e-7, 129.1px/decade); per-column lower edge of the magenta ink taken as the boundary of the excluded region, downsampled every 4th column (95 pts). Extracted minimum chi=6.81e-11 at m=1.61 eV/c2 matches the paper stated minimum 6.86e-11 at 1.61 eV/c2. Assumed local DM density 0.3 GeV/cm3 (App. A, eq A2); no rescaling applied. The limit is highly oscillatory (inverse of boost-factor spectrum); mass range ~1.12-3.09 eV/c2. The paper also shows a 15th-85th percentile boost-factor uncertainty band limit; the headline solid measured curve (measured thicknesses) is reported here.",
+ "num_points": 95,
+ "arxiv_id": "2110.10497",
+ "elapsed_s": 349.5192320346832,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 34,
+  "duration_ms": 349189,
+  "duration_api_ms": 339756,
+  "total_cost_usd": 1.594327,
+  "usage": {
+   "input_tokens": 930,
+   "output_tokens": 19057,
+   "cache_creation_input_tokens": 61250,
+   "cache_read_input_tokens": 1400639
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2110.10497.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T23:55:27-0500"
+ }
+}

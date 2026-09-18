@@ -1,0 +1,250 @@
+{
+ "paper_title": "Bounds on Axions-Like Particles Shining in the Ultra-Violet",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   14.4304,
+   3.936e-13
+  ],
+  [
+   14.6997,
+   2.11e-13
+  ],
+  [
+   14.7969,
+   2.004e-13
+  ],
+  [
+   14.8693,
+   1.943e-13
+  ],
+  [
+   14.9952,
+   1.936e-13
+  ],
+  [
+   15.0429,
+   1.956e-13
+  ],
+  [
+   15.2151,
+   2.074e-13
+  ],
+  [
+   15.3469,
+   2.207e-13
+  ],
+  [
+   15.4193,
+   2.261e-13
+  ],
+  [
+   15.5774,
+   2.405e-13
+  ],
+  [
+   15.6404,
+   2.456e-13
+  ],
+  [
+   15.8503,
+   2.261e-13
+  ],
+  [
+   15.9215,
+   2.284e-13
+  ],
+  [
+   16.139,
+   1.943e-13
+  ],
+  [
+   16.2687,
+   1.864e-13
+  ],
+  [
+   16.4068,
+   2.025e-13
+  ],
+  [
+   16.5795,
+   2.389e-13
+  ],
+  [
+   16.7427,
+   2.799e-13
+  ],
+  [
+   16.8689,
+   2.649e-13
+  ],
+  [
+   16.9428,
+   2.631e-13
+  ],
+  [
+   17.0174,
+   2.751e-13
+  ],
+  [
+   17.0652,
+   2.78e-13
+  ],
+  [
+   17.2033,
+   2.405e-13
+  ],
+  [
+   17.3719,
+   1.997e-13
+  ],
+  [
+   17.4647,
+   1.89e-13
+  ],
+  [
+   17.5367,
+   1.839e-13
+  ],
+  [
+   17.6973,
+   1.832e-13
+  ],
+  [
+   17.7416,
+   1.814e-13
+  ],
+  [
+   17.8308,
+   1.801e-13
+  ],
+  [
+   17.9059,
+   1.864e-13
+  ],
+  [
+   18.0274,
+   2.074e-13
+  ],
+  [
+   18.4178,
+   4.349e-13
+  ],
+  [
+   18.5382,
+   5.67e-13
+  ],
+  [
+   18.6931,
+   3.816e-13
+  ],
+  [
+   18.9513,
+   2.789e-13
+  ],
+  [
+   19.0617,
+   2.595e-13
+  ],
+  [
+   19.3216,
+   4.102e-13
+  ],
+  [
+   19.5976,
+   6.463e-13
+  ],
+  [
+   19.7066,
+   6.287e-13
+  ],
+  [
+   19.9096,
+   9.246e-13
+  ],
+  [
+   20.0221,
+   1.036e-12
+  ],
+  [
+   20.2028,
+   9.375e-13
+  ],
+  [
+   20.3771,
+   4.349e-13
+  ],
+  [
+   20.5842,
+   3.04e-13
+  ],
+  [
+   20.7956,
+   2.498e-13
+  ],
+  [
+   21.0843,
+   4.102e-13
+  ],
+  [
+   21.3704,
+   6.012e-13
+  ],
+  [
+   21.6423,
+   8.112e-13
+  ],
+  [
+   21.7865,
+   8.542e-13
+  ],
+  [
+   22.1727,
+   1.867e-12
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "HST-UV_2024",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "AxionPhoton g_agamma from ALP dark-matter decay into two photons, using archival HST/STIS FUV spectroscopy of UMi, Draco, Virgo and Fornax. Coupling convention L=-(1/4)g_ag a F Ftilde matches the canonical exactly (no conversion). Headline curve is the COMBINED 95% C.L. exclusion (right panel of Fig. 3, solid black line = most conservative bound over the D-factor uncertainty band), extracted as a vector polyline (drawing idx 227) from the e-print figure bound.pdf. Calibrated: x-axis m_a[eV] via tick labels 10/15/20/25/30 (20.53 px/eV), y-axis log g via decade ticks 1e-13..1e-10 (129.4 px/decade). Mass range 14.43-22.17 eV matches abstract (14.4-22.2 eV); deepest ~1.8e-13 near 17.8 eV; contamination bump near 20 eV (Ly-alpha residual) as described. Limit assumes ALPs are all the DM with NFW profiles; it depends on the target DM density via D-factors (Table 1) rather than a single local density, so dm_density_assumed is null. Combined bound dominated by Fornax.",
+ "num_points": 50,
+ "arxiv_id": "2412.02543",
+ "elapsed_s": 148.52124094963074,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 21,
+  "duration_ms": 148213,
+  "duration_api_ms": 145572,
+  "total_cost_usd": 1.0518105,
+  "usage": {
+   "input_tokens": 521,
+   "output_tokens": 9173,
+   "cache_creation_input_tokens": 46749,
+   "cache_read_input_tokens": 704781
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2412.02543.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-18T02:58:33-0500"
+ }
+}

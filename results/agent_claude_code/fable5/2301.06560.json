@@ -1,0 +1,291 @@
+{
+ "paper_title": "Probing the Blue Axion with Cosmic Optical Background Anisotropies",
+ "coupling_type": "AxionPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   5.0,
+   1.777e-11
+  ],
+  [
+   5.339,
+   1.677e-11
+  ],
+  [
+   5.678,
+   1.635e-11
+  ],
+  [
+   6.017,
+   1.606e-11
+  ],
+  [
+   6.356,
+   1.584e-11
+  ],
+  [
+   6.695,
+   1.566e-11
+  ],
+  [
+   7.034,
+   1.553e-11
+  ],
+  [
+   7.373,
+   1.541e-11
+  ],
+  [
+   7.712,
+   1.533e-11
+  ],
+  [
+   8.051,
+   1.526e-11
+  ],
+  [
+   8.39,
+   1.521e-11
+  ],
+  [
+   8.729,
+   1.519e-11
+  ],
+  [
+   9.068,
+   1.516e-11
+  ],
+  [
+   9.407,
+   1.515e-11
+  ],
+  [
+   9.746,
+   1.516e-11
+  ],
+  [
+   10.08,
+   1.518e-11
+  ],
+  [
+   10.42,
+   1.522e-11
+  ],
+  [
+   10.76,
+   1.525e-11
+  ],
+  [
+   11.1,
+   1.53e-11
+  ],
+  [
+   11.44,
+   1.535e-11
+  ],
+  [
+   11.78,
+   1.541e-11
+  ],
+  [
+   12.12,
+   1.548e-11
+  ],
+  [
+   12.46,
+   1.556e-11
+  ],
+  [
+   12.8,
+   1.563e-11
+  ],
+  [
+   13.14,
+   1.572e-11
+  ],
+  [
+   13.47,
+   1.582e-11
+  ],
+  [
+   13.81,
+   1.593e-11
+  ],
+  [
+   14.15,
+   1.604e-11
+  ],
+  [
+   14.49,
+   1.616e-11
+  ],
+  [
+   14.83,
+   1.627e-11
+  ],
+  [
+   15.17,
+   1.639e-11
+  ],
+  [
+   15.51,
+   1.652e-11
+  ],
+  [
+   15.85,
+   1.665e-11
+  ],
+  [
+   16.19,
+   1.678e-11
+  ],
+  [
+   16.53,
+   1.693e-11
+  ],
+  [
+   16.86,
+   1.707e-11
+  ],
+  [
+   17.2,
+   1.723e-11
+  ],
+  [
+   17.54,
+   1.739e-11
+  ],
+  [
+   17.88,
+   1.755e-11
+  ],
+  [
+   18.22,
+   1.772e-11
+  ],
+  [
+   18.56,
+   1.79e-11
+  ],
+  [
+   18.9,
+   1.807e-11
+  ],
+  [
+   19.24,
+   1.825e-11
+  ],
+  [
+   19.58,
+   1.843e-11
+  ],
+  [
+   19.92,
+   1.861e-11
+  ],
+  [
+   20.25,
+   1.88e-11
+  ],
+  [
+   20.59,
+   1.899e-11
+  ],
+  [
+   20.93,
+   1.918e-11
+  ],
+  [
+   21.27,
+   1.938e-11
+  ],
+  [
+   21.61,
+   1.957e-11
+  ],
+  [
+   21.95,
+   1.977e-11
+  ],
+  [
+   22.29,
+   1.998e-11
+  ],
+  [
+   22.63,
+   2.019e-11
+  ],
+  [
+   22.97,
+   2.039e-11
+  ],
+  [
+   23.31,
+   2.061e-11
+  ],
+  [
+   23.64,
+   2.083e-11
+  ],
+  [
+   23.98,
+   2.105e-11
+  ],
+  [
+   24.32,
+   2.128e-11
+  ],
+  [
+   24.66,
+   2.151e-11
+  ],
+  [
+   25.0,
+   2.174e-11
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.9,
+ "suggested_experiment_name": "COBAnisotropies_2023",
+ "coupling_convention": "g_agamma [GeV^-1]",
+ "notes": "Headline observed bound: HST 606 nm cosmic optical background anisotropy constraint on decaying blue-axion cold dark matter (axion = 100% of CDM, Omega_CDM h^2 = 0.12, cosmological abundance; no local-halo density involved, so no rho_DM rescaling). Curve extracted from the vector paths of Fig. 9 upper-left panel (e-print Fig9a.pdf), the solid blue 'HST 606 nm' line giving the bound directly on the coupling g (= g_agamma for a->gamma gamma, Eq. 1). Axis calibration verified against the HB-star line at g=0.65e-10 GeV^-1; cross-checked against Fig. 1 (decay-rate plane) via Gamma = g^2 m^3/(64 pi), agreement <1%. This is the paper's conservative bound (Cl not exceeding the upper error bar of any HST data point); the 95% CL likelihood analysis (Fig. 8) strengthens the rate by only ~15-25% (<12% in g). The 438 nm and 336 nm curves are projections and were not used. Scenario chosen: CDM (misalignment); freeze-out/hot-relic/domain-wall variants give weaker bounds and are not reported.",
+ "num_points": 60,
+ "arxiv_id": "2301.06560",
+ "elapsed_s": 170.14019012451172,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.3",
+  "task_card_sha256": "a0c46fcf88d6d7e27541d581beca41cb13bf55348ca3a60d08b18b218df4dadd",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 18,
+  "duration_ms": 169851,
+  "duration_api_ms": 166825,
+  "total_cost_usd": 1.911874,
+  "usage": {
+   "input_tokens": 535,
+   "output_tokens": 12715,
+   "cache_creation_input_tokens": 46148,
+   "cache_read_input_tokens": 636459
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2301.06560.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T11:57:44-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

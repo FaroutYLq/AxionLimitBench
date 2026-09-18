@@ -1,0 +1,262 @@
+{
+ "paper_title": "New limits on dark photons from solar emission and keV scale dark matter",
+ "coupling_type": "DarkPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   0.01513,
+   1e-10
+  ],
+  [
+   0.5022,
+   3.0255e-12
+  ],
+  [
+   0.518,
+   2.8582e-12
+  ],
+  [
+   0.6622,
+   2.294e-12
+  ],
+  [
+   0.6831,
+   2.1672e-12
+  ],
+  [
+   0.873,
+   1.7394e-12
+  ],
+  [
+   0.9003,
+   1.6429e-12
+  ],
+  [
+   0.9465,
+   1.601e-12
+  ],
+  [
+   1.035,
+   1.4325e-12
+  ],
+  [
+   1.604,
+   9.4711e-13
+  ],
+  [
+   1.65,
+   8.9454e-13
+  ],
+  [
+   1.744,
+   8.7177e-13
+  ],
+  [
+   2.115,
+   7.1796e-13
+  ],
+  [
+   2.175,
+   6.7827e-13
+  ],
+  [
+   2.299,
+   6.61e-13
+  ],
+  [
+   3.098,
+   4.7841e-13
+  ],
+  [
+   3.464,
+   4.3581e-13
+  ],
+  [
+   3.551,
+   4.1495e-13
+  ],
+  [
+   3.947,
+   3.7993e-13
+  ],
+  [
+   4.047,
+   3.5892e-13
+  ],
+  [
+   4.266,
+   3.4978e-13
+  ],
+  [
+   4.373,
+   3.3037e-13
+  ],
+  [
+   5.485,
+   2.5769e-13
+  ],
+  [
+   6.711,
+   1.9041e-13
+  ],
+  [
+   6.989,
+   1.8505e-13
+  ],
+  [
+   10.86,
+   5.9607e-14
+  ],
+  [
+   12.92,
+   4.1591e-14
+  ],
+  [
+   15.47,
+   2.6724e-14
+  ],
+  [
+   18.76,
+   1.5603e-14
+  ],
+  [
+   20.52,
+   1.4931e-14
+  ],
+  [
+   21.71,
+   1.396e-14
+  ],
+  [
+   23.17,
+   1.4514e-14
+  ],
+  [
+   25.27,
+   1.6429e-14
+  ],
+  [
+   28.79,
+   1.813e-14
+  ],
+  [
+   35.78,
+   1.8459e-14
+  ],
+  [
+   50.5,
+   1.735e-14
+  ],
+  [
+   82.22,
+   1.4289e-14
+  ],
+  [
+   101.3,
+   1.3887e-14
+  ],
+  [
+   153.5,
+   1.1954e-14
+  ],
+  [
+   189.0,
+   1.1408e-14
+  ],
+  [
+   229.8,
+   1.1321e-14
+  ],
+  [
+   265.2,
+   1.265e-14
+  ],
+  [
+   278.5,
+   1.536e-14
+  ],
+  [
+   303.9,
+   1.9138e-14
+  ],
+  [
+   325.4,
+   2.6724e-14
+  ],
+  [
+   353.8,
+   3.4253e-14
+  ],
+  [
+   374.1,
+   4.6366e-14
+  ],
+  [
+   393.2,
+   1.0639e-13
+  ],
+  [
+   405.6,
+   1.1497e-13
+  ],
+  [
+   435.7,
+   1.1647e-13
+  ],
+  [
+   448.0,
+   6.9775e-13
+  ],
+  [
+   462.2,
+   7.8001e-13
+  ],
+  [
+   536.4,
+   7.9415e-13
+  ]
+ ],
+ "data_source": "figure_vector",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 0.85,
+ "suggested_experiment_name": "XENON1T_2020",
+ "coupling_convention": "kinetic mixing chi (dimensionless)",
+ "notes": "Headline solar dark photon limit: red solid line in Fig.1 left panel (2020solar.pdf in the e-print), the new XENON1T S2-only constraint at 90% C.L. on kinetic mixing epsilon vs dark photon mass m_V, for the hard Stueckelberg mass case (solid). This supersedes the older XENON10 (blue/purple) solid curve. Extracted from vector PDF via pymupdf get_drawings: red stroke color (1,0,0), dashes=[]; axes calibrated from major tick strokes (x: 51.5px->1e-3 eV, 37.08px/decade; y: 249.29px->1e-14... using 44.5px/decade with 249.29px=1e-15). Boundary built as lower envelope in mass, RDP-downsampled in log-log. epsilon is the kinetic mixing chi (reported directly, not squared). Curve spans ~0.015 eV (rises to plot top 1e-10) through valley min eps~1.1e-14 near 200-240 eV, up to steep high-mass cutoff ~540 eV. Solar-emission limit: independent of local DM density (dm_density_assumed=null). The paper also reports a dark-photon-dark-matter limit (Fig.1 right, black lines) but the solar limit is the leading headline result. Dashed red Higgsed (e prime=0.1) curve not used.",
+ "num_points": 53,
+ "arxiv_id": "2006.13929",
+ "elapsed_s": 225.39256501197815,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-opus-4-8",
+  "models_billed": [
+   "claude-opus-4-8"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 22,
+  "duration_ms": 225074,
+  "duration_api_ms": 221805,
+  "total_cost_usd": 1.064615,
+  "usage": {
+   "input_tokens": 570,
+   "output_tokens": 15982,
+   "cache_creation_input_tokens": 39123,
+   "cache_read_input_tokens": 541970
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "2006.13929.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T22:57:54-0500"
+ }
+}

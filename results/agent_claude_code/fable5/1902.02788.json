@@ -1,0 +1,451 @@
+{
+ "paper_title": "Constraining Rapidly Oscillating Scalar Dark Matter Using Dynamic Decoupling",
+ "coupling_type": "ScalarPhoton",
+ "is_new_limit": true,
+ "is_projection": false,
+ "data_points": [
+  [
+   4.5498e-15,
+   139480000.0
+  ],
+  [
+   5.3426e-15,
+   119560000.0
+  ],
+  [
+   6.2736e-15,
+   97361000.0
+  ],
+  [
+   7.3668e-15,
+   83460000.0
+  ],
+  [
+   8.6505e-15,
+   71543000.0
+  ],
+  [
+   1.0158e-14,
+   61328000.0
+  ],
+  [
+   1.1928e-14,
+   52572000.0
+  ],
+  [
+   1.4006e-14,
+   42810000.0
+  ],
+  [
+   1.6447e-14,
+   38631000.0
+  ],
+  [
+   1.9313e-14,
+   33115000.0
+  ],
+  [
+   2.2678e-14,
+   26966000.0
+  ],
+  [
+   2.663e-14,
+   23116000.0
+  ],
+  [
+   3.1271e-14,
+   19815000.0
+  ],
+  [
+   3.672e-14,
+   16986000.0
+  ],
+  [
+   4.3118e-14,
+   14561000.0
+  ],
+  [
+   5.0632e-14,
+   12482000.0
+  ],
+  [
+   5.9455e-14,
+   10700000.0
+  ],
+  [
+   6.9815e-14,
+   9171900.0
+  ],
+  [
+   8.1981e-14,
+   7862300.0
+  ],
+  [
+   9.6266e-14,
+   6739700.0
+  ],
+  [
+   1.1304e-13,
+   5777400.0
+  ],
+  [
+   1.3274e-13,
+   4952500.0
+  ],
+  [
+   1.5587e-13,
+   4245400.0
+  ],
+  [
+   1.8303e-13,
+   3639200.0
+  ],
+  [
+   2.1492e-13,
+   3284000.0
+  ],
+  [
+   2.5238e-13,
+   2963500.0
+  ],
+  [
+   2.9635e-13,
+   2674200.0
+  ],
+  [
+   3.4799e-13,
+   2540300.0
+  ],
+  [
+   4.0863e-13,
+   2540300.0
+  ],
+  [
+   4.7984e-13,
+   2540300.0
+  ],
+  [
+   5.6345e-13,
+   2674200.0
+  ],
+  [
+   6.6164e-13,
+   3284000.0
+  ],
+  [
+   7.7693e-13,
+   5488200.0
+  ],
+  [
+   9.1231e-13,
+   4469100.0
+  ],
+  [
+   1.0713e-12,
+   2540300.0
+  ],
+  [
+   1.258e-12,
+   2292400.0
+  ],
+  [
+   1.4772e-12,
+   2413200.0
+  ],
+  [
+   1.7346e-12,
+   2815100.0
+  ],
+  [
+   2.0368e-12,
+   1866700.0
+  ],
+  [
+   2.3918e-12,
+   1965100.0
+  ],
+  [
+   2.8085e-12,
+   1237800.0
+  ],
+  [
+   3.2979e-12,
+   740670.0
+  ],
+  [
+   3.8726e-12,
+   342830.0
+  ],
+  [
+   4.5474e-12,
+   342830.0
+  ],
+  [
+   5.3398e-12,
+   1061100.0
+  ],
+  [
+   6.2703e-12,
+   2540300.0
+  ],
+  [
+   7.363e-12,
+   4704600.0
+  ],
+  [
+   8.646e-12,
+   6402400.0
+  ],
+  [
+   1.0153e-11,
+   8712800.0
+  ],
+  [
+   1.1922e-11,
+   3119600.0
+  ],
+  [
+   1.3999e-11,
+   3284000.0
+  ],
+  [
+   1.6439e-11,
+   154560000.0
+  ],
+  [
+   1.9303e-11,
+   9171900.0
+  ],
+  [
+   2.2667e-11,
+   9171900.0
+  ],
+  [
+   2.6616e-11,
+   17881000.0
+  ],
+  [
+   3.1254e-11,
+   17881000.0
+  ],
+  [
+   3.6701e-11,
+   29883000.0
+  ],
+  [
+   4.3096e-11,
+   45066000.0
+  ],
+  [
+   5.0606e-11,
+   45066000.0
+  ],
+  [
+   5.9424e-11,
+   64560000.0
+  ],
+  [
+   6.9779e-11,
+   87858000.0
+  ],
+  [
+   8.1938e-11,
+   132500000.0
+  ],
+  [
+   9.6216e-11,
+   171280000.0
+  ],
+  [
+   1.1298e-10,
+   233090000.0
+  ],
+  [
+   1.3267e-10,
+   317210000.0
+  ],
+  [
+   1.5579e-10,
+   454430000.0
+  ],
+  [
+   1.8293e-10,
+   587470000.0
+  ],
+  [
+   2.1481e-10,
+   503590000.0
+  ],
+  [
+   2.5224e-10,
+   558060000.0
+  ],
+  [
+   2.962e-10,
+   799460000.0
+  ],
+  [
+   3.4781e-10,
+   1033500000.0
+  ],
+  [
+   4.0842e-10,
+   1480600000.0
+  ],
+  [
+   4.7959e-10,
+   2014900000.0
+  ],
+  [
+   5.6316e-10,
+   2742000000.0
+  ],
+  [
+   6.6129e-10,
+   3731500000.0
+  ],
+  [
+   7.7653e-10,
+   5345700000.0
+  ],
+  [
+   9.1184e-10,
+   7274700000.0
+  ],
+  [
+   1.0707e-09,
+   9900000000.0
+  ],
+  [
+   1.2573e-09,
+   13473000000.0
+  ],
+  [
+   1.4764e-09,
+   19301000000.0
+  ],
+  [
+   1.7337e-09,
+   26266000000.0
+  ],
+  [
+   2.0358e-09,
+   35744000000.0
+  ],
+  [
+   2.3905e-09,
+   48643000000.0
+  ],
+  [
+   2.8071e-09,
+   69685000000.0
+  ],
+  [
+   3.2962e-09,
+   94832000000.0
+  ],
+  [
+   3.8706e-09,
+   129050000000.0
+  ],
+  [
+   4.5451e-09,
+   184880000000.0
+  ],
+  [
+   5.3371e-09,
+   251600000000.0
+  ],
+  [
+   6.2671e-09,
+   342390000000.0
+  ],
+  [
+   7.3591e-09,
+   465950000000.0
+  ],
+  [
+   8.6415e-09,
+   634100000000.0
+  ],
+  [
+   1.0147e-08,
+   908400000000.0
+  ],
+  [
+   1.1916e-08,
+   1236200000000.0
+  ],
+  [
+   1.3992e-08,
+   1682300000000.0
+  ],
+  [
+   1.643e-08,
+   2289400000000.0
+  ],
+  [
+   1.9293e-08,
+   3279800000000.0
+  ],
+  [
+   2.2655e-08,
+   4239900000000.0
+  ],
+  [
+   2.6603e-08,
+   6394100000000.0
+  ],
+  [
+   3.1238e-08,
+   8701600000000.0
+  ],
+  [
+   3.6682e-08,
+   11842000000000.0
+  ]
+ ],
+ "data_source": "figure_vision",
+ "dm_density_assumed": 0.4,
+ "confidence_level": 0.95,
+ "extraction_confidence": 0.75,
+ "suggested_experiment_name": "DynamicDecoupling_2019",
+ "coupling_convention": "d_e (dimensionless)",
+ "notes": "Solid black 'DD current' 95% CL bound from Fig. 2b (g_phigamma [eV^-1] vs m_phi), digitised from the embedded raster figure (g_DM_gamma_gen_mass_5th_proj_no_title.pdf) by tracing the lower boundary of the shaded excluded region; axis calibration from decade gridlines (x: 10^-14..10^-8 eV, y: 10^0..10^-40 eV^-1). The curve is extremely spiky (sensitivity lost at harmonics of the DD sequence); reported points are the lower envelope (per-bin minimum), i.e. the strongest bound locally. Conversion to Damour-Donoghue d_e: paper defines delta_alpha/alpha = g_phigamma*phi (Eq. 1-2), so d_e = g_phigamma/kappa with kappa = sqrt(4pi)/M_Pl = 2.906e-28 eV^-1. Paper assumes rho_DM = 3.1e-6 eV^4 = 0.40 GeV/cm^3 (local density near Sun). Generic-scalar scenario (independent couplings) chosen as main result; the paper also bounds g_phie (Fig 2a), relaxion mixing angle (Fig 2c) and a relaxion-star scenario (Fig 3, enhanced density) which are not reported here. Dashed 'DD projected' curve (projection) excluded.",
+ "num_points": 100,
+ "arxiv_id": "1902.02788",
+ "elapsed_s": 355.5016746520996,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-fable-5",
+  "models_billed": [
+   "claude-fable-5"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 24,
+  "duration_ms": 355110,
+  "duration_api_ms": 348644,
+  "total_cost_usd": 2.8169039999999996,
+  "usage": {
+   "input_tokens": 660,
+   "output_tokens": 25141,
+   "cache_creation_input_tokens": 56326,
+   "cache_read_input_tokens": 787484
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1902.02788.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-16T21:03:04-0500",
+  "leak_audit": "strict-v2 (agent-issued only)"
+ }
+}

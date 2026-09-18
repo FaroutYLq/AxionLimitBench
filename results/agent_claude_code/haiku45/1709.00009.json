@@ -1,0 +1,49 @@
+{
+ "paper_title": "Revised constraints and Belle II sensitivity for visible and invisible axion-like particles",
+ "coupling_type": null,
+ "is_new_limit": false,
+ "is_projection": true,
+ "data_points": [],
+ "data_source": "none",
+ "dm_density_assumed": null,
+ "confidence_level": 0.9,
+ "extraction_confidence": 1.0,
+ "suggested_experiment_name": null,
+ "coupling_convention": null,
+ "notes": "This paper reviews and updates existing constraints on axion-like particles (ALPs) from e+e- colliders, beam dumps, and astrophysics. It does not present new measured experimental limits but instead provides reinterpretations of existing data from LEP and BaBar. The main novel content is projections of Belle II's future sensitivity to ALPs decaying into dark matter and into two photons, presented in Section 5 with Figure 7 showing 90% CL projected sensitivity curves. All Belle II results are forecasts for future data, not measured limits.",
+ "num_points": 0,
+ "arxiv_id": "1709.00009",
+ "elapsed_s": 48.4448082447052,
+ "meta": {
+  "system": "agent_claude_code",
+  "driver_version": "0.1.4",
+  "task_card_sha256": "8504fc84a3b55be2f4639757d6c68fbd107d634ff847fc99b954263eb31c415f",
+  "model_requested": "claude-haiku-4-5-20251001",
+  "models_billed": [
+   "claude-haiku-4-5-20251001"
+  ],
+  "effort": "default",
+  "transport": "cli",
+  "timed_out": false,
+  "wrote_result_json": true,
+  "cli_is_error": false,
+  "cli_subtype": "success",
+  "cli_returncode": 0,
+  "num_turns": 11,
+  "duration_ms": 46382,
+  "duration_api_ms": 43319,
+  "total_cost_usd": 0.1373664,
+  "usage": {
+   "input_tokens": 66,
+   "output_tokens": 3104,
+   "cache_creation_input_tokens": 50638,
+   "cache_read_input_tokens": 205044
+  },
+  "leak_suspect": false,
+  "leak_patterns": [],
+  "schema_problems": [],
+  "events_file": "1709.00009.events.jsonl",
+  "attempt": 0,
+  "finished_at": "2026-09-17T15:30:25-0500"
+ }
+}
