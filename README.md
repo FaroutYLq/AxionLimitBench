@@ -128,9 +128,9 @@ appended to the system prompt; transcripts are kept as `<id>.events.jsonl`.
 ## Mirrors and versions
 
 The full agent transcripts (`*.events.jsonl`, about 3 GB) are too large for git
-and are published with everything else in the Hugging Face dataset mirror (link
-added on release); the GitHub release is archived on Zenodo (DOI added on
-release).
+and are published with everything else in the Hugging Face dataset mirror:
+https://huggingface.co/datasets/FaroutYLq/AxionLimitBench. Releases are tagged
+here (`v0.1.0`).
 
 ## Licence and citation
 
