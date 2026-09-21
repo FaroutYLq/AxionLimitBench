@@ -14,6 +14,17 @@ identifiers:
   - type: url
     value: "https://huggingface.co/datasets/FaroutYLq/AxionLimitBench"
     description: "Mirror with agent transcripts"
+preferred-citation:
+  type: unpublished
+  title: "AxionLimitBench: can AI curate a dark matter constraint repository?"
+  authors:
+    - family-names: Yuan
+      given-names: Lanqing
+      affiliation: "Department of Physics, Washington University in St. Louis"
+      orcid: "https://orcid.org/0000-0003-0024-8017"
+  year: 2026
+  url: "https://github.com/FaroutYLq/AxionLimitBench/releases/download/v0.1.1/AxionLimitBench_paper.pdf"
+  notes: "Submitted to the 9th Workshop on Machine Learning and the Physical Sciences (ML4PS 2026, NeurIPS). Preprint PDF; mirror: https://huggingface.co/datasets/FaroutYLq/AxionLimitBench/blob/main/paper.pdf"
 license: MIT
 repository-code: "https://github.com/FaroutYLq/AxionLimitBench"
 authors:

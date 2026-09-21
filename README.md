@@ -18,8 +18,9 @@ compilation committed for that paper.
 - Frozen scorer, one-command rescore, and every baseline's raw predictions are
   in the repo, so any number here can be reproduced offline.
 - Paper: *AxionLimitBench: can AI curate a dark matter constraint repository?*
-  (ML4PS 2026, submitted). Companion paper on the pipeline baseline:
-  [arXiv:2606.21658](https://arxiv.org/abs/2606.21658).
+  (ML4PS 2026, submitted): [PDF](https://github.com/FaroutYLq/AxionLimitBench/releases/download/v0.1.1/AxionLimitBench_paper.pdf) (also
+  [on Hugging Face](https://huggingface.co/datasets/FaroutYLq/AxionLimitBench/blob/main/paper.pdf)). Companion paper on the pipeline
+  baseline: [arXiv:2606.21658](https://arxiv.org/abs/2606.21658).
 
 ## Leaderboard
 

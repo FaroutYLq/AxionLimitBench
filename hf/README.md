@@ -32,7 +32,8 @@ Each answer is graded against the curve the maintainer of the
 - Headline metric: **success rate**, the fraction of graded papers whose curve is within 10%
   (0.041 dex) of the reference; abstentions, wrong coupling types and unconvertible declarations
   count as misses.
-- Paper: *AxionLimitBench: can AI curate a dark matter constraint repository?* (ML4PS 2026, submitted).
+- Paper: *AxionLimitBench: can AI curate a dark matter constraint repository?* (ML4PS 2026, submitted):
+  [`paper.pdf`](https://huggingface.co/datasets/FaroutYLq/AxionLimitBench/blob/main/paper.pdf) in this repository.
 - Archived on Zenodo: https://doi.org/10.5281/zenodo.22838233
 
 ## Leaderboard
