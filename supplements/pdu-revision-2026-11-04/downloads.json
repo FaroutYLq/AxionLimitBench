@@ -1,0 +1,19 @@
+{
+  "hf_commit": "8cc2f6bc17963491d64a24a752bc49d7b5842e84",
+  "archives": [
+    {
+      "file": "pdu-revision-2026-11-04-analysis.tar.gz",
+      "bytes": 66155472,
+      "files": 3156,
+      "sha256": "92e2604d02b2679467d3463c08e9225ed984cfd35684ead3d1857bb47f31233b",
+      "url": "https://huggingface.co/datasets/FaroutYLq/AxionLimitBench/resolve/8cc2f6bc17963491d64a24a752bc49d7b5842e84/supplements/pdu-revision-2026-11-04/pdu-revision-2026-11-04-analysis.tar.gz"
+    },
+    {
+      "file": "pdu-revision-2026-11-04-transcripts.tar.gz",
+      "bytes": 70664854,
+      "files": 200,
+      "sha256": "46b2bb282cc9babb6b9d641d7fa4a57ebae262d439c25cde0f3847a764d90947",
+      "url": "https://huggingface.co/datasets/FaroutYLq/AxionLimitBench/resolve/8cc2f6bc17963491d64a24a752bc49d7b5842e84/supplements/pdu-revision-2026-11-04/pdu-revision-2026-11-04-transcripts.tar.gz"
+    }
+  ]
+}

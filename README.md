@@ -139,3 +139,9 @@ v0.1.1 is https://doi.org/10.5281/zenodo.22838234).
 
 MIT (see `LICENSE`, `CITATION.cff`). Reference curves are from
 cajohare/AxionLimits (MIT, Ciaran O'Hare).
+
+## PDU evaluation supplement
+
+The [4 November 2026 supplement](supplements/pdu-revision-2026-11-04/) provides
+revised coverage analyses, figure and table reproduction, and the 100-paper
+agent repeatability study. The original benchmark leaderboard is unchanged.

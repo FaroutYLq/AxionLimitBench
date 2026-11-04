@@ -1,0 +1,56 @@
+{
+  "status": "Frozen and verified reproducibility supplement.",
+  "date": "2026-11-04",
+  "benchmark_commit": "ac1542965b7c6b254238312a4d735d90c5a3a472",
+  "autoaxionlimits_checkout": "ff26c6407bd6756a27ed5259583d96af983cc7be",
+  "benchmark_version_doi": "10.5281/zenodo.22838234",
+  "benchmark_manuscript_doi": "10.5281/zenodo.22880507",
+  "coverage_input_hashes_verified": 1835,
+  "repeatability_predictions": 200,
+  "repeatability_transcripts": 200,
+  "portable_path_changes": [
+    {
+      "path": "paper/revision/repeatability_fable5_agent_100papers/analysis/analyze.py",
+      "original_sha256": "572938fc8fc8218aa72418fc43ff040878f8e9c2f140a20216ed165a969ec55b",
+      "packaged_sha256": "5ae09cbc7fc0d296a500f14c80432f9faf6f0b7060a20eaa71b330f1e2cb41dc",
+      "reason": "Portable input/output paths; numerical implementation unchanged."
+    },
+    {
+      "path": "paper/revision/figures/figure4_residual_cdf_preview/make_figure.py",
+      "original_sha256": "34edb0bd00279cb0a31b5a218e51c31e636c21a3e4f89fc39f55a09828694bd4",
+      "packaged_sha256": "ddb1d4407a37958b9f5b2ee074b0c4b740ac1ad79a26890a5087a2b28d7b3d1e",
+      "reason": "Portable input/output paths; numerical implementation unchanged."
+    },
+    {
+      "path": "paper/revision/figures/figureF1_calibration_preview/make_figure.py",
+      "original_sha256": "fec42b9566a9a5d74587948299c626d988cad37f5dae9c0606f7d809bae7d95e",
+      "packaged_sha256": "1674ecbf451fcd8627a1501f1a018ff70000a29b4f9fb6131b77e133745fc88c",
+      "reason": "Portable input/output paths; numerical implementation unchanged."
+    },
+    {
+      "path": "paper/revision/figures/figure2_showcase_preview/make_figure.py",
+      "original_sha256": "a2c11bd1f302cc29930b8eaf2e9c7eaffe3439b163b08f9dd479c3dba4477e70",
+      "packaged_sha256": "841faa9d95e4873ca516e74313213e9cfc287f4ad8aa1c52212ffe8563a041f7",
+      "reason": "Portable input/output paths; numerical implementation unchanged."
+    },
+    {
+      "path": "paper/revision/ml4ps_coverage/make_pdu_coverage_figure.py",
+      "original_sha256": "d3daf73fcdb7123658cfa76c70774fe291e019ab5735b91a6442a8a5da15c457",
+      "packaged_sha256": "15e9a02fa552ad4fc3eae2afd2fcbc4a3ef5c6ef2a25e8374a0cbcdd6de241c4",
+      "reason": "Portable input/output paths; numerical implementation unchanged."
+    }
+  ],
+  "scope": "Revised numerical evaluation and figures; not a new model run or a new production-code version.",
+  "exclusions": [
+    "PDU manuscript and bibliography",
+    "referee report",
+    "private revision discussions",
+    "input paper PDFs",
+    "unselected experiments",
+    "authentication files"
+  ],
+  "figure2_background": {
+    "description": "Original showcase PlotFuncs.py plus tracked DarkPhoton files from its Git revision.",
+    "commit": "3180e916426298a1889646ba6edd360b96eed1b5"
+  }
+}
