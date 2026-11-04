@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use AxionLimitBench, please cite it and the AxionLimits compilation that provides the reference curves."
 title: "AxionLimitBench: can AI curate a dark matter constraint repository?"
-version: 0.1.2
+version: 0.1.3
 date-released: 2026-11-04
 doi: 10.5281/zenodo.22838233
 identifiers:

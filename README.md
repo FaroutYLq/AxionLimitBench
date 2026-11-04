@@ -142,6 +142,6 @@ cajohare/AxionLimits (MIT, Ciaran O'Hare).
 
 ## PDU evaluation supplement
 
-The [4 November 2026 supplement](supplements/pdu-revision-2026-11-04/) provides
-revised coverage analyses, figure and table reproduction, and the 100-paper
+The [4 November 2026 supplement](supplements/pdu-revision-2026-11-04-v0.1.3/) provides
+pointwise-agreement and coverage analyses with bootstrap intervals, figure and table reproduction, and the 100-paper
 agent repeatability study. The original benchmark leaderboard is unchanged.

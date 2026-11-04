@@ -9,19 +9,19 @@
   ],
   "notes": "If you use AxionLimitBench, please cite it and the AxionLimits compilation that provides the reference curves.",
   "upload_type": "software",
-  "version": "v0.1.2",
+  "version": "v0.1.3",
   "publication_date": "2026-11-04",
   "access_right": "open",
   "license": "mit",
-  "description": "<p>AxionLimitBench v0.1.2 adds the PDU evaluation and 100-paper agent repeatability supplement. The original 292-paper benchmark, frozen scorer, task card, six baseline arms and leaderboard definition are unchanged.</p><p>The supplement includes revised dual mass-range coverage and joint pointwise-agreement analyses, per-paper exclusions, outcome audits, table and figure reproduction, and 200 repeatability predictions and full event transcripts. Analysis and transcript archives with SHA-256 checksums are included in this release and mirrored on Hugging Face. Offline numerical reproduction was verified against the saved results. No new extraction was performed during packaging.</p><p>The companion manuscript (https://doi.org/10.5281/zenodo.22880507) has been accepted to ML4PS 2026. The revised PDU manuscript and input paper PDFs are not included.</p>",
+  "description": "<p>AxionLimitBench v0.1.3 updates the PDU evaluation supplement with standalone pointwise-agreement rates, 95% bootstrap intervals for pointwise agreement and joint success, and the pointwise-agreement distribution figure. The original benchmark, scorer, task card, baseline arms and leaderboard definition are unchanged.</p><p>The supplement includes frozen inputs, offline reproduction scripts and results, dual mass-range coverage analyses, outcome audits, and the 100-paper agent repeatability study with all 200 predictions and extraction transcripts. Analysis and transcript archives with SHA-256 checksums are included in the GitHub release and mirrored on Hugging Face. Offline reproduction was verified. No new extraction was performed for this update.</p><p>The companion manuscript (https://doi.org/10.5281/zenodo.22880507) has been accepted to ML4PS 2026. Private revision conversations, referee correspondence, the revised PDU manuscript and input paper PDFs are not included.</p>",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/FaroutYLq/AxionLimitBench/tree/v0.1.2",
+      "identifier": "https://github.com/FaroutYLq/AxionLimitBench/tree/v0.1.3",
       "relation": "isSupplementTo",
       "scheme": "url"
     },
     {
-      "identifier": "https://huggingface.co/datasets/FaroutYLq/AxionLimitBench/tree/8cc2f6bc17963491d64a24a752bc49d7b5842e84/supplements/pdu-revision-2026-11-04",
+      "identifier": "https://huggingface.co/datasets/FaroutYLq/AxionLimitBench/tree/e53872f03aae77735cc1071eef7d63b041972741/supplements/pdu-revision-2026-11-04-v0.1.3",
       "relation": "references",
       "scheme": "url"
     },
